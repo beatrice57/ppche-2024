@@ -1,0 +1,2270 @@
+<BEGIN_erv-old-1885-1>
+
+<P_1,1G>
+
+<heading>
+
+The First Book of Moses , commonly called Genesis .
+ERV-OLD-1885-1,1,1G.4
+
+<$$heading>
+
+In the beginning God created the heaven and the earth .
+ERV-OLD-1885-1,1,1G.6
+
+And the earth was waste and void ; ERV-OLD-1885-1,1,1G.7
+
+and darkness was upon the face of the deep : ERV-OLD-1885-1,1,1G.8
+
+and the spirit of God moved upon the face of the waters .
+ERV-OLD-1885-1,1,1G.9
+
+And God said , Let there be light : ERV-OLD-1885-1,1,1G.10
+
+and there was light . ERV-OLD-1885-1,1,1G.11
+
+And God saw the light , that it was good : ERV-OLD-1885-1,1,1G.12
+
+and God divided the light from the darkness . ERV-OLD-1885-1,1,1G.13
+
+And God called the light Day , ERV-OLD-1885-1,1,1G.14
+
+and the darkness he called Night . ERV-OLD-1885-1,1,1G.15
+
+And there was evening ERV-OLD-1885-1,1,1G.16
+
+and there was morning , one day . ERV-OLD-1885-1,1,1G.17
+
+And God said , Let there be a firmament in the midst of the waters ,
+ERV-OLD-1885-1,1,1G.18
+
+and let it divide the waters from the waters . ERV-OLD-1885-1,1,1G.19
+
+And God made the firmament , ERV-OLD-1885-1,1,1G.20
+
+and divided the waters which were under the firmament from the waters
+which were above the firmament : ERV-OLD-1885-1,1,1G.21
+
+and it was so . ERV-OLD-1885-1,1,1G.22
+
+And God called the firmament Heaven . ERV-OLD-1885-1,1,1G.23
+
+And there was evening ERV-OLD-1885-1,1,1G.24
+
+and there was morning , a second day . ERV-OLD-1885-1,1,1G.25
+
+And God said , Let the waters under the heaven be gathered together unto
+one place , ERV-OLD-1885-1,1,1G.26
+
+and let the dry land appear : ERV-OLD-1885-1,1,1G.27
+
+and it was so . ERV-OLD-1885-1,1,1G.28
+
+And God called the dry land Earth ; ERV-OLD-1885-1,1,1G.29
+
+and the gathering together of the waters called he Seas :
+ERV-OLD-1885-1,1,1G.30
+
+and God saw that it was good . ERV-OLD-1885-1,1,1G.31
+
+And God said , Let the earth put forth grass , herb yielding seed ,
+<font> and <$$font> fruit tree bearing fruit after its kind , wherein is
+the seed thereof , upon the earth : ERV-OLD-1885-1,1,1G.32
+
+and it was so . ERV-OLD-1885-1,1,1G.33
+
+And the earth brought forth grass , herb yielding seed after its kind ,
+and tree bearing fruit , wherein is the seed thereof , after its kind :
+ERV-OLD-1885-1,1,1G.34
+
+and God saw that it was good . ERV-OLD-1885-1,1,1G.35
+
+And there was evening ERV-OLD-1885-1,1,1G.36
+
+and there was morning , a third day . ERV-OLD-1885-1,1,1G.37
+
+And God said , Let there be lights in the firmament of the heaven to
+divide the day from the night ; ERV-OLD-1885-1,1,1G.38
+
+and let them be for signs , and for seasons , and for days and years :
+ERV-OLD-1885-1,1,1G.39
+
+and let them be for lights in the firmament of the heaven to give light
+upon the earth : ERV-OLD-1885-1,1,1G.40
+
+and it was so . ERV-OLD-1885-1,1,1G.41
+
+And God made the two great lights ; the greater light to rule the day ,
+and the lesser light to rule the night : ERV-OLD-1885-1,1,1G.42
+
+<font> he made <$$font> the stars also . ERV-OLD-1885-1,1,1G.43
+
+And God set them in the firmament of the heaven to give light upon the
+earth , and to rule over the day and over the night , and to divide the
+light from the darkness : ERV-OLD-1885-1,1,1G.44
+
+and God saw that it was good . ERV-OLD-1885-1,1,1G.45
+
+And there was evening ERV-OLD-1885-1,1,1G.46
+
+and there was morning , a fourth day . ERV-OLD-1885-1,1,1G.47
+
+<P_1,20G>
+
+And God said , Let the waters bring forth abundantly the moving creature
+that hath life , ERV-OLD-1885-1,1,20G.49
+
+and let fowl fly above the earth in the open firmament of heaven .
+ERV-OLD-1885-1,1,20G.50
+
+And God created the great sea-monsters , and every living creature that
+moveth , which the waters brought forth abundantly , after their kinds ,
+and every winged fowl after its kind : ERV-OLD-1885-1,1,20G.51
+
+and God saw that it was good . ERV-OLD-1885-1,1,20G.52
+
+And God blessed them , saying , Be fruitful , ERV-OLD-1885-1,1,20G.53
+
+and multiply , ERV-OLD-1885-1,1,20G.54
+
+and fill the waters in the seas , ERV-OLD-1885-1,1,20G.55
+
+and let fowl multiply in the earth . ERV-OLD-1885-1,1,20G.56
+
+And there was evening ERV-OLD-1885-1,1,20G.57
+
+and there was morning , a fifth day . ERV-OLD-1885-1,1,20G.58
+
+And God said , Let the earth bring forth the living creature after its
+kind , cattle , and creeping thing , and beast of the earth after its
+kind : ERV-OLD-1885-1,1,20G.59
+
+and it was so . ERV-OLD-1885-1,1,20G.60
+
+And God made the beast of the earth after its kind , and the cattle
+after their kind , and every thing that creepeth upon the ground after
+its kind : ERV-OLD-1885-1,1,20G.61
+
+and God saw that it was good . ERV-OLD-1885-1,1,20G.62
+
+And God said , Let us make man in our image , after our likeness :
+ERV-OLD-1885-1,1,20G.63
+
+and let them have dominion over the fish of the sea , and over the fowl
+of the air , and over the cattle , and over all the earth , and over
+every creeping thing that creepeth upon the earth .
+ERV-OLD-1885-1,1,20G.64
+
+And God created man in his own image , ERV-OLD-1885-1,1,20G.65
+
+in the image of God created he him ; ERV-OLD-1885-1,1,20G.66
+
+male and female created he them . ERV-OLD-1885-1,1,20G.67
+
+And God blessed them : ERV-OLD-1885-1,1,20G.68
+
+and God said unto them , Be fruitful , ERV-OLD-1885-1,1,20G.69
+
+and multiply , ERV-OLD-1885-1,1,20G.70
+
+and replenish the earth , ERV-OLD-1885-1,1,20G.71
+
+and subdue it ; ERV-OLD-1885-1,1,20G.72
+
+and have dominion over the fish of the sea , and over the fowl of the
+air , and over every living thing that moveth upon the earth .
+ERV-OLD-1885-1,1,20G.73
+
+And God said , Behold , I have given you every herb yielding seed ,
+which is upon the face of all the earth , and every tree , in the which
+is the fruit of a tree yielding seed ; ERV-OLD-1885-1,1,20G.74
+
+to you it shall be for meat : ERV-OLD-1885-1,1,20G.75
+
+and to every beast of the earth , and to every fowl of the air , and to
+every thing that creepeth upon the earth , wherein there is life ,
+<font> I have given <$$font> every green herb for meat :
+ERV-OLD-1885-1,1,20G.76
+
+and it was so . ERV-OLD-1885-1,1,20G.77
+
+And God saw every thing that he had made , ERV-OLD-1885-1,1,20G.78
+
+and , behold , it was very good . ERV-OLD-1885-1,1,20G.79
+
+And there was evening ERV-OLD-1885-1,1,20G.80
+
+and there was morning , the sixth day . ERV-OLD-1885-1,1,20G.81
+
+<P_2,1G>
+
+And the heaven and the earth were finished , and all the host of them .
+ERV-OLD-1885-1,2,1G.83
+
+And on the seventh day God finished his work which he had made ;
+ERV-OLD-1885-1,2,1G.84
+
+and he rested on the seventh day from all his work which he had made .
+ERV-OLD-1885-1,2,1G.85
+
+And God blessed the seventh day , ERV-OLD-1885-1,2,1G.86
+
+and hallowed it : because that in it he rested from all his work which
+God had created and made . ERV-OLD-1885-1,2,1G.87
+
+These are the generations of the heaven and of the earth when they were
+created , in the day that the Lord God made earth and heaven .
+ERV-OLD-1885-1,2,1G.88
+
+And no plant of the field was yet in the earth , ERV-OLD-1885-1,2,1G.89
+
+and no herb of the field had yet sprung up : ERV-OLD-1885-1,2,1G.90
+
+for the Lord God had not caused it to rain upon the earth ,
+ERV-OLD-1885-1,2,1G.91
+
+and there was not a man to till the ground ; ERV-OLD-1885-1,2,1G.92
+
+but there went up a mist from the earth , ERV-OLD-1885-1,2,1G.93
+
+and watered the whole face of the ground . ERV-OLD-1885-1,2,1G.94
+
+And the Lord God formed man of the dust of the ground ,
+ERV-OLD-1885-1,2,1G.95
+
+and breathed into his nostrils the breath of life ;
+ERV-OLD-1885-1,2,1G.96
+
+and man became a living soul . ERV-OLD-1885-1,2,1G.97
+
+And the Lord God planted a garden eastward , in Eden ;
+ERV-OLD-1885-1,2,1G.98
+
+and there he put the man whom he had formed . ERV-OLD-1885-1,2,1G.99
+
+And out of the ground made the Lord God to grow every tree that is
+pleasant to the sight , and good for food ; the tree of life also in the
+midst of the garden , and the tree of knowledge of good and evil .
+ERV-OLD-1885-1,2,1G.100
+
+And a river went out of Eden to water the garden ;
+ERV-OLD-1885-1,2,1G.101
+
+and from thence it was parted , ERV-OLD-1885-1,2,1G.102
+
+and became four heads . ERV-OLD-1885-1,2,1G.103
+
+The name of the first is Pishon : ERV-OLD-1885-1,2,1G.104
+
+that is it which compasseth the whole land of Havilah , where there is
+gold ; ERV-OLD-1885-1,2,1G.105
+
+and the gold of that land is good : ERV-OLD-1885-1,2,1G.106
+
+there is bdellium and the onyx stone . ERV-OLD-1885-1,2,1G.107
+
+And the name of the second river is Gihon : ERV-OLD-1885-1,2,1G.108
+
+the same is it that compasseth the whole land of Cush .
+ERV-OLD-1885-1,2,1G.109
+
+And the name of the third river is Hiddekel : ERV-OLD-1885-1,2,1G.110
+
+that is it which goeth in front of Assyria . ERV-OLD-1885-1,2,1G.111
+
+And the fourth river is Euphrates . ERV-OLD-1885-1,2,1G.112
+
+And the Lord God took the man , ERV-OLD-1885-1,2,1G.113
+
+and put him into the garden of Eden to dress it and to keep it .
+ERV-OLD-1885-1,2,1G.114
+
+And the Lord God commanded the man , saying , Of every tree of the
+garden thou mayest freely eat : ERV-OLD-1885-1,2,1G.115
+
+but of the tree of the knowledge of good and evil , thou shalt not eat
+of it : ERV-OLD-1885-1,2,1G.116
+
+for in the day that thou eatest thereof thou shalt surely die .
+ERV-OLD-1885-1,2,1G.117
+
+And the Lord God said , It is not good that the man should be alone ;
+ERV-OLD-1885-1,2,1G.118
+
+I will make him an help meet for him . ERV-OLD-1885-1,2,1G.119
+
+And out of the ground the Lord God formed every beast of the field , and
+every fowl of the air ; ERV-OLD-1885-1,2,1G.120
+
+and brought them unto the man to see what he would call them :
+ERV-OLD-1885-1,2,1G.121
+
+and whatsoever the man called every living creature , that was the name
+thereof . ERV-OLD-1885-1,2,1G.122
+
+<P_2,20G>
+
+And the man gave names to all cattle , and to the fowl of the air , and
+to every beast of the field ; ERV-OLD-1885-1,2,20G.124
+
+but for man there was not found an help meet for him .
+ERV-OLD-1885-1,2,20G.125
+
+And the Lord God caused a deep sleep to fall upon the man ,
+ERV-OLD-1885-1,2,20G.126
+
+and he slept ; ERV-OLD-1885-1,2,20G.127
+
+and he took one of his ribs , ERV-OLD-1885-1,2,20G.128
+
+and closed up the flesh instead thereof : ERV-OLD-1885-1,2,20G.129
+
+and the rib , which the Lord God had taken from the man , made he a
+woman , ERV-OLD-1885-1,2,20G.130
+
+and brought her unto the man . ERV-OLD-1885-1,2,20G.131
+
+And the man said , This is now bone of my bones , and flesh of my flesh
+: ERV-OLD-1885-1,2,20G.132
+
+she shall be called Woman , because she was taken out of Man .
+ERV-OLD-1885-1,2,20G.133
+
+Therefore shall a man leave his father and his mother ,
+ERV-OLD-1885-1,2,20G.134
+
+and shall cleave unto his wife : ERV-OLD-1885-1,2,20G.135
+
+and they shall be one flesh . ERV-OLD-1885-1,2,20G.136
+
+And they were both naked , the man and his wife ,
+ERV-OLD-1885-1,2,20G.137
+
+and were not ashamed . ERV-OLD-1885-1,2,20G.138
+
+<P_3,1G>
+
+Now the serpent was more subtle {TEXT:subtil} than any beast of the
+field which the Lord God had made . ERV-OLD-1885-1,3,1G.140
+
+And he said unto the woman , Yea , hath God said , Ye shall not eat of
+any tree of the garden ? ERV-OLD-1885-1,3,1G.141
+
+And the woman said unto the serpent , Of the fruit of the trees of the
+garden we may eat : ERV-OLD-1885-1,3,1G.142
+
+but of the fruit of the tree which is in the midst of the garden , God
+hath said , Ye shall not eat of it , ERV-OLD-1885-1,3,1G.143
+
+neither shall ye touch it , lest ye die . ERV-OLD-1885-1,3,1G.144
+
+And the serpent said unto the woman , Ye shall not surely die :
+ERV-OLD-1885-1,3,1G.145
+
+for God doth know that in the day ye eat thereof , then your eyes shall
+be opened , and ye shall be as God , knowing good and evil .
+ERV-OLD-1885-1,3,1G.146
+
+And when the woman saw that the tree was good for food , and that it was
+a delight to the eyes , and that the tree was to be desired to make one
+wise , she took of the fruit thereof , ERV-OLD-1885-1,3,1G.147
+
+and did eat ; ERV-OLD-1885-1,3,1G.148
+
+and she gave also unto her husband with her , ERV-OLD-1885-1,3,1G.149
+
+and he did eat . ERV-OLD-1885-1,3,1G.150
+
+And the eyes of them both were opened , ERV-OLD-1885-1,3,1G.151
+
+and they knew that they were naked ; ERV-OLD-1885-1,3,1G.152
+
+and they sewed fig leaves together , ERV-OLD-1885-1,3,1G.153
+
+and made themselves aprons . ERV-OLD-1885-1,3,1G.154
+
+And they heard the voice of the Lord God walking in the garden in the
+cool of the day : ERV-OLD-1885-1,3,1G.155
+
+and the man and his wife hid themselves from the presence of the Lord
+God amongst the trees of the garden . ERV-OLD-1885-1,3,1G.156
+
+And the Lord God called unto the man , ERV-OLD-1885-1,3,1G.157
+
+and said unto him , Where art thou ? ERV-OLD-1885-1,3,1G.158
+
+And he said , I heard thy voice in the garden , ERV-OLD-1885-1,3,1G.159
+
+and I was afraid , because I was naked ; ERV-OLD-1885-1,3,1G.160
+
+and I hid myself . ERV-OLD-1885-1,3,1G.161
+
+And he said , Who told thee that thou wast naked ?
+ERV-OLD-1885-1,3,1G.162
+
+Hast thou eaten of the tree , whereof I commanded thee that thou
+shouldest not eat ? ERV-OLD-1885-1,3,1G.163
+
+And the man said , The woman whom thou gavest to be with me , she gave
+me of the tree , ERV-OLD-1885-1,3,1G.164
+
+and I did eat . ERV-OLD-1885-1,3,1G.165
+
+And the Lord God said unto the woman , What is this thou hast done ?
+ERV-OLD-1885-1,3,1G.166
+
+And the woman said , The serpent beguiled me , ERV-OLD-1885-1,3,1G.167
+
+and I did eat . ERV-OLD-1885-1,3,1G.168
+
+And the Lord God said unto the serpent , Because thou hast done this ,
+cursed art thou above all cattle , and above every beast of the field ;
+ERV-OLD-1885-1,3,1G.169
+
+upon thy belly shalt thou go , ERV-OLD-1885-1,3,1G.170
+
+and dust shalt thou eat all the days of thy life :
+ERV-OLD-1885-1,3,1G.171
+
+and I will put enmity between thee and the woman , and between thy seed
+and her seed : ERV-OLD-1885-1,3,1G.172
+
+it shall bruise thy head , ERV-OLD-1885-1,3,1G.173
+
+and thou shalt bruise his heel . ERV-OLD-1885-1,3,1G.174
+
+Unto the woman he said , I will greatly multiply thy sorrow and thy
+conception ; ERV-OLD-1885-1,3,1G.175
+
+in sorrow thou shalt bring forth children ; ERV-OLD-1885-1,3,1G.176
+
+and thy desire shall be to thy husband , ERV-OLD-1885-1,3,1G.177
+
+and he shall rule over thee . ERV-OLD-1885-1,3,1G.178
+
+And unto Adam he said , Because thou hast hearkened unto the voice of
+thy wife , and hast eaten of the tree , of which I commanded thee ,
+saying , Thou shalt not eat of it : cursed is the ground for thy sake ;
+ERV-OLD-1885-1,3,1G.179
+
+in toil shalt thou eat of it all the days of thy life ;
+ERV-OLD-1885-1,3,1G.180
+
+thorns also and thistles shall it bring forth to thee ;
+ERV-OLD-1885-1,3,1G.181
+
+and thou shalt eat the herb of the field ; ERV-OLD-1885-1,3,1G.182
+
+in the sweat of thy face shalt thou eat bread , till thou return unto
+the ground ; ERV-OLD-1885-1,3,1G.183
+
+for out of it wast thou taken : ERV-OLD-1885-1,3,1G.184
+
+for dust thou art , ERV-OLD-1885-1,3,1G.185
+
+and unto dust shalt thou return . ERV-OLD-1885-1,3,1G.186
+
+<P_3,20G>
+
+And the man called his wife's name Eve ; because she was the mother of
+all living . ERV-OLD-1885-1,3,20G.188
+
+And the Lord God made for Adam and for his wife coats of skins ,
+ERV-OLD-1885-1,3,20G.189
+
+and clothed them . ERV-OLD-1885-1,3,20G.190
+
+And the Lord God said , Behold , the man is become as one of us , to
+know good and evil ; ERV-OLD-1885-1,3,20G.191
+
+and now , lest he put forth his hand , and take also of the tree of life
+, and eat , and live for ever : therefore the Lord God sent him forth
+from the garden of Eden , to till the ground from whence he was taken .
+ERV-OLD-1885-1,3,20G.192
+
+So he drove out the man ; ERV-OLD-1885-1,3,20G.193
+
+and he placed at the east of the garden of Eden the Cherubim , and the
+flame of a sword which turned every way , to keep the way of the tree of
+life . ERV-OLD-1885-1,3,20G.194
+
+<P_6,1G>
+
+And it came to pass , when men began to multiply on the face of the
+ground , and daughters were born unto them , that the sons of God saw
+the daughters of men that they were fair ; ERV-OLD-1885-1,6,1G.196
+
+and they took them wives of all that they chose .
+ERV-OLD-1885-1,6,1G.197
+
+And the Lord said , My spirit shall not strive with man for ever , for
+that he also is flesh : ERV-OLD-1885-1,6,1G.198
+
+yet shall his days be an_hundred_and_twenty years .
+ERV-OLD-1885-1,6,1G.199
+
+The Nephilim were in the earth in those days , and also after that ,
+when the sons of God came in unto the daughters of men , and they bare
+children to them : ERV-OLD-1885-1,6,1G.200
+
+the same were the mighty men which were of old , the men of renown .
+ERV-OLD-1885-1,6,1G.201
+
+And the Lord saw that the wickedness of man was great in the earth , and
+that every imagination of the thoughts of his heart was only evil
+continually . ERV-OLD-1885-1,6,1G.202
+
+And it repented the Lord that he had made man on the earth ,
+ERV-OLD-1885-1,6,1G.203
+
+and it grieved him at his heart . ERV-OLD-1885-1,6,1G.204
+
+And the Lord said , I will destroy man whom I have created from the face
+of the ground ; both man , and beast , and creeping thing , and fowl of
+the air ; ERV-OLD-1885-1,6,1G.205
+
+for it repenteth me that I have made them . ERV-OLD-1885-1,6,1G.206
+
+But Noah found grace in the eyes of the Lord . ERV-OLD-1885-1,6,1G.207
+
+These are the generations of Noah . ERV-OLD-1885-1,6,1G.208
+
+Noah was a righteous man , <font> and <$$font> perfect in his
+generations : ERV-OLD-1885-1,6,1G.209
+
+Noah walked with God . ERV-OLD-1885-1,6,1G.210
+
+And Noah begat three sons : Shem , Ham , and Japheth .
+ERV-OLD-1885-1,6,1G.211
+
+And the earth was corrupt before God , ERV-OLD-1885-1,6,1G.212
+
+and the earth was filled with violence . ERV-OLD-1885-1,6,1G.213
+
+And God saw the earth , ERV-OLD-1885-1,6,1G.214
+
+and , behold , it was corrupt ; ERV-OLD-1885-1,6,1G.215
+
+for all flesh had corrupted his way upon the earth .
+ERV-OLD-1885-1,6,1G.216
+
+And God said unto Noah , The end of all flesh is come before me ;
+ERV-OLD-1885-1,6,1G.217
+
+for the earth is filled with violence through them ;
+ERV-OLD-1885-1,6,1G.218
+
+and , behold , I will destroy them with the earth .
+ERV-OLD-1885-1,6,1G.219
+
+Make thee an ark of gopher wood ; ERV-OLD-1885-1,6,1G.220
+
+rooms shalt thou make in the ark , ERV-OLD-1885-1,6,1G.221
+
+and shalt pitch it within and without with pitch .
+ERV-OLD-1885-1,6,1G.222
+
+And this is how thou shalt make it : the length of the ark three_hundred
+cubits , the breadth of it fifty cubits , and the height of it thirty
+cubits . ERV-OLD-1885-1,6,1G.223
+
+A light shalt thou make to the ark , ERV-OLD-1885-1,6,1G.224
+
+and to a cubit shalt thou finish it upward ; ERV-OLD-1885-1,6,1G.225
+
+and the door of the ark shalt thou set in the side thereof ;
+ERV-OLD-1885-1,6,1G.226
+
+with lower , second , and third stories shalt thou make it .
+ERV-OLD-1885-1,6,1G.227
+
+And I , behold , I do bring the flood of waters upon the earth , to
+destroy all flesh , wherein is the breath of life , from under heaven ;
+ERV-OLD-1885-1,6,1G.228
+
+every thing that is in the earth shall die . ERV-OLD-1885-1,6,1G.229
+
+But I will establish my covenant with thee ; ERV-OLD-1885-1,6,1G.230
+
+and thou shalt come into the ark , thou , and thy sons , and thy wife ,
+and thy sons' wives with thee . ERV-OLD-1885-1,6,1G.231
+
+And of every living thing of all flesh , two of every sort shalt thou
+bring into the ark , to keep them alive with thee ;
+ERV-OLD-1885-1,6,1G.232
+
+they shall be male and female . ERV-OLD-1885-1,6,1G.233
+
+<P_6,20G>
+
+Of the fowl after their kind , and of the cattle after their kind , of
+every creeping thing of the ground after its kind , two of every sort
+shall come unto thee , to keep them alive . ERV-OLD-1885-1,6,20G.235
+
+And take thou unto thee of all food that is eaten ,
+ERV-OLD-1885-1,6,20G.236
+
+and gather it to thee ; ERV-OLD-1885-1,6,20G.237
+
+and it shall be for food for thee , and for them .
+ERV-OLD-1885-1,6,20G.238
+
+Thus did Noah ; ERV-OLD-1885-1,6,20G.239
+
+according to all that God commanded him , so did he .
+ERV-OLD-1885-1,6,20G.240
+
+<P_7,1G>
+
+And the Lord said unto Noah , Come thou and all thy house into the ark ;
+ERV-OLD-1885-1,7,1G.242
+
+for thee have I seen righteous before me in this generation .
+ERV-OLD-1885-1,7,1G.243
+
+Of every clean beast thou shalt take to thee seven and seven , the male
+and his female ; and of the beasts that are not clean two , the male and
+his female ; of the fowl also of the air , seven and seven , male and
+female : to keep seed alive upon the face of all the earth .
+ERV-OLD-1885-1,7,1G.244
+
+For yet seven days , ERV-OLD-1885-1,7,1G.245
+
+and I will cause it to rain upon the earth forty days and forty nights ;
+ERV-OLD-1885-1,7,1G.246
+
+and every living thing that I have made will I destroy from off the face
+of the ground . ERV-OLD-1885-1,7,1G.247
+
+And Noah did according unto all that the Lord commanded him .
+ERV-OLD-1885-1,7,1G.248
+
+And Noah was six_hundred years old when the flood of waters was upon the
+earth . ERV-OLD-1885-1,7,1G.249
+
+And Noah went in , and his sons , and his wife , and his sons' wives
+with him , into the ark , because of the waters of the flood .
+ERV-OLD-1885-1,7,1G.250
+
+Of clean beasts , and of beasts that are not clean , and of fowls , and
+of every thing that creepeth upon the ground , there went in two and two
+unto Noah into the ark , male and female , as God commanded Noah .
+ERV-OLD-1885-1,7,1G.251
+
+And it came to pass after the seven days , that the waters of the flood
+were upon the earth . ERV-OLD-1885-1,7,1G.252
+
+In the six_hundredth year of Noah's life , in the second month , on the
+seventeenth day of the month , on the same day were all the fountains of
+the great deep broken up , ERV-OLD-1885-1,7,1G.253
+
+and the windows of heaven were opened . ERV-OLD-1885-1,7,1G.254
+
+And the rain was upon the earth forty days and forty nights .
+ERV-OLD-1885-1,7,1G.255
+
+In the selfsame day entered Noah , and Shem , and Ham , and Japheth ,
+the sons of Noah , and Noah's wife , and the three wives of his sons
+with them , into the ark ; they , and every beast after its kind , and
+all the cattle after their kind , and every creeping thing that creepeth
+upon the earth after its kind , and every fowl after its kind , every
+bird of every sort . ERV-OLD-1885-1,7,1G.256
+
+And they went in unto Noah into the ark , two and two of all flesh
+wherein is the breath of life . ERV-OLD-1885-1,7,1G.257
+
+And they that went in , went in male and female of all flesh , as God
+commanded him : ERV-OLD-1885-1,7,1G.258
+
+and the Lord shut him in . ERV-OLD-1885-1,7,1G.259
+
+And the flood was forty days upon the earth ; ERV-OLD-1885-1,7,1G.260
+
+and the waters increased , ERV-OLD-1885-1,7,1G.261
+
+and bare up the ark , ERV-OLD-1885-1,7,1G.262
+
+and it was lift up above the earth . ERV-OLD-1885-1,7,1G.263
+
+And the waters prevailed , ERV-OLD-1885-1,7,1G.264
+
+and increased greatly upon the earth ; ERV-OLD-1885-1,7,1G.265
+
+and the ark went upon the face of the waters . ERV-OLD-1885-1,7,1G.266
+
+And the waters prevailed exceedingly upon the earth ;
+ERV-OLD-1885-1,7,1G.267
+
+and all the high mountains that were under the whole heaven were covered
+. ERV-OLD-1885-1,7,1G.268
+
+<P_7,20G>
+
+Fifteen cubits upward did the waters prevail ; ERV-OLD-1885-1,7,20G.270
+
+and the mountains were covered . ERV-OLD-1885-1,7,20G.271
+
+And all flesh died that moved upon the earth , both fowl , and cattle ,
+and beast , and every creeping thing that creepeth upon the earth , and
+every man : ERV-OLD-1885-1,7,20G.272
+
+all in whose nostrils was the breath of the spirit of life , of all that
+was in the dry land , died . ERV-OLD-1885-1,7,20G.273
+
+And every living thing was destroyed which was upon the face of the
+ground , both man , and cattle , and creeping thing , and fowl of the
+heaven ; ERV-OLD-1885-1,7,20G.274
+
+and they were destroyed from the earth : ERV-OLD-1885-1,7,20G.275
+
+and Noah only was left , and they that were with him in the ark .
+ERV-OLD-1885-1,7,20G.276
+
+And the waters prevailed upon the earth an_hundred_and_fifty days .
+ERV-OLD-1885-1,7,20G.277
+
+<P_8,1G>
+
+And God remembered Noah , and every living thing , and all the cattle
+that were with him in the ark : ERV-OLD-1885-1,8,1G.279
+
+and God made a wind to pass over the earth , ERV-OLD-1885-1,8,1G.280
+
+and the waters assuaged ; ERV-OLD-1885-1,8,1G.281
+
+the fountains also of the deep and the windows of heaven were stopped ,
+ERV-OLD-1885-1,8,1G.282
+
+and the rain from heaven was restrained ; ERV-OLD-1885-1,8,1G.283
+
+and the waters returned from off the earth continually :
+ERV-OLD-1885-1,8,1G.284
+
+and after the end of an_hundred_and_fifty days the waters decreased .
+ERV-OLD-1885-1,8,1G.285
+
+And the ark rested in the seventh month , on the seventeenth day of the
+month , upon the mountains of Ararat . ERV-OLD-1885-1,8,1G.286
+
+And the waters decreased continually until the tenth month :
+ERV-OLD-1885-1,8,1G.287
+
+in the tenth month , on the first day of the month , were the tops of
+the mountains seen . ERV-OLD-1885-1,8,1G.288
+
+And it came to pass at the end of forty days , that Noah opened the
+window of the ark which he had made : ERV-OLD-1885-1,8,1G.289
+
+and he sent forth a raven , ERV-OLD-1885-1,8,1G.290
+
+and it went forth to and fro , until the waters were dried up from off
+the earth . ERV-OLD-1885-1,8,1G.291
+
+And he sent forth a dove from him , to see if the waters were abated
+from off the face of the ground ; ERV-OLD-1885-1,8,1G.292
+
+but the dove found no rest for the sole of her foot ,
+ERV-OLD-1885-1,8,1G.293
+
+and she returned unto him to the ark , ERV-OLD-1885-1,8,1G.294
+
+for the waters were on the face of the whole earth :
+ERV-OLD-1885-1,8,1G.295
+
+and he put forth his hand , ERV-OLD-1885-1,8,1G.296
+
+and took her , ERV-OLD-1885-1,8,1G.297
+
+and brought her in unto him into the ark . ERV-OLD-1885-1,8,1G.298
+
+And he stayed yet other seven days ; ERV-OLD-1885-1,8,1G.299
+
+and again he sent forth the dove out of the ark ;
+ERV-OLD-1885-1,8,1G.300
+
+and the dove came in to him at eventide ; ERV-OLD-1885-1,8,1G.301
+
+and , lo , in her mouth an olive leaf pluckt off :
+ERV-OLD-1885-1,8,1G.302
+
+so Noah knew that the waters were abated from off the earth .
+ERV-OLD-1885-1,8,1G.303
+
+And he stayed yet other seven days ; ERV-OLD-1885-1,8,1G.304
+
+and sent forth the dove ; ERV-OLD-1885-1,8,1G.305
+
+and she returned not again unto him any more . ERV-OLD-1885-1,8,1G.306
+
+And it came to pass in the six_hundred_and_first year , in the first
+month , the first day of the month , the waters were dried up from off
+the earth : ERV-OLD-1885-1,8,1G.307
+
+and Noah removed the covering of the ark , ERV-OLD-1885-1,8,1G.308
+
+and looked , ERV-OLD-1885-1,8,1G.309
+
+and , behold , the face of the ground was dried .
+ERV-OLD-1885-1,8,1G.310
+
+And in the second month , on the seven_and_twentieth day of the month ,
+was the earth dry . ERV-OLD-1885-1,8,1G.311
+
+And God spake unto Noah , saying , Go forth of the ark , thou , and thy
+wife , and thy sons , and thy sons' wives with thee .
+ERV-OLD-1885-1,8,1G.312
+
+Bring forth with thee every living thing that is with thee of all flesh
+, both fowl , and cattle , and every creeping thing that creepeth upon
+the earth ; that they may breed abundantly in the earth , and be
+fruitful , and multiply upon the earth . ERV-OLD-1885-1,8,1G.313
+
+And Noah went forth , and his sons , and his wife , and his sons' wives
+with him : ERV-OLD-1885-1,8,1G.314
+
+every beast , every creeping thing , and every fowl , whatsoever moveth
+upon the earth , after their families , went forth out of the ark .
+ERV-OLD-1885-1,8,1G.315
+
+<P_8,20G>
+
+And Noah builded an altar unto the Lord ; ERV-OLD-1885-1,8,20G.317
+
+and took of every clean beast , and of every clean fowl ,
+ERV-OLD-1885-1,8,20G.318
+
+and offered burnt offerings on the altar . ERV-OLD-1885-1,8,20G.319
+
+And the Lord smelled the sweet savour ; ERV-OLD-1885-1,8,20G.320
+
+and the Lord said in his heart , I will not again curse the ground any
+more for man's sake , for that the imagination of man's heart is evil
+from his youth ; ERV-OLD-1885-1,8,20G.321
+
+neither will I again smite any more every thing living , as I have done
+. ERV-OLD-1885-1,8,20G.322
+
+While the earth remaineth , seedtime and harvest , and cold and heat ,
+and summer and winter , and day and night shall not cease .
+ERV-OLD-1885-1,8,20G.323
+
+<P_9,1G>
+
+And God blessed Noah and his sons , ERV-OLD-1885-1,9,1G.325
+
+and said unto them , Be fruitful , ERV-OLD-1885-1,9,1G.326
+
+and multiply , ERV-OLD-1885-1,9,1G.327
+
+and replenish the earth . ERV-OLD-1885-1,9,1G.328
+
+And the fear of you and the dread of you shall be upon every beast of
+the earth , and upon every fowl of the air ; ERV-OLD-1885-1,9,1G.329
+
+with all wherewith the ground teemeth and all the fishes of the sea ,
+into your hand are they delivered . ERV-OLD-1885-1,9,1G.330
+
+Every moving thing that liveth shall be food for you ; as the green herb
+have I given you all . ERV-OLD-1885-1,9,1G.331
+
+But flesh with the life thereof , <font> which is <$$font> the blood
+thereof , shall ye not eat . ERV-OLD-1885-1,9,1G.332
+
+And surely your blood , <font> the blood <$$font> of your lives , will I
+require ; ERV-OLD-1885-1,9,1G.333
+
+at the hand of every beast will I require it : ERV-OLD-1885-1,9,1G.334
+
+and at the hand of man , even at the hand of every man's brother , will
+I require the life of man . ERV-OLD-1885-1,9,1G.335
+
+Whoso sheddeth man's blood , by man shall his blood be shed :
+ERV-OLD-1885-1,9,1G.336
+
+for in the image of God made he man . ERV-OLD-1885-1,9,1G.337
+
+And you , be ye fruitful , ERV-OLD-1885-1,9,1G.338
+
+and multiply ; ERV-OLD-1885-1,9,1G.339
+
+bring forth abundantly in the earth , ERV-OLD-1885-1,9,1G.340
+
+and multiply therein . ERV-OLD-1885-1,9,1G.341
+
+And God spake unto Noah , and to his sons with him , saying , And I ,
+behold , I establish my covenant with you , and with your seed after you
+; and with every living creature that is with you , the fowl , the
+cattle , and every beast of the earth with you ; of all that go out of
+the ark , even every beast of the earth . ERV-OLD-1885-1,9,1G.342
+
+And I will establish my covenant with you ; ERV-OLD-1885-1,9,1G.343
+
+neither shall all flesh be cut off any more by the waters of the flood ;
+ERV-OLD-1885-1,9,1G.344
+
+neither shall there any more be a flood to destroy the earth .
+ERV-OLD-1885-1,9,1G.345
+
+And God said , This is the token of the covenant which I make between me
+and you and every living creature that is with you , for perpetual
+generations : ERV-OLD-1885-1,9,1G.346
+
+I do set my bow in the cloud , ERV-OLD-1885-1,9,1G.347
+
+and it shall be for a token of a covenant between me and the earth .
+ERV-OLD-1885-1,9,1G.348
+
+And it shall come to pass , when I bring a cloud over the earth , that
+the bow shall be seen in the cloud , ERV-OLD-1885-1,9,1G.349
+
+and I will remember my covenant , which is between me and you and every
+living creature of all flesh ; ERV-OLD-1885-1,9,1G.350
+
+and the waters shall no more become a flood to destroy all flesh .
+ERV-OLD-1885-1,9,1G.351
+
+And the bow shall be in the cloud ; ERV-OLD-1885-1,9,1G.352
+
+and I will look upon it , that I may remember the everlasting covenant
+between God and every living creature of all flesh that is upon the
+earth . ERV-OLD-1885-1,9,1G.353
+
+And God said unto Noah , This is the token of the covenant which I have
+established between me and all flesh that is upon the earth .
+ERV-OLD-1885-1,9,1G.354
+
+And the sons of Noah , that went forth of the ark , were Shem , and Ham
+, and Japheth : ERV-OLD-1885-1,9,1G.355
+
+and Ham is the father of Canaan . ERV-OLD-1885-1,9,1G.356
+
+These three were the sons of Noah : ERV-OLD-1885-1,9,1G.357
+
+and of these was the whole earth overspread . ERV-OLD-1885-1,9,1G.358
+
+<P_9,20G>
+
+And Noah began to be an husbandman , ERV-OLD-1885-1,9,20G.360
+
+and planted a vineyard : ERV-OLD-1885-1,9,20G.361
+
+and he drank of the wine , ERV-OLD-1885-1,9,20G.362
+
+and was drunken ; ERV-OLD-1885-1,9,20G.363
+
+and he was uncovered within his tent . ERV-OLD-1885-1,9,20G.364
+
+And Ham , the father of Canaan , saw the nakedness of his father ,
+ERV-OLD-1885-1,9,20G.365
+
+and told his two brethren without . ERV-OLD-1885-1,9,20G.366
+
+And Shem and Japheth took a garment , ERV-OLD-1885-1,9,20G.367
+
+and laid it upon both their shoulders , ERV-OLD-1885-1,9,20G.368
+
+and went backward , ERV-OLD-1885-1,9,20G.369
+
+and covered the nakedness of their father ; ERV-OLD-1885-1,9,20G.370
+
+and their faces were backward , ERV-OLD-1885-1,9,20G.371
+
+and they saw not their father's nakedness . ERV-OLD-1885-1,9,20G.372
+
+And Noah awoke from his wine , ERV-OLD-1885-1,9,20G.373
+
+and knew what his youngest son had done unto him .
+ERV-OLD-1885-1,9,20G.374
+
+And he said , Cursed be Canaan ; ERV-OLD-1885-1,9,20G.375
+
+A servant of servants shall he be unto his brethren .
+ERV-OLD-1885-1,9,20G.376
+
+And he said , Blessed be the Lord , the God of Shem ;
+ERV-OLD-1885-1,9,20G.377
+
+And let Canaan be his servant . ERV-OLD-1885-1,9,20G.378
+
+God enlarge Japheth , ERV-OLD-1885-1,9,20G.379
+
+And let him dwell in the tents of Shem ; ERV-OLD-1885-1,9,20G.380
+
+And let Canaan be his servant . ERV-OLD-1885-1,9,20G.381
+
+And Noah lived after the flood three_hundred_and_fifty years .
+ERV-OLD-1885-1,9,20G.382
+
+And all the days of Noah were nine_hundred_and_fifty years :
+ERV-OLD-1885-1,9,20G.383
+
+and he died . ERV-OLD-1885-1,9,20G.384
+
+<P_12,1G>
+
+Now the Lord said unto Abram , Get thee out of thy country , and from
+thy kindred , and from thy father's house , unto the land that I will
+shew thee : and I will make of thee a great nation ,
+ERV-OLD-1885-1,12,1G.386
+
+and I will bless thee , and make thy name great ;
+ERV-OLD-1885-1,12,1G.387
+
+and be thou a blessing : ERV-OLD-1885-1,12,1G.388
+
+and I will bless them that bless thee , ERV-OLD-1885-1,12,1G.389
+
+and him that curseth thee will I curse : ERV-OLD-1885-1,12,1G.390
+
+and in thee shall all the families of the earth be blessed .
+ERV-OLD-1885-1,12,1G.391
+
+So Abram went , as the Lord had spoken unto him ;
+ERV-OLD-1885-1,12,1G.392
+
+and Lot went with him : ERV-OLD-1885-1,12,1G.393
+
+and Abram was seventy_and_five years old when he departed out of Haran .
+ERV-OLD-1885-1,12,1G.394
+
+And Abram took Sarai his wife , and Lot his brother's son , and all
+their substance that they had gathered , and the souls that they had
+gotten in Haran ; ERV-OLD-1885-1,12,1G.395
+
+and they went forth to go into the land of Canaan ;
+ERV-OLD-1885-1,12,1G.396
+
+and into the land of Canaan they came . ERV-OLD-1885-1,12,1G.397
+
+And Abram passed through the land unto the place of Shechem , unto the
+oak of Moreh . ERV-OLD-1885-1,12,1G.398
+
+And the Canaanite was then in the land . ERV-OLD-1885-1,12,1G.399
+
+And the Lord appeared unto Abram , ERV-OLD-1885-1,12,1G.400
+
+and said , Unto thy seed will I give this land :
+ERV-OLD-1885-1,12,1G.401
+
+and there builded he an altar unto the Lord , who appeared unto him .
+ERV-OLD-1885-1,12,1G.402
+
+And he removed from thence unto the mountain on the east of Beth-el ,
+ERV-OLD-1885-1,12,1G.403
+
+and pitched his tent , having Beth-el on the west , and Ai on the east :
+ERV-OLD-1885-1,12,1G.404
+
+and there he builded an altar unto the Lord , ERV-OLD-1885-1,12,1G.405
+
+and called upon the name of the Lord . ERV-OLD-1885-1,12,1G.406
+
+And Abram journeyed , going on still toward the South .
+ERV-OLD-1885-1,12,1G.407
+
+And there was a famine in the land : ERV-OLD-1885-1,12,1G.408
+
+and Abram went down into Egypt to sojourn there ;
+ERV-OLD-1885-1,12,1G.409
+
+for the famine was sore in the land . ERV-OLD-1885-1,12,1G.410
+
+And it came to pass , when he was come near to enter into Egypt , that
+he said unto Sarai his wife , Behold now , I know that thou art a fair
+woman to look upon : ERV-OLD-1885-1,12,1G.411
+
+and it shall come to pass , when the Egyptians shall see thee , that
+they shall say , This is his wife : ERV-OLD-1885-1,12,1G.412
+
+and they will kill me , ERV-OLD-1885-1,12,1G.413
+
+but they will save thee alive . ERV-OLD-1885-1,12,1G.414
+
+Say , I pray thee , thou art my sister : that it may be well with me for
+thy sake , and that my soul may live because of thee .
+ERV-OLD-1885-1,12,1G.415
+
+And it came to pass , that , when Abram was come into Egypt , the
+Egyptians beheld the woman that she was very fair .
+ERV-OLD-1885-1,12,1G.416
+
+And the princes of Pharaoh saw her , ERV-OLD-1885-1,12,1G.417
+
+and praised her to Pharaoh : ERV-OLD-1885-1,12,1G.418
+
+and the woman was taken into Pharaoh's house . ERV-OLD-1885-1,12,1G.419
+
+And he entreated well Abram for her sake : ERV-OLD-1885-1,12,1G.420
+
+and he had sheep , and oxen , and he-asses , and menservants , and
+maidservants , and she-asses , and camels . ERV-OLD-1885-1,12,1G.421
+
+And the Lord plagued Pharaoh and his house with great plagues because of
+Sarai Abram's wife . ERV-OLD-1885-1,12,1G.422
+
+And Pharaoh called Abram , ERV-OLD-1885-1,12,1G.423
+
+and said , What is this that thou hast done unto me ?
+ERV-OLD-1885-1,12,1G.424
+
+why didst thou not tell me that she was thy wife ?
+ERV-OLD-1885-1,12,1G.425
+
+Why saidst thou , She is my sister ? so that I took her to be my wife :
+ERV-OLD-1885-1,12,1G.426
+
+now therefore behold thy wife , ERV-OLD-1885-1,12,1G.427
+
+take her , ERV-OLD-1885-1,12,1G.428
+
+and go thy way . ERV-OLD-1885-1,12,1G.429
+
+<P_12,20G>
+
+And Pharaoh gave men charge concerning him : ERV-OLD-1885-1,12,20G.431
+
+and they brought him on the way , and his wife , and all that he had .
+ERV-OLD-1885-1,12,20G.432
+
+<P_13,1G>
+
+And Abram went up out of Egypt , he , and his wife , and all that he had
+, and Lot with him , into the South . ERV-OLD-1885-1,13,1G.434
+
+And Abram was very rich in cattle , in silver , and in gold .
+ERV-OLD-1885-1,13,1G.435
+
+And he went on his journeys from the South even to Beth-el , unto the
+place where his tent had been at the beginning , between Beth-el and Ai
+: unto the place of the altar , which he had made there at the first :
+ERV-OLD-1885-1,13,1G.436
+
+and there Abram called on the name of the Lord .
+ERV-OLD-1885-1,13,1G.437
+
+And Lot also , which went with Abram , had flocks , and herds , and
+tents . ERV-OLD-1885-1,13,1G.438
+
+And the land was not able to bear them , that they might dwell together
+: ERV-OLD-1885-1,13,1G.439
+
+for their substance was great , so that they could not dwell together .
+ERV-OLD-1885-1,13,1G.440
+
+And there was a strife between the herdmen of Abram's cattle and the
+herdmen of Lot's cattle : ERV-OLD-1885-1,13,1G.441
+
+and the Canaanite and the Perizzite dwelled then in the land .
+ERV-OLD-1885-1,13,1G.442
+
+And Abram said unto Lot , Let there be no strife , I pray thee , between
+me and thee , and between my herdmen and thy herdmen ;
+ERV-OLD-1885-1,13,1G.443
+
+for we are brethren . ERV-OLD-1885-1,13,1G.444
+
+Is not the whole land before thee ? ERV-OLD-1885-1,13,1G.445
+
+separate thyself , I pray thee , from me : ERV-OLD-1885-1,13,1G.446
+
+if <font> thou wilt take <$$font> the left hand , then I will go to the
+right : ERV-OLD-1885-1,13,1G.447
+
+or if <font> thou take <$$font> the right hand , then I will go the left
+. ERV-OLD-1885-1,13,1G.448
+
+And Lot lifted up his eyes , ERV-OLD-1885-1,13,1G.449
+
+and beheld all the Plain of Jordan , that it was well watered every
+where , before the Lord destroyed Sodom and Gomorrah , like the garden
+of the Lord , like the land of Egypt , as thou goest unto Zoar .
+ERV-OLD-1885-1,13,1G.450
+
+So Lot chose him all the Plain of Jordan ; ERV-OLD-1885-1,13,1G.451
+
+and Lot journeyed east : ERV-OLD-1885-1,13,1G.452
+
+and they separated themselves the one from the other .
+ERV-OLD-1885-1,13,1G.453
+
+Abram dwelled in the land of Canaan , ERV-OLD-1885-1,13,1G.454
+
+and Lot dwelled in the cities of the Plain , ERV-OLD-1885-1,13,1G.455
+
+and moved his tent as far as Sodom . ERV-OLD-1885-1,13,1G.456
+
+Now the men of Sodom were wicked and sinners against the Lord
+exceedingly . ERV-OLD-1885-1,13,1G.457
+
+And the Lord said unto Abram , after that Lot was separated from him ,
+Lift up now thine eyes , ERV-OLD-1885-1,13,1G.458
+
+and look from the place where thou art , northward and southward and
+eastward and westward : ERV-OLD-1885-1,13,1G.459
+
+for all the land which thou seest , to thee will I give it , and to thy
+seed for ever . ERV-OLD-1885-1,13,1G.460
+
+And I will make thy seed as the dust of the earth : so that if a man can
+number the dust of the earth , then shall thy seed also be numbered .
+ERV-OLD-1885-1,13,1G.461
+
+Arise , ERV-OLD-1885-1,13,1G.462
+
+walk through the land in the length of it and in the breadth of it ;
+ERV-OLD-1885-1,13,1G.463
+
+for unto thee will I give it . ERV-OLD-1885-1,13,1G.464
+
+And Abram moved his tent , ERV-OLD-1885-1,13,1G.465
+
+and came ERV-OLD-1885-1,13,1G.466
+
+and dwelt by the oaks of Mamre , which are in Hebron ,
+ERV-OLD-1885-1,13,1G.467
+
+and built there an altar unto the Lord . ERV-OLD-1885-1,13,1G.468
+
+<P_14,1G>
+
+And it came to pass in the days of Amraphel king of Shinar , Arioch king
+of Ellasar , Chedorlaomer king of Elam , and Tidal king of Goiim , that
+they made war with Bera king of Sodom , and with Birsha king of Gomorrah
+, Shinab king of Admah , and Shemeber king of Zeboiim , and the king of
+Bela <paren> the same is Zoar <$$paren> . ERV-OLD-1885-1,14,1G.470
+
+All these joined together in the vale of Siddim <paren> the same is the
+Salt Sea <$$paren> . ERV-OLD-1885-1,14,1G.471
+
+Twelve years they served Chedorlaomer , ERV-OLD-1885-1,14,1G.472
+
+and in the thirteenth year they rebelled . ERV-OLD-1885-1,14,1G.473
+
+And in the fourteenth year came Chedorlaomer , and the kings that were
+with him , ERV-OLD-1885-1,14,1G.474
+
+and smote the Rephaim in Ashteroth-karnaim , and the Zuzim in Ham , and
+the Emim in Shaveh-kiriathaim , and the Horites in their mount Seir ,
+unto El-paran , which is by the wilderness . ERV-OLD-1885-1,14,1G.475
+
+And they returned , ERV-OLD-1885-1,14,1G.476
+
+and came to En-mishpat <paren> the same is Kadesh <$$paren> ,
+ERV-OLD-1885-1,14,1G.477
+
+and smote all the country of the Amalekites , and also the Amorites ,
+that dwelt in Hazazon-tamar . ERV-OLD-1885-1,14,1G.478
+
+And there went out the king of Sodom , and the king of Gomorrah , and
+the king of Admah , and the king of Zeboiim , and the king of Bela
+<paren> the same is Zoar <$$paren> ; ERV-OLD-1885-1,14,1G.479
+
+and they set the battle in array against them in the vale of Siddim ;
+against Chedorlaomer king of Elam , and Tidal king of Goiim , and
+Amraphel king of Shinar , and Arioch king of Ellasar ; four kings
+against the five . ERV-OLD-1885-1,14,1G.480
+
+Now the vale of Siddim was full of slime pits ; ERV-OLD-1885-1,14,1G.481
+
+and the kings of Sodom and Gomorrah fled , ERV-OLD-1885-1,14,1G.482
+
+and they fell there , ERV-OLD-1885-1,14,1G.483
+
+and they that remained fled to the mountain . ERV-OLD-1885-1,14,1G.484
+
+And they took all the goods of Sodom and Gomorrah , and all their
+victuals , ERV-OLD-1885-1,14,1G.485
+
+and went their way . ERV-OLD-1885-1,14,1G.486
+
+And they took Lot , Abram's brother's son , who dwelt in Sodom , and his
+goods , ERV-OLD-1885-1,14,1G.487
+
+and departed . ERV-OLD-1885-1,14,1G.488
+
+And there came one that had escaped , ERV-OLD-1885-1,14,1G.489
+
+and told Abram the Hebrew : ERV-OLD-1885-1,14,1G.490
+
+now he dwelt by the oaks of Mamre the Amorite , brother of Eshcol , and
+brother of Aner ; ERV-OLD-1885-1,14,1G.491
+
+and these were confederate with Abram . ERV-OLD-1885-1,14,1G.492
+
+And when Abram heard that his brother was taken captive , he led forth
+his trained men , born in his house , three_hundred_and_eighteen ,
+ERV-OLD-1885-1,14,1G.493
+
+and pursued as far as Dan . ERV-OLD-1885-1,14,1G.494
+
+And he divided himself against them by night , he and his servants ,
+ERV-OLD-1885-1,14,1G.495
+
+and smote them , ERV-OLD-1885-1,14,1G.496
+
+and pursued them unto Hobah , which is on the left hand of Damascus .
+ERV-OLD-1885-1,14,1G.497
+
+And he brought back all the goods , ERV-OLD-1885-1,14,1G.498
+
+and also brought again his brother Lot , and his goods , and the women
+also , and the people . ERV-OLD-1885-1,14,1G.499
+
+And the king of Sodom went out to meet him , after his return from the
+slaughter of Chedorlaomer and the kings that were with him , at the vale
+of Shaveh <paren> the same is the King's Vale <$$paren> .
+ERV-OLD-1885-1,14,1G.500
+
+And Melchizedek king of Salem brought forth bread and wine :
+ERV-OLD-1885-1,14,1G.501
+
+and he was priest of God Most High . ERV-OLD-1885-1,14,1G.502
+
+And he blessed him , ERV-OLD-1885-1,14,1G.503
+
+and said , Blessed be Abram of God Most High , possessor of heaven and
+earth : ERV-OLD-1885-1,14,1G.504
+
+<P_14,20G>
+
+and blessed be God Most High , which hath delivered thine enemies into
+thy hand . ERV-OLD-1885-1,14,20G.506
+
+And he gave him a tenth of all . ERV-OLD-1885-1,14,20G.507
+
+And the king of Sodom said unto Abram , Give me the persons ,
+ERV-OLD-1885-1,14,20G.508
+
+and take the goods to thyself . ERV-OLD-1885-1,14,20G.509
+
+And Abram said to the king of Sodom , I have lift up mine hand unto the
+Lord , God Most High , possessor of heaven and earth , that I will not
+take a thread nor a shoelatchet nor aught that is thine , lest thou
+shouldest say , I have made Abram rich : save only that which the young
+men have eaten , and the portion of the men which went with me :
+ERV-OLD-1885-1,14,20G.510
+
+Aner , Eshcol , and Mamre , let them take their portion .
+ERV-OLD-1885-1,14,20G.511
+
+<P_22,1G>
+
+And it came to pass after these things , that God did prove Abraham ,
+ERV-OLD-1885-1,22,1G.513
+
+and said unto him , Abraham ; ERV-OLD-1885-1,22,1G.514
+
+and he said , Here am I . ERV-OLD-1885-1,22,1G.515
+
+And he said , Take now thy son , thine only son , whom thou lovest ,
+even Isaac , ERV-OLD-1885-1,22,1G.516
+
+and get thee into the land of Moriah ; ERV-OLD-1885-1,22,1G.517
+
+and offer him there for a burnt offering upon one of the mountains which
+I will tell thee of . ERV-OLD-1885-1,22,1G.518
+
+And Abraham rose early in the morning , ERV-OLD-1885-1,22,1G.519
+
+and saddled his ass , ERV-OLD-1885-1,22,1G.520
+
+and took two of his young men with him , and Isaac his son ;
+ERV-OLD-1885-1,22,1G.521
+
+and he clave the wood for the burnt offering , ERV-OLD-1885-1,22,1G.522
+
+and rose up , ERV-OLD-1885-1,22,1G.523
+
+and went unto the place of which God had told him .
+ERV-OLD-1885-1,22,1G.524
+
+On the third day Abraham lifted up his eyes , ERV-OLD-1885-1,22,1G.525
+
+and saw the place afar off . ERV-OLD-1885-1,22,1G.526
+
+And Abraham said unto his young men , Abide ye here with the ass ,
+ERV-OLD-1885-1,22,1G.527
+
+and I and the lad will go yonder ; ERV-OLD-1885-1,22,1G.528
+
+and we will worship , and come again to you . ERV-OLD-1885-1,22,1G.529
+
+And Abraham took the wood of the burnt offering ,
+ERV-OLD-1885-1,22,1G.530
+
+and laid it upon Isaac his son ; ERV-OLD-1885-1,22,1G.531
+
+and he took in his hand the fire and the knife ;
+ERV-OLD-1885-1,22,1G.532
+
+and they went both of them together . ERV-OLD-1885-1,22,1G.533
+
+And Isaac spake unto Abraham his father , ERV-OLD-1885-1,22,1G.534
+
+and said , My father : ERV-OLD-1885-1,22,1G.535
+
+and he said , Here am I , my son . ERV-OLD-1885-1,22,1G.536
+
+And he said , Behold , the fire and the wood : ERV-OLD-1885-1,22,1G.537
+
+but where is the lamb for a burnt offering ? ERV-OLD-1885-1,22,1G.538
+
+And Abraham said , God will provide himself the lamb for a burnt
+offering , my son : ERV-OLD-1885-1,22,1G.539
+
+so they went both of them together . ERV-OLD-1885-1,22,1G.540
+
+And they came to the place which God had told him of ;
+ERV-OLD-1885-1,22,1G.541
+
+and Abraham built the altar there , ERV-OLD-1885-1,22,1G.542
+
+and laid the wood in order , ERV-OLD-1885-1,22,1G.543
+
+and bound Isaac his son , ERV-OLD-1885-1,22,1G.544
+
+and laid him on the altar , upon the wood . ERV-OLD-1885-1,22,1G.545
+
+And Abraham stretched forth his hand , ERV-OLD-1885-1,22,1G.546
+
+and took the knife to slay his son . ERV-OLD-1885-1,22,1G.547
+
+And the angel of the Lord called unto him out of heaven ,
+ERV-OLD-1885-1,22,1G.548
+
+and said , Abraham , Abraham : ERV-OLD-1885-1,22,1G.549
+
+and he said , Here am I . ERV-OLD-1885-1,22,1G.550
+
+And he said , Lay not thine hand upon the lad , ERV-OLD-1885-1,22,1G.551
+
+neither do thou any thing unto him : ERV-OLD-1885-1,22,1G.552
+
+for now I know that thou fearest God , seeing thou hast not withheld thy
+son , thine only son , from me . ERV-OLD-1885-1,22,1G.553
+
+And Abraham lifted up his eyes , ERV-OLD-1885-1,22,1G.554
+
+and looked , ERV-OLD-1885-1,22,1G.555
+
+and behold , behind <font> him <$$font> a ram caught in the thicket by
+his horns : ERV-OLD-1885-1,22,1G.556
+
+and Abraham went ERV-OLD-1885-1,22,1G.557
+
+and took the ram , ERV-OLD-1885-1,22,1G.558
+
+and offered him up for a burnt offering in the stead of his son .
+ERV-OLD-1885-1,22,1G.559
+
+And Abraham called the name of that place Jehovah-jireh : as it is said
+to this day , In the mount of the Lord it shall be provided .
+ERV-OLD-1885-1,22,1G.560
+
+And the angel of the Lord called unto Abraham a second time out of
+heaven , ERV-OLD-1885-1,22,1G.561
+
+and said , By myself have I sworn , saith the Lord , because thou hast
+done this thing , and hast not withheld thy son , thine only son : that
+in blessing I will bless thee , and in multiplying I will multiply thy
+seed as the stars of the heaven , and as the sand which is upon the sea
+shore ; ERV-OLD-1885-1,22,1G.562
+
+and thy seed shall possess the gate of his enemies ;
+ERV-OLD-1885-1,22,1G.563
+
+and in thy seed shall all the nations of the earth be blessed ; because
+thou hast obeyed my voice . ERV-OLD-1885-1,22,1G.564
+
+So Abraham returned unto his young men , ERV-OLD-1885-1,22,1G.565
+
+and they rose up ERV-OLD-1885-1,22,1G.566
+
+and went together to Beer-sheba ; ERV-OLD-1885-1,22,1G.567
+
+and Abraham dwelt at Beer-sheba . ERV-OLD-1885-1,22,1G.568
+
+{COM:verses_20_to_24_omitted_as_in_helsinki_corpus}
+
+<P_13,1N>
+
+And the Lord spake unto Moses , saying , Send thou men , that they may
+spy out the land of Canaan , which I give unto the children of Israel :
+ERV-OLD-1885-1,13,1N.571
+
+of every tribe of their fathers shall ye send a man , every one a prince
+among them . ERV-OLD-1885-1,13,1N.572
+
+And Moses sent them from the wilderness of Paran according to the
+commandment of the Lord : all of them men who were heads of the children
+of Israel . ERV-OLD-1885-1,13,1N.573
+
+And these were their names : ERV-OLD-1885-1,13,1N.574
+
+of the tribe of Reuben , Shammua the son of Zaccur .
+ERV-OLD-1885-1,13,1N.575
+
+Of the tribe of Simeon , Shaphat the son of Hori .
+ERV-OLD-1885-1,13,1N.576
+
+Of the tribe of Judah , Caleb the son of Jephunneh .
+ERV-OLD-1885-1,13,1N.577
+
+Of the tribe of Issachar , Igal the son of Joseph .
+ERV-OLD-1885-1,13,1N.578
+
+Of the tribe of Ephraim , Hoshea the son of Nun .
+ERV-OLD-1885-1,13,1N.579
+
+Of the tribe of Benjamin , Palti the son of Raphu .
+ERV-OLD-1885-1,13,1N.580
+
+Of the tribe of Zebulun , Gaddiel the son of Sodi .
+ERV-OLD-1885-1,13,1N.581
+
+Of the tribe of Joseph , <font> namely , <$$font> of the tribe of
+Manasseh , Gaddi the son of Susi . ERV-OLD-1885-1,13,1N.582
+
+Of the tribe of Dan , Ammiel the son of Gemalli .
+ERV-OLD-1885-1,13,1N.583
+
+Of the tribe of Asher , Sethur the son of Michael .
+ERV-OLD-1885-1,13,1N.584
+
+Of the tribe of Naphtali , Nahbi the son of Vophsi .
+ERV-OLD-1885-1,13,1N.585
+
+Of the tribe of Gad , Geuel the son of Machi . ERV-OLD-1885-1,13,1N.586
+
+These are the names of the men which Moses sent to spy out the land .
+ERV-OLD-1885-1,13,1N.587
+
+And Moses called Hoshea the son of Nun Joshua .
+ERV-OLD-1885-1,13,1N.588
+
+And Moses sent them to spy out the land of Canaan ,
+ERV-OLD-1885-1,13,1N.589
+
+and said unto them , Get you up this way by the South ,
+ERV-OLD-1885-1,13,1N.590
+
+and go up into the mountains : ERV-OLD-1885-1,13,1N.591
+
+and see the land , what it is ; and the people that dwelleth therein ,
+whether they be strong or weak , whether they be few or many ; and what
+the land is that they dwell in , whether it be good or bad ; and what
+cities they be that they dwell in , whether in camps , or in
+strong_holds ; <P_13,20N> and what the land is , whether it be fat or
+lean , whether there be wood therein , or not .
+ERV-OLD-1885-1,13,20N.592
+
+And be ye of good courage , ERV-OLD-1885-1,13,20N.593
+
+and bring of the fruit of the land . ERV-OLD-1885-1,13,20N.594
+
+Now the time was the time of the first-ripe {TEXT:firstripe} grapes .
+ERV-OLD-1885-1,13,20N.595
+
+So they went up , ERV-OLD-1885-1,13,20N.596
+
+and spied out the land from the wilderness of Zin unto Rehob , to the
+entering in of Hamath . ERV-OLD-1885-1,13,20N.597
+
+And they went up by the South , ERV-OLD-1885-1,13,20N.598
+
+and came unto Hebron ; ERV-OLD-1885-1,13,20N.599
+
+and Ahiman , Sheshai , and Talmai , the children of Anak , were there .
+ERV-OLD-1885-1,13,20N.600
+
+<paren> Now Hebron was built seven years before Zoan in Egypt .
+<$$paren> ERV-OLD-1885-1,13,20N.601
+
+And they came unto the valley of Eshcol , ERV-OLD-1885-1,13,20N.602
+
+and cut down from thence a branch with one cluster of grapes ,
+ERV-OLD-1885-1,13,20N.603
+
+and they bare it upon a staff between two ; ERV-OLD-1885-1,13,20N.604
+
+<font> they brought <$$font> also of the pomegranates , and of the figs
+. ERV-OLD-1885-1,13,20N.605
+
+That place was called the valley of Eshcol , because of the cluster
+which the children of Israel cut down from thence .
+ERV-OLD-1885-1,13,20N.606
+
+And they returned from spying out the land at the end of forty days .
+ERV-OLD-1885-1,13,20N.607
+
+And they went ERV-OLD-1885-1,13,20N.608
+
+and came to Moses , and to Aaron , and to all the congregation of the
+children of Israel , unto the wilderness of Paran , to Kadesh ;
+ERV-OLD-1885-1,13,20N.609
+
+and brought back word unto them , and unto all the congregation ,
+ERV-OLD-1885-1,13,20N.610
+
+and shewed them the fruit of the land . ERV-OLD-1885-1,13,20N.611
+
+And they told him , ERV-OLD-1885-1,13,20N.612
+
+and said , We came unto the land whither thou sentest us ,
+ERV-OLD-1885-1,13,20N.613
+
+and surely it floweth with milk and honey ; ERV-OLD-1885-1,13,20N.614
+
+and this is the fruit of it . ERV-OLD-1885-1,13,20N.615
+
+Howbeit the people that dwell in the land are strong ,
+ERV-OLD-1885-1,13,20N.616
+
+and the cities are fenced , <font> and <$$font> very great :
+ERV-OLD-1885-1,13,20N.617
+
+and moreover we saw the children of Anak there .
+ERV-OLD-1885-1,13,20N.618
+
+Amalek dwelleth in the land of the South : ERV-OLD-1885-1,13,20N.619
+
+and the Hittite , and the Jebusite , and the Amorite , dwell in the
+mountains : ERV-OLD-1885-1,13,20N.620
+
+and the Canaanite dwelleth by the sea , and along by the side of Jordan
+. ERV-OLD-1885-1,13,20N.621
+
+And Caleb stilled the people before Moses , ERV-OLD-1885-1,13,20N.622
+
+and said , Let us go up at once , and possess it ;
+ERV-OLD-1885-1,13,20N.623
+
+for we are well able to overcome it . ERV-OLD-1885-1,13,20N.624
+
+But the men that went up with him said , We be not able to go up against
+the people ; ERV-OLD-1885-1,13,20N.625
+
+for they are stronger than we . ERV-OLD-1885-1,13,20N.626
+
+And they brought up an evil report of the land which they had spied out
+unto the children of Israel , saying , The land , through which we have
+gone to spy it out , is a land that eateth up the inhabitants thereof ;
+ERV-OLD-1885-1,13,20N.627
+
+and all the people that we saw in it are men of great stature .
+ERV-OLD-1885-1,13,20N.628
+
+And there we saw the Nephilim , the sons of Anak , which come of the
+Nephilim : ERV-OLD-1885-1,13,20N.629
+
+and we were in our own sight as grasshoppers , ERV-OLD-1885-1,13,20N.630
+
+and so we were in their sight . ERV-OLD-1885-1,13,20N.631
+
+<P_14,1N>
+
+And all the congregation lifted up their voice ,
+ERV-OLD-1885-1,14,1N.633
+
+and cried ; ERV-OLD-1885-1,14,1N.634
+
+and the people wept that night . ERV-OLD-1885-1,14,1N.635
+
+And all the children of Israel murmured against Moses and against Aaron
+: ERV-OLD-1885-1,14,1N.636
+
+and the whole congregation said unto them , Would God that we had died
+in the land of Egypt ! ERV-OLD-1885-1,14,1N.637
+
+or would God we had died in this wilderness ! ERV-OLD-1885-1,14,1N.638
+
+And wherefore doth the Lord bring us unto this land , to fall by the
+sword ? ERV-OLD-1885-1,14,1N.639
+
+Our wives and our little ones shall be a prey : ERV-OLD-1885-1,14,1N.640
+
+were it not better for us to return into Egypt ?
+ERV-OLD-1885-1,14,1N.641
+
+And they said one to another , Let us make a captain ,
+ERV-OLD-1885-1,14,1N.642
+
+and let us return into Egypt . ERV-OLD-1885-1,14,1N.643
+
+Then Moses and Aaron fell on their faces before all the assembly of the
+congregation of the children of Israel . ERV-OLD-1885-1,14,1N.644
+
+And Joshua the son of Nun and Caleb the son of Jephunneh , which were of
+them that spied out the land , rent their clothes :
+ERV-OLD-1885-1,14,1N.645
+
+and they spake unto all the congregation of the children of Israel ,
+saying , The land , which we passed through to spy it out , is an
+exceeding good land . ERV-OLD-1885-1,14,1N.646
+
+If the Lord delight in us , then he will bring us into this land , and
+give it unto us ; a land which floweth with milk and honey .
+ERV-OLD-1885-1,14,1N.647
+
+Only rebel not against the Lord , ERV-OLD-1885-1,14,1N.648
+
+neither fear ye the people of the land ; ERV-OLD-1885-1,14,1N.649
+
+for they are bread for us : ERV-OLD-1885-1,14,1N.650
+
+their defence is removed from over them , ERV-OLD-1885-1,14,1N.651
+
+and the Lord is with us : ERV-OLD-1885-1,14,1N.652
+
+fear them not . ERV-OLD-1885-1,14,1N.653
+
+But all the congregation bade stone them with stones .
+ERV-OLD-1885-1,14,1N.654
+
+And the glory of the Lord appeared in the tent of meeting unto all the
+children of Israel . ERV-OLD-1885-1,14,1N.655
+
+And the Lord said unto Moses , How long will this people despise me ?
+ERV-OLD-1885-1,14,1N.656
+
+and how long will they not believe in me , for all the signs which I
+have brought among them ? ERV-OLD-1885-1,14,1N.657
+
+I will smite them with the pestilence , and disinherit them ,
+ERV-OLD-1885-1,14,1N.658
+
+and will make of thee a nation greater and mightier than they .
+ERV-OLD-1885-1,14,1N.659
+
+And Moses said unto the Lord , Then the Egyptians shall hear it ;
+ERV-OLD-1885-1,14,1N.660
+
+for thou broughtest up this people in thy might from among them ;
+ERV-OLD-1885-1,14,1N.661
+
+and they will tell it to the inhabitants of this land :
+ERV-OLD-1885-1,14,1N.662
+
+they have heard that thou Lord art in the midst of this people ;
+ERV-OLD-1885-1,14,1N.663
+
+for thou Lord art seen face to face , ERV-OLD-1885-1,14,1N.664
+
+and thy cloud standeth over them , ERV-OLD-1885-1,14,1N.665
+
+and thou goest before them , in a pillar of cloud by day , and in a
+pillar of fire by night . ERV-OLD-1885-1,14,1N.666
+
+Now if thou shalt kill this people as one man , then the nations which
+have heard the fame of thee will speak , saying , Because the Lord was
+not able to bring this people into the land which he sware unto them ,
+therefore he hath slain them in the wilderness .
+ERV-OLD-1885-1,14,1N.667
+
+And now , I pray thee , let the power of the Lord be great , according
+as thou hath spoken , saying , The Lord is slow to anger , and plenteous
+in mercy , forgiving iniquity and transgression ,
+ERV-OLD-1885-1,14,1N.668
+
+and that will by no means clear <font> the guilty <$$font> ; visiting
+the iniquity of the fathers upon the children , upon the third and upon
+the fourth generation . ERV-OLD-1885-1,14,1N.669
+
+Pardon , I pray thee , the iniquity of this people according unto the
+greatness of thy mercy , and according as thou hast forgiven this people
+, from Egypt even until now . ERV-OLD-1885-1,14,1N.670
+
+<P_14,20N>
+
+And the Lord said , I have pardoned according to thy word :
+ERV-OLD-1885-1,14,20N.672
+
+but in very deed , as I live , and as all the earth shall be filled with
+the glory of the Lord ; because all those men which have seen my glory ,
+and my signs , which I wrought in Egypt and in the wilderness , yet have
+tempted me these ten times , and have not hearkened to my voice ; surely
+they shall not see the land which I sware unto their fathers ,
+ERV-OLD-1885-1,14,20N.673
+
+neither shall any of them that despised me see it :
+ERV-OLD-1885-1,14,20N.674
+
+but my servant Caleb , because he had another spirit with him , and hath
+followed me fully , him will I bring into the land whereinto he went ;
+ERV-OLD-1885-1,14,20N.675
+
+and his seed shall possess it . ERV-OLD-1885-1,14,20N.676
+
+Now the Amalekite and the Canaanite dwell in the valley :
+ERV-OLD-1885-1,14,20N.677
+
+to-morrow turn ye , ERV-OLD-1885-1,14,20N.678
+
+and get you into the wilderness by the way to the Red Sea .
+ERV-OLD-1885-1,14,20N.679
+
+And the Lord spake unto Moses and unto Aaron , saying , How long <font>
+shall I bear <$$font> with this evil congregation , which murmur against
+me ? ERV-OLD-1885-1,14,20N.680
+
+I have heard the murmurings of the children of Israel , which they
+murmur against me . ERV-OLD-1885-1,14,20N.681
+
+Say unto them , As I live , saith the Lord , surely as ye have spoken in
+mine ears , so will I do to you : ERV-OLD-1885-1,14,20N.682
+
+your carcases shall fall in this wilderness ; ERV-OLD-1885-1,14,20N.683
+
+and all that were numbered of you , according to your whole number ,
+from twenty years old and upward , which have murmured against me ,
+surely ye shall not come into the land , concerning which I lifted up my
+hand that I would make you dwell therein , save Caleb the son of
+Jephunneh , and Joshua the son of Nun . ERV-OLD-1885-1,14,20N.684
+
+But your little ones , which ye said should be a prey , them will I
+bring in , ERV-OLD-1885-1,14,20N.685
+
+and they shall know the land which ye have rejected .
+ERV-OLD-1885-1,14,20N.686
+
+But as for you , your carcases shall fall in this wilderness .
+ERV-OLD-1885-1,14,20N.687
+
+And your children shall be wanderers in the wilderness forty years ,
+ERV-OLD-1885-1,14,20N.688
+
+and shall bear your whoredoms , until your carcases be consumed in the
+wilderness . ERV-OLD-1885-1,14,20N.689
+
+After the number of the days in which ye spied out the land , even forty
+days , for every day a year , shall ye bear your iniquities , even forty
+years , ERV-OLD-1885-1,14,20N.690
+
+and ye shall know my alienation . ERV-OLD-1885-1,14,20N.691
+
+I the Lord have spoken , ERV-OLD-1885-1,14,20N.692
+
+surely this will I do unto all this evil congregation , that are
+gathered together against me : ERV-OLD-1885-1,14,20N.693
+
+in this wilderness they shall be consumed , ERV-OLD-1885-1,14,20N.694
+
+and there they shall die . ERV-OLD-1885-1,14,20N.695
+
+And the men , which Moses sent to spy the land , who returned , and made
+all the congregation to murmur against him , by bringing up an evil
+report against the land , even those men that did bring up an evil
+report of the land , died by the plague before the Lord .
+ERV-OLD-1885-1,14,20N.696
+
+But Joshua the son of Nun , and Caleb the son of Jephunneh , remained
+alive of those men that went to spy out the land .
+ERV-OLD-1885-1,14,20N.697
+
+And Moses told these words unto all the children of Israel :
+ERV-OLD-1885-1,14,20N.698
+
+and the people mourned greatly . ERV-OLD-1885-1,14,20N.699
+
+<P_14,40N>
+
+And they rose up early in the morning , ERV-OLD-1885-1,14,40N.701
+
+and got {TEXT:gat} them up to the top of the mountain , saying , Lo , we
+be here , ERV-OLD-1885-1,14,40N.702
+
+and will go up unto the place which the Lord hath promised :
+ERV-OLD-1885-1,14,40N.703
+
+for we have sinned . ERV-OLD-1885-1,14,40N.704
+
+And Moses said , Wherefore now do ye transgress the commandment of the
+Lord , seeing it shall not prosper ? ERV-OLD-1885-1,14,40N.705
+
+Go not up , for the Lord is not among you ; that ye be not smitten down
+before your enemies . ERV-OLD-1885-1,14,40N.706
+
+For there the Amalekite and the Canaanite are before you ,
+ERV-OLD-1885-1,14,40N.707
+
+and ye shall fall by the sword : ERV-OLD-1885-1,14,40N.708
+
+because ye are turned back from following the Lord , therefore the Lord
+will not be with you . ERV-OLD-1885-1,14,40N.709
+
+But they presumed to go up to the top of the mountain :
+ERV-OLD-1885-1,14,40N.710
+
+nevertheless the ark of the covenant of the Lord , and Moses , departed
+not out of the camp . ERV-OLD-1885-1,14,40N.711
+
+Then the Amalekite came down , and the Canaanite which dwelt in that
+mountain , ERV-OLD-1885-1,14,40N.712
+
+and smote them ERV-OLD-1885-1,14,40N.713
+
+and beat them down , even unto Hormah . ERV-OLD-1885-1,14,40N.714
+
+<P_16,1N>
+
+Now Korah , the son of Izhar , the son of Kohath , the son of Levi ,
+with Dathan and Abiram , the sons of Eliab , and On , the son of Peleth
+, sons of Reuben , took <font> men <$$font> : ERV-OLD-1885-1,16,1N.716
+
+and they rose up before Moses , with certain of the children of Israel ,
+two_hundred_and_fifty princes of the congregation , called to the
+assembly , men of renown : ERV-OLD-1885-1,16,1N.717
+
+and they assembled themselves together against Moses and against Aaron ,
+ERV-OLD-1885-1,16,1N.718
+
+and said unto them , Ye take too much upon you , seeing all the
+congregation are holy , every one of them , and the Lord is among them :
+ERV-OLD-1885-1,16,1N.719
+
+wherefore then lift ye up yourselves above the assembly of the Lord ?
+ERV-OLD-1885-1,16,1N.720
+
+And when Moses heard it , he fell upon his face :
+ERV-OLD-1885-1,16,1N.721
+
+and he spake unto Korah and unto all his company , saying , In the
+morning the Lord will shew who are his , and who is holy ,
+ERV-OLD-1885-1,16,1N.722
+
+and will cause him to come near unto him : ERV-OLD-1885-1,16,1N.723
+
+even him whom he shall choose will he cause to come near unto him .
+ERV-OLD-1885-1,16,1N.724
+
+This do ; ERV-OLD-1885-1,16,1N.725
+
+take you censers , Korah , and all his company ;
+ERV-OLD-1885-1,16,1N.726
+
+and put fire therein , ERV-OLD-1885-1,16,1N.727
+
+and put incense upon them before the Lord to-morrow :
+ERV-OLD-1885-1,16,1N.728
+
+and it shall be that the man whom the Lord doth choose , he <font> shall
+be <$$font> holy : ERV-OLD-1885-1,16,1N.729
+
+ye take too much upon you , ye sons of Levi . ERV-OLD-1885-1,16,1N.730
+
+And Moses said unto Korah , Hear now , ye sons of Levi : <font> seemeth
+it but <$$font> a small thing unto you , that the God of Israel hath
+separated you from the congregation of Israel , to bring you near to
+himself ; to do the service of the tabernacle of the Lord , and to stand
+before the congregation to minister unto them ; and that he hath brought
+thee near , and all thy brethren the sons of Levi with thee ?
+ERV-OLD-1885-1,16,1N.731
+
+and seek ye the priesthood also ? ERV-OLD-1885-1,16,1N.732
+
+Therefore thou and all thy company are gathered together against the
+Lord : ERV-OLD-1885-1,16,1N.733
+
+and Aaron , what is he that ye murmur against him ?
+ERV-OLD-1885-1,16,1N.734
+
+And Moses sent to call Dathan and Abiram , the sons of Eliab :
+ERV-OLD-1885-1,16,1N.735
+
+and they said , We will not come up : ERV-OLD-1885-1,16,1N.736
+
+is it a small thing that thou hast brought us up out of a land flowing
+with milk and honey , to kill us in the wilderness ,
+ERV-OLD-1885-1,16,1N.737
+
+but thou must needs make thyself also a prince over us ?
+ERV-OLD-1885-1,16,1N.738
+
+Moreover thou hast not brought us into a land flowing with milk and
+honey , nor given us inheritance of fields and vineyards :
+ERV-OLD-1885-1,16,1N.739
+
+wilt thou put out the eyes of these men ? ERV-OLD-1885-1,16,1N.740
+
+we will not come up . ERV-OLD-1885-1,16,1N.741
+
+And Moses was very wroth , ERV-OLD-1885-1,16,1N.742
+
+and said unto the Lord , Respect not thou their offering :
+ERV-OLD-1885-1,16,1N.743
+
+I have not taken one ass from them , ERV-OLD-1885-1,16,1N.744
+
+neither have I hurt one of them . ERV-OLD-1885-1,16,1N.745
+
+And Moses said unto Korah , Be thou and all thy congregation before the
+Lord , thou , and they , and Aaron , to-morrow :
+ERV-OLD-1885-1,16,1N.746
+
+and take ye every man his censer , ERV-OLD-1885-1,16,1N.747
+
+and put incense upon them , ERV-OLD-1885-1,16,1N.748
+
+and bring ye before the Lord every man his censer ,
+two_hundred_and_fifty censers ; thou also , and Aaron , each his censer
+. ERV-OLD-1885-1,16,1N.749
+
+And they took every man his censer , ERV-OLD-1885-1,16,1N.750
+
+and put fire in them , ERV-OLD-1885-1,16,1N.751
+
+and laid incense thereon , ERV-OLD-1885-1,16,1N.752
+
+and stood at the door of the tent of meeting with Moses and Aaron .
+ERV-OLD-1885-1,16,1N.753
+
+And Korah assembled all the congregation against them unto the door of
+the tent of meeting : ERV-OLD-1885-1,16,1N.754
+
+and the glory of the Lord appeared unto all the congregation .
+ERV-OLD-1885-1,16,1N.755
+
+<P_16,20N>
+
+And the Lord spake unto Moses and unto Aaron , saying , Separate
+yourselves from among this congregation , that I may consume them in a
+moment . ERV-OLD-1885-1,16,20N.757
+
+And they fell upon their faces , ERV-OLD-1885-1,16,20N.758
+
+and said , O God , the God of the spirits of all flesh , shall one man
+sin , ERV-OLD-1885-1,16,20N.759
+
+and wilt thou be wroth with all the congregation ?
+ERV-OLD-1885-1,16,20N.760
+
+And the Lord spake unto Moses , saying , Speak unto the congregation ,
+saying , Get you up from about the tabernacle of Korah , Dathan , and
+Abiram . ERV-OLD-1885-1,16,20N.761
+
+And Moses rose up ERV-OLD-1885-1,16,20N.762
+
+and went unto Dathan and Abiram ; ERV-OLD-1885-1,16,20N.763
+
+and the elders of Israel followed him . ERV-OLD-1885-1,16,20N.764
+
+And he spake unto the congregation , saying , Depart , I pray you , from
+the tents of these wicked men , ERV-OLD-1885-1,16,20N.765
+
+and touch nothing of theirs , lest ye be consumed in all their sins .
+ERV-OLD-1885-1,16,20N.766
+
+So they got {TEXT:gat} them up from the tabernacle of Korah , Dathan ,
+and Abiram , on every side : ERV-OLD-1885-1,16,20N.767
+
+and Dathan and Abiram came out , ERV-OLD-1885-1,16,20N.768
+
+and stood at the door of their tents , and their wives , and their sons
+, and their little ones . ERV-OLD-1885-1,16,20N.769
+
+And Moses said , Hereby ye shall know that the Lord hath sent me to do
+all these works ; ERV-OLD-1885-1,16,20N.770
+
+for <font> I have <$$font> not <font> done them <$$font> of mine own
+mind . ERV-OLD-1885-1,16,20N.771
+
+If these men die the common death of all men , or if they be visited
+after the visitation of all men ; then the Lord hath not sent me .
+ERV-OLD-1885-1,16,20N.772
+
+But if the Lord make a new thing , and the ground open her mouth , and
+swallow them up , with all that appertain unto them , and they go down
+alive into the pit ; then ye shall understand that these men have
+despised the Lord . ERV-OLD-1885-1,16,20N.773
+
+And it came to pass , as he made an end of speaking all these words ,
+that the ground clave asunder that was under them :
+ERV-OLD-1885-1,16,20N.774
+
+and the earth opened her mouth , ERV-OLD-1885-1,16,20N.775
+
+and swallowed them up , and their households , and all the men that
+appertained unto Korah , and all their goods .
+ERV-OLD-1885-1,16,20N.776
+
+So they , and all that appertained to them , went down alive into the
+pit : ERV-OLD-1885-1,16,20N.777
+
+and the earth closed upon them , ERV-OLD-1885-1,16,20N.778
+
+and they perished from among the assembly . ERV-OLD-1885-1,16,20N.779
+
+And all Israel that were round about them fled at the cry of them :
+ERV-OLD-1885-1,16,20N.780
+
+for they said , Lest the earth swallow us up .
+ERV-OLD-1885-1,16,20N.781
+
+And fire came forth from the Lord , ERV-OLD-1885-1,16,20N.782
+
+and devoured the two_hundred_and_fifty men that offered the incense .
+ERV-OLD-1885-1,16,20N.783
+
+And the Lord spake unto Moses , saying , Speak unto Eleazar the son of
+Aaron the priest , that he take up the censers out of the burning ,
+ERV-OLD-1885-1,16,20N.784
+
+and scatter thou the fire yonder ; ERV-OLD-1885-1,16,20N.785
+
+for they are holy ; even the censers of these sinners against their own
+lives , ERV-OLD-1885-1,16,20N.786
+
+and let them be made beaten plates for a covering of the altar :
+ERV-OLD-1885-1,16,20N.787
+
+for they offered them before the Lord , ERV-OLD-1885-1,16,20N.788
+
+therefore they are holy : ERV-OLD-1885-1,16,20N.789
+
+and they shall be a sign unto the children of Israel .
+ERV-OLD-1885-1,16,20N.790
+
+And Eleazar the priest took the brazen {TEXT:brasen} censers , which
+they that were burnt had offered ; ERV-OLD-1885-1,16,20N.791
+
+and they beat them out for a covering of the altar : <P_16,40N> to be a
+memorial unto the children of Israel , to the end that no stranger ,
+which is not of the seed of Aaron , come near to burn incense before the
+Lord ; that he be not as Korah , and as his company : as the Lord spake
+unto him by the hand of Moses . ERV-OLD-1885-1,16,40N.792
+
+But on the morrow all the congregation of the children of Israel
+murmured against Moses and against Aaron , saying , Ye have killed the
+people of the Lord . ERV-OLD-1885-1,16,40N.793
+
+And it came to pass , when the congregation was assembled against Moses
+and against Aaron , that they looked toward the tent of meeting :
+ERV-OLD-1885-1,16,40N.794
+
+and , behold , the cloud covered it , ERV-OLD-1885-1,16,40N.795
+
+and the glory of the Lord appeared . ERV-OLD-1885-1,16,40N.796
+
+And Moses and Aaron came to the front of the tent of meeting .
+ERV-OLD-1885-1,16,40N.797
+
+And the Lord spake unto Moses , saying , Get you up from among this
+congregation , that I may consume them in a moment .
+ERV-OLD-1885-1,16,40N.798
+
+And they fell upon their faces . ERV-OLD-1885-1,16,40N.799
+
+And Moses said unto Aaron , Take thy censer , ERV-OLD-1885-1,16,40N.800
+
+and put fire therein from off the altar , ERV-OLD-1885-1,16,40N.801
+
+and lay incense thereon , ERV-OLD-1885-1,16,40N.802
+
+and carry it quickly unto the congregation , ERV-OLD-1885-1,16,40N.803
+
+and make atonement for them : ERV-OLD-1885-1,16,40N.804
+
+for there is wrath gone out from the Lord ; ERV-OLD-1885-1,16,40N.805
+
+the plague is begun . ERV-OLD-1885-1,16,40N.806
+
+And Aaron took as Moses spake , ERV-OLD-1885-1,16,40N.807
+
+and ran into the midst of the assembly ; ERV-OLD-1885-1,16,40N.808
+
+and , behold , the plague was begun among the people :
+ERV-OLD-1885-1,16,40N.809
+
+and he put on the incense , ERV-OLD-1885-1,16,40N.810
+
+and made atonement for the people . ERV-OLD-1885-1,16,40N.811
+
+And he stood between the dead and the living ; ERV-OLD-1885-1,16,40N.812
+
+and the plague was stayed . ERV-OLD-1885-1,16,40N.813
+
+Now they that died by the plague were
+fourteen_thousand_and_seven_hundred , besides them that died about the
+matter of Korah . ERV-OLD-1885-1,16,40N.814
+
+And Aaron returned unto Moses unto the door of the tent of meeting :
+ERV-OLD-1885-1,16,40N.815
+
+and the plague was stayed . ERV-OLD-1885-1,16,40N.816
+
+<P_17,1N>
+
+And the Lord spake unto Moses , saying , Speak unto the children of
+Israel , ERV-OLD-1885-1,17,1N.818
+
+and take of them rods , one for each father's {TEXT:fathers'} house , of
+all their princes according to their fathers' houses , twelve rods :
+ERV-OLD-1885-1,17,1N.819
+
+write thou every man's name upon his rod . ERV-OLD-1885-1,17,1N.820
+
+And thou shalt write Aaron's name upon the rod of Levi :
+ERV-OLD-1885-1,17,1N.821
+
+for there shall be one rod for each head of their fathers' houses .
+ERV-OLD-1885-1,17,1N.822
+
+And thou shalt lay them up in the tent of meeting before the testimony ,
+where I meet with you . ERV-OLD-1885-1,17,1N.823
+
+And it shall come to pass , that the man whom I shall choose , his rod
+shall bud : ERV-OLD-1885-1,17,1N.824
+
+and I will make to cease from me the murmurings of the children of
+Israel , which they murmur against you . ERV-OLD-1885-1,17,1N.825
+
+And Moses spake unto the children of Israel , ERV-OLD-1885-1,17,1N.826
+
+and all their princes gave him rods , for each prince one , according to
+their fathers' houses , even twelve rods : ERV-OLD-1885-1,17,1N.827
+
+and the rod of Aaron was among their rods . ERV-OLD-1885-1,17,1N.828
+
+And Moses laid up the rods before the Lord in the tent of the testimony
+. ERV-OLD-1885-1,17,1N.829
+
+And it came to pass on the morrow , that Moses went into the tent of the
+testimony ; ERV-OLD-1885-1,17,1N.830
+
+and , behold , the rod of Aaron for the house of Levi was budded ,
+ERV-OLD-1885-1,17,1N.831
+
+and put forth buds , ERV-OLD-1885-1,17,1N.832
+
+and bloomed blossoms , ERV-OLD-1885-1,17,1N.833
+
+and bare ripe almonds . ERV-OLD-1885-1,17,1N.834
+
+And Moses brought out all the rods from before the Lord unto all the
+children of Israel : ERV-OLD-1885-1,17,1N.835
+
+and they looked , ERV-OLD-1885-1,17,1N.836
+
+and took every man his rod . ERV-OLD-1885-1,17,1N.837
+
+And the Lord said unto Moses , Put back the rod of Aaron before the
+testimony , to be kept for a token against the children of rebellion ;
+that thou mayest make an end of their murmurings against me , that they
+die not . ERV-OLD-1885-1,17,1N.838
+
+Thus did Moses : ERV-OLD-1885-1,17,1N.839
+
+as the Lord commanded him , so did he . ERV-OLD-1885-1,17,1N.840
+
+And the children of Israel spake unto Moses , saying , Behold , we
+perish , ERV-OLD-1885-1,17,1N.841
+
+we are undone , ERV-OLD-1885-1,17,1N.842
+
+we are all undone . ERV-OLD-1885-1,17,1N.843
+
+Every one that cometh near , that cometh near unto the tabernacle of the
+Lord , dieth : ERV-OLD-1885-1,17,1N.844
+
+shall we perish all of us ? ERV-OLD-1885-1,17,1N.845
+

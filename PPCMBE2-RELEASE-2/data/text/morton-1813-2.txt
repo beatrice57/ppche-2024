@@ -1,0 +1,3020 @@
+<BEGIN_morton-1813-2>
+
+<P_1>
+
+<heading>
+
+Education MORTON-1813-2,1.4
+
+Act I . MORTON-1813-2,1.5
+
+Scene I . MORTON-1813-2,1.6
+
+- <font> A Hall in Templeton's House . MORTON-1813-2,1.7
+
+A Knocking at the Door . MORTON-1813-2,1.8
+
+- Servant crosses the Stages - MORTON-1813-2,1.9
+
+returns , followed by <$$font> Damper . MORTON-1813-2,1.10
+
+<$$heading>
+
+Damper . Is Mr. Templeton within ? MORTON-1813-2,1.12
+
+<font> Serv. <$$font> The favour of your name , Sir ?
+MORTON-1813-2,1.13
+
+<paren> Damper <font> gives a card <$$paren> <$$font> MORTON-1813-2,1.14
+
+Mr. Damper - he is not , Sir ? MORTON-1813-2,1.15
+
+<font> Damp. <$$font> Pugh , pugh ! I@ @'m his intimate friend .
+MORTON-1813-2,1.16
+
+<font> Serv. <$$font> Oh no , Sir - there you@ @'ll pardon me -
+MORTON-1813-2,1.17
+
+I keep a most accurate list of my master and mistress@ @'s friends
+<font> <paren> shewing a Book <$$paren> <$$font> . MORTON-1813-2,1.18
+
+<font> Damp. <$$font> Indeed ! a convenient sort of reference ;
+MORTON-1813-2,1.19
+
+for to know friends , as times go , is no very easy matter .
+MORTON-1813-2,1.20
+
+Hark you , fellow ; MORTON-1813-2,1.21
+
+tell your master that Mr. Damper from Lombard-street - a stranger to
+his present fashionable nomenclature , but one who formerly was in his
+books - insists on seeing him instantly . MORTON-1813-2,1.22
+
+<font> Serv. <$$font> Sir , I shall give in your ticket ;
+MORTON-1813-2,1.23
+
+but making speeches is not in my department . MORTON-1813-2,1.24
+
+<font> Damp. <$$font> Indeed ! then I presume you {TEXT:your} are what
+is called a figure footman , and hired by measure - MORTON-1813-2,1.25
+
+<font> <paren> Servant bows <$$paren> . <$$font> MORTON-1813-2,1.26
+
+Six feet of more accomplished assurance I never looked up to .
+MORTON-1813-2,1.27
+
+<font> Serv. <$$font> You are pleased to flatter . MORTON-1813-2,1.28
+
+<font> Damp. <$$font> But if the distance across your shoulders was not
+included in the estimate - here is a measure <P_2> <font> <paren>
+shewing a cane <$$paren> <$$font> that will in one moment ascertain it ,
+unless you exactly obey my orders . MORTON-1813-2,2.29
+
+<bracket> <font> Exit <$$font> Servant . <$$bracket> MORTON-1813-2,2.30
+
+Bad memories indeed - when friends can@ @not be remembered without book
+. MORTON-1813-2,2.31
+
+- When in London and in active life he was above these modern fopperies
+; MORTON-1813-2,2.32
+
+but a young gay wife sadly alters your middle_aged gentleman .
+MORTON-1813-2,2.33
+
+<font> Enter <$$font> Mr. Templeton <font> and <$$font> Servant .
+MORTON-1813-2,2.34
+
+Templeton ! heartily glad to see you . MORTON-1813-2,2.35
+
+<font> Temp. <$$font> What , my old partner Damper !
+MORTON-1813-2,2.36
+
+- welcome to Leicestershire - thrice welcome , my worthiest friend !
+MORTON-1813-2,2.37
+
+<font> Damp. <paren> To Serv. <$$paren> <$$font> Do you hear ?
+MORTON-1813-2,2.38
+
+his worthiest friend ! MORTON-1813-2,2.39
+
+- Book me - MORTON-1813-2,2.40
+
+<bracket> <font> Exit Serv. <$$font> <$$bracket> . MORTON-1813-2,2.41
+
+You look tolerably hearty and cheerful - MORTON-1813-2,2.42
+
+but - MORTON-1813-2,2.43
+
+<font> Temp . <$$font> But ! MORTON-1813-2,2.44
+
+- Oh , old Damper still , I see - MORTON-1813-2,2.45
+
+When will you leave your vile buts , and doubts , and perhaps's .
+MORTON-1813-2,2.46
+
+<font> Damp. <$$font> When my friend's conduct no longer requires them
+- MORTON-1813-2,2.47
+
+perhaps yours do@ @n't : MORTON-1813-2,2.48
+
+- but - you are married again , I hear ? MORTON-1813-2,2.49
+
+<font> Temp. <$$font> To a woman I adore . MORTON-1813-2,2.50
+
+<font> Damp. <$$font> Poor fellow - when the diseases of children
+attack maturity , they always rage with redoubled violence .
+MORTON-1813-2,2.51
+
+<font> Temp. <$$font> Marriage , believe me , is the end of life .
+MORTON-1813-2,2.52
+
+<font> Damp. <$$font> I believe it would be the end of mine .
+MORTON-1813-2,2.53
+
+So you adore the charms of this Venus , eh ? MORTON-1813-2,2.54
+
+<font> Temp. <$$font> I do indeed . MORTON-1813-2,2.55
+
+<font> Damp. <$$font> Perhaps she adores you for the same cause , eh ,
+my Adonis of half a century ! - ha ! ha ! MORTON-1813-2,2.56
+
+<font> Temp. <$$font> No , no - yet gratitude for my affection - my
+attention to her happiness - the affluence I placed her in -
+MORTON-1813-2,2.57
+
+<font> Damp. <$$font> True ; MORTON-1813-2,2.58
+
+when fifty and twenty match , 't@ @is a sort of give-and-take race ,
+MORTON-1813-2,2.59
+
+and you are expected to carry weight for age . MORTON-1813-2,2.60
+
+So my old friend is as happy as I could wish him ? MORTON-1813-2,2.61
+
+<P_3>
+
+<font> Temp. <$$font> Yes , exceedingly - very - reasonably happy -
+tolerably happy - certainly - but - MORTON-1813-2,3.63
+
+<font> Damp. <paren> aside <$$paren> <$$font> So I have brought <font>
+him <$$font> to his <font> buts . <$$font> MORTON-1813-2,3.64
+
+<font> Temp. <$$font> Perfection , you know , my dear Damper , is -
+<font> Damp. <$$font> Fortunately not necessary to human happiness .
+MORTON-1813-2,3.65
+
+<font> Temp. <$$font> Certainly not ; but - MORTON-1813-2,3.66
+
+<font> Damp. <paren> aside <$$paren> <$$font> Zounds , again -
+MORTON-1813-2,3.67
+
+Come , out with the worst . MORTON-1813-2,3.68
+
+<font> Temp. <$$font> Then the worst is , that Mrs. Templeton has had
+a perverted modern education : MORTON-1813-2,3.69
+
+- for in our stylish manufactories of female attainments , the Muses and
+Graces so struggle for precedency , that the unassuming domestic virtues
+are completely jostled into a corner ; MORTON-1813-2,3.70
+
+- and from this <font> magazin a_la_mode <$$font> issues an abundant
+supply of female poets , artists , attitudinarians , philosophizing
+daughters , waltzing wives , and infidel mothers . MORTON-1813-2,3.71
+
+<font> Damp. <$$font> The effects on Mrs. Templeton - <font> Temp.
+<$$font> Are an active taste for expense , with a decided averseness
+from all household duties , produced by the indolent and deceptive
+spirit of procrastination ; which , pregnant with the productions of
+to-morrow , leaves to-day barren and comfortless ; MORTON-1813-2,3.72
+
+and while we abound in economical theories , we are ruined by unthrifty
+practice : - so that in Mrs. Templeton's boudoir {TEXT:boidoir} you may
+see the Lady's best Companion entombed in the dust it aims to sweep away
+; while a satirical spider has drawn his web over the Complete Housewife
+. MORTON-1813-2,3.73
+
+- And thus to-morrow , to-morrow , and to-morrow - MORTON-1813-2,3.74
+
+<font> Damp. <$$font> Come , come . MORTON-1813-2,3.75
+
+- Considering the bad culture of the soil , the produce might have been
+worse . MORTON-1813-2,3.76
+
+<font> Temp. <$$font> Very true , indeed : - but - MORTON-1813-2,3.77
+
+<font> Damp. <$$font> Zounds , again ! - <font> <paren> aside .
+<$$paren> <$$font> MORTON-1813-2,3.78
+
+<font> Temp. <$$font> You must know I was captivated with <P_4> her
+eyes - brilliant , fascinating , penetrating - and - and -
+MORTON-1813-2,4.79
+
+<font> Damp. <$$font> I@ @'ll finish the sentence - MORTON-1813-2,4.80
+
+their brilliancy blinded you to her imperfections , while their keenness
+enabled her to discover yours . MORTON-1813-2,4.81
+
+<font> Temp. <$$font> Rather so - yes . MORTON-1813-2,4.82
+
+- And , between ourselves , a priest of the sun is not required to offer
+more frequent incense to his idol , than I am to their effulgence .
+MORTON-1813-2,4.83
+
+She@ @'s here . MORTON-1813-2,4.84
+
+<font> Damp. <$$font> A fine woman , faith . MORTON-1813-2,4.85
+
+- I@ @'m afraid of these dazzling eyes - MORTON-1813-2,4.86
+
+a <font> coup_de_soleil <$$font> might be fatal . MORTON-1813-2,4.87
+
+- I had better go . MORTON-1813-2,4.88
+
+<font> Temp. <$$font> Go , my friend ! MORTON-1813-2,4.89
+
+<font> Damp. <$$font> I ca@ @n't administer to vanity , not I ;
+MORTON-1813-2,4.90
+
+- besides , I@ @'m in <font> deshabille . <$$font> MORTON-1813-2,4.91
+
+- Oh ! here@ @'s a glass to adjust my wig and cravat by <font> <paren>
+goes to a glass <$$paren> . <$$font> MORTON-1813-2,4.92
+
+Personal vanity I abominate , friend Templeton , MORTON-1813-2,4.93
+
+and few are to be found without it - <font> <paren> adjusting his figure
+in the glass <$$paren> . <$$font> MORTON-1813-2,4.94
+
+<font> Temp. <$$font> Very few , indeed . MORTON-1813-2,4.95
+
+<font> <paren> Mrs. Templeton without <$$paren> <$$font> - Pray , do@
+@n't tease {TEXT:teaze} me now ; MORTON-1813-2,4.96
+
+tell them all to be sure and come tomorrow . MORTON-1813-2,4.97
+
+- <font> <paren> Enters <$$paren> . <$$font> MORTON-1813-2,4.98
+
+My dear Mr. Templeton , you@ @'ll be delighted with the guest your son
+Vincent has introduced . MORTON-1813-2,4.99
+
+<font> Temp. <$$font> You mean Mr. Aspic . MORTON-1813-2,4.100
+
+<font> Mrs. Temp. <$$font> Such commanding talents , such superior
+taste - MORTON-1813-2,4.101
+
+he has found fault with every thing he has seen ; MORTON-1813-2,4.102
+
+and has pronounced the house and grounds so detestable , that I ca@ @n't
+endure the sight of them : MORTON-1813-2,4.103
+
+- how obliging it is of him ! MORTON-1813-2,4.104
+
+<font> Temp. <$$font> Extremely . MORTON-1813-2,4.105
+
+<font> Mrs. T. <$$font> We@ @'ve laid such delightful plans :
+MORTON-1813-2,4.106
+
+- the house is to come down , the farm to be parked , and the meadows to
+be put under water . MORTON-1813-2,4.107
+
+- Now , my love , you@ @'ll have no trouble - <font> Temp. <$$font>
+Except the slight trouble of paying for it . MORTON-1813-2,4.108
+
+<font> Mrs. T. <$$font> Oh , but Mr. Aspic says people of <P_5> taste
+never think about that : MORTON-1813-2,5.109
+
+so I shall give order to begin . MORTON-1813-2,5.110
+
+<font> Temp. <$$font> When , my dear ? MORTON-1813-2,5.111
+
+<font> Mrs. T. <$$font> Oh , to-morrow . MORTON-1813-2,5.112
+
+<font> Temp. <$$font> Then all@ @'s safe <font> <paren> aside <$$paren>
+. <$$font> MORTON-1813-2,5.113
+
+<font> Mrs. T. <$$font> Who is that odd man ? MORTON-1813-2,5.114
+
+<font> Temp. <$$font> My late partner , who , contented with competence
+, retired - MORTON-1813-2,5.115
+
+<font> <paren> Damper advances <$$paren> . <$$font> MORTON-1813-2,5.116
+
+My love , I am happy to afford you the gratification of making welcome
+my friend Mr. Damper . MORTON-1813-2,5.117
+
+<font> Mrs. T. <$$font> The possessor of that title must be
+interesting in my <font> eyes . <$$font> MORTON-1813-2,5.118
+
+<font> Damp. <$$font> Eyes already ! <font> <paren> aside . <$$paren>
+<$$font> MORTON-1813-2,5.119
+
+<font> Mrs. T. <$$font> To see a friend of Mr. Templeton's is highly
+gratifying . MORTON-1813-2,5.120
+
+<font> Temp. <paren> to Damper <$$paren> <$$font> Do you mark the
+emphasis ? MORTON-1813-2,5.121
+
+<font> Mrs. T. <$$font> But in glancing over our list I have not
+observed your name : MORTON-1813-2,5.122
+
+but my tall man is shockingly inaccurate . MORTON-1813-2,5.123
+
+Do you know last winter , Sir , he told me I was quite intimate with
+Lady Paramount - MORTON-1813-2,5.124
+
+but in making her a visit , the old Goth denied the least knowledge of
+me . MORTON-1813-2,5.125
+
+I wish some of the Society of Arts@ @' people would offer a premium for
+the best system of visiting one's friends . MORTON-1813-2,5.126
+
+- Could not you book-keeping gentlemen deserve well of your country by
+some plan ? MORTON-1813-2,5.127
+
+- <font> Damp. <$$font> Why really I do@ @n't see why the merchandise
+of fashionable arrangements should be without its ledger , though it
+might be difficult to post some things to the credit of the account .
+MORTON-1813-2,5.128
+
+<font> Mrs. T. <$$font> Ha , ha ! MORTON-1813-2,5.129
+
+<font> Damp. <$$font> Then as your time is so precious , what think you
+, madam , of a subscription for a west-end of the town clearing house ,
+where these worsted lace representatives of our nobility might assemble
+for the exchange of accepted calls , dishonoured invitations , and the
+quick transfer of the paper currency of polite accommodation
+MORTON-1813-2,5.130
+
+<P_6>
+
+<font> Mrs. T. <$$font> Delightful ! MORTON-1813-2,6.132
+
+- the tunnels and auction marts in real utility would be nothing to it .
+MORTON-1813-2,6.133
+
+I@ @'ll positively write to town about it to-morrow .
+MORTON-1813-2,6.134
+
+- Oh , there@ @'s Mr. Aspic ! MORTON-1813-2,6.135
+
+<font> Damp. <$$font> Who ? MORTON-1813-2,6.136
+
+<font> Mrs. T. <$$font> Mr. Aspic ! MORTON-1813-2,6.137
+
+- If you do@ @n't know him , I@ @'ll make you acquainted .
+MORTON-1813-2,6.138
+
+<font> Damp. <$$font> I will not be acquainted , madam , because I do
+know him . MORTON-1813-2,6.139
+
+<font> Mrs. T. <$$font> Are you aware that he writes in the Tenterhook
+Review , is a caricaturist , and the author of the severest satirical
+novels ? MORTON-1813-2,6.140
+
+- 'T@ @is highly dangerous not to be well with him .
+MORTON-1813-2,6.141
+
+<font> Damp. <$$font> A pleasant recommendation , truly .
+MORTON-1813-2,6.142
+
+<font> Mrs. T. <$$font> Well , I must away - MORTON-1813-2,6.143
+
+I@ @'ve a_thousand things to arrange for to-morrow .
+MORTON-1813-2,6.144
+
+I hope I may look forward , Sir , to a long visit ? MORTON-1813-2,6.145
+
+<font> Damp. <$$font> I shall not have the temerity to promise that -
+MORTON-1813-2,6.146
+
+you may not like me a little , MORTON-1813-2,6.147
+
+and I may like you too much . MORTON-1813-2,6.148
+
+<font> Mrs. T. <$$font> Oh , I shall wink at that .
+MORTON-1813-2,6.149
+
+<font> Damp. <$$font> Closing those eyes is certainly the best way to
+secure my safety . MORTON-1813-2,6.150
+
+<font> Mrs. T. <$$font> Pshaw ! Templeton can tell you how I hate all
+that . MORTON-1813-2,6.151
+
+<font> Damp. <$$font> He has . MORTON-1813-2,6.152
+
+<font> Mrs. T. <$$font> I@ @'m too clear-sighted to be deceived by
+such flattery , I assure you . MORTON-1813-2,6.153
+
+- Adieu ! MORTON-1813-2,6.154
+
+<font> <paren> Exit . <$$paren> <$$font> MORTON-1813-2,6.155
+
+<font> Damp. <$$font> Rid your house of that fellow - that Aspic .
+MORTON-1813-2,6.156
+
+He@ @'s another instance of the blessed effects of modern education ,
+which has armed every witling with the weapons of personal satire :
+MORTON-1813-2,6.157
+
+- for now , cities are visited , MORTON-1813-2,6.158
+
+tours are made , not to paint the world's beauties , but to caricature
+its pitiable deformities ; not to cull the sweets of nature , but to
+collect the poison of defamation - not to bestow instruction , but to
+purvey to the insatiable appetite of slander , and teach the rising
+generation to " prey on garbage . " MORTON-1813-2,6.159
+
+- But where@ @'s your son Vincent ? MORTON-1813-2,6.160
+
+<P_7>
+
+<font> Temp. <$$font> I see little of him - MORTON-1813-2,7.162
+
+he@ @'s all abstraction . MORTON-1813-2,7.163
+
+<font> Damp. <$$font> Do him justice , MORTON-1813-2,7.164
+
+he@ @'s all one thing , or all t'other - MORTON-1813-2,7.165
+
+he@ @'s no retailer of the passions . MORTON-1813-2,7.166
+
+You gave him the rein too soon . MORTON-1813-2,7.167
+
+<font> Temp. <$$font> Too soon ! MORTON-1813-2,7.168
+
+Did not he carry off the prize at school ? MORTON-1813-2,7.169
+
+<font> Damp. <$$font> And did not he carry off the bedmaker's daughter
+with it ? MORTON-1813-2,7.170
+
+<font> Temp. <$$font> Did not his calculations make him a wrangler at
+Cambridge ? <font> Damp. <$$font> And a tame pigeon at the club at St.
+James's . MORTON-1813-2,7.171
+
+- When he came to town he was all business : MORTON-1813-2,7.172
+
+- he involved the house in speculations , MORTON-1813-2,7.173
+
+then he was all extravagance - MORTON-1813-2,7.174
+
+things went wrong , MORTON-1813-2,7.175
+
+then he was all rage - MORTON-1813-2,7.176
+
+that subsided , MORTON-1813-2,7.177
+
+then he was all indolence . MORTON-1813-2,7.178
+
+<font> Temp. <$$font> That accounts for his conduct -
+MORTON-1813-2,7.179
+
+he avoids me . MORTON-1813-2,7.180
+
+<font> Damp. <$$font> Perhaps not ; MORTON-1813-2,7.181
+
+for here he comes . MORTON-1813-2,7.182
+
+<font> Temp. <$$font> Indeed ! MORTON-1813-2,7.183
+
+I@ @'ll speak to him . MORTON-1813-2,7.184
+
+<font> Damp. <$$font> Perhaps I had better do so ; MORTON-1813-2,7.185
+
+your tenderness may overcome your fortitude . MORTON-1813-2,7.186
+
+<font> Temp. <$$font> True , MORTON-1813-2,7.187
+
+and your fortitude is in no such danger . MORTON-1813-2,7.188
+
+<font> Damp. <$$font> Humph ! Perhaps 't@ @is tenderness for you both
+makes me ask it . MORTON-1813-2,7.189
+
+<font> Temp. <$$font> True , true , my friend ; MORTON-1813-2,7.190
+
+grant me your pardon ! MORTON-1813-2,7.191
+
+<font> Damp. <$$font> On condition you take it away with you instantly
+. MORTON-1813-2,7.192
+
+<bracket> <font> Exit <$$font> Templeton . MORTON-1813-2,7.193
+
+<font> Enter <$$font> Vincent Templeton . MORTON-1813-2,7.194
+
+<font> Vinc. <$$font> Hey day , Damper ! MORTON-1813-2,7.195
+
+- what rare occurrence brought you here ? MORTON-1813-2,7.196
+
+<font> Damp. <$$font> A very rare one , I assure you - friendship .
+MORTON-1813-2,7.197
+
+<font> Vinc. <$$font> 'T@ @is always under the sanction of that name
+that grumblers annoy society . MORTON-1813-2,7.198
+
+- Now for a lecture as long as a tailor's bill . MORTON-1813-2,7.199
+
+<font> Damp. <$$font> That is unnecessary , when the total may be
+expressed in one word - economy ! MORTON-1813-2,7.200
+
+<P_8>
+
+<font> Vinc. <$$font> I@ @'m its slave ; MORTON-1813-2,8.202
+
+have not I sold my barouche and stud ? <font> Damp. <$$font> And lost
+the produce at <font> Maccaw . <$$font> MORTON-1813-2,8.203
+
+<font> Vinc. <$$font> That was unlucky ; MORTON-1813-2,8.204
+
+but have not I discharged my lodgings ? MORTON-1813-2,8.205
+
+<font> Damp. <$$font> What at Farmer Broadcast's ? MORTON-1813-2,8.206
+
+<font> Vinc. <$$font> Confusion ! MORTON-1813-2,8.207
+
+what do you mean , Sir ? MORTON-1813-2,8.208
+
+<font> Damp. <$$font> Generally what I say - MORTON-1813-2,8.209
+
+Poor Rosine ! MORTON-1813-2,8.210
+
+<font> Vinc. <$$font> Ah , her name ! MORTON-1813-2,8.211
+
+If you betray me ! MORTON-1813-2,8.212
+
+<font> Damp. <$$font> Young man , if you despise the character of a
+betrayer as much as I do , virtue and secrecy will be equally sacred .
+MORTON-1813-2,8.213
+
+<font> Vinc. <$$font> Rosine's virtue is sacred , MORTON-1813-2,8.214
+
+and he merits chastisement that suspects it . MORTON-1813-2,8.215
+
+<font> Damp. <$$font> And what does he merit who placed her in a
+situation to justify suspicion . MORTON-1813-2,8.216
+
+<font> Vinc. <$$font> ' Sdeath , how could you learn ?
+MORTON-1813-2,8.217
+
+<font> Damp. <$$font> Was it likely that a beautiful and accomplished
+woman from a fashionable seminary should disappear without inquiry -
+without wonder - without sorrow ? MORTON-1813-2,8.218
+
+<font> Vinc. <$$font> Pshaw ! I@ @'m weary of your croaking .
+MORTON-1813-2,8.219
+
+<font> Damp. <$$font> Yet the raven must breathe a hoarser note - your
+father - MORTON-1813-2,8.220
+
+<font> Vinc. <paren> Alarmed <$$paren> <$$font> What of him ?
+MORTON-1813-2,8.221
+
+<font> Damp. <$$font> Is on the brink of ruin . MORTON-1813-2,8.222
+
+<font> Vinc. <$$font> Ruin ! MORTON-1813-2,8.223
+
+<font> Damp. <$$font> I fear inevitable ruin . MORTON-1813-2,8.224
+
+<font> Vinc. <$$font> I dread to ask the cause . MORTON-1813-2,8.225
+
+<font> Damp. <$$font> His son's indiscretion . MORTON-1813-2,8.226
+
+<font> Vinc. <$$font> Oh , save me from that thought !
+MORTON-1813-2,8.227
+
+- May dishonour blast me , if the life he gave me is so precious as my
+dear father's happiness ! MORTON-1813-2,8.228
+
+- Let me fly to him . MORTON-1813-2,8.229
+
+<font> Damp. <$$font> Hold ! MORTON-1813-2,8.230
+
+he is as yet unacquainted with his situation - MORTON-1813-2,8.231
+
+I am by his partners intrusted with the secret . MORTON-1813-2,8.232
+
+Is this estate large ? MORTON-1813-2,8.233
+
+<font> Vinc. <$$font> Very . MORTON-1813-2,8.234
+
+<font> Damp. <$$font> It must go . MORTON-1813-2,8.235
+
+<font> Vinc. <$$font> It will destroy him . MORTON-1813-2,8.236
+
+<font> Damp. <$$font> Has he other resources ? MORTON-1813-2,8.237
+
+<P_9>
+
+<font> Vinc. <$$font> His expenditure is very ample .
+MORTON-1813-2,9.239
+
+I hope he has - MORTON-1813-2,9.240
+
+senseless prodigal ! unfeeling son ! MORTON-1813-2,9.241
+
+<font> Damp. <$$font> Vincent , come hither . MORTON-1813-2,9.242
+
+- I see in your countenance the expression of sincere sorrow ,
+MORTON-1813-2,9.243
+
+and your eye is illumined with the benign lustre of filial love .
+MORTON-1813-2,9.244
+
+- Here@ @'s my hand - MORTON-1813-2,9.245
+
+the blood that animates it is not propelled from an unfeeling heart .
+MORTON-1813-2,9.246
+
+- Your father shall not fall , while old Damper can buy a crutch to
+sustain him . MORTON-1813-2,9.247
+
+- Come , come - MORTON-1813-2,9.248
+
+though I sometimes depress the buoyancy of unfeeling prosperity , I hope
+I am always willing to lift up the desponding . MORTON-1813-2,9.249
+
+- All may yet be well . MORTON-1813-2,9.250
+
+<font> Vinc. <$$font> Here comes my mother-in-law with Aspic .
+MORTON-1813-2,9.251
+
+- I would avoid them . MORTON-1813-2,9.252
+
+<font> Damp. <$$font> Avoid your friend ! MORTON-1813-2,9.253
+
+<font> Vinc. <$$font> Not my friend ; but his knowledge of the world .
+MORTON-1813-2,9.254
+
+<font> Damp. <$$font> The man that shuts his heart against every
+valuable feeling , finds his excuse in this boasted knowledge of the
+world . MORTON-1813-2,9.255
+
+- It is often the purchase of prudence at the expense of virtue ,
+MORTON-1813-2,9.256
+
+and implies a devotion of the mind to the detection of low cunning ,
+intrigue , and self interest ; MORTON-1813-2,9.257
+
+- the pure and elevated dignity of genius looks above these contemptible
+arts . MORTON-1813-2,9.258
+
+- Dismiss him from your counsels . MORTON-1813-2,9.259
+
+<font> Vinc. <$$font> I@ @'ve sometimes courted the Muses , and his
+favour - MORTON-1813-2,9.260
+
+<font> Damp. <$$font> That writer neither consults his interest nor his
+honour who seeks any favour but that of the public .
+MORTON-1813-2,9.261
+
+In their candour will his weakness find the securest shelter -
+MORTON-1813-2,9.262
+
+in the sunshine of their favour only can the wreath blossom that is to
+crown his honourable exertions . MORTON-1813-2,9.263
+
+<bracket> <font> Exeunt . <$$font> MORTON-1813-2,9.264
+
+<heading>
+
+Scene II . MORTON-1813-2,9.266
+
+- <font> A Library of Mr. Templeton's - MORTON-1813-2,9.267
+
+An iron chest occupies a conspicuous situation . <$$font>
+MORTON-1813-2,9.268
+
+<font> Enter <$$font> Mrs. Templeton <font> and <$$font> Aspic .
+MORTON-1813-2,9.269
+
+<$$heading>
+
+<font> Mrs. T. <$$font> You are a vile , shocking {TEXT:shocking,} man
+! MORTON-1813-2,9.271
+
+Indeed , <P_10> Mr. Aspic , you are too severe . MORTON-1813-2,10.272
+
+How many instances of disinterested friendship do we find in books ?
+MORTON-1813-2,10.273
+
+<font> Asp. <$$font> True , and no where else , ha ! ha !
+MORTON-1813-2,10.274
+
+- Come , come , MORTON-1813-2,10.275
+
+do@ @n't mar an enchanting smile by the cold intrusion of prudery ,
+which acts on the mind like our grandmothers' {TEXT:grandmothers}
+drapery on the body ; burying in whalebone stiffness , and cut-velvet
+dignity , the form , ease , and vigour , of wit and repartee .
+MORTON-1813-2,10.276
+
+<font> Mrs. T. <$$font> Pshaw ! what signifies how I look !
+MORTON-1813-2,10.277
+
+<font> Asp. <$$font> Heigh_ho ! MORTON-1813-2,10.278
+
+<font> Mrs. T. <$$font> You sigh . MORTON-1813-2,10.279
+
+<font> Asp. <$$font> Woe to the world ! MORTON-1813-2,10.280
+
+- what devastation will those eyes cause in the spring !
+MORTON-1813-2,10.281
+
+<font> Mrs. T. <$$font> Now I hate you - MORTON-1813-2,10.282
+
+Yet , I own , I long for the spring - dear , animating spring !
+MORTON-1813-2,10.283
+
+how delightful to enjoy thy charms in Bond-street , to hear the dear
+little dingy sparrows chirping on the lamp-irons , and see Flora's
+fairest flowers nodding in carts for the decoration of the ball-rooms .
+MORTON-1813-2,10.284
+
+- Dear Templeton , come here ! MORTON-1813-2,10.285
+
+- <font> Enter <$$font> Mr. Templeton <font> and <$$font> Damper .
+MORTON-1813-2,10.286
+
+The prospect from these windows will be a <font> coup_d'oeil <$$font> of
+science , spirit , taste - MORTON-1813-2,10.287
+
+<font> Asp. <$$font> And , at present , 't@ @is as flat as the fens ,
+and antiquated as a clipt yew-tree . MORTON-1813-2,10.288
+
+There are certain objects Sir , which should be kept at a proper
+distance . MORTON-1813-2,10.289
+
+I@ @'ll - <font> <paren> approaching familiarly . <$$font> <$$paren>
+MORTON-1813-2,10.290
+
+<font> Mr. T. <paren> gently repelling him and bowing <$$paren>
+<$$font> I have made that a particular study . MORTON-1813-2,10.291
+
+<font> Asp. <$$font> My views , Mr. Templeton , are - <font> Damp.
+<paren> apart to him . <$$paren> <$$font> - Sufficiently obvious .
+MORTON-1813-2,10.292
+
+<font> Asp. <$$font> Damn that quiz ! MORTON-1813-2,10.293
+
+- I owe him money . MORTON-1813-2,10.294
+
+Mr. Damper , I know the world . MORTON-1813-2,10.295
+
+<font> Damp. <paren> aside <$$paren> <$$font> And I@ @'ll take care the
+world shall know you . MORTON-1813-2,10.296
+
+<font> Asp. <$$font> Your debt shall be discharged -
+MORTON-1813-2,10.297
+
+you have my word , which is as good as my bond . MORTON-1813-2,10.298
+
+<P_11>
+
+<font> Damp. <$$font> Exactly . MORTON-1813-2,11.300
+
+<font> Mrs. T. <$$font> Treason ! <paren> <font> Pointing to
+Templeton <$$font> <$$paren> MORTON-1813-2,11.301
+
+I accuse this man of speaking treason against the monarchy of fashion ,
+of which I am a most loyal subject . MORTON-1813-2,11.302
+
+<font> Damp. <$$font> I hope , madam , that in the true spirit of your
+country your allegiance only holds while fashion assumes a limited
+prerogative ; MORTON-1813-2,11.303
+
+for 't@ @is the essence of our moral constitution that the mind should
+not bend to its sway ; MORTON-1813-2,11.304
+
+- for instance , I would not scoff at futurity though an atheistical
+poet were the fashion , nor affect the puritan to comply with the
+popularity of a religious novel ; MORTON-1813-2,11.305
+
+but for the discussion of fashion's legitimate decrees I know no lady
+more entitled to a seat on the woolsack than Mrs. Templeton <font>
+<paren> bowing <$$paren> . <$$font> MORTON-1813-2,11.306
+
+<font> Asp. <$$font> Pretty well put ' faith . MORTON-1813-2,11.307
+
+Ma'am , I give you joy of your appointment . MORTON-1813-2,11.308
+
+- Wo@ @n't your red book furnish a place for me ? MORTON-1813-2,11.309
+
+<font> Damp. <$$font> Why , in the olden time , there was a court
+favourite of a motley garb . MORTON-1813-2,11.310
+
+<font> Asp. <$$font> The court fool ! MORTON-1813-2,11.311
+
+- thank you , Sir . MORTON-1813-2,11.312
+
+<font> Mrs. Temp. <$$font> Ha ! ha ! MORTON-1813-2,11.313
+
+- I give you joy of yours . MORTON-1813-2,11.314
+
+<font> Asp. <$$font> But the truth , is , that the business of that
+department increased so rapidly , that , like other great offices , they
+were obliged to put it into commission , and now every court dangler is
+entitled to a seat at the board . MORTON-1813-2,11.315
+
+<font> Mrs. T. <$$font> Ha ! ha ! MORTON-1813-2,11.316
+
+<font> Asp. <$$font> He do@ @n't laugh - MORTON-1813-2,11.317
+
+he do@ @n't understand a good thing . MORTON-1813-2,11.318
+
+<font> Damp. <$$font> Try me . MORTON-1813-2,11.319
+
+<paren> <font> a cracking of whips . <$$font> <$$paren>
+MORTON-1813-2,11.320
+
+<font> <paren> Sir Guy Stanch without <$$paren> . <$$font> Get out of
+my way , you rascal ! MORTON-1813-2,11.321
+
+- I@ @'ve been insulted . MORTON-1813-2,11.322
+
+<font> Mr. T. {TEXT:T} <$$font> Sir Guy Stanch quarrelling with my
+servant . MORTON-1813-2,11.323
+
+<font> Enter <$$font> Sir Guy Stanch . MORTON-1813-2,11.324
+
+<font> Sir Guy . <$$font> Jerry , keep the hounds back -
+MORTON-1813-2,11.325
+
+for the confounded perfumes in these rooms might spoil the dogs'
+{TEXT:dogs} noses . MORTON-1813-2,11.326
+
+I@ @'ve been insulted , I say . MORTON-1813-2,11.327
+
+<P_12>
+
+<font> Mr. T. <$$font> The man that has unjustly offended you , Sir
+Guy , shall instantly turn out from my - MORTON-1813-2,12.329
+
+<font> Sir G. <paren> slapping him on the shoulder . <$$paren>
+<$$font> Then turn out directly , MORTON-1813-2,12.330
+
+for you are the man . MORTON-1813-2,12.331
+
+<font> Mr. T. <$$font> I ! MORTON-1813-2,12.332
+
+- <font> Sir G. <$$font> Yes . MORTON-1813-2,12.333
+
+A tenant of yours , by your order it seems , tried to prevent my
+galloping over his corn and turnips . MORTON-1813-2,12.334
+
+<font> Damp. <$$font> What , stop a baronet full cry !
+MORTON-1813-2,12.335
+
+- unheard-of outrage ! MORTON-1813-2,12.336
+
+- <font> Sir G. <$$font> He stop me ! MORTON-1813-2,12.337
+
+- no - no - I rode over the rascal . MORTON-1813-2,12.338
+
+<font> Mr. T. <$$font> If satisfaction is to be made , I think Sir Guy
+, my poor tenant has some small claim to it from you .
+MORTON-1813-2,12.339
+
+<font> Sir G. <$$font> Sir , my family never gave satisfaction to any
+body - MORTON-1813-2,12.340
+
+they rode where they liked , MORTON-1813-2,12.341
+
+and did what mischief they liked ; MORTON-1813-2,12.342
+
+and while your profit and loss forefathers were weighing an ounce of
+nutmegs , the Sir Guy Stanch's roasted their oxen whole ,
+MORTON-1813-2,12.343
+
+and brewed twenty bushel to the hogshead . MORTON-1813-2,12.344
+
+<font> <paren> Sees Mrs. Templeton . <$$paren> <$$font> Soho !
+Sarvant , Ma'am - MORTON-1813-2,12.345
+
+should not have given tongue so loud , had I known you were present -
+MORTON-1813-2,12.346
+
+'T@ @is not reckoned mannerly to take away the talk from the ladies .
+MORTON-1813-2,12.347
+
+<font> Mrs. T. <$$font> Yet , Sir Guy , I@ @'ll waive {TEXT:wave} my
+privilege , if you will have the goodness to explain how this happened .
+MORTON-1813-2,12.348
+
+<font> Sir G. <$$font> With the greatest pleasure , Ma'am !
+MORTON-1813-2,12.349
+
+- You see we were all at fault - MORTON-1813-2,12.350
+
+<font> Mrs. T. <$$font> Oh , if you own the fault -
+MORTON-1813-2,12.351
+
+<font> Sir G. <$$font> Zounds , no , Ma'am - no ! MORTON-1813-2,12.352
+
+- You@ @'re a fine creature , MORTON-1813-2,12.353
+
+but 't@ @is your misfortune to know but little of fox-hunting .
+MORTON-1813-2,12.354
+
+<font> Mrs. T. <$$font> In pity to that misfortune , instruct me .
+MORTON-1813-2,12.355
+
+<font> Sir G. <$$font> The pack had overrun the scent - <font> <paren>
+with earnestness <$$font> <$$paren> MORTON-1813-2,12.356
+
+<font> Mrs. T. <$$font> Aye , now I see how it is .
+MORTON-1813-2,12.357
+
+<P_13>
+
+<font> Sir G. <$$font> Huntsman , says I , try back -
+MORTON-1813-2,13.359
+
+make a cast . MORTON-1813-2,13.360
+
+<font> Asp. <$$font> To be sure . MORTON-1813-2,13.361
+
+<font> Sir G. <$$font> How beautifully they spread ! - <paren> <font>
+with enthusism . <$$font> <$$paren> MORTON-1813-2,13.362
+
+<font> Asp. <$$font> Yes - <paren> <font> encouraging him . <$$font>
+<$$paren> MORTON-1813-2,13.363
+
+<font> Sir G. <$$font> Mind that old hound - MORTON-1813-2,13.364
+
+how he feathers - MORTON-1813-2,13.365
+
+how he flings for the furze brake - MORTON-1813-2,13.366
+
+it holds the fox - MORTON-1813-2,13.367
+
+they view him - MORTON-1813-2,13.368
+
+there@ @'s a chorus - MORTON-1813-2,13.369
+
+where are your pains and megrims now , my boys ? MORTON-1813-2,13.370
+
+<font> Asp. <$$font> Aye , where indeed ! MORTON-1813-2,13.371
+
+<font> Sir G. <$$font> How they carry the scent - MORTON-1813-2,13.372
+
+how they strain - MORTON-1813-2,13.373
+
+crack goes the hedge ! MORTON-1813-2,13.374
+
+Damn the turnips - MORTON-1813-2,13.375
+
+nothing but the cover can save him - MORTON-1813-2,13.376
+
+he gains it - MORTON-1813-2,13.377
+
+rush they all go in - not a skirter among them - MORTON-1813-2,13.378
+
+how terribly they press - MORTON-1813-2,13.379
+
+they are on him - MORTON-1813-2,13.380
+
+they have him - MORTON-1813-2,13.381
+
+who whoop - huntsman , my old boy ! MORTON-1813-2,13.382
+
+- <paren> <font> In his enthusiasm he forgets every thing but the chase
+, MORTON-1813-2,13.383
+
+and slaps Mrs. Templeton on the shoulder , who faintly screams <$$font>
+<$$paren> Eh ! MORTON-1813-2,13.384
+
+what , MORTON-1813-2,13.385
+
+where - MORTON-1813-2,13.386
+
+what a blunder ! MORTON-1813-2,13.387
+
+- To the very ground , madam , I humbly ask pardon ;
+MORTON-1813-2,13.388
+
+I was - <font> Asp. <$$font> In a wood . MORTON-1813-2,13.389
+
+<font> Sir G. <$$font> Yes ma'am , in a wood . MORTON-1813-2,13.390
+
+<font> Mrs. T. <$$font> Excuse my foolish exclamation , Sir Guy ,
+MORTON-1813-2,13.391
+
+but really I never was in at the death before . MORTON-1813-2,13.392
+
+<font> Temp. <$$font> To attempt to control such enthusiasm would only
+imply greater insanity . MORTON-1813-2,13.393
+
+Sir Guy , your amusements shall receive no further hindrance from me .
+MORTON-1813-2,13.394
+
+<font> Sir G. <$$font> Give me your hand ; MORTON-1813-2,13.395
+
+you@ @'re a good-natured fellow , MORTON-1813-2,13.396
+
+and I dare say you have quite forgot what I said about the nutmegs ,
+MORTON-1813-2,13.397
+
+so we need not mention it , you know . MORTON-1813-2,13.398
+
+- I declare , madam , I thought I was among a parcel of dogs worrying a
+fox - instead of which I am among - <paren> <font> pointing to the books
+<$$font> <$$paren> . <font> Asp. <$$font> A parcel of authors worrying
+one another . MORTON-1813-2,13.399
+
+<P_14>
+
+<font> Sir G. <$$font> You seem , Sir , to understand that sort of
+hackle . MORTON-1813-2,14.401
+
+<font> Damp. <$$font> A literary whipper in , sir .
+MORTON-1813-2,14.402
+
+<font> Mrs. T. <$$font> I ought to apologize for seeing company in Mr.
+Templeton's book-room - MORTON-1813-2,14.403
+
+but the other apartments are in a sad disorder . MORTON-1813-2,14.404
+
+- We find people so very dilatory - do@ @n't we , my dear ?
+MORTON-1813-2,14.405
+
+<paren> <font> Templeton and Damper exchange looks <$$font> <$$paren> .
+MORTON-1813-2,14.406
+
+<font> Sir G. <$$font> The room@ @'s an excellent room ,
+MORTON-1813-2,14.407
+
+for it not only contains garnish for the head - but solid pudding -
+<paren> <font> striking the iron chest with his whip <$$font> <$$paren>
+. MORTON-1813-2,14.408
+
+I@ @'ll warrant you this strong box contains something better than the
+nutmegs I was so unmannerly as to mention , eh , Templeton !
+MORTON-1813-2,14.409
+
+<font> Mrs. T. <$$font> Nutmegs , indeed ! MORTON-1813-2,14.410
+
+- <paren> <font> aside <$$font> <$$paren> Now for a little tiny white
+fib , to give the brute an idea of our consequence .
+MORTON-1813-2,14.411
+
+- Certainly , Sir Guy , a piece of furniture containing fifty_thousand
+pounds is no contemptible ornament to any room MORTON-1813-2,14.412
+
+<paren> <font> Templeton starts <$$font> <$$paren> .
+MORTON-1813-2,14.413
+
+<font> Damp. Asp. Sir G. {COM:all_together} <$$font> <paren> <font>
+To Templeton . <$$font> <$$paren> Fifty_thousand pounds !
+MORTON-1813-2,14.414
+
+<font> Temp. <$$font> <paren> <font> Embarrassed , with a forced smile
+. <$$font> <$$paren> I will not contradict a lady .
+MORTON-1813-2,14.415
+
+<font> Asp. <$$font> <paren> <font> aside . <$$font> <$$paren>
+Devilish hard if I have not a dip into that spice-box .
+MORTON-1813-2,14.416
+
+<font> Damp. <$$font> This has relieved my heart from an oppression
+almost unsupportable . MORTON-1813-2,14.417
+
+<paren> <font> With great alacrity <$$font> <$$paren> Templeton , your
+hand . MORTON-1813-2,14.418
+
+- Aspic , I@ @'ll try to tolerate you . MORTON-1813-2,14.419
+
+- Madam , the magic of your tongue has outwitched the enchantment of
+your eye . MORTON-1813-2,14.420
+
+- Sir Guy , I think it very likely I may break my neck fox-hunting with
+you . MORTON-1813-2,14.421
+
+<font> Sir G. <$$font> Sir , I shall be happy to shew your sport .
+MORTON-1813-2,14.422
+
+<font> Damp. <$$font> For the present , adieu ! MORTON-1813-2,14.423
+
+- I@ @'ll soon return . MORTON-1813-2,14.424
+
+<font> Mrs. T. <$$font> But when ? MORTON-1813-2,14.425
+
+<P_15>
+
+<font> Damp. <$$font> <paren> <font> bowing . <$$font> <$$paren> Oh ,
+to-morrow . MORTON-1813-2,15.427
+
+- <paren> <font> Exit <$$font> <$$paren> . MORTON-1813-2,15.428
+
+<paren> <font> Templeton and wife talk together , Templeton irritated .
+<$$font> <$$paren> MORTON-1813-2,15.429
+
+<font> Sir G. <$$font> Egad , a bright thought , MORTON-1813-2,15.430
+
+and then I shall have the whole country to hunt over .
+MORTON-1813-2,15.431
+
+- Templeton , you have a son , MORTON-1813-2,15.432
+
+I have a daughter : MORTON-1813-2,15.433
+
+what say you to a match ? MORTON-1813-2,15.434
+
+<font> Temp. <paren> with embarrassment . <$$paren> <$$font> Your
+proposal , Sir Guy {TEXT:Grey} does honour to my son and me .
+MORTON-1813-2,15.435
+
+<font> Sir G. <$$font> That@ @'s hearty ! MORTON-1813-2,15.436
+
+<font> Temp. <$$font> What have I done ! MORTON-1813-2,15.437
+
+assented to a falsehood ! MORTON-1813-2,15.438
+
+What could occasion Damper's extraordinary conduct ?
+MORTON-1813-2,15.439
+
+Perhaps he has not yet left the house . MORTON-1813-2,15.440
+
+I@ @'ll own - MORTON-1813-2,15.441
+
+what a lie ! MORTON-1813-2,15.442
+
+- where shall I hide my shame ! MORTON-1813-2,15.443
+
+<bracket> <font> Exit . <$$font> MORTON-1813-2,15.444
+
+<font> Sir G. <$$font> So , ma'am , I sent my girl Nell to Mrs.
+Polish's tip-top school to learn how to behave when company comes , and
+do the chattering part properly , and make the punch , and so forth .
+MORTON-1813-2,15.445
+
+<font> Enter <$$font> Servant . MORTON-1813-2,15.446
+
+<font> Serv. <$$font> Your servant has brought this letter , sir .
+MORTON-1813-2,15.447
+
+<font> Sir G. <paren> breaking the seal <$$paren> <$$font> From Mrs.
+Polish , I declare . MORTON-1813-2,15.448
+
+" Expect your daughter's arrival . " MORTON-1813-2,15.449
+
+- I must be off full gallop . MORTON-1813-2,15.450
+
+" Receive her with pride , Sir Guy , MORTON-1813-2,15.451
+
+for you will find her <font> aufait <$$font> - " MORTON-1813-2,15.452
+
+<font> Asp. <$$font> We say aufa {COM:font_change_around_last_letter} .
+MORTON-1813-2,15.453
+
+<font> Sir G. <$$font> Yes ; I know " aufa
+{COM:font_change_around_last_letter} of astronomy , botany , chemistry ,
+history , geography , geology , philology , and chronology " -
+MORTON-1813-2,15.454
+
+'t@ @is odd among so many ologies not to find theology .
+MORTON-1813-2,15.455
+
+I have drawn on you for <font> <paren> whistles <$$paren> <$$font> 530
+l. MORTON-1813-2,15.456
+
+<font> Mrs. T. <$$font> Very moderate , indeed . MORTON-1813-2,15.457
+
+<font> Sir G. <$$font> Moderate ! MORTON-1813-2,15.458
+
+Why zounds , ma'am , my dogs do@ @n't stand me in the money .
+MORTON-1813-2,15.459
+
+<font> Mrs. T. <$$font> Oh , fie , Sir Guy ! MORTON-1813-2,15.460
+
+you really must modernize , and benefit by the rapid advances daily made
+in sentiment , spirit , refinement - MORTON-1813-2,15.461
+
+<font> Sir G. <$$font> Roguery . MORTON-1813-2,15.462
+
+<P_16>
+
+<font> Mrs. T. <$$font> Ha ! ha ! - Yes , there modern refinement is
+peculiarly conspicuous . MORTON-1813-2,16.464
+
+Formerly you were plundered in dismal forests illumined by the
+lightning's glare - MORTON-1813-2,16.465
+
+you now suffer in perfumed drawing-rooms , beneath the mild irradiation
+of Chinese lamps - MORTON-1813-2,16.466
+
+Instead of daggers and poison , you are now presented with ice-creams
+and wafer biscuits ; MORTON-1813-2,16.467
+
+the crimson field of slaughter is converted into a square yard of
+superfine green cloth ; MORTON-1813-2,16.468
+
+and the appalling cry of your life , your treasure , is mellifluously
+modernized into - Can you one - or pam , be civil .
+MORTON-1813-2,16.469
+
+- Ha ! ha ! MORTON-1813-2,16.470
+
+<bracket> <font> Exit . <$$font> MORTON-1813-2,16.471
+
+<font> Asp. <$$font> Bravo ! ha ! ha ! MORTON-1813-2,16.472
+
+<font> Sir G. <$$font> Sir , I shall be happy to see you at Tantivy
+Hall , MORTON-1813-2,16.473
+
+for I am afraid Nell and I will want an interpreter -
+MORTON-1813-2,16.474
+
+and as you seem au - au <font> <paren> peeps slily at the letter
+<$$paren> <$$font> aufait {TEXT:aufaut} of these matters .
+MORTON-1813-2,16.475
+
+<font> Asp. <paren> aside <$$paren> <$$font> An heiress fresh from Mrs.
+Polish's hands - no difficult conquest . MORTON-1813-2,16.476
+
+Sir Guy , I@ @'ll wait on you with pleasure . MORTON-1813-2,16.477
+
+<font> Sir G. <$$font> That@ @'s hearty ! MORTON-1813-2,16.478
+
+'T@ @is Liberty Hall - MORTON-1813-2,16.479
+
+We dine at three ; MORTON-1813-2,16.480
+
+and if you a@ @n't there to a moment you@ @'ll lose your dinner -
+MORTON-1813-2,16.481
+
+and you have only to drink one bumper to fox-hunting , and another to
+the girl of your heart , MORTON-1813-2,16.482
+
+and then you do as you like . MORTON-1813-2,16.483
+
+I@ @'ll leave for you my famous horse Somerset . MORTON-1813-2,16.484
+
+- Jerry , let the hounds loose . MORTON-1813-2,16.485
+
+<font> Asp. <$$font> Is the road intricate ? MORTON-1813-2,16.486
+
+<font> Sir G. <$$font> Oh ! MORTON-1813-2,16.487
+
+Somerset wo@ @n't trouble you with the road - MORTON-1813-2,16.488
+
+he@ @'ll cross the country as straight as a rifle .
+MORTON-1813-2,16.489
+
+<paren> <font> Horns sound without <$$font> <$$paren>
+MORTON-1813-2,16.490
+
+There@ @'s heavenly music ! MORTON-1813-2,16.491
+
+- Voix ! MORTON-1813-2,16.492
+
+<bracket> <font> Exit . <$$font> MORTON-1813-2,16.493
+
+<font> Asp. <$$font> There he goes : MORTON-1813-2,16.494
+
+- if his feed is as excellent as his cattle , and his daughter as
+high-bred , no bad speculation . MORTON-1813-2,16.495
+
+<font> Enter <$$font> Vincent Templeton . MORTON-1813-2,16.496
+
+<font> Vinc. <$$font> What a situation@ @'s mine !
+MORTON-1813-2,16.497
+
+- Cursed impetuosity ! MORTON-1813-2,16.498
+
+- How can I , in my father's present circumstances , <P_17> name to him
+an honourable connection with Rosine ! MORTON-1813-2,17.499
+
+How can I name to her a dishonourable one ! MORTON-1813-2,17.500
+
+Dare I name it to myself ? MORTON-1813-2,17.501
+
+Beloved Rosine , how have I involved thee ! MORTON-1813-2,17.502
+
+- never shall uncontrolled {TEXT:uncontroul'd} passion again sway me .
+MORTON-1813-2,17.503
+
+- Feeling may be allowed to execute , MORTON-1813-2,17.504
+
+but first let reason legislate . MORTON-1813-2,17.505
+
+<font> Asp. <$$font> <paren> <font> advancing <$$font> <$$paren> "
+Whilome in Albin's isle there dwelt a youth , Who ne'er in virtue's ways
+did take delight ; But spent his days in riot - " MORTON-1813-2,17.506
+
+<font> Vinc. <$$font> Damn poetry ! MORTON-1813-2,17.507
+
+- I hate it . MORTON-1813-2,17.508
+
+The Muses and I have parted . MORTON-1813-2,17.509
+
+<font> Asp. <$$font> I did not know you had ever met - ha ! ha !
+MORTON-1813-2,17.510
+
+<font> Vinc. <$$font> Spare me , Aspic - MORTON-1813-2,17.511
+
+your mirth@ @'s oppressive . MORTON-1813-2,17.512
+
+- Where@ @'s Damper ? MORTON-1813-2,17.513
+
+<font> Asp. <$$font> Looking for you , to be his partner in a <font>
+pas_de_deux . <$$font> MORTON-1813-2,17.514
+
+<font> Vinc. <$$font> Sir , my father's misfortune -
+MORTON-1813-2,17.515
+
+<font> Asp. <$$font> What the devil have you got into your head now ?
+MORTON-1813-2,17.516
+
+your father is certainly oppressed with the singular misfortune of
+having 50,000 <font> l. <$$font> in that strong box .
+MORTON-1813-2,17.517
+
+<font> Vinc. <$$font> What ! MORTON-1813-2,17.518
+
+explain . MORTON-1813-2,17.519
+
+<font> Asp. <$$font> Your mother-in-law averred it ,
+MORTON-1813-2,17.520
+
+and your father unequivocally assented to it . MORTON-1813-2,17.521
+
+<font> Vinc. <$$font> Huzza ! Dear Aspic , the fire of Prometheus
+never gave such animation to his clay , as thy words have kindled here .
+MORTON-1813-2,17.522
+
+<font> Asp. <$$font> Why , the same Galvanic spark tickled old Damper
+in the same way ; MORTON-1813-2,17.523
+
+for he capered like a carthorse in a curvette , or my Lord Clubby in a
+cotillion , ha ! ha ! MORTON-1813-2,17.524
+
+<font> Vinc. <$$font> Fifty_thousand pounds ! MORTON-1813-2,17.525
+
+- I@ @'m all essence , spirit - MORTON-1813-2,17.526
+
+the world@ @'s at my feet ! MORTON-1813-2,17.527
+
+<font> Asp. <$$font> Then kick it along , my boy !
+MORTON-1813-2,17.528
+
+<font> Vinc. <$$font> Enchanting Rosine ! - lovely as the morning beam
+, Yet pure as the fountain that reflects its ray . MORTON-1813-2,17.529
+
+<P_18>
+
+<font> Asp. <$$font> Damn poetry ! MORTON-1813-2,18.531
+
+- I hate it , ha ! ha ! MORTON-1813-2,18.532
+
+<font> Vinc. <$$font> Gentle as the Zephyr , yet blithe as the leaf
+that dances in its eddy . MORTON-1813-2,18.533
+
+<font> Asp. <$$font> Mercy , mercy ! MORTON-1813-2,18.534
+
+Come , come - MORTON-1813-2,18.535
+
+over a venison chop and a batch of champaign we@ @'ll plan operations .
+MORTON-1813-2,18.536
+
+That@ @'s the time for the projection of vigorous measures .
+MORTON-1813-2,18.537
+
+<font> Vinc. <$$font> True ; MORTON-1813-2,18.538
+
+for what the devil would become of the country if it were not for the
+cabinet dinners ! MORTON-1813-2,18.539
+
+There our importations are discussed over the turtle ,
+MORTON-1813-2,18.540
+
+and the home supplies accompany the English sir-loin -
+MORTON-1813-2,18.541
+
+the loaves and fishes naturally introduce the debates -
+MORTON-1813-2,18.542
+
+and parliamentary speeches are mixed with the whipped syllabub -
+MORTON-1813-2,18.543
+
+colonial produce is handed in with the coffee - MORTON-1813-2,18.544
+
+in a glass of Constantia they double the Cape of Good Hope -
+MORTON-1813-2,18.545
+
+and settle the India trade over a cup of souchong .
+MORTON-1813-2,18.546
+
+<bracket> <font> Exeunt . <$$font> MORTON-1813-2,18.547
+
+<heading>
+
+End of the first act . MORTON-1813-2,18.549
+
+<$$heading>
+
+<P_19>
+
+<heading>
+
+ACT II . MORTON-1813-2,19.553
+
+Scene I . MORTON-1813-2,19.554
+
+- <font> An Apartment in Tantivy-Hall . <$$font> MORTON-1813-2,19.555
+
+<$$heading>
+
+<font> Enter <$$font> Sir Guy Stanch <font> and <$$font> Servant .
+MORTON-1813-2,19.557
+
+<font> Sir G. <$$font> Mr. Aspic not yet arrived ?
+MORTON-1813-2,19.558
+
+<font> Ser. <$$font> No , Sir ; MORTON-1813-2,19.559
+
+but Somerset has been home some time . MORTON-1813-2,19.560
+
+<font> Sir G. <$$font> Poor Mr. Aspic , ha ! ha ! ca@ @n't take a
+five-barr'd gate ; MORTON-1813-2,19.561
+
+- there@ @'s a precious education for you ! MORTON-1813-2,19.562
+
+- yet I dare say in London he@ @'s reckoned a clever fellow .
+MORTON-1813-2,19.563
+
+<font> Enter <$$font> Aspic . Welcome , Sir , to Tantivy-hall !
+MORTON-1813-2,19.564
+
+Why , Somerset and you did not agree ? MORTON-1813-2,19.565
+
+<font> Asp. <$$font> No , I ventured to debate the right of way , which
+at the hedge produced a division . <font> Sir G. <$$font> And left you
+in a minority . <font> Asp. <$$font> Left me in a ditch ;
+MORTON-1813-2,19.566
+
+but we@ @'ll let that subject stand over <font> sine_die <$$font> ,
+without my asking leave to sit again . MORTON-1813-2,19.567
+
+- Where@ @'s your accomplished daughter ? MORTON-1813-2,19.568
+
+<font> Sir G. <$$font> Within there - MORTON-1813-2,19.569
+
+<font> <paren> enter Servant <$$paren> <$$font> Where@ @'s Nell ?
+MORTON-1813-2,19.570
+
+<font> Ser. <$$font> My young lady is gone botanizing , I think she
+said . MORTON-1813-2,19.571
+
+<font> <paren> Exit . <$$paren> <$$font> MORTON-1813-2,19.572
+
+<font> Sir Guy , <$$font> Botanizing ! MORTON-1813-2,19.573
+
+ah , Mr. Aspic , 't@ @is a melancholy thing to have children wiser than
+ourselves . MORTON-1813-2,19.574
+
+- I@ @'m a miserable father . MORTON-1813-2,19.575
+
+- If I happen to say 't@ @is a star-light night , I must run the
+gauntlet of the zodiac ; MORTON-1813-2,19.576
+
+and then " O fie , Sir Guy ! that@ @'s an anachronism -
+MORTON-1813-2,19.577
+
+I@ @'m shocked , papa , at that solecism . " MORTON-1813-2,19.578
+
+<P_20>
+
+So what between the isms and the ologies , curse me if I can open my
+mouth in comfort - MORTON-1813-2,20.580
+
+<font> <paren> Ellen sings without , <$$font> do , re , mi , fa , sol ,
+la , si , <$$paren> - MORTON-1813-2,20.581
+
+There again , she used to enliven my heart with singing " A southerly
+wind and a cloudy sky , " MORTON-1813-2,20.582
+
+- but now she goes about sol-faing like a parish clerk .
+MORTON-1813-2,20.583
+
+<font> Enter <$$font> Ellen . Come hither , Nell !
+MORTON-1813-2,20.584
+
+I present you to Mr. Aspic . Who is - who is - MORTON-1813-2,20.585
+
+what the devil are you ? MORTON-1813-2,20.586
+
+<font> Asp. <$$font> Who is anxious to be ranked among the admirers of
+the accomplished Miss Stanch - <font> <paren> Ellen bows ceremoniously
+<$$paren> <$$font> . MORTON-1813-2,20.587
+
+<font> Sir G. <$$font> What ! have you been gathering a posy ?
+MORTON-1813-2,20.588
+
+<font> Ellen . <$$font> Selecting some pleasing specimens of the bellis
+hortensis , nigella cerulio , narcissus latifolius .
+MORTON-1813-2,20.589
+
+<font> Sir G. <$$font> What a lying old rascal French the gardener is ,
+MORTON-1813-2,20.590
+
+for he always told me they were batchelors_buttons , the devil_in_a_bush
+, and daffy_down_dillys ! MORTON-1813-2,20.591
+
+<font> Asp. <$$font> Observe , Sir Guy , with what grace she unshawls
+herself - MORTON-1813-2,20.592
+
+<font> <paren> Ellen in a picturesque way unrobes herself of her shawl ,
+and carelessly drops it on a chair . <$$paren> <$$font>
+MORTON-1813-2,20.593
+
+Divine ! MORTON-1813-2,20.594
+
+- I shall expire ! MORTON-1813-2,20.595
+
+<font> Sir G. <$$font> Shall you though - MORTON-1813-2,20.596
+
+no , do@ @n't ; MORTON-1813-2,20.597
+
+- <font> <paren> to Ellen <$$font> <$$paren> and you think that vastly
+clever . MORTON-1813-2,20.598
+
+- Now , miss , I@ @'ll shew you how your grandmother did it -
+MORTON-1813-2,20.599
+
+<paren> <font> folds it neatly , MORTON-1813-2,20.600
+
+pins it , MORTON-1813-2,20.601
+
+and lays it smooth on a chair <$$font> <$$paren> - MORTON-1813-2,20.602
+
+there , MORTON-1813-2,20.603
+
+and if the old fashion is not worth an_hundred of the new one , may
+blank days be my portion to the end of the season !
+MORTON-1813-2,20.604
+
+<font> Ellen . <$$font> Indeed , Sir Guy , you should abstain from
+hunting in the morning , MORTON-1813-2,20.605
+
+the plants then give out carbon . MORTON-1813-2,20.606
+
+<font> Sir G. <$$font> What do I care what they give out !
+MORTON-1813-2,20.607
+
+- Damn carbon ! MORTON-1813-2,20.608
+
+- talk to me of carbon ! MORTON-1813-2,20.609
+
+<paren> <font> Suckling , without <$$font> <$$paren> . Uncle , where
+are you ? MORTON-1813-2,20.610
+
+<P_21>
+
+<font> Ellen . <$$font> Ah ! - the voice of dear cousin Suckling -
+MORTON-1813-2,21.612
+
+<font> Sir G. <$$font> And what@ @'s cousin Suckling to you ?
+MORTON-1813-2,21.613
+
+<font> Ellen . <$$font> Every thing ; MORTON-1813-2,21.614
+
+- my early friend - my playmate . MORTON-1813-2,21.615
+
+<font> Sir G. <$$font> But I mean to couple you with another playmate -
+Vincent Templeton ! MORTON-1813-2,21.616
+
+<font> Ellen . <$$font> Sol , fa , de , ra ! MORTON-1813-2,21.617
+
+- <font> Sir G. <$$font> Now that@ @'s to drive me mad .
+MORTON-1813-2,21.618
+
+- Go to your room . MORTON-1813-2,21.619
+
+<font> Ellen . <$$font> I prefer the grove . MORTON-1813-2,21.620
+
+<font> Sir G. <$$font> Why you forget - MORTON-1813-2,21.621
+
+the plants give out carbon . MORTON-1813-2,21.622
+
+<font> Asp. <$$font> Charming Ellen ! <paren> <font> apart to her
+<$$font> <$$paren> - will obedience to a father's harsh rule -
+MORTON-1813-2,21.623
+
+<font> Ellen . <$$font> Oh , Sir , do@ @n't be alarmed ! - ha ! ha !
+MORTON-1813-2,21.624
+
+- The ladies in the lowest class are quite perfect in the exceptions to
+the rule of paternal obedience - ha ! ha ! MORTON-1813-2,21.625
+
+- Receive , Sir Guy , the homage of my duty . MORTON-1813-2,21.626
+
+<font> Sir G. <$$font> Do@ @n't Sir_Guy me , you hussy ! or I@ @'ll
+knock you down . MORTON-1813-2,21.627
+
+- A@ @n't I your own affectionate father ? MORTON-1813-2,21.628
+
+<font> Ellen . <$$font> <paren> <font> aside <$$font> <$$paren> - If I
+ca@ @n't outwit you , my dear papa , I@ @'ve been to Mrs. Polish for
+very little purpose . MORTON-1813-2,21.629
+
+- Sol , fa ! - <paren> <font> Exit . <$$font> <$$paren>
+MORTON-1813-2,21.630
+
+<paren> <font> Suckling , without <$$font> <$$paren> See , if I do@ @n't
+tell uncle . MORTON-1813-2,21.631
+
+<font> Sir G. <$$font> There@ @'s another plague - MORTON-1813-2,21.632
+
+I sent this ward and nephew to Parson Porker , to get a solid ,
+substantial education ; MORTON-1813-2,21.633
+
+but he seems to have studied nothing but Mrs. Glass's cookery .
+MORTON-1813-2,21.634
+
+<font> Enter <$$font> Suckling . MORTON-1813-2,21.635
+
+<font> Suck. <$$font> Oh , here@ @'s uncle ! MORTON-1813-2,21.636
+
+- Why , uncle , that@ @'s not Ellen ! MORTON-1813-2,21.637
+
+<font> Asp. <$$font> An ingenious discovery ! MORTON-1813-2,21.638
+
+- Sir , your remark does credit to your penetration , my name being
+Aspic . MORTON-1813-2,21.639
+
+<font> Suck. <$$font> And if you go to that , my name@ @'s <P_22>
+Boniface Suckling , esquire . MORTON-1813-2,22.640
+
+- That@ @'s a Lunnoner ! MORTON-1813-2,22.641
+
+- Why , uncle , compared with he you@ @'re as old-fashioned as a tansey
+pudding ! MORTON-1813-2,22.642
+
+- Sir , I never was in Lunnon . MORTON-1813-2,22.643
+
+<font> Asp. <$$font> Then , Sir , you have yet to behold a large city ,
+composed of buildings of various descriptions , which are occupied by
+their respective inhabitants . MORTON-1813-2,22.644
+
+<font> Suck. <$$font> No , sure ! - wonderful ! MORTON-1813-2,22.645
+
+<font> Asp. <$$font> I think you would shine there -
+MORTON-1813-2,22.646
+
+you have a very fashionable stare , and a fine upright person .
+MORTON-1813-2,22.647
+
+<font> Suck. <$$font> Yes , straight as a spit , a@ @n't I !
+MORTON-1813-2,22.648
+
+- Ah , but then , do@ @n't be shocked at my telling the truth -
+MORTON-1813-2,22.649
+
+consider , I have never been in London ; MORTON-1813-2,22.650
+
+you must know I do@ @n't think I am flourishing and saucy enough .
+MORTON-1813-2,22.651
+
+- You see I am a plain man . MORTON-1813-2,22.652
+
+<font> Asp. <$$font> Very - ha ! ha ! MORTON-1813-2,22.653
+
+<font> Suck. <$$font> That@ @'s saucy enough , however .
+MORTON-1813-2,22.654
+
+<font> Sir G. <paren> to Aspic <$$font> <$$paren> I wish you could make
+something of him - MORTON-1813-2,22.655
+
+see , how he blushes now ! MORTON-1813-2,22.656
+
+your company would cure him of that ; MORTON-1813-2,22.657
+
+and then , as to assurance , there again you could help him -
+MORTON-1813-2,22.658
+
+and , in return , if the use of my stud - <font> Asp. <$$font> Oh , Sir
+! <font> Sir G. <$$font> Or if any of my drafts would be acceptable -
+MORTON-1813-2,22.659
+
+<font> Asp. <$$font> <paren> <font> with alacrity <$$font> <$$paren> My
+dear Sir , drafts did you say ? MORTON-1813-2,22.660
+
+<font> Sir G. <$$font> Yes , if you@ @'ll accept any of my dt hounds -
+MORTON-1813-2,22.661
+
+<font> Asp. <$$font> <paren> <font> aside <$$font> <$$paren> Damn your
+hounds ! MORTON-1813-2,22.662
+
+- Come hither , Bonny ! MORTON-1813-2,22.663
+
+Shut your mouth MORTON-1813-2,22.664
+
+and open your ears , my plump one ! MORTON-1813-2,22.665
+
+- Instead of the Olympics of the ancient Greeks , you must study the
+mystic games of the moderns . MORTON-1813-2,22.666
+
+- To the groves of Academus you must prefer the <font> pavé <$$font> of
+Bond-street . MORTON-1813-2,22.667
+
+Your jurisprudence may be limited to the annuity act and the game laws ,
+and your zoology to the racer and <P_23> bull-dog ; MORTON-1813-2,23.668
+
+these , with an energetic devotion of mind and body to waltzing , and a
+close attention to business - that is , to Newmarket and the clubs -
+constitute the essence and vitality of a first-rate modern education .
+MORTON-1813-2,23.669
+
+<font> Suck. <$$font> Dang it ! MORTON-1813-2,23.670
+
+how he knocks the words about ! MORTON-1813-2,23.671
+
+<font> Sir G. <$$font> And do you hear , burn your cookery books .
+MORTON-1813-2,23.672
+
+<font> Asp. <$$font> Oh , no ! culinary criticism is in high request .
+MORTON-1813-2,23.673
+
+He shall deliver the axioms of Apicius , with the accuracy of Euclid -
+MORTON-1813-2,23.674
+
+only his <font> gout <$$font> must be made <font> piquant <$$font> and
+<font> recherchés {TEXT:recherchés} <$$font> . MORTON-1813-2,23.675
+
+<font> Sir G. <$$font> Must it ! MORTON-1813-2,23.676
+
+well , I@ @'ll order it to be made so . MORTON-1813-2,23.677
+
+<font> Suck. <$$font> I see what they are at ; MORTON-1813-2,23.678
+
+they want to make me a genius : MORTON-1813-2,23.679
+
+but it wo@ @nt do - MORTON-1813-2,23.680
+
+not such a fool as that , neither : MORTON-1813-2,23.681
+
+- So I@ @'ll go to Ellen ! MORTON-1813-2,23.682
+
+- You must know I@ @'m in love with her . MORTON-1813-2,23.683
+
+<font> Asp. <$$font> Indeed ! and does she return your passion ?
+MORTON-1813-2,23.684
+
+<font> Suck. <$$font> Why , that follows as naturally as brandy follows
+pig - he ! he ! MORTON-1813-2,23.685
+
+So , I@ @'ll go and talk to her . MORTON-1813-2,23.686
+
+<font> Sir G. <$$font> You talk to her ! MORTON-1813-2,23.687
+
+Lord help you ! MORTON-1813-2,23.688
+
+- She@ @'s all up among the stars ! MORTON-1813-2,23.689
+
+A little almanack learning is very well ; such as " thirty days has
+September ; " or to know when the day begins , or when Saint Swithin
+falls . MORTON-1813-2,23.690
+
+<font> Suck. <$$font> Or Pancake Tuesday . MORTON-1813-2,23.691
+
+<font> Sir G. <$$font> But she ca@ @n't tell how much flannel will make
+a poor child a petticoat , or enumerate the ingredients of a hunting
+pudding . MORTON-1813-2,23.692
+
+<font> Suck. <$$font> I can . MORTON-1813-2,23.693
+
+<font> Sir G. <$$font> I dare say ; MORTON-1813-2,23.694
+
+but I@ @'ve provided her a husband ; MORTON-1813-2,23.695
+
+so think no more of her . MORTON-1813-2,23.696
+
+- Come along , Mr. Aspic . MORTON-1813-2,23.697
+
+<font> Asp. <$$font> Good_bye , Bonny ! <bracket> <font> Exeunt Sir
+Guy and Aspic . <$$font> MORTON-1813-2,23.698
+
+<font> Suck. <$$font> Now there@ @'s behaviour from an uncle to his own
+natural nephew : MORTON-1813-2,23.699
+
+he supposes I@ @'ve no <P_24> spirit ; MORTON-1813-2,24.700
+
+but the moment I come to years of discretion I@ @'ll play the very devil
+- MORTON-1813-2,24.701
+
+see if I do@ @n't . MORTON-1813-2,24.702
+
+<font> Ellen . <paren> peeping <$$paren> <$$font> Bonny ! Cousin Bonny
+! MORTON-1813-2,24.703
+
+<font> Suck. <$$font> Eh ! where ! MORTON-1813-2,24.704
+
+what ! MORTON-1813-2,24.705
+
+Why , Ellen ! MORTON-1813-2,24.706
+
+Lud a mercy , you skim about like a swallow in spring ,
+MORTON-1813-2,24.707
+
+and look as pretty as the primrose it hovers over , MORTON-1813-2,24.708
+
+and I@ @'m sure you be as welcome . MORTON-1813-2,24.709
+
+<font> Ellen . <$$font> Thank you , Bonny . MORTON-1813-2,24.710
+
+<font> Suck. <$$font> Ah ! when you left me , Parson Porker said I
+looked as pale as a parsnip ; MORTON-1813-2,24.711
+
+so I took a little mulled wine - <font> <paren> sighs <$$paren> <$$font>
+. MORTON-1813-2,24.712
+
+<font> Ellen . <$$font> You@ @'re just the same , Bonny .
+MORTON-1813-2,24.713
+
+<font> Suck. <$$font> Am I ? MORTON-1813-2,24.714
+
+I@ @'m so glad at that . MORTON-1813-2,24.715
+
+I was fearful there might be some alteration ; MORTON-1813-2,24.716
+
+and then who knows but the fervency of your affection -
+MORTON-1813-2,24.717
+
+<font> Ellen . <$$font> My affection ! MORTON-1813-2,24.718
+
+- I@ @'m sure I never told you - MORTON-1813-2,24.719
+
+<font> Suck. <$$font> Told me ! MORTON-1813-2,24.720
+
+no : but do@ @n't you remember - I love my love with a B , because he@
+@'s bonny - he ! he ! MORTON-1813-2,24.721
+
+Bless me , how elegant and tasty you are ! MORTON-1813-2,24.722
+
+<font> Ellen . <$$font> You do@ @n't dislike female accomplishments ?
+MORTON-1813-2,24.723
+
+<font> Suck. <$$font> Oh , no ; they@ @'re like a second course - not
+necessary , but agreeable : MORTON-1813-2,24.724
+
+but do you know that uncle and that Lunnoner are laying their heads
+together to part us . MORTON-1813-2,24.725
+
+<font> Ellen . <$$font> Then perhaps , Bonny , if we were to lay our
+heads together we might prevent them . MORTON-1813-2,24.726
+
+<paren> <font> He draws her towards him , MORTON-1813-2,24.727
+
+and kisses her . <$$font> <$$paren> MORTON-1813-2,24.728
+
+<font> Suck. <$$font> And rather than part , I@ @'ll run away with you
+any morning you like after breakfast . MORTON-1813-2,24.729
+
+<font> Ellen . <$$font> Will you ? MORTON-1813-2,24.730
+
+hush : I hear them ; MORTON-1813-2,24.731
+
+this way . MORTON-1813-2,24.732
+
+<font> Suck. <$$font> And we@ @'ll lay our heads together again .
+MORTON-1813-2,24.733
+
+<bracket> <font> Exeunt . <$$font> MORTON-1813-2,24.734
+
+<P_25>
+
+<heading>
+
+SCENE II - MORTON-1813-2,25.737
+
+<font> A Parlour at Farmer <$$font> Broadcast's . MORTON-1813-2,25.738
+
+<$$heading>
+
+<font> Enter <$$font> Dame Broadcast <font> and <$$font> Broadcast .
+MORTON-1813-2,25.740
+
+<font> Broad. <$$font> <paren> <font> as he enters <$$font> <$$paren>
+Come , come , wife ! MORTON-1813-2,25.741
+
+a mug of beer , directly ! MORTON-1813-2,25.742
+
+<paren> <font> Exit Dame . <$$font> <$$paren> MORTON-1813-2,25.743
+
+Eight hours ploughing , in a stiff clay , makes a man cruel limp , and
+faintish - <paren> <font> wipes his forehead : MORTON-1813-2,25.744
+
+enter Dame with beer <$$font> <$$paren> Aye , there@ @'s heart and proof
+in this <paren> <font> drinks <$$font> <$$paren> . MORTON-1813-2,25.745
+
+Where@ @'s George ? MORTON-1813-2,25.746
+
+At school , I suppose , idling his time in studying .
+MORTON-1813-2,25.747
+
+<font> Dame . <$$font> Ralph Broadcast , do@ @n't you be always
+worrying and taunting about the child's learning ; MORTON-1813-2,25.748
+
+it costs you nothing . MORTON-1813-2,25.749
+
+Mr. Templeton , Heaven bless him ! pays for it ; MORTON-1813-2,25.750
+
+and I@ @'m sure George grows quite politesome and mannerly .
+MORTON-1813-2,25.751
+
+<font> Broad. <$$font> What need he go to school for that , you old
+fool ! MORTON-1813-2,25.752
+
+I never was learnt manners . MORTON-1813-2,25.753
+
+<font> Dame . <$$font> That@ @'s true , Ralph ! MORTON-1813-2,25.754
+
+but improvement - MORTON-1813-2,25.755
+
+<font> Broad. <$$font> Oh , yes , there are rare improvements
+now_a_days ! MORTON-1813-2,25.756
+
+Why , I remember the time when I could get drunk to my heart's content
+for nine-pence ; MORTON-1813-2,25.757
+
+and now , though I spend half a crown I come home as sober as a sucking
+calf . MORTON-1813-2,25.758
+
+I hope you do@ @n't call that improvement ? MORTON-1813-2,25.759
+
+Has Goad the drover been here ? MORTON-1813-2,25.760
+
+<font> Dame . <$$font> No , Ralph ! MORTON-1813-2,25.761
+
+<font> Broad. <$$font> I must find his account . MORTON-1813-2,25.762
+
+<font> Enter <$$font> George . MORTON-1813-2,25.763
+
+<font> George . <$$font> Good evening , father ! MORTON-1813-2,25.764
+
+<font> <paren> bows , MORTON-1813-2,25.765
+
+gets on a chair , MORTON-1813-2,25.766
+
+and places books on a shelf . <$$paren> <$$font> MORTON-1813-2,25.767
+
+I@ @'m very hungry , mother ! MORTON-1813-2,25.768
+
+<font> Broad. <paren> looking among papers in a pocket-book , drops one
+<$$paren> <$$font> Aye , instead of stuffing thy head I would make thee
+yarn someit to fill thy belly . MORTON-1813-2,25.769
+
+I say , George , what@ @'s the use of thy larning {COM:sic} -
+MORTON-1813-2,25.770
+
+doist know , boy ? MORTON-1813-2,25.771
+
+<font> George . <$$font> Why , father , I was thinking about that
+myself , MORTON-1813-2,25.772
+
+so I asked my master . MORTON-1813-2,25.773
+
+<P_26>
+
+<font> Broad. <$$font> Well . MORTON-1813-2,26.775
+
+<font> George . <$$font> Says he , I will endeavour to impress your
+young mind with a probable occasion for its usefulness .
+MORTON-1813-2,26.776
+
+<font> Broad. <$$font> Now for it . MORTON-1813-2,26.777
+
+<font> George . <$$font> When your dear father becomes old and past
+labour , your learning will be useful to him in managing his accounts in
+this world , and by reading good books to him , enable him to settle his
+account with advantage in the world to come . MORTON-1813-2,26.778
+
+<font> Dame . <$$font> There , husband ! MORTON-1813-2,26.779
+
+<font> <paren> Broadcast looks grave <$$paren> <$$font> .
+MORTON-1813-2,26.780
+
+<font> George . <$$font> And , my dear child , says he <font> <paren>
+taking both their hands <$$paren> <$$font> , if it should please Heaven
+to afflict your beloved parents with lameness or blindness , think what
+a happiness it will be to comfort and assist them , and change many a
+long winter's night of sorrow into contentment and cheerfulness ! -
+MORTON-1813-2,26.781
+
+<font> <paren> Broadcast and wife become strongly affected ,
+MORTON-1813-2,26.782
+
+they sob , MORTON-1813-2,26.783
+
+and conceal their faces . <$$paren> <$$font> MORTON-1813-2,26.784
+
+Oh dear ! why I have made you cry : MORTON-1813-2,26.785
+
+I thought it would make you happy and merry . MORTON-1813-2,26.786
+
+<font> Broad. <$$font> So it do , my dear ! MORTON-1813-2,26.787
+
+- so it do - he ! he ! MORTON-1813-2,26.788
+
+<font> <paren> mixing laugh with cry , he then snatches up George and
+kisses him . <$$paren> <$$font> MORTON-1813-2,26.789
+
+I say , missus , he@ @'s mortal like me , bea@ @nt he ? - he ! he !
+MORTON-1813-2,26.790
+
+<font> George . <$$font> And , father , when I heard I could be such a
+blessing to you I went to my book so eager , and so viscious -
+MORTON-1813-2,26.791
+
+<font> Broad. <$$font> Thee shall go to school all thy days , if thee
+lik'st . MORTON-1813-2,26.792
+
+I declare he conversations better than I can . MORTON-1813-2,26.793
+
+<font> George . <$$font> Now I@ @'ll go to Miss Rosine .
+MORTON-1813-2,26.794
+
+<font> Dame . <$$font> She@ @'s not within , my lamb !
+MORTON-1813-2,26.795
+
+<font> George . <$$font> I@ @'m sorry for that ; MORTON-1813-2,26.796
+
+but it wo@ @n't do for me to idle my time so . MORTON-1813-2,26.797
+
+<font> <paren> Picks up the paper his father has dropped ,
+MORTON-1813-2,26.798
+
+and seats himself on the ground , making figures with chalk <$$paren>
+<$$font> . MORTON-1813-2,26.799
+
+<font> Broad. <paren> significantly <$$paren> <$$font> Has young Squire
+Templeton been here to-day ? Eh ! MORTON-1813-2,26.800
+
+<P_27>
+
+<font> Dame . <$$font> Ralph Broadcast , none of your wicked
+insinuations {TEXT:insiniations} ; MORTON-1813-2,27.802
+
+Miss Rosine is as vartuous as your own mother . MORTON-1813-2,27.803
+
+When the young squire brought her here she thought he was taking her to
+his father's house ; MORTON-1813-2,27.804
+
+and then he pretended {TEXT:pertended} the chay broke down .
+MORTON-1813-2,27.805
+
+<font> Broad. <$$font> Well , I hope all@ @'s right -
+MORTON-1813-2,27.806
+
+only things look a little matter <font> suspicious {TEXT:suspicus}
+<$$font> . MORTON-1813-2,27.807
+
+<font> Dame . <$$font> I@ @'ve seen you wink , and nod your stupid head
+before Miss Rosine - MORTON-1813-2,27.808
+
+and then , dear lady ! she has sighed as if her poor heart would burst
+. MORTON-1813-2,27.809
+
+<font> Broad. <$$font> I be deadly sorry for that -
+MORTON-1813-2,27.810
+
+if I should offer to do so again , you can give me a hint , you know .
+MORTON-1813-2,27.811
+
+- Here comes Miss , and , seemingly , in a mortal taking .
+MORTON-1813-2,27.812
+
+<font> Enter <$$font> Rosine . MORTON-1813-2,27.813
+
+<font> Ros. <$$font> Oh , Dame ! I@ @'ve been greatly alarmed .
+MORTON-1813-2,27.814
+
+<font> Dame . <$$font> You look so , dear lady ! MORTON-1813-2,27.815
+
+<font> Ros. <$$font> An old gentleman fell senseless from his horse -
+MORTON-1813-2,27.816
+
+his servant galloped off for assistance , leaving me to watch him .
+MORTON-1813-2,27.817
+
+When he recovered , he gazed at me with frantic eagerness ,
+MORTON-1813-2,27.818
+
+and this ornament became entangled in his hands ; MORTON-1813-2,27.819
+
+at the sight of it he , with curses , threw me from him .
+MORTON-1813-2,27.820
+
+- I fled ; MORTON-1813-2,27.821
+
+he then wildly commanded my return ; MORTON-1813-2,27.822
+
+but nature being exhausted , he again fainted . MORTON-1813-2,27.823
+
+Medical aid arrived , MORTON-1813-2,27.824
+
+and they bore him away . MORTON-1813-2,27.825
+
+See , there they go ! MORTON-1813-2,27.826
+
+<font> Broad. <$$font> Why , certain sure 't@ @is my landlord , old Mr.
+Cleveland ! MORTON-1813-2,27.827
+
+- Poor man ! he@ @'s past his best . MORTON-1813-2,27.828
+
+You must know , Miss , that , long ago , he quarrelled with his daughter
+, and ever since he has been startleish , and athwart , and across , and
+oddish like . MORTON-1813-2,27.829
+
+He has left all his fortune to old Mr. Templeton - MORTON-1813-2,27.830
+
+I say all the better for some folk . <font> <paren> Winks .
+MORTON-1813-2,27.831
+
+Dame pinches him <$$paren> <$$font> MORTON-1813-2,27.832
+
+Zounds , what a grip ! MORTON-1813-2,27.833
+
+- I did not tell thee to give me a hint with a pair of pliers , did I ?
+MORTON-1813-2,27.834
+
+Oh , there@ @'s Goad the drover ! MORTON-1813-2,27.835
+
+- now , where@ @'s the paper MORTON-1813-2,27.836
+
+<font> <paren> to George <$$paren> <$$font> . What , you have got it ,
+and scribbled it I suppose ? MORTON-1813-2,27.837
+
+<P_28>
+
+<font> George . <$$font> I have done it no harm , father <font> <paren>
+rises <$$paren> <$$font> . MORTON-1813-2,28.839
+
+<font> Broad. <$$font> This seventy-five pounds will just pay a
+quarter's rent . MORTON-1813-2,28.840
+
+<font> George . <paren> looking at the paper <$$paren> <$$font> I was
+thinking , father , that if the drover only pays you seventy-five pounds
+, he will cheat you out of twenty-eight pounds fourteen shillings .
+MORTON-1813-2,28.841
+
+<font> Broad. <$$font> Eh ! what did you say , my dear ?
+MORTON-1813-2,28.842
+
+<font> George . <$$font> I think the cattle sold comes to
+a_hundred_and_three pounds fourteen shillings . MORTON-1813-2,28.843
+
+<font> Ros. <$$font> Let me see - MORTON-1813-2,28.844
+
+'t@ @is so indeed : good boy . MORTON-1813-2,28.845
+
+<font> Dame . <$$font> Now , is his learning nonsense ?
+MORTON-1813-2,28.846
+
+<font> Broad. <$$font> He ! he ! he ! - he@ @'s a cute one ,
+MORTON-1813-2,28.847
+
+he has it all fra' {COM:sic} his feyther . MORTON-1813-2,28.848
+
+You must understand , Miss , that our family {TEXT:famely} is a
+particular sort . MORTON-1813-2,28.849
+
+There@ @'s a crown for you , you cunning little jackanapes ! - he ! he
+! MORTON-1813-2,28.850
+
+- Come , dame ! MORTON-1813-2,28.851
+
+- Mortal like me , to be sure ! MORTON-1813-2,28.852
+
+<font> George . <$$font> What a grand gilt Robinson Crusoe this will
+buy ! MORTON-1813-2,28.853
+
+- <font> <paren> Dame Broadcast takes George's hand . <$$paren>
+<$$font> MORTON-1813-2,28.854
+
+<font> Broad. <$$font> Mortal like me , to be sure .
+MORTON-1813-2,28.855
+
+<bracket> <font> Exeunt Broadcast , Dame Broadcast , and George .
+<$$font> MORTON-1813-2,28.856
+
+<paren> <font> Vincent Templeton , without . <$$paren> <$$font> Ha !
+ha ! beer after champaigne ! MORTON-1813-2,28.857
+
+No , no , Broadcast , that would indeed be sounding the base string of
+humility <font> <paren> enters somewhat intoxicated <$$paren> <$$font> .
+MORTON-1813-2,28.858
+
+Enchanting Rosine ! see at your feet your impassioned lover ! <paren>
+<font> kneels <$$font> <$$paren> MORTON-1813-2,28.859
+
+Will you not raise him to your arms ? MORTON-1813-2,28.860
+
+<font> Ros. <$$font> How is this ? MORTON-1813-2,28.861
+
+There is a freedom in his look and manner new and alarming .
+MORTON-1813-2,28.862
+
+- Vincent , this extravagant emotion does some violence to my subdued
+spirits . MORTON-1813-2,28.863
+
+- Pray rise . <font> <paren> with gentle serenity . <$$paren> <$$font>
+MORTON-1813-2,28.864
+
+<font> Vinc. <$$font> By my hopes - that supplicating eye , that
+plaintive voice , that interesting dejection , fire my soul with love so
+ardent - here could I gaze for ever ! MORTON-1813-2,28.865
+
+<font> Ros. <$$font> Fie ! fie ! - This is the vilest trash of
+romantic enthusiasm MORTON-1813-2,28.866
+
+- let your language be the emanation of a feeling and enlightened mind .
+MORTON-1813-2,28.867
+
+- Love's <P_29> best employment is the interchange of confidence - the
+mutual sacrifice of selfishness - the endearing offices of friendship -
+the sweet memory of kindness : MORTON-1813-2,29.868
+
+- these are the features of that love whose parent is honour , and whose
+nurse is virtue . MORTON-1813-2,29.869
+
+<font> Vinc. <$$font> " And truths divine came mended from her tongue .
+" MORTON-1813-2,29.870
+
+- Sweet moralist ! MORTON-1813-2,29.871
+
+<font> Ros. <$$font> Does he mock me ! MORTON-1813-2,29.872
+
+- Oh , Vincent ! where is the father whose arms you said were open to
+receive me ? MORTON-1813-2,29.873
+
+Without his public sanction , poor and unprotected as I am , I never
+will be yours ! MORTON-1813-2,29.874
+
+- Here I remain no longer . MORTON-1813-2,29.875
+
+<font> Vinc. <paren> Aside <$$paren> <$$font> As I wished .
+MORTON-1813-2,29.876
+
+- My care for you , Rosine , has devised a secure retreat -
+MORTON-1813-2,29.877
+
+a chaise waits to bear you to it . MORTON-1813-2,29.878
+
+<font> Ros. <$$font> Ah ! MORTON-1813-2,29.879
+
+<font> Vinc. <$$font> There away from fathers - the world , and its
+cold rules - MORTON-1813-2,29.880
+
+<font> Ros. <$$font> His senses are disordered ! MORTON-1813-2,29.881
+
+- Let me fly ! MORTON-1813-2,29.882
+
+- But whither ? MORTON-1813-2,29.883
+
+- To the next precipice , rather than remain . MORTON-1813-2,29.884
+
+<font> Vinc. <$$font> I@ @'ve been drinking bumpers of champaigne to
+our safe arrival at this Elysium . MORTON-1813-2,29.885
+
+<font> Ros. <$$font> <paren> <font> aside <$$font> <$$paren> Stratagem
+alone can free me . MORTON-1813-2,29.886
+
+<font> Vinc. <$$font> What says my love ? MORTON-1813-2,29.887
+
+<font> Ros. <$$font> <paren> <font> averting her face <$$font>
+<$$paren> Vincent , you shall witness the extent of your power over me -
+MORTON-1813-2,29.888
+
+I@ @'ll instantly prepare for my departure . <paren> <font> Rushes into
+her room <$$font> <$$paren> . MORTON-1813-2,29.889
+
+<font> Vinc. <$$font> Then love@ @'s triumphant . MORTON-1813-2,29.890
+
+But hold ! MORTON-1813-2,29.891
+
+- Rosine to consent so soon ! MORTON-1813-2,29.892
+
+- I@ @'m not quite sure I like that - MORTON-1813-2,29.893
+
+I@ @'m afraid I@ @'m growing sober - MORTON-1813-2,29.894
+
+'T@ @is a cursed awkward thing to be half a rascal .
+MORTON-1813-2,29.895
+
+- Oh for a little more virtue , or a little more champaigne !
+MORTON-1813-2,29.896
+
+- Damn this plan of Aspic's ! MORTON-1813-2,29.897
+
+I do@ @n't like it - MORTON-1813-2,29.898
+
+But , zounds , I need not hunt for scruples if she do@ @n't -
+MORTON-1813-2,29.899
+
+so confusion to reflection . MORTON-1813-2,29.900
+
+She comes - MORTON-1813-2,29.901
+
+no , she do@ @n't . MORTON-1813-2,29.902
+
+Your faithful Vincent waits . MORTON-1813-2,29.903
+
+- I do@ @n't hear her . MORTON-1813-2,29.904
+
+- Rosine ! MORTON-1813-2,29.905
+
+- Still silent - MORTON-1813-2,29.906
+
+<paren> <font> Peeps through the key-hole <$$font> <$$paren> <P_30> -
+The window open . MORTON-1813-2,30.907
+
+<paren> <font> Bursts open the door . <$$font> <$$paren> - Gone
+MORTON-1813-2,30.908
+
+- fled from her seducer ! - a detested word . MORTON-1813-2,30.909
+
+I@ @'ll pursue , but not to destroy . MORTON-1813-2,30.910
+
+If ever I allow uncontroll'd passion - MORTON-1813-2,30.911
+
+What , again protesting ! MORTON-1813-2,30.912
+
+Drunkard , idiot , scoundrel ! - MORTON-1813-2,30.913
+
+<paren> <font> Rushes out <$$font> <$$paren> . MORTON-1813-2,30.914
+
+<heading>
+
+SCENE III . MORTON-1813-2,30.916
+
+- <font> A Park - MORTON-1813-2,30.917
+
+House in the distance - MORTON-1813-2,30.918
+
+Trees in the centre - MORTON-1813-2,30.919
+
+Near them a seat . <$$font> MORTON-1813-2,30.920
+
+<$$heading>
+
+<font> Enter <$$font> Rosine , <font> running . <$$font>
+MORTON-1813-2,30.922
+
+<font> Ros. <$$font> I have escaped ; MORTON-1813-2,30.923
+
+but whither have my fears compelled me ? MORTON-1813-2,30.924
+
+I must rest awhile . MORTON-1813-2,30.925
+
+I@ @'m very faint MORTON-1813-2,30.926
+
+- a female approaches MORTON-1813-2,30.927
+
+- <paren> <font> conceals herself behind a tree <$$font> <$$paren> .
+MORTON-1813-2,30.928
+
+<paren> <font> Ellen crosses the stage , with a small basket under her
+arm - MORTON-1813-2,30.929
+
+on seeing Rosine , starts . <$$font> <$$paren> MORTON-1813-2,30.930
+
+<font> Ellen . <$$font> A lady , and alone ! MORTON-1813-2,30.931
+
+She seems greatly agitated . MORTON-1813-2,30.932
+
+How may I venture to address her ? MORTON-1813-2,30.933
+
+I fear , Madam , you are ill ? MORTON-1813-2,30.934
+
+Shall I procure assistance ? MORTON-1813-2,30.935
+
+<paren> <font> Rosine advancing , recognizes Ellen ,
+MORTON-1813-2,30.936
+
+shrieks , MORTON-1813-2,30.937
+
+and conceals her face . <$$font> <$$paren> . MORTON-1813-2,30.938
+
+Heavens , Rosine St. Clermont , my beloved instructor !
+MORTON-1813-2,30.939
+
+<paren> <font> with reserve <$$font> <$$paren> Madam , <font> Je suis
+bien aise de vous voir . <$$font> MORTON-1813-2,30.940
+
+Oh ! I can@ @not school it . MORTON-1813-2,30.941
+
+Dear , dear Rosine ! look on me : MORTON-1813-2,30.942
+
+- 't@ @is Ellen ; MORTON-1813-2,30.943
+
+'t@ @is she you have called your darling Ellen that entreats .
+MORTON-1813-2,30.944
+
+<font> Ros. <$$font> I am not guilty - MORTON-1813-2,30.945
+
+by my soul I am not . MORTON-1813-2,30.946
+
+I dare bathe your hand with my tears . MORTON-1813-2,30.947
+
+I dare press you , Ellen , to my broken heart ; MORTON-1813-2,30.948
+
+were it a guilty one , I durst not do so . MORTON-1813-2,30.949
+
+Tell me where am I ? MORTON-1813-2,30.950
+
+<font> Ellen . <$$font> In my father's domain ; MORTON-1813-2,30.951
+
+there@ @'s his mansion , whose hospitable doors will open wide as these
+arms to receive you . MORTON-1813-2,30.952
+
+<font> Ros. <$$font> No ! that must not be . MORTON-1813-2,30.953
+
+<font> Ellen . <$$font> Ah ! but it must , though :
+MORTON-1813-2,30.954
+
+here I am verderer , MORTON-1813-2,30.955
+
+you are a trespasser , MORTON-1813-2,30.956
+
+and by virtue of my office I am bound to impound you .
+MORTON-1813-2,30.957
+
+I do@ @n't care for your frowns , Ma'am . MORTON-1813-2,30.958
+
+School@ @'s up , MORTON-1813-2,30.959
+
+school@ @'s up ! MORTON-1813-2,30.960
+
+<P_31>
+
+By my wishes , here comes my father ! MORTON-1813-2,31.962
+
+Dear Rosine , rest there a moment . <paren> <font> Leads her to a seat
+. <$$font> <$$paren> MORTON-1813-2,31.963
+
+<font> Enter <$$font> Sir Guy Stanch . MORTON-1813-2,31.964
+
+Oh ! Sir , I@ @'ve been so surprised and delighted ;
+MORTON-1813-2,31.965
+
+and you@ @'ll be delighted . MORTON-1813-2,31.966
+
+I@ @'ve met dear Rosine ! MORTON-1813-2,31.967
+
+<font> Sir G. <$$font> Who ? MORTON-1813-2,31.968
+
+<font> Ellen . <$$font> The teacher . MORTON-1813-2,31.969
+
+<font> Sir G. <$$font> The teacher ! MORTON-1813-2,31.970
+
+Good_bye ! <paren> <font> Going . <$$font> <$$paren>
+MORTON-1813-2,31.971
+
+<font> Ellen . <$$font> <paren> <font> holding him <$$font> <$$paren>
+Nay . MORTON-1813-2,31.972
+
+<font> Sir G. <$$font> The learning of the pupil has quite satisfied me
+. MORTON-1813-2,31.973
+
+<font> Ellen . <$$font> But , dear papa , she is in distress ;
+MORTON-1813-2,31.974
+
+she claims your hospitality . MORTON-1813-2,31.975
+
+<font> Sir G. <$$font> That claim was never refused by the Stanch's !
+MORTON-1813-2,31.976
+
+- she shall be received , though she were president of the Blue Stocking
+club . MORTON-1813-2,31.977
+
+<font> Ellen . <$$font> That@ @'s a dear dad ! <font> <paren> patting
+his cheek <$$paren> <$$font> MORTON-1813-2,31.978
+
+<font> Sir G. <$$font> Call me dad , and you may do any thing .
+MORTON-1813-2,31.979
+
+What the deuce shall I say to this old starch female buzwig ?
+MORTON-1813-2,31.980
+
+- I wish I could hit on some hard words . MORTON-1813-2,31.981
+
+<font> <paren> Ellen advances with Rosine . <$$paren> <$$font>
+MORTON-1813-2,31.982
+
+- Old buzwig ! MORTON-1813-2,31.983
+
+I never beheld a more lovely and interesting creature !
+MORTON-1813-2,31.984
+
+- Hem ! - Pardon , madam , my unphilosophical incompatibility to make
+my congratulatory advances recommendatory and conciliatory to a lady
+<font> <paren> peeping at a letter <$$paren> <$$font> , who is aufait
+{TEXT:aufaut} of astronomy , botany , chemistry , history , geography ,
+geology , philology , and chronology . MORTON-1813-2,31.985
+
+<font> Ellen . <$$font> Ha ! ha ! ha ! MORTON-1813-2,31.986
+
+<font> Ros. <$$font> Receive my heartfelt acknowledgements -
+MORTON-1813-2,31.987
+
+but allow me , Sir , to enter my humble protest against that system of
+education whose object is rather to obtain the meed of public applause
+than to insure the felicity of domestic retirement - and which teaches
+the arts of obtaining a husband , rather than the duties of making one
+happy . MORTON-1813-2,31.988
+
+<font> Sir G. <$$font> Your sentiments are admirable !
+MORTON-1813-2,31.989
+
+- I long to introduce you to the Hall . MORTON-1813-2,31.990
+
+<P_32>
+
+<font> Ros. <$$font> First know the person you thus honour -
+MORTON-1813-2,32.992
+
+My mother was an Englishwoman , who was discarded by her family for
+marrying a native of France . MORTON-1813-2,32.993
+
+<font> Sir G. <$$font> And serve her right . MORTON-1813-2,32.994
+
+<font> Ros. <$$font> Oh , Sir , had you known my father , you might
+have been pleased to think otherwise . MORTON-1813-2,32.995
+
+<font> Sir G. <$$font> To what English family did your mother belong ?
+MORTON-1813-2,32.996
+
+<font> Ros. <$$font> I know not , Sir - MORTON-1813-2,32.997
+
+my parents carefully concealed it . MORTON-1813-2,32.998
+
+<font> Sir G. <$$font> Why this is the history of old Cleveland's
+daughter ! MORTON-1813-2,32.999
+
+Your father's name ? MORTON-1813-2,32.1000
+
+<font> Ros. <$$font> Saint Clermont . MORTON-1813-2,32.1001
+
+<font> Sir G. <$$font> No , that wo@ @n't do - MORTON-1813-2,32.1002
+
+I@ @'ve interrupted you . MORTON-1813-2,32.1003
+
+<font> Ros. <$$font> I was sent to an English school , while my father
+fought in the armies hostile to the existing government .
+MORTON-1813-2,32.1004
+
+At length the usual remittances did not arrive ; MORTON-1813-2,32.1005
+
+- this , though it filled my heart with dread for the fate of my dear
+parents , was not otherwise important , as by the indulgent judgment of
+the teachers I was thought capable of communicating the instruction I
+had received : MORTON-1813-2,32.1006
+
+- there I remained contented , til an unfortunate attachment , an - an -
+ill-placed confidence , MORTON-1813-2,32.1007
+
+- my words are incoherent . MORTON-1813-2,32.1008
+
+<font> Sir G. <$$font> Never mind ; MORTON-1813-2,32.1009
+
+'t@ @is a proof they are sincere . MORTON-1813-2,32.1010
+
+<font> Ros. <$$font> But , indeed , they come from my heart .
+MORTON-1813-2,32.1011
+
+<font> Sir G. <$$font> And when words come from one heart they
+generally find their way to another . MORTON-1813-2,32.1012
+
+- 'Fore gad I@ @'m so charmed , that if you wished to be Lady Stanch ,
+or , what is more , asked me for my favourite hound , hang me if I could
+refuse you . MORTON-1813-2,32.1013
+
+<font> Ellen . <$$font> Dear papa ! Oh , we@ @'ll be so happy !
+MORTON-1813-2,32.1014
+
+- And I wo@ @n't tease {TEXT:teaze} you any more .
+MORTON-1813-2,32.1015
+
+<font> Sir G. <$$font> Wo@ @n't you ? MORTON-1813-2,32.1016
+
+that@ @'s right . MORTON-1813-2,32.1017
+
+- Curse the ologies - MORTON-1813-2,32.1018
+
+<font> Ellen . <$$font> Yes cur- MORTON-1813-2,32.1019
+
+Oh dear ! <font> <paren> putting her hands before <P_33> her mouth
+<$$paren> <$$font> . MORTON-1813-2,33.1020
+
+And I@ @'ll make my harp twang with Sir Roger de Coverly , and the Devil
+among the Tailors . MORTON-1813-2,33.1021
+
+<font> Sir G. <$$font> Will you ? MORTON-1813-2,33.1022
+
+<font> Ellen . <$$font> Yes , - and what@ @'s more , I@ @'ll go hunting
+with you , MORTON-1813-2,33.1023
+
+and before the lark has chanted its matin song , I@ @'ll be under your
+window singing , {COM:song_omitted} MORTON-1813-2,33.1024
+
+<font> Sir G. <paren> joins <$$paren> <$$font> Damn the footmen !
+MORTON-1813-2,33.1025
+
+how they halloo ! MORTON-1813-2,33.1026
+
+<font> Both . <$$font> Fal lal de ral . MORTON-1813-2,33.1027
+
+<bracket> <font> Exeunt . <$$font> MORTON-1813-2,33.1028
+
+<heading>
+
+End of the second act . MORTON-1813-2,33.1030
+
+<$$heading>
+
+<P_34>
+
+<heading>
+
+ACT III . MORTON-1813-2,34.1034
+
+SCENE I . MORTON-1813-2,34.1035
+
+- Templeton's <font> Library . <$$font> MORTON-1813-2,34.1036
+
+<$$heading>
+
+<font> Enter <$$font> Mr. Templeton , <font> meeting <$$font> Mrs.
+Templeton . MORTON-1813-2,34.1038
+
+<font> Temp. <$$font> Look here , madam ! MORTON-1813-2,34.1039
+
+see what the report of my supposed wealth has produced :
+MORTON-1813-2,34.1040
+
+these are the effects of your innocent falsehood - your harmless
+exaggeration , subscription-hounds , races , balls , clubs , canals ,
+railways , <paren> <font> throwing papers on the table . <$$font>
+<$$paren> MORTON-1813-2,34.1041
+
+There@ @'s not a speculation of interest or folly , that I am not
+expected to patronize ; MORTON-1813-2,34.1042
+
+and I must either incur the censure of illiberality , by a refusal , or
+embarrass my fortune by compliance . MORTON-1813-2,34.1043
+
+<font> Enter <$$font> Servant , <font> who delivers papers ,
+MORTON-1813-2,34.1044
+
+and exit . <$$font> MORTON-1813-2,34.1045
+
+Bills of my son's : MORTON-1813-2,34.1046
+
+- so , so , he has heard the report , MORTON-1813-2,34.1047
+
+and is gone mad again . MORTON-1813-2,34.1048
+
+<font> Mrs. T. <$$font> Does not the chest contain the title-deeds ,
+and I know not what , of old Cleveland , whose will is made in your
+favour ? MORTON-1813-2,34.1049
+
+<font> Temp. <$$font> But , madam , Mr. Cleveland lives -
+MORTON-1813-2,34.1050
+
+<font> Mrs. T. <$$font> Pshaw ! 't@ @will only be the wonder of an
+hour , MORTON-1813-2,34.1051
+
+you will hear nothing of it to-morrow . MORTON-1813-2,34.1052
+
+<font> Temp. <$$font> To-morrow ! MORTON-1813-2,34.1053
+
+I nauseate the word : MORTON-1813-2,34.1054
+
+my whole house is infected with it ! MORTON-1813-2,34.1055
+
+indeed , Julia , if you saw with my eyes - MORTON-1813-2,34.1056
+
+<font> Mrs. T. <$$font> Your eyes , Mr. Templeton !
+MORTON-1813-2,34.1057
+
+<font> Temp. <$$font> Though I admit they can@ @not rival yours in
+lustre , yet they can clearly discern that ruin - MORTON-1813-2,34.1058
+
+<P_35>
+
+<font> Mrs. T. <$$font> Ruin ! - the oddest and most disagreeable
+word I ever heard . MORTON-1813-2,35.1060
+
+I beg you@ @'ll not repeat it , my love . MORTON-1813-2,35.1061
+
+<font> Temp. <$$font> Your amended conduct must prevent its iteration ,
+my life ! MORTON-1813-2,35.1062
+
+<font> Mrs. T. <$$font> Must , my dear ! MORTON-1813-2,35.1063
+
+<font> Temp. <$$font> Even so , my darling ! MORTON-1813-2,35.1064
+
+<font> Mrs. T. <$$font> Husband , you are rude .
+MORTON-1813-2,35.1065
+
+<font> Temp. <$$font> Wife , I am just . MORTON-1813-2,35.1066
+
+<font> Mrs. T. <$$font> Arrogant man ! MORTON-1813-2,35.1067
+
+<font> Temp. <$$font> Vain , thoughtless woman ! MORTON-1813-2,35.1068
+
+<font> Mrs. T. <$$font> Brute ! MORTON-1813-2,35.1069
+
+<font> Temp. <$$font> Torment ! MORTON-1813-2,35.1070
+
+<paren> <font> They walk about in anger <$$font> <$$paren> .
+MORTON-1813-2,35.1071
+
+<font> Enter <$$font> Damper . MORTON-1813-2,35.1072
+
+<font> Damp. <$$font> Here I am again . MORTON-1813-2,35.1073
+
+Hey-day ! What are they about ? MORTON-1813-2,35.1074
+
+- Oh , I see , a pedestrian contest . MORTON-1813-2,35.1075
+
+The lady has the foot hollow - MORTON-1813-2,35.1076
+
+Templeton , you@ @'re beat <paren> <font> laying hold of him <$$font>
+<$$paren> . MORTON-1813-2,35.1077
+
+So stop , MORTON-1813-2,35.1078
+
+stop , I say , my peripatetic disputants , while I inform you <paren>
+ca@ @n't you be quiet ? <$$paren> that I like you so well , that I@
+@'ve purchased an estate in your neighbourhood ; and to prevent
+disappointment , have promised to pay five_thousand of the
+purchase-money to-day , which I must have of you .
+MORTON-1813-2,35.1079
+
+<paren> <font> Templeton and wife stand motionless . <$$font> <$$paren>
+MORTON-1813-2,35.1080
+
+I@ @'ve brought them to a stand_still at last ; MORTON-1813-2,35.1081
+
+so open this iron portal , MORTON-1813-2,35.1082
+
+and let the Pactolean stream flow . MORTON-1813-2,35.1083
+
+- What silent ! MORTON-1813-2,35.1084
+
+<font> Mrs. T. <$$font> Oh , Templeton , I see my error .
+MORTON-1813-2,35.1085
+
+Pardon me , MORTON-1813-2,35.1086
+
+shield me ; MORTON-1813-2,35.1087
+
+this shall be our last quarrel , MORTON-1813-2,35.1088
+
+indeed it shall . <paren> <font> Runs out <$$font> <$$paren> .
+MORTON-1813-2,35.1089
+
+<font> Damp. <$$font> So , the lady has started again .
+MORTON-1813-2,35.1090
+
+Come , come ! MORTON-1813-2,35.1091
+
+why do@ @n't you let me have the money ? MORTON-1813-2,35.1092
+
+Not a word ! MORTON-1813-2,35.1093
+
+immoveable ! MORTON-1813-2,35.1094
+
+Is it so ? MORTON-1813-2,35.1095
+
+Mr. Templeton , I can@ @not misunderstand your meaning ,
+MORTON-1813-2,35.1096
+
+and my thanks are due for having with such moderation checked my
+unwarrantable application , my impertinent intrusion . <paren> <font>
+Bows , and is going . <$$font> <$$paren> MORTON-1813-2,35.1097
+
+<font> Temp. <$$font> <paren> <font> stopping him . <$$font> <$$paren>
+Not so , not so , my friend ! MORTON-1813-2,35.1098
+
+<P_36>
+
+<font> Damp. <$$font> How then , sir ? MORTON-1813-2,36.1100
+
+<font> Temp. <$$font> With shame and sorrow let me own , that what my
+wife averred , and I did not oppose , respecting the contents of that
+chest was - false . MORTON-1813-2,36.1101
+
+<font> Damp. <$$font> <paren> <font> starts . <$$font> <$$paren>
+Destruction to my hopes ! MORTON-1813-2,36.1102
+
+<font> Temp. <$$font> I am very sorry on your account .
+MORTON-1813-2,36.1103
+
+<font> Damp. <$$font> I think not of that ; MORTON-1813-2,36.1104
+
+concealment is now impossible . MORTON-1813-2,36.1105
+
+Templeton , summon to your aid that fortitude which is the inmate of an
+honest breast , while you peruse that letter . MORTON-1813-2,36.1106
+
+<font> Temp. <$$font> <paren> <font> reading <$$font> <$$paren> " Your
+son's speculations - other failures - have caused a run -
+MORTON-1813-2,36.1107
+
+Expect bankruptcy . " MORTON-1813-2,36.1108
+
+- 'T@ @is sudden , MORTON-1813-2,36.1109
+
+'t@ @is terrible - MORTON-1813-2,36.1110
+
+" Our only hope is delay " - MORTON-1813-2,36.1111
+
+that ray of hope - <font> Damp. <$$font> I have unfortunately
+extinguished - MORTON-1813-2,36.1112
+
+for not daring to doubt your verity , I wrote to hasten the payments .
+MORTON-1813-2,36.1113
+
+<font> Temp. <$$font> Oh , divine truth , none with impunity ever
+violate thy hallowed shrine ! <paren> <font> Weeps <$$font> <$$paren> .
+MORTON-1813-2,36.1114
+
+<font> Damp. <$$font> Come , man , MORTON-1813-2,36.1115
+
+do not sink . MORTON-1813-2,36.1116
+
+<font> Temp. <$$font> These are not selfish drops -
+MORTON-1813-2,36.1117
+
+To ruin those placed their confidence in me - my son - my wife -
+MORTON-1813-2,36.1118
+
+<font> Damp. <$$font> I@ @'ll break it to her . MORTON-1813-2,36.1119
+
+<font> Temp. <$$font> Oh , could you mar those smiles ?
+MORTON-1813-2,36.1120
+
+<font> Damp. <$$font> Let her smile through her tears ;
+MORTON-1813-2,36.1121
+
+I do@ @n't know any thing more becoming : MORTON-1813-2,36.1122
+
+but as you please - MORTON-1813-2,36.1123
+
+Here@ @'s your son . MORTON-1813-2,36.1124
+
+<font> Temp. <$$font> His buoyant hopes for ever wreck'd .
+MORTON-1813-2,36.1125
+
+<font> Damp. <$$font> He is young and able ; MORTON-1813-2,36.1126
+
+let him boldly buffet with the tempest till it's {COM:sic} fury ceases ,
+and the gale of prosperity again fills his sails .
+MORTON-1813-2,36.1127
+
+<font> Temp. <$$font> Could I but secure his happiness !
+MORTON-1813-2,36.1128
+
+<font> Damp. <$$font> Send him to Sir Guy Stanch's ;
+MORTON-1813-2,36.1129
+
+there reposes the gem he covets . MORTON-1813-2,36.1130
+
+<font> Temp. <$$font> Indeed ! I rejoice at it <paren> <font> aside
+<$$font> <$$paren> . MORTON-1813-2,36.1131
+
+A marriage with Sir Guy's daughter would meet my wishes ;
+MORTON-1813-2,36.1132
+
+- it shall be so . <paren> <font> Goes to a table and writes <$$font>
+<$$paren> . MORTON-1813-2,36.1133
+
+<P_37>
+
+<font> Enter <$$font> Vincent . MORTON-1813-2,37.1135
+
+<font> Vinc. <$$font> No tidings of her . MORTON-1813-2,37.1136
+
+Heigh_ho ! how willingly would I give the wealth that chest contains to
+procure the sweet repose of a tranquil mind , the proud consciousness of
+innate rectitude . MORTON-1813-2,37.1137
+
+<font> Damp. <$$font> How now , melancholy ? MORTON-1813-2,37.1138
+
+<font> Vinc. <$$font> Oh , no . Overjoyed that your fears for my
+father were illusory - MORTON-1813-2,37.1139
+
+<font> Damp. <$$font> His wealth is illusory , - founded in error , in
+mistake , MORTON-1813-2,37.1140
+
+- be sure you do not name it . MORTON-1813-2,37.1141
+
+- Behold him , Vincent ; MORTON-1813-2,37.1142
+
+he wants such consolation as a virtuous son can bestow .
+MORTON-1813-2,37.1143
+
+<font> Vinc. <$$font> Virtuous son ! <paren> <font> aside . <$$font>
+<$$paren> MORTON-1813-2,37.1144
+
+<font> Damp. <$$font> And your reformed conduct in regard to Rosine
+gives me assurance - MORTON-1813-2,37.1145
+
+<font> Vinc. <$$font> Does he mock me ? MORTON-1813-2,37.1146
+
+<font> Damp. <$$font> I say that your obtaining for her the honourable
+protection of Sir Guy Stanch , at whose window I just now beheld her -
+MORTON-1813-2,37.1147
+
+<font> Vinc. <$$font> Is she there ? <paren> <font> with surprise and
+animation <$$font> <$$paren> . MORTON-1813-2,37.1148
+
+<font> Damp. <$$font> <paren> <font> Indignantly taking his hand
+<$$font> <$$paren> Did you not know it ? MORTON-1813-2,37.1149
+
+Look at me , Sir . MORTON-1813-2,37.1150
+
+- Did she fly there for safety ? MORTON-1813-2,37.1151
+
+- Away ! away ! <paren> <font> flings him aside ,
+MORTON-1813-2,37.1152
+
+and exit . <$$font> <$$paren> MORTON-1813-2,37.1153
+
+<font> Vinc. <$$font> Is she so near ? MORTON-1813-2,37.1154
+
+Blest tidings ! MORTON-1813-2,37.1155
+
+then may I sue for pardon , MORTON-1813-2,37.1156
+
+may again behold her ! MORTON-1813-2,37.1157
+
+<paren> <font> Templeton groans . MORTON-1813-2,37.1158
+
+<$$font> <$$paren> . Ah , a groan ! MORTON-1813-2,37.1159
+
+- Selfish wretch ! what are thy maudling griefs to his unmerited misery
+? MORTON-1813-2,37.1160
+
+<paren> <font> Templeton rises <$$font> <$$paren> .
+MORTON-1813-2,37.1161
+
+Oh , my father ! if laying down my life - MORTON-1813-2,37.1162
+
+<font> Temp. <$$font> You offer the sacrifice of life as an atonement
+for what the sacrifice of follies might have averted .
+MORTON-1813-2,37.1163
+
+But I pardon you . MORTON-1813-2,37.1164
+
+<font> Vinc. <$$font> Oh , Sir , never again shall this heart be
+stabbed by your anger , or more deeply wounded by your forgiveness .
+MORTON-1813-2,37.1165
+
+<font> Temp. <$$font> Vincent , you can@ @not know the affection a
+father bears his child . MORTON-1813-2,37.1166
+
+It impels every thought , MORTON-1813-2,37.1167
+
+<P_38>
+
+governs every action , MORTON-1813-2,38.1169
+
+forms the object of his life , MORTON-1813-2,38.1170
+
+nor leaves him at the awful hour of death . MORTON-1813-2,38.1171
+
+As that hour may not be far distant from me - MORTON-1813-2,38.1172
+
+<font> Vinc. <$$font> Oh , in mercy ! MORTON-1813-2,38.1173
+
+<paren> <font> weeps <$$font> <$$paren> . MORTON-1813-2,38.1174
+
+<font> Temp. <$$font> I meant not to distress you .
+MORTON-1813-2,38.1175
+
+Come , come , we are in the hands of an all-merciful Providence ;
+MORTON-1813-2,38.1176
+
+and they who meet the worst with resignation , may be permitted to hope
+the best . MORTON-1813-2,38.1177
+
+I@ @'ve just learnt where your affections are engaged .
+MORTON-1813-2,38.1178
+
+Here@ @'s a letter to Sir Guy Stanch ; MORTON-1813-2,38.1179
+
+it will aid the fulfilment of your heart's fondest wishes ,
+MORTON-1813-2,38.1180
+
+and my blessing be upon your union . MORTON-1813-2,38.1181
+
+No thanks . MORTON-1813-2,38.1182
+
+- Lead me in , my son ; MORTON-1813-2,38.1183
+
+for I feel as if I had suddenly grown very old . MORTON-1813-2,38.1184
+
+<bracket> Exeunt . MORTON-1813-2,38.1185
+

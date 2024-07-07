@@ -1,0 +1,789 @@
+<BEGIN_bacon-1605-e2-p1>
+
+<P_1,1R>
+
+The First Booke of Francis Bacon ; BACON-1605-E2-P1,1,1R.3
+
+Of the proficience and aduancement of Learning , diuine , and humane .
+BACON-1605-E2-P1,1,1R.4
+
+To the King . BACON-1605-E2-P1,1,1R.5
+
+There were vnder the Lawe <paren> excellent King <$$paren> both dayly
+Sacrifices , and free will Offerings ; The one proceeding upon ordinarie
+obseruance ; The other vppon a deuout cheerefulnesse :
+BACON-1605-E2-P1,1,1R.6
+
+In like manner there belongeth to Kings from their Seruants , both
+Tribute of dutie , and presents of affection : BACON-1605-E2-P1,1,1R.7
+
+In the former of these , I hope I shal not liue to be wanting ,
+according to my most humble dutie , and the good pleasure of your
+Maiesties employments : BACON-1605-E2-P1,1,1R.8
+
+for the later , I thought it more respective to make choyce of some
+oblation , which might rather referre to the proprietie and excellencie
+of your indiuiduall person , than to the businesse of your Crowne and
+State . Wherefore representing your Maiestie many times vnto my mind ,
+and beholding you not with <P_1,1V> the inquisitiue eye of presumption ,
+to discouer that which the Scripture telleth me is inscrutable ; but
+with the obseruant eye of dutie and admiration : leauing aside the other
+parts of your vertue and fortune , I haue been touched , yea and
+possessed with an extreame woonder at those your vertues and faculties ,
+which the Philosophers call intellectuall : The largenesse of your
+capacitie , the faithfulnesse of your memorie , the swiftnesse of your
+apprehension , the penetration of your Iudgement , and the facilitie and
+order of your elocution ; BACON-1605-E2-P1,1,1V.9
+
+and I have often thought , that of all the persons living , that I haue
+knowne , your Maiestie were the best instance to make a man of <font>
+Platoes opinion , that all knowledge is but remembrance , and that the
+minde of man by nature knoweth all things , and hath but her owne natiue
+and originall motions <paren> which by the strangenesse and darkenesse
+of this Tabernacle of the bodie are seqestred <$$paren> againe reuiued
+and restored : BACON-1605-E2-P1,1,1V.10
+
+such a light of Nature I haue obserued in your Maiestie , and such a
+readinesse to take flame , and blaze from the least occasion presented ,
+or the least sparke of anothers knowledge delivered .
+BACON-1605-E2-P1,1,1V.11
+
+And as the Scripture sayth of the wisest King : <font> That his heart
+was as the sands of the Sea <$$font> , which though it be one of the
+largest bodies , yet it co~sisteth of the smallest & finest portions :
+So hath God given your Maiestie a co~position of vndersstanding
+admirable , being able to compasse & comprehend the greatest matters , &
+neuerthelesse to touch and apprehend the least ; <P_1,2R> wheras it
+should seeme an impossibility in Nature , for the same Instrument to
+make it selfe fit for great and small workes . BACON-1605-E2-P1,1,2R.12
+
+And for your gift of speech , I call to minde what <font> Cornelius
+Tacitus <$$font> sayth of <font> Augustus Caesar <$$font> : <font>
+Augusto prostuens & quae principem deceret , eloquentia fuit : <$$font>
+BACON-1605-E2-P1,1,2R.13
+
+For if we note it well , speech that is vttered with labour and
+difficultie , or speech that sauoreth of the affectation of art and
+precepts , or speech that is framed after the imitation of some patterne
+of eloquence , though neuer so excellent : All this hath somewhat
+seruile , and holding of the subiect . BACON-1605-E2-P1,1,2R.14
+
+But your Maiesties manner of speech is indeed Prince-like , flowing as
+from a fountaine , and yet streaming & branching it selfe into Natures
+order , full of facilitie , & felicitie , imitating none & ininimitable
+by any . BACON-1605-E2-P1,1,2R.15
+
+And as in your ciuile Estate there appeareth to be an emulation &
+contentio~ of your Maiesties vertue with your fortune , a vertuous
+disposition with a fortunate regiment , a vertuous expectation <paren>
+when time was <$$paren> of your greater fortune , with a prosperous
+possession thereof in the due time ; a vertuous obseruation of the lawes
+of marriage , with most blessed and happie fruite of marriage , a
+vertuous and most christian desire of peace , with a fortunate
+inclination in your neighbour Princes thereunto ; So likewise in these
+intellectuall matters , there seemeth to be no lesse contention betweene
+the excellencie of your Maiesties gifts of Nature , and the
+vniuersalitie and profection of your learning BACON-1605-E2-P1,1,2R.16
+
+For I am well assured , that this which <P_1,2V> I shall say is no
+amplification at all , but a positiue and measured truth : which is ,
+that there hath not beene since Christs time any King or temporall
+Monarch which hath ben so learned in all literature & erudition , diuine
+& humane . BACON-1605-E2-P1,1,2V.17
+
+For let a man seriously & diligently reuolue and peruse the succession
+of the Emperours of Rome , of which <font> Caesar <$$font> the Dictator
+who liued some yeeres before Christ , and <font> Marcus Antoninus
+<$$font> were the best learned : and so descend to the Emperours of
+<font> Grecia <$$font> , or of the West , and then to the lines of
+<font> Fraunce , Spaine , England , Scotland <$$font> and the rest , and
+he shall finde this iudgement is truly made . BACON-1605-E2-P1,1,2V.18
+
+For it seemeth much in a King , if by the compendious extractions of
+other mens wits and labours , he can take hold of any superficiall
+Ornaments and shewes of learning , or if he countenance and preferre
+learning and learned men : BACON-1605-E2-P1,1,2V.19
+
+But to drinke indeed of the true Fountaines of learning , nay , to haue
+such a fountaine of learning in himselfe , in a King , and in a King
+borne , is almost a Miracle . BACON-1605-E2-P1,1,2V.20
+
+And the more , because there is met in your Maiesty a rare Coniunction ,
+as@ @well of diuine and sacred literature , as of prophane and humane ;
+So as your Maiestie standeth inuested of that triplicitie , which in
+great veneration , was ascribed to the ancient <font> Hermes <$$font> ;
+the power and fortune of a King ; the knowledge and illumination of a
+Priest ; and the learning and vniuersalitie of a Philosopher .
+BACON-1605-E2-P1,1,2V.21
+
+This propriety inherent and indiuiduall attribute in your Maiestie
+deserueth to be expressed , not onely in the fame and <P_1,3R>
+admiration of the present time , nor in the Historie or tradition of the
+ages succeeding ; but also in some solide worke , fixed memoriall , and
+immortall monument , bearing a Character or signature , both of the
+power of a king , and the difference and perfection of such a king .
+BACON-1605-E2-P1,1,3R.22
+
+Therefore I did conclude with my selfe , that I could not make unto your
+Maiesty a better oblation , then of some treatise tending to that end ,
+whereof the summe will consist of these two partes : The former
+concerning the excellencie of learning and knowledge , and the
+excellencie of the merit and true glory , in the Augmentation and
+Propagation thereof : the latter , what the particular ages and workes
+are , which haue been embraced and vndertaken for the advancement of
+learning : And againe what defects and vndervalewes I finde in such
+particuler actes : to the end , that though I can@ @not positively or
+affirmatiuelie aduise your Maiestie , or propound unto you framed
+particulars ; yet I may excite your princely Cogitations to visit the
+excellent treasure of your owne mind , and thence to extract particulars
+for this purpose agreeable to your magnanimitie and wisedome .
+BACON-1605-E2-P1,1,3R.23
+
+In the entrance to the former of these ; to cleare the way , & as it
+were to make silence , to have the true testimonies concerning the
+dignitie of Learning to be better heard , without the interruption of
+tacite obiections ; I thinke good to deliuer it from <P_1,3V> the
+discredites and disgraces which it hath received ; all from ignorance ;
+but ignorance seuerally disguised , appearing sometimes in the zeale and
+iealousie of Divines ; sometimes in the seueritie and arrogancie of
+Politiques , and sometimes in the errors and imperfections of learned
+men themselues . BACON-1605-E2-P1,1,3V.24
+
+I heare the former sort say , that knowledge is of those things which
+are to be accepted of with great limitation and caution , that th'@
+@aspiring to overmuch knowledge , was the originall temptation and sinne
+, whereupon ensued the fal of Man that knowledge hath in it somewhat of
+the Serpent , and therefore where it entreth into a man , it makes him
+swel . <font> Scientia inflat <$$font> . That <font> Salomon <$$font>
+giues a Censure , <font> That there is no end of making Bookes , and
+that much reading is weariness of the flesh <$$font> . And againe in
+another place , <font> That in spatious knowledge , there is much
+contristation , and that he that encreaseth knowledge , encreaseth
+anxietie <$$font> : that <font> Saint Paul <$$font> giues a Caueat ,
+<font> that we be not spoyled through vaine Philosophie <$$font> : that
+experience demonstrates , how learned men , haue beene Arch-heretiques ,
+how learned times haue been enclined to Atheisme , and how the
+contemplation of second Causes doth derogate fro~ our dependance vpon
+God , who is the first cause . BACON-1605-E2-P1,1,3V.25
+
+To discouer then the ignorance & error of this opinion , and the
+misunderstanding in the grounds thereof , it may well appeare these men
+doe not obserue or co~sider , that it was not the pure knowledg of
+nature and vniuersality , a knowledge by the light <P_1,4R> whereof man
+did give names unto other creatures in Paradise , as they were brought
+before him , according unto their proprieties , which gave the occasion
+to the fall ; but it was the proude knowledge of good and euill , with
+an intent in man to give law unto himselfe , and to depend no more upon
+Gods commaundements , which was the fourme of the temptation ;
+BACON-1605-E2-P1,1,4R.26
+
+neither is it any quantitie of knowledge how great soeuer that can make
+the minde of man to swell ; BACON-1605-E2-P1,1,4R.27
+
+for nothing can fill , much lesse extend the soule of man , but God ,
+and the contemplation of God ; BACON-1605-E2-P1,1,4R.28
+
+and therfore <font> Salomon <$$font> speaking of the two principall
+sences of Inquisition , the Eye , and the Eare , affirmeth that the Eye
+is never satisfied with seeing , nor the Eare with hearing ; and if
+there be no fulnesse , then is the Continent greater , than the Content
+; BACON-1605-E2-P1,1,4R.29
+
+so of knowledge it selfe , and the minde of man , whereto the sences are
+but Reporters , he definith likewise in these wordes , placed after that
+Kalender or Ephemerides , which he maketh of the diuersities of times
+and seasons for all actions and purposes ; and concludeth thus :
+BACON-1605-E2-P1,1,4R.30
+
+<font> God hath made all thinges beautifull or decent in the true
+returne of their seasons . BACON-1605-E2-P1,1,4R.31
+
+Also hee hath placed the World in Mans heart , BACON-1605-E2-P1,1,4R.32
+
+yet can@ @not Man finde out the worke which God worketh from the
+beginning to the end <$$font> : BACON-1605-E2-P1,1,4R.33
+
+Declaring not obscurely , that God hath framed the minde of man as a
+mirrour , or glasse , capable of the Image of the vniuersall world , and
+ioyfull to receive the impression thereof , as the <P_1,4V> Eye ioyeth
+to receiue light , and not onely delighted in beholding the varietie of
+thinges and vicissitude of times , but raysed also to finde out and
+discerne the ordinances and decrees which throughout all those Changes
+are infallibly obserued . BACON-1605-E2-P1,1,4V.34
+
+And although hee doth insinuate that the supreame or summarie law of
+Nature , which he calleth , The worke which God worketh from the
+beginning to the end , is not possible to be found out by man ; yet that
+doth not derogate from the capacities of the minde ;
+BACON-1605-E2-P1,1,4V.35
+
+but may bee referred to the impediments as of shortnesse of life , ill
+coniunction of labours , ill tradition of knowledge over from hand to
+hand , and many other Inconueniences , whereunto the condition of Man is
+subiect . BACON-1605-E2-P1,1,4V.36
+
+For that nothing parcell of the world , is denied to Mans enquirie and
+inuention : hee doth in another place rule ouer ; when hee sayth <font>
+The Spirite of man is as the Lampe of God , wherewith hee searcheth the
+inwardnesse of all secrets <$$font> . BACON-1605-E2-P1,1,4V.37
+
+If then such be the capacitie and receit of the mind of Man , it is
+manifest , that there is no daunger at all in the proportion or
+quantitie of knowledge howe large soever ; least it should make it swell
+or outcompasse it selfe ; BACON-1605-E2-P1,1,4V.38
+
+no , but it is meerely the quallitie of knowledge , which be it in
+quantitie more or lesse , if it bee taken without the true corrective
+thereof hath in it some Nature of venome or malignitie , and some
+effects of that venome which is ventositie <P_1,5R> or swelling .
+BACON-1605-E2-P1,1,5R.39
+
+This correctiue spice , the mixture whereof maketh knowledge so
+soueraigne , is Charitie , which the Apostle imediately addeth to the
+former clause BACON-1605-E2-P1,1,5R.40
+
+for so he sayth <font> Knowledge bloweth vp , BACON-1605-E2-P1,1,5R.41
+
+but Charitie buildeth vp <$$font> ; not unlike unto that which hee
+deliuereth in another place : BACON-1605-E2-P1,1,5R.42
+
+<font> If I spake <paren> sayth hee <$$paren> with the tongues of men
+and Angels and had not Charitie , it were but as a tinckling Cymball
+<$$font> ; BACON-1605-E2-P1,1,5R.43
+
+not but that it is an excellent thinge to speake with the tongues of Men
+and Angels , but because if it bee seuered from Charitie , and not
+referred to the good of Men and Mankind , it hath rather a sounding and
+vnworthie glorie , than a meriting and substantiall vertue .
+BACON-1605-E2-P1,1,5R.44
+
+And as for that Censure of <font> Salomon <$$font> concerning the
+excesse of writing and reading Bookes , and the anxietie of spirit which
+redoundeth from knowlegde , and that admonition of Saint <font> Paule
+<$$font> : <font> That wee bee not seduced by vayne Philosophie <$$font>
+; let those places bee rightly vnderstoode , BACON-1605-E2-P1,1,5R.45
+
+and they doe indeede excellently sette foorth the true bounds and
+limitations , whereby humane knowledge is confined and circumscribed :
+and yet without any such contracting or coarctation , but that it may
+comprehend all the vniuersall nature of thinges :
+BACON-1605-E2-P1,1,5R.46
+
+for these limitations are three : The first , <font> That wee doe not so
+place our felicitie in knowledge , as wee forget our mortalitie <$$font>
+. The second , <font> that we make application of our knowledge to giue
+our selues repose and contentment , and not distast or repining <$$font>
+. <P_1,5V> The third : that we doe not presume by the contemplation of
+Nature , to attaine to the misteries of God ; BACON-1605-E2-P1,1,5V.47
+
+for as touching the first of these , Salomon doth excellently expound
+himselfe in another place of the same Booke , where hee sayth ; <font> I
+sawe well that knowledge recedeth as farre from ignorance , as light
+doth from darkenesse and that the wise mans eyes keepe watch in his head
+whereas the foole roundeth about in darkenesse :
+BACON-1605-E2-P1,1,5V.48
+
+But withall I learned that the same mortalitie inuolueth them both
+<$$font> . BACON-1605-E2-P1,1,5V.49
+
+And for the second , certaine it is , there is no vexation or anxietie
+of minde , which resulteth from knowledge otherwise than meerely by
+accident ; BACON-1605-E2-P1,1,5V.50
+
+for all knowledge and wonder <paren> which is the seede of knowledge
+<$$paren> is an impression of pleasure in it selfe ;
+BACON-1605-E2-P1,1,5V.51
+
+but when men fall to framing conclusions out of their knowledge ,
+applying it to their particuler , and ministring to themselues thereby
+weake feares , or vast desires , there groweth that carefulnesse and
+trouble of minde , which is spoken of : BACON-1605-E2-P1,1,5V.52
+
+for then knowledge is no more <font> Lumen siccum <$$font> whereof
+<font> Heraclitus <$$font> the profound sayd , <font> Lumen siccum
+optima anima <$$font> , BACON-1605-E2-P1,1,5V.53
+
+but it becometh <font> Lumen madidum <$$font> , or <font> maceratum
+<$$font> , being steeped and infused in the humors of the affections .
+BACON-1605-E2-P1,1,5V.54
+
+And as for the third point , it deserueth to be a little stood vpon ,
+and not to be lightly passed ouer : BACON-1605-E2-P1,1,5V.55
+
+for if any man shall thinke by view and enquiry into these sensible and
+material things to attaine that light , whereby he may reueale vnto
+himselfe the nature or will of God : then indeed is he <P_1,6R> spoyled
+by vaine Philosophie : BACON-1605-E2-P1,1,6R.56
+
+for the contemplation of Gods Creatures and works produceth <paren>
+hauing regard to the works and creatures themselues <$$paren> knowledge
+, but hauing regard to God , no perfect knowledg , but wonder , which is
+broke~ knowledge : BACON-1605-E2-P1,1,6R.57
+
+And therefore it was most aptly sayd by one of <font> Platoes <$$font>
+Schoole , <font> that the sence of man caryeth a resemblance with the
+Sunne , which <paren> as we see <$$paren> openeth and revealeth all the
+terrestrial Globe ; BACON-1605-E2-P1,1,6R.58
+
+but then againe it obscureth and concealeth the stars & celestiall Globe
+: BACON-1605-E2-P1,1,6R.59
+
+So doth the Sence discouer naturall thinges , BACON-1605-E2-P1,1,6R.60
+
+but it darkeneth and shutteth vp Diuine . <$$font>
+BACON-1605-E2-P1,1,6R.61
+
+And hence it is true that it hath proceeded that diuers great learned
+men haue beene hereticall , whilest they haue sought to flye vp to the
+secrets of the Deitie by the waxen winges of the Sences :
+BACON-1605-E2-P1,1,6R.62
+
+And as for the conceite that too much knowledge should encline a man to
+Atheisme , and that the ignorance of second causes should make a more
+deuoute dependance vppon God , which is the first cause ; First , it is
+good to aske the question which <font> Iob <$$font> asked of his friends
+; <font> Will you lye for God , as one man will doe for another to
+gratifie him ? <$$font> BACON-1605-E2-P1,1,6R.63
+
+for certaine it is , that God worketh nothing in Nature , but by second
+causes , BACON-1605-E2-P1,1,6R.64
+
+and if they would haue it otherwise beleeued , it is meere imposture ,
+as it were in fauour towardes God ; and nothing else , but to offer to
+the Author of truth , the vncleane sacrifice of a lye .
+BACON-1605-E2-P1,1,6R.65
+
+But further , it is an assured truth , and a conclusion of experience ,
+that a little or superficiall <P_1,6V> knowledge of Philosophie may
+encline the minde of Man to Atheisme , BACON-1605-E2-P1,1,6V.66
+
+but a further proceeding therein doth bring the mind backe againe to
+Religion : BACON-1605-E2-P1,1,6V.67
+
+for in the entrance of Philosophie , when the second Causes , which are
+next vnto the sences , do offer themselues to the minde of Man , if it
+dwell and stay there , it may induce some oblivion of the highest cause
+; BACON-1605-E2-P1,1,6V.68
+
+but when a man passeth on further , and seeth the dependance of causes ,
+and the workes of providence ; then according to the allegorie of the
+Poets , he will easily beleeue that the highest Linke of Natures chaine
+must needes be tyed to the foote of <font> Iupiters <$$font> chaire .
+BACON-1605-E2-P1,1,6V.69
+
+To conclude therefore , let no man vppon a weake conceite of sobrietie ,
+or an ill applyed moderation thinke or maintaine , that a man can search
+too farre , or bee too well studied in the Booke of Gods word , or in
+the Booke of Gods workes ; Diuinitie or Philosophie ;
+BACON-1605-E2-P1,1,6V.70
+
+but rather let men endeauour an endlesse progresse or proficience in
+both : BACON-1605-E2-P1,1,6V.71
+
+only let men beware that they apply both to Charitie , and not to
+swelling ; to vse , and not to ostentation ; and againe , that they doe
+not vnwisely mingle or confound these learnings together .
+BACON-1605-E2-P1,1,6V.72
+
+And as for the disgraces which learning receiueth from Politiques , they
+bee of this nature ; that learning doth soften mens mindes , and makes
+them more vnapt for the honour and exercise of Armes ; that it doth
+marre and pervert mens dispositions for <P_1,7R> matter of gouernement
+and policie ; in making them too curious and irresolute by varietie of
+reading ; or too peremptorie or positiue by stricktnesse of rules and
+axiomes ; or too immoderate and overweening by reason of the greatnesse
+of examples ; or too incompatible and differing from the times , by
+reason of the dissimilitude of examples ; or at least , that it doth
+divert mens trauailes {SIC:trauaies} from action and businesse , and
+bringeth them to a loue of leasure and priuatenesse ; and that it doth
+bring into States a relaxation of discipline , whilst euerie man is more
+readie to argue , than {he_is} to obey and execute .
+BACON-1605-E2-P1,1,7R.73
+
+Out of this conceit , <font> Cato <$$font> surnamed the Censor , one of
+the wisest men indeed that euer liued , when <font> Carneades <$$font>
+the Philosopher came in Embassage to Rome , and that the young men of
+Rome began to flocke about him , being allured with the sweetnesse and
+Maiestie , of his eloquence and learning , gave counsell in open Senate
+, that they should give him his dispatch with all speede , least hee
+should infect and inchaunt the mindes and affections of the youth , and
+at vnawares bring in an alteration of the manners and Customes of the
+State . BACON-1605-E2-P1,1,7R.74
+
+Out of the same conceite or humor did <font> Virgill <$$font> , turning
+his penne to the advantage of his Countrey , and the disaduantage of his
+owne profession , make a kind of separation betweene policie and
+gouernement , and betweene Arts and Sciences , in the verses so much
+renowned , attributing and challenging the one to the Romanes , and
+<P_1,7V> leauing & yeelding the other to the Grecians , <font> Tu regere
+imperio populos Romane meme~to , Hae tibi eru~t artes ; &c. <$$font>
+BACON-1605-E2-P1,1,7V.75
+
+so likewise we see that <font> Anytus <$$font> the accuser of Socrates
+layd it as an Article of charge & accusation against him , that he did
+with the varietie and power of his discourses and disputations withdraw
+young men from due reuerence to the Lawes and Customes of their Countrey
+: and that he did professe a dangerous and pernitious Science , which
+was to make the worse matter seeme the better , and to suppresse truth
+by force of eloquence and speech . BACON-1605-E2-P1,1,7V.76
+
+But these and the like imputations haue rather a countenance of grauitie
+, than any ground of Iustice : BACON-1605-E2-P1,1,7V.77
+
+for experience doth warrant , that both in persons and in times , there
+hath beene a meeting , and concurrence in learning and Armes ,
+flourishing and excelling in the same men , and the same ages .
+BACON-1605-E2-P1,1,7V.78
+
+For as for men , there can@ @not be a better nor the like instance as of
+that payre <font> Alexander <$$font> the Great , and <font> Iulius
+Caesar <$$font> the Dictator , whereof the one was <font> Aristotles
+<$$font> Scholler in Philosophie , and the other was <font> Ciceroes
+<$$font> Riuall in eloquence ; BACON-1605-E2-P1,1,7V.79
+
+or if any man had rather call for Schollers , that were great Generals ,
+then Generals that were great Schollers ; let him take <font>
+Epaminondas <$$font> the Thebane , or <font> Xenophon <$$font> the
+Athenian , whereof the one was the first that abated the power of <font>
+Sparta <$$font> ; and the other was the first that made way to the
+ouerthrow of the Monarchie of <font> Persia <$$font> :
+BACON-1605-E2-P1,1,7V.80
+
+And this concurrence is yet more visible in times than in persons , by
+how much an age is greater obiect <P_1,8R> than a Man .
+BACON-1605-E2-P1,1,8R.81
+
+For both in <font> Aegypt , Assyria , Persia , Grecia <$$font> , and
+<font> Rome <$$font> the same times that are most renowned for Armes ,
+are likewise most admired for learning ; so that the greatest Authors
+and Philosophers and the greatest Captaines and Gouernours haue liued in
+the same ages : BACON-1605-E2-P1,1,8R.82
+
+neither can it otherwise be ; BACON-1605-E2-P1,1,8R.83
+
+for as in Man , the ripenesse of strength of the bodie and minde commeth
+much about an age , saue that the strength of the bodie commeth somewhat
+the more early ; BACON-1605-E2-P1,1,8R.84
+
+So in States , Armes and Learning , whereof the one correspondeth to the
+bodie , the other to the soule of Man , haue a concurrence or nere
+sequence in times . BACON-1605-E2-P1,1,8R.85
+
+And for matter of police and gouernement , that Learning should rather
+hurt , than inable thereunto , is a thing verie improbable :
+BACON-1605-E2-P1,1,8R.86
+
+we see it is accounted an errour , to commit a naturall bodie to
+Emperique Phisitions , which commonly haue a fewe pleasing receits ,
+whereupon they are confident and aduenturous , but know neither the
+causes of diseases , nor the complexions of Patients , nor perill of
+accidents , nor the true methode of Cures ; BACON-1605-E2-P1,1,8R.87
+
+We see it is a like error to rely upon Aduocates or Lawyers , which are
+onely men of practice , and not grounded in their Bookes , who are many
+times easily surprised , when matter falleth out besides their
+experience , to the preiudice of the causes they handle :
+BACON-1605-E2-P1,1,8R.88
+
+so by like reason it can@ @not be but a matter of doubtfull consequence
+, if States bee managed by <P_1,8V> Emperique Statesmen , not well
+mingled with men grounded in Learning . BACON-1605-E2-P1,1,8V.89
+
+But contrary wise , it is almost without instance contradictorie , that
+euer any gouernement was disatrous that was in the hands of learned
+Gouernors . BACON-1605-E2-P1,1,8V.90
+
+For howsoever it hath beene ordinarie with politique men to extenuate
+and disable learned men by the names of <font> Pedantes <$$font> : yet
+in the Records of time it appeareth in many particulers , that the
+Gouernements of Princes in minority <paren> notwithstanding the infinite
+disaduantage of that kinde of State <$$paren> haue neuerthelesse
+excelled the gouernement of Princes of mature age , euen for that
+{SIC:hat} reason , which they seek to traduce , which is , that by that
+occasion the state hath been in the hands of <font> Pedantes <$$font> :
+BACON-1605-E2-P1,1,8V.91
+
+for so was the State of Rome for the first fiue yeeres , which are so
+much magnified , during the minoritie of <font> Nero <$$font> , in the
+handes of <font> Seneca <$$font> a <font> Pedanti <$$font> :
+BACON-1605-E2-P1,1,8V.92
+
+So it was againe for ten yeres space or more during the minoritie of
+<font> Gordianus <$$font> the younger , with great applause and
+contentation in the hands of <font> Misitheus <$$font> a <font> Pedanti
+<$$font> : BACON-1605-E2-P1,1,8V.93
+
+so was it before that , in the minoritie of <font> Alexander Seuerus
+<$$font> in like happinesse , in hands not much vnlike , by reason of
+the rule of the women , who were ayded by the Teachers and Preceptors ,
+BACON-1605-E2-P1,1,8V.94
+
+Nay , let a man looke into the gouernement of the Bishops {SIC:Bihops}
+of Rome , as by name , into the gouernement of <font> Pius Quintus
+<$$font> , and <font> Sextus Quintus <$$font> , in our times , who were
+both at their entrance esteemed , but as Pedanticall Friers and he shall
+find that such Popes doe greater thinges , and proceed vpon truer
+<P_1,9R> principles of Estate , than those which haue ascended to the
+Papacie from an education & breeding in affaires of Estate , and Courts
+of Princes ; BACON-1605-E2-P1,1,9R.95
+
+for although men bred in Learning , are perhaps to seeke in points of
+conuenience , and accommodating for the present which the Italians call
+<font> Ragioni di stato <$$font> , whereof the same <font> Pius Qvintus
+<$$font> could not heare spoken with patience , tearming them Inuentions
+against Religion and the morall vertues ; yet on the other side to
+recompence that , they are perfite in those same plaine grounds of
+Religion , Iustice , Honour , and Morall vertue ; which if they be well
+and watchfully pursued , there will bee seldome vse of those other , no
+more than {there_will_be_use} of Phisicke in a sound or well dieted
+bodie ; BACON-1605-E2-P1,1,9R.96
+
+neither can the experience of one mans life , furnish examples and
+presidents for the events of one mans life . BACON-1605-E2-P1,1,9R.97
+
+For as it happeneth sometimes , that the Graund child , or other
+descendant , resembleth the Ancestor more than the Sonne : so many times
+occurrences of present times may sort better with ancient examples ,
+than with those of the later or immediate times ;
+BACON-1605-E2-P1,1,9R.98
+
+and lastly , the wit of one man , can no more counteruaile learning ,
+than one mans meanes can hold way with a common purse .
+BACON-1605-E2-P1,1,9R.99
+
+And as for those particular seducements or indispositions of the minde
+for policie and gouernement , which learning is pretended to insinuate ;
+if it be graunted that any such thing be , it must be remembred withall
+, that learning ministreth in euery <P_1,9V> of them greater strength of
+medicine or remedie , than it offereth cause of indisposition or
+infirmitie ; BACON-1605-E2-P1,1,9V.100
+
+For if by a secret operation , it make men perplexed and irresolute , on
+the other side by plaine precept , it teacheth them when , and vpon what
+ground to resolue : yea , and how to carrie thinges in suspence without
+preiudice , till they resolue : BACON-1605-E2-P1,1,9V.101
+
+If it make men positiue and reguler , it teacheth them what thinges are
+in their nature demonstratiue & what are coniecturall ; and as@ @well
+the vse of distinctions , and exceptions , as the latitude of principles
+and rules . BACON-1605-E2-P1,1,9V.102
+
+If it mislead by disproportion , or dissimilitude of Examples , it
+teacheth men the force of Circumstances , the errours of comparisons ,
+and all the cautions of application : so that in all these it doth
+rectifie more effectually , than it can peruert .
+BACON-1605-E2-P1,1,9V.103
+
+And these medicines it conueyeth into mens minds much more forcibly by
+the quicknesse and penetration of Examples : BACON-1605-E2-P1,1,9V.104
+
+for let a man looke into the errours of <font> Clement <$$font> the
+seuenth , so liuely described by <font> Guicciardine <$$font> , who
+serued under him , or into the errours of <font> Cicero <$$font> painted
+out by his owne pensill in his Epistles to <font> Atticus <$$font> , and
+he will flye apace from being irresolute . BACON-1605-E2-P1,1,9V.105
+
+Let him looke into the errors of <font> Phocion <$$font> , and he will
+beware how he be obstinate or inflexible BACON-1605-E2-P1,1,9V.106
+
+Let him but read the Fable of <font> Ixion <$$font> , and it will hold
+him from being vaporous or imaginatiue ; BACON-1605-E2-P1,1,9V.107
+
+let him look into the errors of <font> Cato <$$font> the second , and he
+will neuer be one of the <font> Antipodes <$$font> , to tread opposite
+to the present world . BACON-1605-E2-P1,1,9V.108
+
+And for the conceite that Learning should dispose <P_1,10R> men to
+pleasure and priuatenesse , and make men slouthfull : it were a strange
+thing if that which accustometh the minde to a perpetuall motion and
+agitation , should induce slouthfulnesse , whereas contrariwise it may
+bee tritely affirmed , that no kinde of men loue businesse for it selfe
+, but those that are learned ; BACON-1605-E2-P1,1,10R.109
+
+for other persons loue it for profite as an hireling that loues the
+worke for the wages ; or for honour ; as because it beareth them vp in
+the eyes of men , and refresheth their reputation , which otherwise
+would weare ; or because it putteth them in mind of their fortune , and
+giueth them occasion to pleasure and displeasure ; or because it
+exerciseth some faculty , wherein they take pride , and so entertaineth
+them in good humor , and pleasing conceits toward themselues ; or
+because it aduanceth any other their ends . So that as it is sayd of
+untrue valors , that some mens valors are in the eyes of them that look
+on ; So such mens industries are in the eyes of others , or at least in
+regard of their owne designements ; BACON-1605-E2-P1,1,10R.110
+
+onely learned men loue businesse , as an action according to nature , as
+agreable to health of minds , as exercise is to health of bodie , taking
+pleasure in the action it selfe , & not in the purchase : So that of all
+men , they are the most indefatigable , if it be towards any businesse ,
+which can hold or detaine their minde . BACON-1605-E2-P1,1,10R.111
+
+And if any man be laborious in reading and study , and yet idle in
+busines & action , it groweth fro~ some weakenes of body , or softnes of
+spirit ; such as <font> Seneca <$$font> <P_1,10V> speaketh of : <font>
+Quidam tam sunt vmbratiles , vt putent in turbido esse , quicquid in
+luce est <$$font> ; and not of learning ; BACON-1605-E2-P1,1,10V.112
+
+wel may it be , that such a point of a mans nature may make him giue
+himselfe to learning , BACON-1605-E2-P1,1,10V.113
+
+but it is not learning that breedeth any such point in his Nature .
+BACON-1605-E2-P1,1,10V.114
+
+And that learning should take vp too much time or leasure , I answere ,
+the most actiue or busie man that hath been or can bee , hath <paren> no
+question <$$paren> many vacant times of leasure , while he expecteth the
+tides and returnes of businesse <paren> except he be either tedious ,
+and of no dispatch , or lightly and vnworthily ambitious , to meddle in
+thinges that may be better done by others <$$paren>
+BACON-1605-E2-P1,1,10V.115
+
+and then the question is , but how those spaces and times of leasure
+shall be filled and spent : whether in pleasures , or in studies ; as
+was wel answered by <font> Demosthenes <$$font> to his aduersarie <font>
+Aeschynes <$$font> , that was a man giuen to pleasure , and told him ,
+<font> That his orations did smell of the Lampe <$$font> :
+BACON-1605-E2-P1,1,10V.116
+
+<font> Indeede <$$font> <paren> sayd <font> Demosthenes <$$paren> there
+is a great difference betweene the thinges that you and I doe by
+Lampe-light <$$font> : so as no man neede doubt , that learning will
+expulse businesse , BACON-1605-E2-P1,1,10V.117
+
+but rather it will keepe and defend the possession of the mind against
+idlenesse and pleasure , which otherwise , at vnawares , may enter to
+the preiudice of both . BACON-1605-E2-P1,1,10V.118
+
+Againe , for that other conceit , that learning should vndermine the
+reuerence of Lawes and gouernement , it is assuredly a meere deprauation
+and calumny without all shadowe of truth : BACON-1605-E2-P1,1,10V.119
+
+for to say that a blind custome of obedience should be a surer <P_1,11R>
+obligation , than dutie taught and vnderstood ; it is to affirme that a
+blind man may tread surer by a guide , than a seeing man can by a light
+: BACON-1605-E2-P1,1,11R.120
+
+and it is without all controuersie , that learning doth make the minds
+of men gentle , generous , maniable , and pliant to gouernment , whereas
+Ignorance makes them churlish thwart , and mutinous ;
+BACON-1605-E2-P1,1,11R.121
+
+and the euidence of time doth cleare this assertion , considering that
+the most barbarous , rude , and vnlearned times haue beene most subiect
+to tumults , seditions , and changes . BACON-1605-E2-P1,1,11R.122
+
+And as to the iudgement of <font> Cato <$$font> the Censor , he was well
+punished for his blasphemie against learning in the same kinde wherein
+hee offended ; BACON-1605-E2-P1,1,11R.123
+
+for when he was past threescore yeeres old , he was taken with an
+extreame desire to goe to Schoole againe , and to learne the Greeke
+tongue , to the end to peruse the Greeke Authors ; which doth well
+demonstrate , that his former censure of the Grecian Learning , was
+rather an affected grauitie , than according to the inward sence of his
+owne opinion . BACON-1605-E2-P1,1,11R.124
+
+And as for <font> Virgils <$$font> verses , though it pleased him to
+braue the world in taking to the Romanes , the Art of Empire , and
+leauing to others the arts of subiects : yet so much is manifest , that
+the Romanes neuer ascended to that height of Empire , till the time they
+had ascended to the height of other Arts : BACON-1605-E2-P1,1,11R.125
+
+For in the time of the two first <font> Caesars <$$font> , which had the
+art of gouernement in greatest perfection , there liued the best Poet
+<font> Virgilius Maro <$$font> , the best Historiographer <font> Titus
+Liuius <$$font> , the best Antiquarie <font> Marcus Varro <$$font> and
+<P_1,11V> the best or second Orator <font> Marcus Cicero <$$font> , that
+to the memorie of man are knowne . BACON-1605-E2-P1,1,11V.126
+
+As for the accusation of <font> Socrates <$$font> , the time must be
+remembred , when it was prosecuted ; which was vnder the thirtie Tyrants
+, the most base , bloudy , and enuious persons that have gouerned ;
+which reuolution of State was no sooner over , but <font> Socrates
+<$$font> , whom they had made a person criminall , was made a person
+heroycall , and his memorie accumulate with honors divine and humane ;
+BACON-1605-E2-P1,1,11V.127
+
+and those discourses of his which were then tearmed corrupting , of
+manners , were after acknowledged for soueraigne Medicines of the minde
+and manners , BACON-1605-E2-P1,1,11V.128
+
+and so haue beene received euer sence till this day .
+BACON-1605-E2-P1,1,11V.129
+
+Let this therefore serue for answere to Politiques , which in their
+humorous seueritie , or in their feyned grauitie haue presumed to throwe
+imputations vpon learning , which redargution neuerthelesse <paren> saue
+that wee know not whether our labours may extend to other ages <$$paren>
+were not needefull for the present , in regard of the loue and reuerence
+towards Learning , which the example and countenance of twoo so learned
+Princes Queene Elizabeth , and your Maiestie ; being as <font> Castor
+<$$font> and <font> Pollux <$$font> , <font> Lucida Sydera <$$font> ,
+Starres of excellent light , and most benigne influence , hath wrought
+in all men of place and authoritie in our Nation .
+BACON-1605-E2-P1,1,11V.130
+
+Now therefore , we come to that third sort of discredite , or diminution
+of credite , that groweth unto learning from learned men themselues ,
+which commonly cleaueth fastest ; BACON-1605-E2-P1,1,11V.131
+
+It is either from their <P_1,12R> Fortune , or fro~ their Manners , or
+from the nature of their Studies : BACON-1605-E2-P1,1,12R.132
+
+for the first , it is not in their power ; BACON-1605-E2-P1,1,12R.133
+
+and the second is accidentall ; BACON-1605-E2-P1,1,12R.134
+
+the third only is proper to be ha~dled BACON-1605-E2-P1,1,12R.135
+
+but because we are not in hand with true measure , but with popular
+estimation & conceit , it is not amisse to speak somewhat of the two
+former . Tho derogations therfore , which grow to learning from the
+fortune or condition of learned men , are either in respect of scarsity
+of meanes , or in respect of priuatenesse of life , and meanesse of
+employments . BACON-1605-E2-P1,1,12R.136
+
+Concerning want , and that it is the case of learned men , vsually to
+beginne with little , and not to growe rich so fast as other men , by
+reason they conuert not their labors chiefely to luker , and encrease ;
+it were good to leave the common place in commendation of pouertie to
+some Frier to handle , to whom much was attributed by <font> Macciauell
+<$$font> in this point , when he sayd , <font> That the Kingdome of the
+Cleargie had beene long before at an end , if the {SIC:he} reputation
+and reuerence towards the pouertie of Friers had not borne out the
+scandall of the superfluities and excesses of Bishops and Prelates .
+BACON-1605-E2-P1,1,12R.137
+
+So a man might say , that the felicitie and delicacie of Princes and
+great Persons , had long since turned to Rudenes and Barbarisme , if the
+pouertie of Learning had not kept vp Ciuilitie and Honor of life ;
+BACON-1605-E2-P1,1,12R.138
+
+But without any such advantages , it is worthy the obseruation , what a
+reverent and honoured thing pouertie of fortune was , for som aages in
+the Romane State , which neuerthelesse was a state without paradoxes .
+BACON-1605-E2-P1,1,12R.139
+
+For we see what <font> Titus Liuius <$$font> <P_1,12V> sayth in his
+introduction . <font> Caeterum aut me amor negotij suscepti fallit ,
+aut nulla vnquam respublica , nec maior , nec sanctior , nec bonis
+exemplis ditior fuit ; nec in quam tam serae auaritia luxuriaque
+immigrauerint , nec vbi tantus ac tam diu paupertati ac parsinomniae
+honor fuerit <$$font> . BACON-1605-E2-P1,1,12V.140
+
+We See likewise after that the State of Rome was not it selfe , but did
+degenerate ; BACON-1605-E2-P1,1,12V.141
+
+how that person that tooke vpon him to be Counsellor to <font> Iulius
+Caesar <$$font> , after his victorie , where to begin his restauration
+of the State , maketh it of all points the most summarie to take away
+the estimation of wealth . <font> Verum haec & omnia mala pariter cum
+honore pecuniae desinent ; Si neque Magistratus , neque alia vulgo
+cupienda venalia erunt . <$$font> BACON-1605-E2-P1,1,12V.142
+
+To conclude this point , as it was truely sayd , that <font> Rubor est
+virtutis color <$$font> , though sometime it come from vice : So it may
+be fitly sayd , that <font> Paupertas est virtutis fortuna <$$font> .
+Though some times it may proceede from misgouernement and accident .
+BACON-1605-E2-P1,1,12V.143
+

@@ -1,0 +1,1468 @@
+<BEGIN_dalton-1808-2>
+
+<P_141>
+
+<heading>
+
+Chap. II On the Constitution of Bodies . DALTON-1808-2,141.4
+
+<$$heading>
+
+There are three distinctions in the kinds of bodies , or three states ,
+which have more especially claimed the attention of philosophical
+chemists ; namely , those which are marked by the terms <font> elastic
+fluids , liquids , and solids . <$$font> DALTON-1808-2,141.6
+
+A very familiar instance is exhibited to us in water , of a body , which
+, in certain circumstances , is capable of assuming all the three states
+. DALTON-1808-2,141.7
+
+In steam we recognise a perfectly elastic fluid , in water , a perfect
+liquid , and in ice a complete solid . DALTON-1808-2,141.8
+
+These observations have tacitly led to the conclusion which seems
+universally adopted , that all bodies of sensible magnitude , whether
+liquid or solid , are constituted of a vast number of extremely small
+particles , or atoms of matter bound together by a force of attraction ,
+which is more or less powerful according to circumstances , and which as
+it endeavours to prevent their separation , is very <P_142> properly
+called in that view , <font> attraction of cohesion ; <$$font>
+DALTON-1808-2,142.9
+
+but as it collects them from a dispersed state <paren> as from steam
+into water <$$paren> it is called , <font> attraction of aggregation ,
+<$$font> or more simply , <font> affinity . <$$font>
+DALTON-1808-2,142.10
+
+Whatever names it may go by , they still signify one and the same power
+. DALTON-1808-2,142.11
+
+It is not my design to call in question this conclusion , which appears
+completely satisfactory ; but to shew that we have hitherto made no use
+of it , and that the consequence of the neglect , has been a very
+obscure view of chemical agency , which is daily growing more so in
+proportion to the new lights attempted to be thrown upon it .
+DALTON-1808-2,142.12
+
+The opinions I more particularly allude to , are those of Berthollet on
+the Laws of chemical affinity ; such as that chemical agency is
+proportional to the mass , and that in all chemical unions , there exist
+insensible gradations in the proportions of the constituent principles .
+DALTON-1808-2,142.13
+
+The inconsistence of these opinions , both with reason and observation ,
+can@ @not , I think , fail to strike every one who takes a proper view
+of the phenomena . DALTON-1808-2,142.14
+
+Whether the ultimate particles of a body , such as water , are all alike
+, that is , of the same figure , weight , &c. is a question of some
+importance . DALTON-1808-2,142.15
+
+From what is known , we have no reason to apprehend a diversity in these
+<P_143> particulars : DALTON-1808-2,143.16
+
+if it does exist in water , it must equally exist in the elements
+constituting water , namely , hydrogen and oxygen .
+DALTON-1808-2,143.17
+
+Now it is scarcely possible to conceive how the aggregates of dissimilar
+particles should be so uniformly the same . DALTON-1808-2,143.18
+
+If some of the particles of water were heavier than others , if a parcel
+of the liquid on any occasion were constituted principally of these
+heavier particles , it must be supposed to affect the specific gravity
+of the mass , a circumstance not known . DALTON-1808-2,143.19
+
+Similar observations may be made on other substances .
+DALTON-1808-2,143.20
+
+Therefore we may conclude that <font> the ultimate particles of all
+homogeneous bodies are perfectly alike in weight , figure , &c.
+<$$font> . DALTON-1808-2,143.21
+
+In other words , every particle of water is like every other particle of
+water ; DALTON-1808-2,143.22
+
+every particle of hydrogen is like every other particle of hydrogen ,
+&c. DALTON-1808-2,143.23
+
+Besides the force of attraction , which , in one character or another ,
+belongs universally to ponderable bodies , we find another force that is
+likewise universal , or acts upon all matter which comes under our
+cognisance , namely , a force of repulsion . DALTON-1808-2,143.24
+
+This is now generally , and I think properly , ascribed to the agency of
+heat . DALTON-1808-2,143.25
+
+An atmosphere of this subtile fluid constantly surrounds the atoms of
+all bodies , DALTON-1808-2,143.26
+
+and prevents them from being drawn into <P_144> actual contact .
+DALTON-1808-2,144.27
+
+This appears to be satisfactorily proved by the observation , that the
+bulk of a body may be diminished by abstracting some of its heat :
+DALTON-1808-2,144.28
+
+But from what has been stated in the last section , it should seem that
+enlargement and diminution of bulk depend perhaps more on the
+arrangement , than on the size of the ultimate particles .
+DALTON-1808-2,144.29
+
+Be this as it may , we can@ @not avoid inferring from the preceding
+doctrine on heat , and particularly from the section on the natural zero
+of temperature , that solid bodies , such as ice , contain a large
+portion , perhaps 4$$5 of the heat which the same are found to contain
+in an elastic state , as steam . DALTON-1808-2,144.30
+
+We are now to consider how these two great antagonist powers of
+attraction and repulsion are adjusted , so as to allow of the three
+different states of <font> elastic fluids , liquids , and solids .
+<$$font> DALTON-1808-2,144.31
+
+We shall divide the subject into four Sections ; namely , first , <font>
+on the constitution of pure elastic fluids ; <$$font> second , <font> on
+the constitution of mixed elastic fluids ; <$$font> third , <font> on
+the constitution of liquids , <$$font> and fourth , <font> on the
+constitution of solids . <$$font> DALTON-1808-2,144.32
+
+<P_145>
+
+<heading>
+
+Section 1 . DALTON-1808-2,145.35
+
+On the Constitution of Pure Elastic Fluids . DALTON-1808-2,145.36
+
+<$$heading>
+
+A pure elastic fluid is one , the constituent particles of which are all
+alike , or in no way distinguishable . DALTON-1808-2,145.38
+
+Steam , or aqueous vapour , hydrogenous gas , oxygenous gas , azotic gas
+, and several others are of this kind . DALTON-1808-2,145.39
+
+These fluids are constituted of particles possessing very diffuse
+atmospheres of heat , the capacity or bulk of the atmosphere being often
+one or two_thousand times that of the particle in a liquid or solid form
+. DALTON-1808-2,145.40
+
+Whatever therefore may be the shape or figure of the solid atom
+abstractedly , when surrounded by such an atmosphere it must be globular
+; DALTON-1808-2,145.41
+
+but as all the globules in any small given volume are subject to the
+same pressure , they must be equal in bulk , DALTON-1808-2,145.42
+
+and will therefore be arranged in horizontal strata , like a pile of
+shot . DALTON-1808-2,145.43
+
+A volume <P_146> of elastic fluid is found to expand whenever the
+pressure is taken off . DALTON-1808-2,146.44
+
+This proves that the repulsion exceeds the attraction in such case .
+DALTON-1808-2,146.45
+
+The absolute attraction and repulsion of the particles of an elastic
+fluid , we have no means of estimating , though we can have little doubt
+but that the contemporary {TEXT:cotemporary} energy of both is great ;
+DALTON-1808-2,146.46
+
+but the excess of the repulsive energy above the attractive can be
+estimated , and the law of increase and diminution be ascertained in
+many cases . DALTON-1808-2,146.47
+
+Thus in steam , the density may be taken at 1$$1728 that of water ;
+DALTON-1808-2,146.48
+
+consequently each particle of steam has 12 times the diameter that one
+of water has , DALTON-1808-2,146.49
+
+and must press upon 144 particles of a watery surface ;
+DALTON-1808-2,146.50
+
+but the pressure upon each is equivalent to that of a column of water of
+34 feet ; DALTON-1808-2,146.51
+
+therefore the excess of the elastic force in a particle of steam is
+equal to the weight of a column of particles of water , whose height is
+34 X 144 = 4896 feet . DALTON-1808-2,146.52
+
+And further , this elastic force decreases as the distance of the
+particles increases . DALTON-1808-2,146.53
+
+With respect to steam and other elastic fluids then , the force of
+cohesion is entirely counteracted by that of repulsion ,
+DALTON-1808-2,146.54
+
+and the only force which is efficacious to move the particles is the
+excess of the repulsion above the attraction . DALTON-1808-2,146.55
+
+Thus , if the attraction be as 10 and the repulsion as 12 , the
+effective repulsive force is as 2 . DALTON-1808-2,146.56
+
+It <P_147> appears then , that an elastic fluid , so far from requiring
+any force to separate its particles , it always requires a force to
+retain them in their situation , or to prevent their separation .
+DALTON-1808-2,147.57
+
+A vessel full of any pure elastic fluid presents to the imagination a
+picture like one full of small shot . DALTON-1808-2,147.58
+
+The globules are all of the same size ; DALTON-1808-2,147.59
+
+but the particles of the fluid differ from those of the shot , in that
+they are constituted of an exceedingly small central atom of solid
+matter , which is surrounded by an atmosphere of heat , of great density
+next the atom , but gradually growing rarer according to some power of
+the distance ; whereas those of the shot are globules , uniformly hard
+throughout , and surrounded with atmospheres of heat of no comparative
+magnitude . DALTON-1808-2,147.60
+
+It is known from experience , that the force of a mass of elastic fluid
+is directly as the density . Whence is derived the law already
+mentioned , that the repulsive power of each particle is inversely as
+its diameter . That is , the <font> apparent <$$font> repulsive power ,
+if we may so speak ; DALTON-1808-2,147.61
+
+for the real or absolute force of repulsion is not known , as long as we
+remain ignorant of the attractive force . DALTON-1808-2,147.62
+
+When we expand any volume of elastic fluid , its particles are enlarged
+, without any material change in the quantity of their heat ;
+DALTON-1808-2,147.63
+
+it follows then , that <P_148> the density of the atmospheres of heat
+must fluctuate with the pressure . DALTON-1808-2,148.64
+
+Thus , suppose a measure of air were expanded into 8 measures ;
+DALTON-1808-2,148.65
+
+then , because the diameters of the elastic particles are as the
+cube_root of the space , the distances of the particles would be twice
+as great as before , DALTON-1808-2,148.66
+
+and the elastic atmospheres would occupy nearly 8 times the space they
+did before , with nearly the same quantity of heat : whence we see that
+these atmospheres must be diminished in density in nearly the same ratio
+as the mass of elastic fluid . DALTON-1808-2,148.67
+
+Some elastic fluids , as hydrogen , oxygen , &c. resist any pressure
+that has yet been applied to them . DALTON-1808-2,148.68
+
+In such then it is evident the repulsive force of heat is more than a
+match for the affinity of the particles , and the external pressure
+united . DALTON-1808-2,148.69
+
+To what extent this would continue we can@ @not say ;
+DALTON-1808-2,148.70
+
+but from analogy we might apprehend that a still greater pressure would
+succeed in giving the attractive force the superiority , when the
+elastic fluid would become a liquid or solid . DALTON-1808-2,148.71
+
+In other elastic fluids , as steam , upon the application of compression
+to a certain degree , the elasticity apparently ceases altogether ,
+DALTON-1808-2,148.72
+
+and the particles collect in small drops of liquid ,
+DALTON-1808-2,148.73
+
+and fall down . DALTON-1808-2,148.74
+
+This phenomenon requires explanation . DALTON-1808-2,148.75
+
+From the very abrupt transition of steam <P_149> from a volume of 1700
+to that of 1 , without any material increase of pressure , one would be
+inclined to think that the condensation of it was owing to the <font>
+breaking <$$font> of a spring , rather than to the <font> curbing
+<$$font> of one . DALTON-1808-2,149.76
+
+The last however I believe is the fact . DALTON-1808-2,149.77
+
+The condensation arises from the action of affinity becoming superior to
+that of heat , by which the latter is overruled , but not weakened .
+DALTON-1808-2,149.78
+
+As the approximation of the particles takes place , their repulsion
+increases from the condensation of the heat , DALTON-1808-2,149.79
+
+but their affinity increases , it should seem , in a still greater ratio
+, till the approximation has attained a certain degree , when an
+equilibrium between those two powers takes place , and the liquid ,
+water , is the result . DALTON-1808-2,149.80
+
+That this is the true explanation we may learn from what has been stated
+at page 131 ; wherein it is shewn that the heat given off by the
+condensation of steam , is in all probability no more than would be
+given off by any permanently elastic fluid , could it be mechanically
+condensed into the like volume , and is moreover a small portion of the
+whole heat previously in combination . DALTON-1808-2,149.81
+
+As far then as the heat is concerned in this phenomenon , the
+circumstances would be the same , whether the approximation of the
+particles was the effect of affinity , or of external mechanical force .
+DALTON-1808-2,149.82
+
+<P_150>
+
+The constitution of a liquid , as water , must then be conceived to be
+that of an aggregate of particles , exercising in a most powerful manner
+the forces of attraction and repulsion , but nearly in an equal degree .
+DALTON-1808-2,150.84
+
+- Of this more in the sequel . DALTON-1808-2,150.85
+
+<heading>
+
+Section 2 . DALTON-1808-2,150.87
+
+On the Constitution of Mixed Elastic Fluids . DALTON-1808-2,150.88
+
+<$$heading>
+
+When two or more elastic fluids , whose particles do not unite
+chemically upon mixture , are brought together , one measure of each ,
+they occupy the space of two measures , DALTON-1808-2,150.90
+
+but become uniformly diffused through each other , DALTON-1808-2,150.91
+
+and remain so , whatever may be their specific gravities .
+DALTON-1808-2,150.92
+
+The fact admits of no doubt ; DALTON-1808-2,150.93
+
+but explanations have been given in various ways , and none of them
+completely satisfactory . DALTON-1808-2,150.94
+
+As the subject is one of primary importance in forming a system of
+chemical principles , we must enter somewhat more fully into the
+discussion . DALTON-1808-2,150.95
+
+Dr. Priestley was one of the earliest to notice the fact :
+DALTON-1808-2,150.96
+
+it naturally struck him with surprise , <P_151> that two elastic fluids
+, having apparently no affinity for each other , should not arrange
+themselves according to their specific gravities , as liquids do in like
+circumstances . DALTON-1808-2,151.97
+
+Though he found this was not the case after the elastic fluids had once
+been thoroughly mixed , yet he suggests it as probable , that if two of
+such fluids could be exposed to each other without agitation , the one
+specifically heavier would retain its lower situation .
+DALTON-1808-2,151.98
+
+He does not so much as hint at such gases being retained in a mixed
+state by affinity . DALTON-1808-2,151.99
+
+With regard to his suggestion of two gases being carefully exposed to
+each other without agitation , I made a series of experiments expressly
+to determine the question , the results of which are given in the Manch.
+Memoirs , Vol. 1 . <font> new series . <$$font> DALTON-1808-2,151.100
+
+From these it seems to be decided that gases always intermingle and
+gradually diffuse themselves amongst each other , if exposed ever so
+carefully ; but it requires a considerable time to produce a complete
+intermixture , when the surface of communication is small .
+DALTON-1808-2,151.101
+
+This time may vary from a minute , to a day or more , according to the
+quantity of the gases and the freedom of communication .
+DALTON-1808-2,151.102
+
+When or by whom the notion of mixed gases being held together by
+chemical affinity was first propagated , I do not know ;
+DALTON-1808-2,151.103
+
+but it seems <P_152> probable that the notion of water being dissolved
+in air , led to that of air being dissolved in air .
+DALTON-1808-2,152.104
+
+- Philosophers found that water gradually disappeared or evaporated in
+air , and increased its elasticity ; DALTON-1808-2,152.105
+
+but steam at a low temperature was known to be unable to overcome the
+resistance of the air , DALTON-1808-2,152.106
+
+therefore the agency of affinity was necessary to account for the effect
+. DALTON-1808-2,152.107
+
+In the permanently elastic fluids indeed , this agency did not seem to
+be so much wanted , as they are all able to support themselves ;
+DALTON-1808-2,152.108
+
+but the diffusion through each other was a circumstance which did not
+admit of an easy solution any other way . DALTON-1808-2,152.109
+
+In regard to the solution of water in air , it was natural to suppose ,
+nay , one might almost have been satisfied without the aid of experiment
+, that the different gases would have had different affinities for water
+, and that the quantities of water dissolved in like circumstances ,
+would have varied according to the nature of the gas .
+DALTON-1808-2,152.110
+
+Saussure found however that there was no difference in this respect in
+the solvent powers of carbonic acid , hydrogen gas , and common air .
+DALTON-1808-2,152.111
+
+- It might be expected that at least the <font> density <$$font> of the
+gas would have some influence upon its solvent powers , that air of half
+density would take half the water , or the quantity of water would
+diminish in some proportion to <P_153> the density ;
+DALTON-1808-2,153.112
+
+but even here again we are disappointed ; DALTON-1808-2,153.113
+
+whatever be the rarefaction , if water be present , the vapour produces
+the same elasticity , DALTON-1808-2,153.114
+
+and the hygrometer finally settles at extreme moisture , as in air of
+common density in like circumstances . DALTON-1808-2,153.115
+
+These facts are sufficient to create extreme difficulty in the
+conception how any principle of affinity or <font> cohesion <$$font>
+between air and water can be the agent . DALTON-1808-2,153.116
+
+It is truly astonishing that the same quantity of vapour should cohere
+to <font> one <$$font> particle of air in a given space , as to <font>
+one_thousand <$$font> in the same space . DALTON-1808-2,153.117
+
+But the wonder does not cease here ; DALTON-1808-2,153.118
+
+a torricellian vacuum dissolves water ; DALTON-1808-2,153.119
+
+and in this instance we have vapour existing independently of air at all
+temperatures ; DALTON-1808-2,153.120
+
+what makes it still more remarkable is , the vapour in such vacuum is
+precisely the same in quantity and force as in the like volume of any
+kind of air of extreme moisture . DALTON-1808-2,153.121
+
+These and other considerations which occurred to me some years ago ,
+were sufficient to make me altogether abandon the hypothesis of air
+dissolving water , and to explain the phenomena some other way , or to
+acknowledge they were inexplicable . DALTON-1808-2,153.122
+
+In the autumn of 1801 , I hit upon an idea which seemed to be exactly
+calculated to explain the phenomena of vapour ; DALTON-1808-2,153.123
+
+it gave rise to a great variety of <P_154> experiments upon which a
+series of essays were founded , which were read before the Literary and
+Philosophical Society of Manchester , and published in the 5th Vol. of
+their memoirs , 1802 . DALTON-1808-2,154.124
+
+The distinguishing feature of the new theory was , that the particles of
+one gas are not elastic or repulsive in regard to the particles of
+another gas , but only to the particles of their own kind .
+DALTON-1808-2,154.125
+
+Consequently when a vessel contains a mixture of two such elastic fluids
+, each acts independently upon the vessel , with its proper elasticity ,
+just as if the other were absent , whilst no mutual action between the
+fluids themselves is observed . DALTON-1808-2,154.126
+
+This position most effectually provided for the existence of vapour of
+any temperature in the atmosphere , because it could have nothing but
+its own weight to support ; DALTON-1808-2,154.127
+
+and it was perfectly obvious why neither more nor less vapour could
+exist in air of extreme moisture , than in a vacuum of the same
+temperature . DALTON-1808-2,154.128
+
+So far then the great object of the theory was attained .
+DALTON-1808-2,154.129
+
+The law of the condensation of vapour in the atmosphere by cold , was
+evidently the same on this scheme , as that of the condensation of pure
+steam , DALTON-1808-2,154.130
+
+and experience was found to confirm the conclusion at all temperatures .
+DALTON-1808-2,154.131
+
+The only thing now wanting to completely establish <P_155> the
+independent existence of aqueous vapour in the atmosphere , was the
+conformity of other liquids to water , in regard to the diffusion and
+condensation of their vapour . DALTON-1808-2,155.132
+
+This was found to take place in several liquids , and particularly in
+sulphuric ether , one which was most likely to shew any anomaly to
+advantage if it existed , on account of the great change of
+expansibility in its vapour at ordinary temperatures .
+DALTON-1808-2,155.133
+
+The existence of vapour in the atmosphere and its occasional
+condensation were thus accounted for ; DALTON-1808-2,155.134
+
+but another question remained , how does it rise from a surface of water
+subject to the pressure of the atmosphere ? DALTON-1808-2,155.135
+
+The consideration of this made no part of the essays above@ @mentioned ,
+it being apprehended , that if the other two points could be obtained by
+any theory , this third too , would , in the sequel , be accomplished .
+DALTON-1808-2,155.136
+
+From the novelty , both in the theory and the experiments , and their
+importance , provided they were correct , the essays were soon
+circulated , both at home and abroad . DALTON-1808-2,155.137
+
+The new facts and experiments were highly valued , DALTON-1808-2,155.138
+
+some of the latter were repeated , and found correct ,
+DALTON-1808-2,155.139
+
+and none of the results , as far as I know , have been controverted ;
+DALTON-1808-2,155.140
+
+but the theory was almost universally misunderstood , and <P_156>
+consequently reprobated . DALTON-1808-2,156.141
+
+This must have {TEXT:have_have} arisen partly at least from my being too
+concise , and not sufficiently clear in its exposition .
+DALTON-1808-2,156.142
+
+Dr. Thomson was the first , as far as I know , who publicly
+animadverted upon the theory ; DALTON-1808-2,156.143
+
+this gentleman , so well known for his excellent System of Chemistry ,
+observed in the first edition of that work , that the theory would not
+account for the equal distribution of gases ; but that , granting the
+supposition of one gas neither attracting nor repelling another , the
+two must still arrange themselves according to their specific gravity .
+DALTON-1808-2,156.144
+
+But the most general objection to it was quite of a different kind ;
+DALTON-1808-2,156.145
+
+it was admitted , that the theory was adapted so as to obtain the most
+uniform and permanent diffusion of gases ; DALTON-1808-2,156.146
+
+but it was urged , that as one gas was as a vacuum to another , a
+measure of any gas being put to a measure of another , the two measures
+ought to occupy the space of one measure only . DALTON-1808-2,156.147
+
+Finding that my views on the subject were thus misapprehended , I wrote
+an illustration of the theory , which was published in the 3d Vol. of
+Nicholson's Journal , for November , 1802 . DALTON-1808-2,156.148
+
+In that paper I endeavoured to point out the conditions of mixed gases
+more at large , according to my hypothesis ; DALTON-1808-2,156.149
+
+and particularly touched upon the <P_157> discriminating feature of it ,
+that of two particles of any gas A , repelling each other by the known
+stated law , whilst one or more particles of another gas B , were
+interposed in a direct line , without at all affecting the reciprocal
+action of the said two particles of A . DALTON-1808-2,157.150
+
+Or , if any particle of B were casually to come in contact with one of A
+, and press against it , this pressure did not preclude the contemporary
+{TEXT:cotemporary} action of all the surrounding particles of A upon the
+one in contact with B . DALTON-1808-2,157.151
+
+In this respect the mutual action of particles of the same gas was
+represented as resembling magnetic action , which is not disturbed by
+the intervention of a body not magnetic . DALTON-1808-2,157.152
+
+As the subject has since received the animadversions of several authors
+, which it is expedient to notice more or less , it will be proper to
+point out the order intended to be pursued . DALTON-1808-2,157.153
+
+First , I shall consider the objections to the new theory made by the
+several authors , with their own views on the subject ;
+DALTON-1808-2,157.154
+
+and then shall give what modifications of the theory , the experience
+and reflection of succeeding time have suggested to me .
+DALTON-1808-2,157.155
+
+The authors are Berthollet , Dr. Thomson , Mr. Murray , Dr. Henry ,
+and Mr. Gough . DALTON-1808-2,157.156
+
+Berthollet in his Chemical Statics <paren> 1804 <$$paren> has given a
+chapter on the constitution of the <P_158> atmosphere , in which he has
+entered largely into a discussion of the new theory .
+DALTON-1808-2,158.157
+
+This celebrated chemist , upon comparing the results of experiments made
+by De Luc , Saussure , Volta , Lavoisier , Watt , &c. together with
+those of Gay Lussac , and his own , gives his full assent to the fact ,
+that vapours of every kind increase the elasticity of each species of
+gas alike , and just as much as the force of the said vapours in vacuo ;
+and not only so , but that the specific gravity of vapour in air and
+vapour in vacuo is in all cases the same <paren> Vol. 1 . Sect. 4 .
+<$$paren> DALTON-1808-2,158.158
+
+Consequently he adopts the theorem for finding the quantity of vapour
+which a given volume of air can dissolve , which I have laid down ;
+namely , {COM:equation_omitted} where <font> p <$$font> represents the
+pressure upon a given volume <paren> 1 <$$paren> of dry air , expressed
+in inches of mercury , <font> f <$$font> = the force of the vapour in
+vacuo at the temperature , in inches of mercury , and <font> s <$$font>
+= the space which the mixture of air and vapour occupies under the given
+pressure , <font> p , <$$font> after saturation . DALTON-1808-2,158.159
+
+So far therefore we perfectly agree : DALTON-1808-2,158.160
+
+but he objects to the theory by which I attempt to explain these
+phenomena , DALTON-1808-2,158.161
+
+and substitutes another of his own . DALTON-1808-2,158.162
+
+The first objection I shall notice is one that <P_159> clearly shews
+Berthollet either does not understand , or does not rightly apply the
+theory he opposes ; DALTON-1808-2,159.163
+
+he says , " If one gas occupied the interstices of another , as though
+they were vacancies , there would not be any augmentation of volume when
+aqueous or ethereal vapour was combined with the air ;
+DALTON-1808-2,159.164
+
+nevertheless there is one proportional to the quantity of vapour added :
+DALTON-1808-2,159.165
+
+humidity should increase the specific gravity of the air , whereas it
+renders it specifically lighter , as has been already noticed by Newton
+. " DALTON-1808-2,159.166
+
+This is the objection which has been so frequently urged ;
+DALTON-1808-2,159.167
+
+it has even been stated by Mr. Gough , if I understand him aright , in
+almost the same words <paren> Nicholson's Journal , Vol. 9 , page 162
+<$$paren> ; DALTON-1808-2,159.168
+
+yet this last gentleman is profoundly skilled in the mechanical action
+of fluids . DALTON-1808-2,159.169
+
+Let a tall cylindrical glass vessel containing dry air be inverted over
+mercury , and a portion of the air drawn out by a syphon , till an
+equilibrium of pressure is established within and without ;
+DALTON-1808-2,159.170
+
+let a small portion of water , ether , &c. be then thrown up into the
+vessel ; DALTON-1808-2,159.171
+
+the vapour rises DALTON-1808-2,159.172
+
+and occupies the interstices of the air as a void ;
+DALTON-1808-2,159.173
+
+but what is the obvious consequence ? DALTON-1808-2,159.174
+
+Why , the surface of the mercury being now pressed both by the dry air ,
+and by the new raised vapour , is more pressed within than <P_160>
+without , DALTON-1808-2,160.175
+
+and an enlargement of the volume of air is unavoidable , in order to
+restore the equilibrium . DALTON-1808-2,160.176
+
+Again , in the open air : suppose there were no aqueous atmosphere
+around the earth , only an azotic one = 23 inches of mercury , and an
+oxygenous one = 6 inches . DALTON-1808-2,160.177
+
+The air being thus perfectly dry , evaporation would commence with great
+speed . DALTON-1808-2,160.178
+
+The vapour first formed being constantly urged to ascend by that below ,
+and as constantly resisted by the air , must , in the first instance ,
+dilate the other two atmospheres ; DALTON-1808-2,160.179
+
+<paren> for , the ascending steam adds its force to the upward
+elasticity of the two gases , DALTON-1808-2,160.180
+
+and in part alleviates their pressure , the necessary consequence of
+which is dilatation . <$$paren> DALTON-1808-2,160.181
+
+At last when all the vapour has ascended , that the temperature will
+admit of , the aqueous atmosphere attains an equilibrium ;
+DALTON-1808-2,160.182
+
+it no longer presses upon the other two , but upon the earth ;
+DALTON-1808-2,160.183
+
+the others return to their original density and pressure throughout .
+DALTON-1808-2,160.184
+
+In this case it is true , there would not be any augmentation of volume
+when aqueous vapour was combined with the air ; DALTON-1808-2,160.185
+
+humidity would increase the weight of the congregated atmospheres , but
+diminish their specific gravity under a given pressure .
+DALTON-1808-2,160.186
+
+One would have thought that this solution of the phenomenon upon my
+hypothesis was too obvious to escape the notice <P_161> of any one in
+any degree conversant with pneumatic chemistry . DALTON-1808-2,161.187
+
+Berthollet indeed enquires , " Is such a division {TEXT:divsion} of the
+same pressure of the atmosphere analogous with any physical property yet
+known ? DALTON-1808-2,161.188
+
+Can it be conceived that an elastic substance exists , which adds its
+volume to that of another , and which nevertheless does not act on it by
+its expansive force ? " DALTON-1808-2,161.189
+
+Certainly ; we can not only conceive it , but bring an instance that
+must be allowed to be in point . DALTON-1808-2,161.190
+
+Two magnets repel each other , that is , act upon each other with an
+expansive force , DALTON-1808-2,161.191
+
+yet they do not act upon other bodies in the same way , but merely as
+inelastic bodies ; DALTON-1808-2,161.192
+
+and this no doubt would be the same if they were reduced to atoms :
+DALTON-1808-2,161.193
+
+So two particles of the same kind of air may act upon each other
+elastically , and upon other bodies inelastically , and therefore not at
+all , unless when in contact . DALTON-1808-2,161.194
+
+Berthollet observes , " Hydrogen gas and oxygen gas form water in a
+given circumstance ; DALTON-1808-2,161.195
+
+azotic gas , and oxygen gas , can also produce nitric acid ;
+DALTON-1808-2,161.196
+
+but the reciprocal action which decides the combinations can@ @not be
+considered as a force commencing at the precise moment at which it is
+manifested , DALTON-1808-2,161.197
+
+it must have existed long before producing its effect ,
+DALTON-1808-2,161.198
+
+and increases gradually till it becomes preponderant . "
+DALTON-1808-2,161.199
+
+It is <P_162> no doubt true that the opposite powers of attraction and
+repulsion are frequently , perhaps constantly , energetic at the same
+instant ; DALTON-1808-2,162.200
+
+but the effect produced in those cases arises from the difference of the
+two powers . DALTON-1808-2,162.201
+
+When the excess of the repulsive power above the attractive in different
+gases is comparatively small and insignificant , it constitutes that
+character which may be denominated neutral , and which I supposed to
+exist in the class of mixed gases which are not observed to manifest any
+sign of chemical union . DALTON-1808-2,162.202
+
+I would not be understood to deny an energetic affinity between oxygen
+and hydrogen , &c. in a mixed state ; DALTON-1808-2,162.203
+
+but that affinity is more than counterbalanced by the repulsion of the
+heat , except in circumstances which it is not necessary at present to
+consider . DALTON-1808-2,162.204
+
+Again , " Azotic gas comports itself with oxygen gas , in the changes
+occasioned by temperature and pressure , precisely like one and the same
+gas : DALTON-1808-2,162.205
+
+Is it necessary to have recourse to a supposition which obliges us to
+admit so great a difference of action without an ostensible cause ? "
+DALTON-1808-2,162.206
+
+It is possible this may appear an objection to a person who does not
+understand the theory , DALTON-1808-2,162.207
+
+but it never can be any to one who does . DALTON-1808-2,162.208
+
+If a mixture of gas , such as atmospheric air , containing azote
+pressing <P_163> with a force equal to 24 inches of mercury , and oxygen
+with a force equal to 6 inches , were suddenly condensed into half the
+compass , the azotic gas would then evidently , on my hypothesis , press
+with a force = 48 inches , and the oxygen with a force = 12 inches ,
+making together 60 inches , just the same as any simple gas .
+DALTON-1808-2,163.209
+
+And a similar change in the elasticity of each would take place by heat
+and cold . DALTON-1808-2,163.210
+
+Will the opposite theory of Berthollet be equally free from this
+objection ? DALTON-1808-2,163.211
+
+We shall presently examine it . DALTON-1808-2,163.212
+
+Another objection is derived from the very considerable time requisite
+for a body of hydrogen to descend into one of carbonic acid ;
+DALTON-1808-2,163.213
+
+if one gas were as a vacuum for another , why is the equilibrium not
+instantly established ? DALTON-1808-2,163.214
+
+This objection is certainly plausible ; DALTON-1808-2,163.215
+
+we shall consider it more at large hereafter . DALTON-1808-2,163.216
+
+In speaking of the pressure of the atmosphere retaining water in a
+liquid state , which I deny , Berthollet adopts the idea of Lavoisier ,
+" that without it the moleculae would be infinitely dispersed , and that
+nothing would limit their separation , unless their own weight should
+collect them to form an atmosphere , " DALTON-1808-2,163.217
+
+This , I may remark , is not the language dictated by a correct notion
+on the subject . DALTON-1808-2,163.218
+
+Suppose our atmosphere were annihilated , and the <P_164> waters on the
+surface of the globe were instantly expanded into steam ;
+DALTON-1808-2,164.219
+
+surely the action of gravity would collect the molecule into an
+atmosphere of similar constitution to the one we now possess ;
+DALTON-1808-2,164.220
+
+but suppose the whole mass of water evaporated amounted in weight to 30
+inches of mercury , DALTON-1808-2,164.221
+
+how could it support its own weight at the common temperature ?
+DALTON-1808-2,164.222
+
+It would in a short time be condensed into water merely by its weight ,
+leaving a small portion , such as the temperature could support ,
+amounting perhaps to half an inch of mercury in weight , as a permanent
+atmosphere , which would effectually prevent any more vapour from rising
+, unless there were an increase of temperature . DALTON-1808-2,164.223
+
+Does not every one know that water and other liquids can exist in a
+Torricellian vacuum at low temperatures solely by the pressure of vapour
+arising from them ? DALTON-1808-2,164.224
+
+What need then of the pressure of the atmosphere in order to prevent an
+excess of vapourisation ? DALTON-1808-2,164.225
+
+After having concluded that " without the pressure of the aerial
+atmosphere , liquids would pass to the elastic state , " Berthollet
+proceeds in the very next paragraph to shew that the quantity of vapour
+in the atmosphere may in fact be much <font> more <$$font> than would
+exist if the atmosphere were suppressed , DALTON-1808-2,164.226
+
+and hence infers , " that the variations of the barometer occasioned
+<P_165> by those of the humidity of the atmosphere may be much greater
+than was believed by Saussure and Delue . " DALTON-1808-2,165.227
+
+I can@ @not see how the author reconciles the opposite conclusions .
+DALTON-1808-2,165.228
+
+The experiments of Fontana on the distillation of water and ether in
+close vessels containing air , are adduced to prove , that vapours do
+not penetrate air without resistance . DALTON-1808-2,165.229
+
+This is true no doubt ; DALTON-1808-2,165.230
+
+vapour can@ @not make its way in such circumstances through a long and
+circuitous route without time , DALTON-1808-2,165.231
+
+and if the external atmosphere keep the vessel cool , the vapour may be
+condensed by its sides , and fall down in a liquid form as fast as it is
+generated , without ever penetrating in any sensible quantity to its
+remote extremity . DALTON-1808-2,165.232
+
+We come now to the consideration of that theory which Berthollet adopts
+in his explanation of the phenomena of gaseous mixtures .
+DALTON-1808-2,165.233
+
+According to his theory , there are two degrees of affinity .
+DALTON-1808-2,165.234
+
+The one is strong , DALTON-1808-2,165.235
+
+makes the particles of bodies approach nearer to each other ,
+DALTON-1808-2,165.236
+
+and generally expels heat : DALTON-1808-2,165.237
+
+the effect of this may be called <font> combination ; <$$font>
+DALTON-1808-2,165.238
+
+for instance , when oxygen gas is put to nitrous gas , the two combine ,
+DALTON-1808-2,165.239
+
+give out heat , DALTON-1808-2,165.240
+
+are condensed in volume , DALTON-1808-2,165.241
+
+and become possessed of properties different from what they had
+previously . DALTON-1808-2,165.242
+
+The other is weak ; DALTON-1808-2,165.243
+
+it <P_166> does not sensibly condense the volume of any mixture , nor
+give out heat , nor change the properties of the ingredients ;
+DALTON-1808-2,166.244
+
+its effect may be called <font> solution <$$font> or <font> dissolution
+; <$$font> DALTON-1808-2,166.245
+
+for instance , when oxygen gas and azotic gas are mixed in due
+proportion , they constitute atmospheric air , in which they retain
+their distinguishing properties . DALTON-1808-2,166.246
+
+It is upon this supposed <font> solution <$$font> of one elastic fluid
+in another that I intend to make a few observations .
+DALTON-1808-2,166.247
+
+That I have not misrepresented the author's ideas , will , I think ,
+appear from the following quotations . DALTON-1808-2,166.248
+
+" When different gases are mixed , whose action is confined to this
+solution , no change is observed in the temperature , or in the volume
+resulting from the mixture ; DALTON-1808-2,166.249
+
+hence it may be concluded , that this mutual action of two gases does
+not produce any condensation , and that it can@ @not surmount the effort
+of the elasticity , or the affinity for caloric , so that the properties
+of each gas are not sensibly changed - . " DALTON-1808-2,166.250
+
+" Although both the solution and combination of two gases are the effect
+of a chemical action , which only differs in its intensity , a real
+difference may be established between them , because there is a very
+material difference between the results : DALTON-1808-2,166.251
+
+the combination of two gases always leads to a condensation of their
+volume , DALTON-1808-2,166.252
+
+and <P_167> gives rise to new properties ; DALTON-1808-2,167.253
+
+on their solution , the gases share in common the changes arising from
+compression and temperature , DALTON-1808-2,167.254
+
+and preserve their individual properties , which are only diminished in
+the ratio of the slight action which holds them united . " <paren> Page
+198 . <$$paren> DALTON-1808-2,167.255
+
+" The mutual affinity of the gases can , therefore , produce between
+them an effect which is greater than their difference of specific
+gravity , but which is inferior to the elastic tension which belongs to
+each molecule of both , so that the volume is not changed by this action
+; DALTON-1808-2,167.256
+
+the liquids which take the elastic state , comport themselves afterwards
+like the gases . " <paren> Page 218 . <$$paren> DALTON-1808-2,167.257
+
+" Solution must be distinguished from combination , not only because in
+the first , each of the substances is retained by an affinity so weak ,
+that it preserves its dimensions . - " <paren> Page 219 . <$$paren>
+DALTON-1808-2,167.258
+
+Again , " It can@ @not be doubted , that the parts of elastic fluids are
+<font> not <$$font> endued with the force of cohesion , as the
+substances dissolved by them undergo an equal distribution , which could
+not happen but by the means of a reciprocal chemical attraction ; that
+which constitutes the force of cohesion . " <paren> Researches into the
+Laws of chemical affinity , Eng. Trans. {TEXT:Trans} , page 57 .
+<$$paren> DALTON-1808-2,167.259
+
+Here the translator has , I apprehend , mistaken the English idiom .
+DALTON-1808-2,167.260
+
+The author means to say , that the parts of <P_168> elastic fluids
+<font> are <$$font> endued with the force of cohesion ;
+DALTON-1808-2,168.261
+
+but this he applies only to heterogeneous particles .
+DALTON-1808-2,168.262
+
+He certainly does not mean that the particles of homogeneous elastic
+fluids possess the force of cohesion . DALTON-1808-2,168.263
+
+Newton has demonstrated from the phenomena of condensation and
+rarefaction that elastic fluids are constituted of particles , which
+repel one another by forces which increase in proportion as the distance
+of their centres diminishes : DALTON-1808-2,168.264
+
+in other words , the forces are reciprocally as the distances .
+DALTON-1808-2,168.265
+
+This deduction will stand as long as the Laws of elastic fluids continue
+to be what they are . DALTON-1808-2,168.266
+
+What a pity it is that all who attempt to reason , or to theorise
+respecting the constitution of elastic fluids , should not make
+themselves thoroughly acquainted with this immutable Law , and
+constantly hold it in their view whenever they start any new project !
+DALTON-1808-2,168.267
+
+When we contemplate a mixture of oxygenous and hydrogenous gas , what
+does Berthollet conceive , are the particles that repel each other
+according to the Newtonian Law ? DALTON-1808-2,168.268
+
+The mixture <font> must <$$font> consist of such ; DALTON-1808-2,168.269
+
+and he ought in the very first instance to have informed us what
+constitutes the <font> unity <$$font> of a particle in his solution .
+DALTON-1808-2,168.270
+
+If he grants that each particle of oxygen retains its unity , and each
+particle of hydrogen does the <P_169> same , then we must conclude that
+the mutual action of two particles of oxygen is the same as that of a
+particle of oxygen , and one of hydrogen , namely , a repulsion
+according to the Law above stated , which effectually destroys the
+supposed solution by chemical agency . DALTON-1808-2,169.271
+
+But if it be supposed that each particle of hydrogen attaches itself to
+a particle of oxygen , and the two particles so united form <font> one ,
+<$$font> from which the repulsive energy emanates ; then the new elastic
+fluid may perfectly conform to the Newtonian Law ; DALTON-1808-2,169.272
+
+in this case a true saturation will take place when the number of
+particles of hydrogen and oxygen in a mixture happen to be equal , or at
+least in the ratio of some simple numbers , such as 1 to 2 , 1 to 3 ,
+&c. DALTON-1808-2,169.273
+
+Now something like this does actually take place when a real combination
+is formed , as for instance , steam , and nitric acid formed of a
+mixture of oxygen and nitrous gas . DALTON-1808-2,169.274
+
+Here we have new elastic fluids , the atoms of which repel one another
+by the common Law , DALTON-1808-2,169.275
+
+heat is given out , DALTON-1808-2,169.276
+
+a great condensation of volume ensues , DALTON-1808-2,169.277
+
+and the new fluids differ from their constituents in their chemical
+relations . DALTON-1808-2,169.278
+
+It remains then to determine whether , in the instance of solution , all
+these effects take place in a " slight " degree ; that is , in so small
+a degree as not to be <P_170> cognisable to any of the senses .
+DALTON-1808-2,170.279
+
+It certainly requires an extraordinary stretch of the imagination to
+admit the affirmative . DALTON-1808-2,170.280
+
+One great reason for the adoption of this , or any other theory on the
+subject , arises from the phenomena of the evaporation of water .
+DALTON-1808-2,170.281
+
+How is water taken up and retained in the atmosphere ?
+DALTON-1808-2,170.282
+
+It can@ @not be in the state of vapour , it is said , because the
+pressure is too great : DALTON-1808-2,170.283
+
+there must therefore be a true chemical solution .
+DALTON-1808-2,170.284
+
+But when we consider that the surface of water is subject to a pressure
+equal to 30 inches of mercury , and besides this pressure , there is a
+<font> sensible <$$font> affinity between the particles of water
+themselves ; how does the <font> insensible <$$font> affinity of the
+atmosphere for water overcome both these powers ? DALTON-1808-2,170.285
+
+It is to me quite inexplicable upon this hypothesis , the leading object
+of which is to account for this very phenomenon . DALTON-1808-2,170.286
+
+Further , if a particle of air has attached a particle of water to it ,
+what reason can be assigned why a superior particle of air should rob an
+inferior one of its property , when each particle possesses the same
+power ? DALTON-1808-2,170.287
+
+If a portion of common salt be dissolved in water and a little muriatic
+acid added ; is there any reason to suppose the additional acid
+displaces that already combined with the soda , and that upon
+evaporation the salt is not obtained with <P_171> the identical acid it
+previously had ? DALTON-1808-2,171.288
+
+Or , if oxygen gas be confined by water , is there any reason to suppose
+that the hydrogen of the water is constantly giving its oxygen to the
+air and receiving an equal quantity from the same ?
+DALTON-1808-2,171.289
+
+Perhaps it will be said in the case of air dissolving water , that it is
+not the affection of one particle for one , it is that of a mass of
+particles for another mass ; it is the united action of all the atoms in
+the atmosphere upon the water , which raises up a particle .
+DALTON-1808-2,171.290
+
+But as all these energies are reciprocal , the water must have a like
+action on the air , DALTON-1808-2,171.291
+
+and then an atmosphere over water would press downward by a force
+greater than its weight , which is contradicted by experience .
+DALTON-1808-2,171.292
+
+When two measures of hydrogen and one of oxygen gas are mixed , and
+fired by the electric spark , the whole is converted into steam ,
+DALTON-1808-2,171.293
+
+and if the pressure be great , this steam becomes water .
+DALTON-1808-2,171.294
+
+It is most probable then that there is the same number of particles in
+two measures of hydrogen as in one of oxygen . DALTON-1808-2,171.295
+
+Suppose then three measures of hydrogen are mixed with one of oxygen ,
+and this slight affinity operates as usual ; DALTON-1808-2,171.296
+
+how is the union effected ? DALTON-1808-2,171.297
+
+According to the principle of equal division , each atom of oxygen ought
+to have <font> one atom and a half <$$font> of hydrogen attached <P_172>
+to it ; DALTON-1808-2,172.298
+
+but this is impossible ; DALTON-1808-2,172.299
+
+one half of the atoms of oxygen must then take two of hydrogen , and the
+other half , one each . DALTON-1808-2,172.300
+
+But the former would be specifically lighter than the latter ,
+DALTON-1808-2,172.301
+
+and ought to be found at the top of the solution ; DALTON-1808-2,172.302
+
+nothing like this is however observed on any occasion .
+DALTON-1808-2,172.303
+
+Much more might be advanced to shew the absurdity of this doctrine of
+the solution of one gas in another , and the insufficiency of it to
+explain any of the phenomena ; DALTON-1808-2,172.304
+
+indeed I should not have dwelt so long upon it , had I not apprehended
+that respectable authority was likely to give it credit , more than any
+arguments in its behalf derived from physical principle .
+DALTON-1808-2,172.305
+
+Dr. Thomson , in the 3d Edition of his System of Chemistry , has
+entered into a discussion on the subject of mixed gases ;
+DALTON-1808-2,172.306
+
+he seems to comprehend the excellence and defects of my notions on these
+subjects , with great acuteness . DALTON-1808-2,172.307
+
+He does not conclude with Berthollet , that on my hypothesis , " there
+would not be any augmentation of volume when aqueous and ethereal vapour
+was combined with the air , " which has been so common an objection .
+DALTON-1808-2,172.308
+
+There is however one objection which this gentleman urges , that shews
+he does not completely understand the <P_173> mechanism of my hypothesis
+. DALTON-1808-2,173.309
+
+At page 448 , Vol. 3 he observes that from the principles of
+hydrostatics , " each particle of a fluid sustains the whole pressure .
+DALTON-1808-2,173.310
+
+Nor can I perceive any reason why this principle should not hold , even
+on the supposition that Dalton's hypothesis is well founded . "
+DALTON-1808-2,173.311
+
+Upon this I would observe , that when once an equilibrium is established
+in any mixture of gases , each particle of gas is pressed as if by the
+surrounding particles <font> of its own kind only . <$$font>
+DALTON-1808-2,173.312
+
+It is in the renunciation of that hydrostatical principle that the
+leading feature of the theory consists . DALTON-1808-2,173.313
+
+The lowest particle of oxygen in the atmosphere sustains the weight of
+all the particles of oxygen above it , and the weight of no other .
+DALTON-1808-2,173.314
+
+It was therefore a maxim with me , that every particle of gas is equally
+pressed in every direction , but the pressure arises from the particles
+of its own kind only . DALTON-1808-2,173.315
+
+Indeed when a measure of oxygen is put to a measure of azote , at the
+moment the two surfaces come in contact , the particles of each gas
+press against those of the other with their full force ;
+DALTON-1808-2,173.316
+
+but the two gases get gradually intermingled , DALTON-1808-2,173.317
+
+and the force which each particle has to sustain proportionally
+diminishes , till at last it becomes the same as that of the original
+gas dilated to twice its volume . DALTON-1808-2,173.318
+
+The ratio of the forces is as the cube_root <P_174> of the spaces
+inversely ; that is as {COM:cube_root} 2 : 1 , or as 1.26 : 1 nearly .
+DALTON-1808-2,174.319
+
+In such a mixture as has just been mentioned , then , the common
+hypothesis supposes the pressure of each particle of gas to be 1.26 ;
+whereas mine supposes it only to be 1 ; DALTON-1808-2,174.320
+
+but the sum of the pressure of both gases on the containing vessel , or
+any other surface is exactly the same on both hypotheses .
+DALTON-1808-2,174.321
+
+Excepting the above objection , all the rest which Dr. Thomson has made
+, are of a nature not so easily to be obviated ; DALTON-1808-2,174.322
+
+- he takes notice of the considerable time which elapses before two
+gases are completely diffused through each other , as Berthollet has
+done , DALTON-1808-2,174.323
+
+and conceives this fact makes against the supposition , that one gas is
+as a vacuum to another . DALTON-1808-2,174.324
+
+He further objects , that if the particles of different gases are
+inelastic to each other ; then a particle of oxygen coming into actual
+contact with one of hydrogen , ought to unite with it , and form a
+particle of water ; DALTON-1808-2,174.325
+
+but , on the other hand , he properly observes , that the great facility
+with which such combinations are effected in such instances as a mixture
+of nitrous and oxygen gas , is an argument in favour of the hypothesis .
+DALTON-1808-2,174.326
+
+- Dr. Thomson founds another objection upon the facility of certain
+combinations , when one of the ingredients is in a <font> nascent
+<$$font> form ; <P_175> that is , just upon the point of assuming the
+elastic state ; DALTON-1808-2,175.327
+
+this , he observes , " seems incompatible with the hypothesis , that
+gases are not mutually elastic . " DALTON-1808-2,175.328
+
+Upon the whole , Dr. Thomson inclines to the opinion of Berthollet ,
+that gases have the property of dissolving each other ;
+DALTON-1808-2,175.329
+
+and admits , " however problematical it may appear at first view , that
+the gases not only mutually repel each other , but likewise mutually
+attract . " DALTON-1808-2,175.330
+
+I have no doubt if he had taken due time to consider this conclusion ,
+he would , with me , have pronounced it absurd : DALTON-1808-2,175.331
+
+but of this again in the sequel . DALTON-1808-2,175.332
+
+With regard to the objection , that one gas makes a more durable
+resistance to the entrance of another , than it ought to do on my
+hypothesis : This occurred to me in a very early period of my
+speculations ; DALTON-1808-2,175.333
+
+I devised the train of reasoning which appeared to obviate the objection
+; DALTON-1808-2,175.334
+
+but it being necessarily of a mathematical nature , I did not wish to
+obtrude it upon the notice of chemical philosophers , but rather to wait
+till it was called for . DALTON-1808-2,175.335
+
+- The resistance which any medium makes to the motion of a body ,
+depends upon the surface of that body , DALTON-1808-2,175.336
+
+and is greater as the surface is greater , all other circumstances being
+the same . DALTON-1808-2,175.337
+
+A ball of lead 1 inch in diameter meets with a certain resistance in
+falling through the <P_176> air ; DALTON-1808-2,176.338
+
+but the same ball , being made into thousand smaller ones of 1$$10 of an
+inch diameter , and falling with the same velocity , meets with 10 times
+the resistance it did before ; because the force of gravity increases as
+the <font> cube <$$font> of the diameter of any particle , and the
+resistance only as the <font> square <$$font> of the diameter .
+DALTON-1808-2,176.339
+
+Hence it appears , that in order to increase the resistance of particles
+moving in any medium , it is only necessary to divide them , and that
+the resistance will be a maximum when the division is a maximum .
+DALTON-1808-2,176.340
+
+We have only then to consider particles of lead falling through air by
+their own gravity , DALTON-1808-2,176.341
+
+and we may have an idea of the resistance of one gas entering another ,
+<$$font> DALTON-1808-2,176.342
+
+only the particle of lead must be conceived to be infinitely small
+<$$font> , if I may be allowed the expression . DALTON-1808-2,176.343
+
+Here we shall find great resistance , DALTON-1808-2,176.344
+
+and yet no one , I should suppose , will say , that the air and the lead
+are mutually elastic . DALTON-1808-2,176.345
+
+The other two objections of Dr. Thomson , I shall waive {TEXT:wave} the
+consideration of at present . DALTON-1808-2,176.346
+
+Mr. Murray has lately edited a system of chemistry , in which he has
+given a very clear description of the phenomena of the atmosphere , and
+of other similar mixtures of elastic fluids . DALTON-1808-2,176.347
+
+He has ably discussed the different theories that have been proposed on
+the subject , <P_177> and given a perspicuous view of mine , which he
+thinks is ingenious , and calculated to explain several of the phenomena
+well , but upon the whole , not equally satisfactory with that which he
+adopts . DALTON-1808-2,177.348
+
+He does not object to the mechanism of my hypothesis in regard to the
+independent elasticity of the several gases entering into any mixture ,
+DALTON-1808-2,177.349
+
+but argues that the phenomena do not require so extraordinary a
+postulatum ; DALTON-1808-2,177.350
+
+and more particularly disapproves of the application of my theory to
+account for evaporation . DALTON-1808-2,177.351
+
+The principal feature in Mr. Murray's theory , and which he thinks
+distinguishes it from mine , is " that between mixed gases , which are
+capable , under any circumstances of combining , an attraction must
+always be exerted . " DALTON-1808-2,177.352
+
+It is unnecessary to recount the arguments on behalf of this conclusion
+, because it will not be controverted . DALTON-1808-2,177.353
+
+Mr. Murray announces his views of the constitution of the atmosphere ,
+as follows : DALTON-1808-2,177.354
+
+" Perhaps that chemical attraction which subsists between the solid
+bases of these gases , but which , when they are merely mixed together ,
+can@ @not , from the distance at which their particles are placed by the
+repulsive power of caloric , bring them into intimate union , may still
+be so far exerted , as to prevent their separation :
+DALTON-1808-2,177.355
+
+or , they may be <P_178> retained in mixture by that force of adhesion ,
+which , exerted at the surfaces of many bodies , retains them in contact
+with considerable force . " DALTON-1808-2,178.356
+
+He supports these notions at length by various observations ,
+DALTON-1808-2,178.357
+
+and repeats some of the observations of Berthollet , whose doctrine on
+this subject , as has been seen , is nearly the same .
+DALTON-1808-2,178.358
+
+Before we animadvert on these principles , it may be convenient to
+extend the first a little farther , and to adopt as a maxim , " that
+between the particles of <font> pure <$$font> gases , which are capable
+under any circumstances of combining , an attraction must always be
+exerted . " DALTON-1808-2,178.359
+
+This , Mr. Murray can@ @not certainly object to , in the case of steam
+, a pure elastic fluid , the particles of which are known in certain
+circumstances to combine . DALTON-1808-2,178.360
+
+Nor will it be said that steam and a permanent gas are different ;
+DALTON-1808-2,178.361
+
+for he justly observes , " this distinction <paren> between gases and
+vapours <$$paren> is merely relative , DALTON-1808-2,178.362
+
+and arises from the difference of temperature at which they are formed ;
+DALTON-1808-2,178.363
+
+the state with regard to each , while they exist in it , is precisely
+the same . " DALTON-1808-2,178.364
+
+Is steam then constituted of particles in which the attraction is so far
+exerted as to prevent their separation ? DALTON-1808-2,178.365
+
+No : they exhibit no traces of attraction , more than the like number of
+particles of oxygen do , when in <P_179> the gaseous form .
+DALTON-1808-2,179.366
+
+What then is the conclusion ? DALTON-1808-2,179.367
+
+It is this : DALTON-1808-2,179.368
+
+<font> notwithstanding it must be allowed , that all bodies at all times
+, and in every situation , attract one another ; yet in certain
+circumstances , they are likewise actuated by a repulsive power ;
+DALTON-1808-2,179.369
+
+the only efficient motive force is then the difference of these two
+powers . <$$font> DALTON-1808-2,179.370
+
+From the circumstance of gases mixing together without experiencing any
+sensible diminution of volume , the advocates for the agency of chemical
+affinity , characterise it as a " slight action , " and " a weak
+reciprocal action : " DALTON-1808-2,179.371
+
+So far I think they are consistent ; DALTON-1808-2,179.372
+
+but when we hear of this affinity being so far exerted as to prevent the
+separation of elastic particles , I do not conceive with what propriety
+it {TEXT:t} can be called weak . DALTON-1808-2,179.373
+
+Suppose this affinity should be exercised in the case of steam of 212@
+@=o= ; DALTON-1808-2,179.374
+
+then the attraction becoming equal to the repulsion , the force which
+any one particle would exercise must be equal to the weight of a column
+of water of 4896 feet high . DALTON-1808-2,179.375
+
+<paren> See page 146 . <$$paren> DALTON-1808-2,179.376
+
+It is somewhat remarkable that those gases which are known to combine
+occasionally , as azote and oxygen , and those which are never known to
+combine , as hydrogen and carbonic acid , should dissolve one another
+with equal <P_180> facility ; DALTON-1808-2,180.377
+
+nay , these last exercise this solvent power with more effect than the
+former ; DALTON-1808-2,180.378
+
+for , hydrogen can draw up carbonic acid from the bottom to the top of
+any vessel , notwithstanding the latter is 20 times the specific gravity
+of the former . DALTON-1808-2,180.379
+
+One would have thought that a force of adhesion was more to be expected
+in the particles of steam , than in a mixture of hydrogen and carbonic
+acid . DALTON-1808-2,180.380
+
+But it is the business of those who adopt the theory of the mutual
+solution of gases to explain these difficulties . DALTON-1808-2,180.381
+
+In a mixture where are 8 particles of oxygen for 2 of hydrogen , it is
+demonstrable that the central distances of the particle of hydrogen are
+at a medium twice as great as those of oxygen . DALTON-1808-2,180.382
+
+Now supposing the central distance of two adjacent particles of hydrogen
+to be denoted by 12 , query , what is supposed to be the central
+distance of any one particle of hydrogen from that one particle , or
+those particles of oxygen with which it is connected by this weak
+chemical union ? DALTON-1808-2,180.383
+
+It would be well if those who understand and maintain the doctrine of
+chemical solution would represent how they conceive this to be ;
+DALTON-1808-2,180.384
+
+it would enable those who are desirous to learn , to obtain a clear idea
+of the system , and those who are dissatisfied with it , to point out
+its defects with <P_181> more precision . DALTON-1808-2,181.385
+
+The greatest possible central distance would be 8_1$$2 in the above
+instance , DALTON-1808-2,181.386
+
+and the least might perhaps be 1 . DALTON-1808-2,181.387
+
+Berthollet , who decries the diagram by which I endeavoured to
+illustrate my ideas on this subject , has not given us any precise
+information , either verbally or otherwise , relative to the collocation
+of the heterogeneous particles , unless it is to be gathered from the
+consideration that the affinity is so weak that the mixture of fluids
+preserves its dimensions . DALTON-1808-2,181.388
+
+What can this weak affinity do , when opposed by a repulsive power of
+infinite superiority ? DALTON-1808-2,181.389
+
+In discussing the doctrines of elastic fluids mixed with vapours , Mr.
+Murray seems disposed to question the accuracy of the fact , that the
+quantity of vapour is the same in vacuo as in air , though he has not
+attempted to ascertain in which case it more abounds .
+DALTON-1808-2,181.390
+
+This is certainly the touchstone of the mechanical and chemical theories
+; DALTON-1808-2,181.391
+
+and I had thought that whoever admitted the truth of the fact , must
+unavoidably adopt the mechanical theory . DALTON-1808-2,181.392
+
+Berthollet {COM:missing_comma} however , convinced from his own
+experience , that the fact was incontrovertible , attempts to reconcile
+it , inimical as it is , to the chemical theory ; DALTON-1808-2,181.393
+
+with what success it is left to others to judge . DALTON-1808-2,181.394
+
+Mr. Murray joins with Berthollet in condemning as extravagant <P_182>
+the position I maintain , that if the atmosphere were annihilated , we
+should have little more aqueous vapour than at present exists in it .
+Upon which I shall only remark , that if either of those gentlemen will
+calculate , or give a rough estimate upon their hypothesis , of the
+quantity of aqueous vapour that would be collected around the earth , on
+the said supposition , I will engage to discuss the subject with them
+more at large . DALTON-1808-2,182.395
+

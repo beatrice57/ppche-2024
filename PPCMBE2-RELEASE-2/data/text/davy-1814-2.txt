@@ -1,0 +1,1639 @@
+<BEGIN_davy-1814-2>
+
+<P_5,437>
+
+<heading>
+
+XVI . Some Experiments and Observations on a New Substance Which
+Becomes a Violet-coloured Gas by Heat . DAVY-1814-2,5,437.4
+
+<$$heading>
+
+A new and a very curious substance has recently occupied the attention
+of chemists at Paris . DAVY-1814-2,5,437.6
+
+This substance was accidentally discovered about two years ago by M.
+Courtois , a manufacturer of saltpetre <P_5,438> at Paris .
+DAVY-1814-2,5,438.7
+
+In his processes for procuring soda from the ashes of sea weeds ,
+<paren> cendres de varec <$$paren> he found the metallic vessels much
+corroded ; DAVY-1814-2,5,438.8
+
+and in searching for the cause of this effect , he made the discovery .
+DAVY-1814-2,5,438.9
+
+The substance is procured from the ashes , after the extraction of the
+carbonate of soda , with great facility , and merely by the action of
+sulphuric acid : DAVY-1814-2,5,438.10
+
+- when the acid is concentrated , so as to produce much heat , the
+substance appears as a vapour of a beautiful violet colour , which
+condenses in crystals having the colour and the lustre of plumbago .
+DAVY-1814-2,5,438.11
+
+M. Courtois , soon after he had discovered it , gave specimens of it to
+MM. Desormes and Clement for chemical examination ;
+DAVY-1814-2,5,438.12
+
+and those gentlemen read a short memoir upon it , at a meeting of the
+Imperial Institute of France , on November 29th . DAVY-1814-2,5,438.13
+
+In this memoir , these able chemists have described its principal
+properties ; DAVY-1814-2,5,438.14
+
+they mentioned that its specific gravity was about four times that of
+water , that it becomes a violet-coloured gas at a temperature below
+that of boiling water , that it combines with the metals and with
+phosphorus and sulphur , and likewise with alkalies and metallic oxides
+, that it forms a detonating compound with ammonia , that it is soluble
+in alcohol , and still <P_5,439> more soluble in ether ; and that by its
+action upon phosphorus and upon hydrogen , a substance having the
+characters of muriatic acid is formed . DAVY-1814-2,5,439.15
+
+In this communication they offered no decided opinion respecting its
+nature . DAVY-1814-2,5,439.16
+
+M. Ampere had the goodness to give me some of this substance ,
+DAVY-1814-2,5,439.17
+
+and M. Clement having requested me to submit it to some analytical
+tests , I made several experiments upon it , which convinced me that it
+was a new substance undecompounded in any of the circumstances to which
+I was able to expose it ; and that the acid formed in processes upon it
+was not muriatic acid , but a new acid possessing a striking resemblance
+to that body . DAVY-1814-2,5,439.18
+
+M. Gay Lussac <paren> to whom M. Clement had furnished some of the
+substance , and with whom he had made some experiments upon it before
+the communication of his memoir <$$paren> on Monday , Dec. 6 , read to
+the Institute a paper , in which he stated that the acid formed by its
+action on hydrogen is a peculiar one . DAVY-1814-2,5,439.19
+
+He mentioned several interesting particulars respecting the mode of its
+production , DAVY-1814-2,5,439.20
+
+and he compared it to oxymuriatic gas or chlorine , DAVY-1814-2,5,439.21
+
+and stated that two hypotheses might be formed on its nature ; and that
+it might be considered as an undecompounded substance , or as a compound
+of oxygen . DAVY-1814-2,5,439.22
+
+M. Gay Lussac is still engaged in experiments on this subject ,
+DAVY-1814-2,5,439.23
+
+and from his activity and great sagacity , a complete chemical history
+of it may be anticipated . DAVY-1814-2,5,439.24
+
+But as the mode of procuring the substance is now known to the chemical
+world in general , and as the combinations and agencies of it offer an
+extensive field for inquiry , and will probably occupy the attention of
+many persons , and as the investigation of it is not pursued by the
+discoverer himself , nor particularly by the <P_5,440> gentlemen to whom
+it was first communicated , I shall not hesitate to lay before the Royal
+Society an account of the investigations I have made upon it ;
+DAVY-1814-2,5,440.25
+
+and I do this with the less scruple , as my particular manner of viewing
+the phenomena has led me to some new results , which probably will not
+be considered by the Society as without interest in their relation to
+the general theory of chemistry , and in their possible application to
+some of the useful arts . DAVY-1814-2,5,440.26
+
+The first experiments that I made on this substance , were to ascertain
+whether <paren> argentane <$$paren> muriate of silver could be formed
+from its solution in water or alcohol , DAVY-1814-2,5,440.27
+
+and for this purpose it was purified by distilling it from lime .
+DAVY-1814-2,5,440.28
+
+Its solution , I found , when mixed with solution of nitrate of silver ,
+deposited a dense precipitate , of a pale lemon-colour ;
+DAVY-1814-2,5,440.29
+
+this precipitate when collected and examined , proved to be fusible at a
+low red heat , DAVY-1814-2,5,440.30
+
+and then became of a red colour . DAVY-1814-2,5,440.31
+
+When acted upon by fused hydrate of potassa , it was rapidly decomposed
+, DAVY-1814-2,5,440.32
+
+and a solid substance , having all the characters of oxide of silver ,
+was formed . DAVY-1814-2,5,440.33
+
+The matter soluble in water separated by a filter , and , acted upon by
+sulphuric acid , afforded the peculiar substance . DAVY-1814-2,5,440.34
+
+A solution of potassa , after being boiled on the precipitate , afforded
+the peculiar substance , when treated by the same acid .
+DAVY-1814-2,5,440.35
+
+The precipitate was much more rapidly altered by exposure to light ,
+than the muriate of silver , DAVY-1814-2,5,440.36
+
+and was evidently quite a distinct body . DAVY-1814-2,5,440.37
+
+Conceiving from the action of potassa upon it , that it must be a
+compound of the peculiar substance and silver , I endeavoured to form it
+directly by the combination of the two bodies . DAVY-1814-2,5,440.38
+
+I introduced some of the substance into the closed end of a small glass
+curved tube , DAVY-1814-2,5,440.39
+
+and <P_5,441> placed in the upper part of it some silver foil ;
+DAVY-1814-2,5,441.40
+
+I heated the foil nearly to redness , DAVY-1814-2,5,441.41
+
+and then passed the substance over it in vapour ; DAVY-1814-2,5,441.42
+
+there was an immediate action , DAVY-1814-2,5,441.43
+
+the silver was rapidly dissolved , DAVY-1814-2,5,441.44
+
+and a fusible substance formed , in all its obvious sensible and
+chemical characters , the same as that obtained from solutions of the
+substance by nitrate of silver . DAVY-1814-2,5,441.45
+
+The modes which occurred to me , as most likely to effect its
+decomposition by chemical agents , were the action of the highly
+inflammable metals upon it which unite to oxygen and chlorine , or the
+action of chlorine which in general tends to the expulsion of oxygen ,
+and to the separation of inflammable bases from that principle .
+DAVY-1814-2,5,441.46
+
+I heated some potassium in a little glass tube , DAVY-1814-2,5,441.47
+
+and passed some of the substance in vapour over it ;
+DAVY-1814-2,5,441.48
+
+at the moment the vapour came in contact with the potassium , there was
+an inflammation , DAVY-1814-2,5,441.49
+
+and the potassium burnt slowly with a pale blue light .
+DAVY-1814-2,5,441.50
+
+There was no gas disengaged when the experiment was repeated in a
+mercurial apparatus . DAVY-1814-2,5,441.51
+
+The substance formed by the action of potassium was white , fusible at a
+red heat , and soluble in water . DAVY-1814-2,5,441.52
+
+It had a peculiar acrid taste . DAVY-1814-2,5,441.53
+
+When acted upon by sulphuric acid , it effervesced ,
+DAVY-1814-2,5,441.54
+
+and the peculiar substance appeared . DAVY-1814-2,5,441.55
+
+It was evident that in this experiment there had been no decomposition
+of the body ; DAVY-1814-2,5,441.56
+
+the result seemed to depend merely upon the combination of it with the
+potassium . DAVY-1814-2,5,441.57
+
+I exposed the body to the action of chlorine in a small glass tube ;
+DAVY-1814-2,5,441.58
+
+it absorbed the chlorine , DAVY-1814-2,5,441.59
+
+and a substance formed which was volatile by heat , and which appeared
+as a yellow solid ; DAVY-1814-2,5,441.60
+
+it was soluble in water , DAVY-1814-2,5,441.61
+
+and <P_5,442> rendered the water of a yellowish-green colour and
+strongly acid , DAVY-1814-2,5,442.62
+
+the solution when acted upon by solution of potassa not in excess
+effervesced , DAVY-1814-2,5,442.63
+
+and afforded the peculiar substance . DAVY-1814-2,5,442.64
+
+The acid formed by the solution of the substance united to chlorine
+reddened vegetable blues by its immediate contact , DAVY-1814-2,5,442.65
+
+and soon after destroyed them . DAVY-1814-2,5,442.66
+
+When the new substance was heated in oxygen gas , or brought in contact
+with red hot hyperoxymuriate of potassa , it seemed to undergo no change
+. DAVY-1814-2,5,442.67
+
+MM. Desormes and Clement had stated , that , when the substance is
+combined with the metals , metallic oxides could be obtained from the
+solutions ; DAVY-1814-2,5,442.68
+
+I suspected that this depended upon the presence of moisture , or upon
+oxygen derived from the air , DAVY-1814-2,5,442.69
+
+and experiment justified my suspicion . DAVY-1814-2,5,442.70
+
+I heated the substance with iron , mercury , tin , zinc , and lead , out
+of the contact of air ; DAVY-1814-2,5,442.71
+
+it united to them without any violence of action , DAVY-1814-2,5,442.72
+
+and formed compounds fusible at a moderate heat , and volatile at a
+higher temperature . DAVY-1814-2,5,442.73
+
+All the compounds , except that of zinc , which was white , were
+coloured of different shades of red-brown , red and orange ;
+DAVY-1814-2,5,442.74
+
+the compound it formed with tin was of a deep orange , that with iron of
+a bright red brown , that with lead a bright orange , that with mercury
+an orange still more approaching to red , and which , when crystallized
+, was bright crimson . DAVY-1814-2,5,442.75
+
+The compound of iron and the substance , when exposed to an alkaline
+solution , immediately deposited black oxide of iron ;
+DAVY-1814-2,5,442.76
+
+but when I heated it in a small retort , containing pure ammoniacal gas
+, no such change occurred , DAVY-1814-2,5,442.77
+
+and it combined with the ammonia DAVY-1814-2,5,442.78
+
+and formed a compound which volatilized without leaving any oxide .
+DAVY-1814-2,5,442.79
+
+<P_5,443>
+
+The crimson compound of the substance with mercury united in the same
+manner without decomposition to potassa , DAVY-1814-2,5,443.81
+
+and by the action of sulphuric acid , sulphate of potassa was formed ,
+DAVY-1814-2,5,443.82
+
+and the compound of the substance with mercury disengaged .
+DAVY-1814-2,5,443.83
+
+When the substance is made to act upon phosphorus , the two bodies
+combine with great rapidity at common temperatures , producing heat
+without light ; DAVY-1814-2,5,443.84
+
+small quantities of a strongly acid gas generally arise from the mixture
+, DAVY-1814-2,5,443.85
+
+and by the application of heat , it is produced in greater quantities .
+DAVY-1814-2,5,443.86
+
+When the substance is in excess , an easily fusible and volatile
+compound of a red colour is obtained ; DAVY-1814-2,5,443.87
+
+when the phosphorus is in excess , the greater part of the product is
+more fixed . DAVY-1814-2,5,443.88
+
+I examined the gaseous acid formed by the action of phosphorus with
+attention . DAVY-1814-2,5,443.89
+
+It gives dense white fumes by combining with the aqueous vapour in the
+air . DAVY-1814-2,5,443.90
+
+It has a smell very similar to that of the solid compound of chlorine
+and phosphorus , which itself is very analogous to that of muriatic acid
+. DAVY-1814-2,5,443.91
+
+It is rapidly absorbed by water . DAVY-1814-2,5,443.92
+
+When made to act upon ammonia , it forms with it a dense white salt ,
+which , when acted upon by sulphuric acid , affords the peculiar
+substance , DAVY-1814-2,5,443.93
+
+and at the same time a smell of hydrogen is perceived .
+DAVY-1814-2,5,443.94
+
+When mercury is heated in the acid gas , the same compound as that
+produced by the action of the new substance directly upon mercury is
+formed , DAVY-1814-2,5,443.95
+
+and hydrogen equal to half the volume of the gas is disengaged .
+DAVY-1814-2,5,443.96
+
+When potassium is made to act upon it , there is no inflammation as in
+muriatic acid gas , DAVY-1814-2,5,443.97
+
+but the potassium becomes converted into a body , similar to that
+produced by its combustion in the vapour of the substance ,
+DAVY-1814-2,5,443.98
+
+and a gas equal to half the volume of the acid gas , which burns in the
+same manner as hydrogen , is disengaged . DAVY-1814-2,5,443.99
+
+<P_5,444>
+
+When the easily fusible and volatile compound of the substance with
+phosphorus is heated in water , it rapidly dissolves in it ,
+DAVY-1814-2,5,444.101
+
+and forms a strong acid , which , when evaporated , leaves
+hydrophosphorous acid , and which , before its evaporation , neutralized
+by potash , and acted on by sulphuric acid , affords the peculiar
+substance . DAVY-1814-2,5,444.102
+
+When the difficultly fusible substance it forms with phosphorus is acted
+on by a small quantity of water , and heated in a glass tube , much gas
+spontaneously inflammable is disengaged , DAVY-1814-2,5,444.103
+
+and a white sublimate arises , which , when acted on by cold water ,
+becomes hot , and affords a considerable quantity of a gas having all
+the properties of hydrophosphoric gas . DAVY-1814-2,5,444.104
+
+The solution of this crystalline substance in water , neutralized by
+potash , and decomposed by sulphuric acid , afforded the peculiar
+substance , DAVY-1814-2,5,444.105
+
+but when the solution was heated strongly before its neutralization , it
+left only hydrophosphorous acid , which when heated gave off
+hydrophosphoric gas , and became phosphoric acid .
+DAVY-1814-2,5,444.106
+
+It is easy to explain all these phenomena , except the production of the
+acid gas , which is a compound of the peculiar substance and hydrogen :
+DAVY-1814-2,5,444.107
+
+to account for the appearance of this body , it is necessary to suppose
+the existence of hydrogen , or of water in the substance , or of
+hydrogen in phosphorus . DAVY-1814-2,5,444.108
+
+I used the substance distilled through quick_lime , which there is every
+reason to believe would absorb all the water united to it :
+DAVY-1814-2,5,444.109
+
+in this case the acid gas , which gave hydrogen when decomposed by
+mercury , was produced in much smaller quantities ;
+DAVY-1814-2,5,444.110
+
+but , when the substance was moistened , the gas was afforded in very
+large quantities . DAVY-1814-2,5,444.111
+
+It is probable , that a little hydrogen existing in the phosphorus , and
+which appears when that substance is acted on by Voltaic electricity ,
+may influence <P_5,445> the result ; DAVY-1814-2,5,445.112
+
+but I am inclined to attribute it principally to the moisture adhering
+to the substance , DAVY-1814-2,5,445.113
+
+and I have never been able to produce more gas from the fusible compound
+by distilling it with a new quantity of phosphorus .
+DAVY-1814-2,5,445.114
+
+When the fusible compound of the substance with phosphorus is distilled
+with a small quantity of water , the gas produced seems to be of the
+same kind as that obtained by the action of heat during the combination
+, DAVY-1814-2,5,445.115
+
+and both these gases when absorbed by water afford , when acted upon by
+nitrate of silver , the same product as that formed by the action of a
+solution of the substance in water on the same salt .
+DAVY-1814-2,5,445.116
+
+I attempted to form a compound of the substance with hydrogen directly ,
+by heating it in several experiments to redness in a glass tube filled
+with hydrogen . DAVY-1814-2,5,445.117
+
+When the gas was moist , or when the tube contained vapour , a strong
+acid fluid was formed of a deep yellow colour . DAVY-1814-2,5,445.118
+
+When the gas and the substance were dry , there was an expansion of
+volume , DAVY-1814-2,5,445.119
+
+and on breaking the tube , fumes appeared similar to those produced by
+the action of the gas formed during the union of phosphorus and the
+substance , and which precipitated in the same manner a solution of
+nitrate of silver . DAVY-1814-2,5,445.120
+
+This peculiar acid , which consists of the substance united to hydrogen
+, has a very strong attraction for water , DAVY-1814-2,5,445.121
+
+and a very small quantity of water absorbs a large quantity of the gas ,
+DAVY-1814-2,5,445.122
+
+and when combined with water , it rises with it in vapour ,
+DAVY-1814-2,5,445.123
+
+and in its state of liquid acid , it rapidly dissolves the substance ,
+DAVY-1814-2,5,445.124
+
+and becomes tawny . DAVY-1814-2,5,445.125
+
+The new substance , as MM. Desormes and Clement have shewn , is rapidly
+soluble in solution of potash ; DAVY-1814-2,5,445.126
+
+when it is in excess the solution becomes red brown .
+DAVY-1814-2,5,445.127
+
+On evaporating the mixture and heating it to redness , <P_5,446> a
+substance is formed , exactly similar to that produced by the
+combination of the substance with potassium . DAVY-1814-2,5,446.128
+
+As potassa is a compound of potassium and oxygen , it is evident that ,
+to form a compound of potassium and the substance from potassa , oxygen
+must be expelled , DAVY-1814-2,5,446.129
+
+and I found by experiment , that this was the case ;
+DAVY-1814-2,5,446.130
+
+and in investigating minutely the action of fixed alkaline solutions on
+the substance , I ascertained the existence of a class of substances ,
+precisely similar to the hyperoxy-muriates , consisting of oxygen , the
+substance , and potassium , and formed in a manner exactly analogous .
+DAVY-1814-2,5,446.131
+
+If the substance is thrown into a moderately strong solution of potassa
+, as it dissolves crystals fall down , DAVY-1814-2,5,446.132
+
+and by saturating the solution with the substance , considerable
+quantities are obtained . DAVY-1814-2,5,446.133
+
+By pouring off the mother liquor and evaporating it a little , more of
+the crystals fall down . DAVY-1814-2,5,446.134
+
+All these crystals , if precipitated from a solution not too much
+saturated , are of the same kind ; DAVY-1814-2,5,446.135
+
+they are little soluble in water , DAVY-1814-2,5,446.136
+
+have a taste analogous to that of the hyperoxymuriates of potassa ,
+DAVY-1814-2,5,446.137
+
+scintillate when thrown upon burning coals , DAVY-1814-2,5,446.138
+
+and form a deflagrating mixture when mixed with charcoal .
+DAVY-1814-2,5,446.139
+
+When fused , they give off abundance of oxygen gas ,
+DAVY-1814-2,5,446.140
+
+and become the same substance as that formed by the action of potassium
+on the new substance . DAVY-1814-2,5,446.141
+
+If the liquor which has ceased to afford the crystals be evaporated to
+dryness , it yields a considerable quantity of a substance which is not
+capable of detonating with combustible bodies , and which is the same as
+that afforded by the combination of the substance with potassium .
+DAVY-1814-2,5,446.142
+
+It is evident then that the oxygen contained in the potassa is newly
+combined by the action of the new <P_5,447> substance , and two
+compounds formed , one consisting of potassium and the new substance ,
+the other of potassium , the new substance , and the oxygen contained in
+the potassa . DAVY-1814-2,5,447.143
+
+By passing the vapour of the substance over dry red hot potassa formed
+from potassium , oxygen is expelled , DAVY-1814-2,5,447.144
+
+and it appears that oxygen can@ @not remain in the triple compound at a
+heat above the red heat . DAVY-1814-2,5,447.145
+
+By dissolving the substance in solutions of soda and baryta similar
+results are obtained , DAVY-1814-2,5,447.146
+
+and in each case two compounds are formed . DAVY-1814-2,5,447.147
+
+The oxygen is condensed in one , DAVY-1814-2,5,447.148
+
+and the other consists simply of the new substance and a metal .
+DAVY-1814-2,5,447.149
+
+To separate entirely the deflagrating salt from the soluble salt is not
+easy , DAVY-1814-2,5,447.150
+
+there always remains in the mother liquor a little of the deflagrating
+compound ; DAVY-1814-2,5,447.151
+
+but by separating the first crystals from solution of potassa not too
+strong , the deflagrating compound of oxygen , potassium , and the
+substance is obtained , apparently pure . DAVY-1814-2,5,447.152
+
+As the new substance combines with potassium and the metals with much
+less energy than chlorine , it occurred to me , that it would probably
+be expelled from its combinations by that body ; DAVY-1814-2,5,447.153
+
+and this I have found to be the case in all the experiments I have made
+. DAVY-1814-2,5,447.154
+
+When the compound of the new substance and potassium is heated in
+contact with chlorine , potassane <paren> muriate of potassa <$$paren>
+is formed , DAVY-1814-2,5,447.155
+
+the violet gas appears , DAVY-1814-2,5,447.156
+
+but soon combines with chlorine , DAVY-1814-2,5,447.157
+
+and they form together the peculiar acid compound I have before
+described ; DAVY-1814-2,5,447.158
+
+but towards the end of the process , as the proportion of chlorine
+diminishes , the violet_coloured gas again appears .
+DAVY-1814-2,5,447.159
+
+When the compound of the substance with silver was <P_5,448> treated in
+the same manner <paren> argentane <$$paren> muriate of silver was formed
+, DAVY-1814-2,5,448.160
+
+and the substance combined with chlorine at the commencement of the
+operation , DAVY-1814-2,5,448.161
+
+but was disengaged uncombined towards the end . DAVY-1814-2,5,448.162
+
+Similar phenomena occurred when the compounds of the substance with
+mercury and lead were acted on by chlorine . DAVY-1814-2,5,448.163
+
+The action of acids on the compounds of this substance , are what might
+be expected from its analogies to chlorine . DAVY-1814-2,5,448.164
+
+When concentrated sulphuric acid is poured upon the compound of the
+substance and potassium , some of the substance appears ;
+DAVY-1814-2,5,448.165
+
+but a part of it rises in combination with hydrogen and water ,
+DAVY-1814-2,5,448.166
+
+and condenses by cold , DAVY-1814-2,5,448.167
+
+and appears of a deep orange colour from having dissolved some of the
+substance . DAVY-1814-2,5,448.168
+
+The sulphuric acid likewise seems to retain some of the substance ,
+DAVY-1814-2,5,448.169
+
+for it continues red after being strongly heated , DAVY-1814-2,5,448.170
+
+and the acid is partly decomposed , DAVY-1814-2,5,448.171
+
+for sulphurous acid gas is disengaged . DAVY-1814-2,5,448.172
+
+It seems probable , that the acid is decomposed to furnish oxygen to a
+portion of the potassium , which quits in consequence the new substance
+, and that water is likewise decomposed to furnish hydrogen to another
+portion of the substance , and that the hydrogen and the substance , in
+their acid form , combine with the water of the sulphuric acid , and
+rise in vapour , sulphate of potassa being at the same time produced .
+DAVY-1814-2,5,448.173
+
+When sulphuric acid is poured on the salt consisting of the substance ,
+oxygen , and potassium , the substance reappears , DAVY-1814-2,5,448.174
+
+and there is a slight effervescence . DAVY-1814-2,5,448.175
+
+In this case , part of the oxygen is employed to form potassa ,
+DAVY-1814-2,5,448.176
+
+and the remainder is expelled unaltered . DAVY-1814-2,5,448.177
+
+When concentrated nitric acid is made to act on the <P_5,449> triple
+compound , similar phenomena occur , DAVY-1814-2,5,449.178
+
+and the substance reappears with effervescence . DAVY-1814-2,5,449.179
+
+When nitric acid is applied to the double compound , there is a smell of
+nitrous gas , DAVY-1814-2,5,449.180
+
+and the substance is instantly reproduced . DAVY-1814-2,5,449.181
+
+With concentrated muriatic acid , the phenomena presented by the two
+different alkaline compounds , the binary and the triple , are very
+interesting . DAVY-1814-2,5,449.182
+
+When the acid is brought in contact with the triple salt , there is no
+effervescence , DAVY-1814-2,5,449.183
+
+but a substance , which appears to be a compound of chlorine and the new
+body , is formed and dissolved in the water of the acid ,
+DAVY-1814-2,5,449.184
+
+and potassane is precipitated . DAVY-1814-2,5,449.185
+
+When the double compound is used , there is a complete solution with a
+partial decomposition , DAVY-1814-2,5,449.186
+
+and by applying a gentle heat , the excess of muriatic acid is driven
+off , DAVY-1814-2,5,449.187
+
+and the same acid as that procured by the action of the substance on
+hydrogen remains dissolved in the liquor . DAVY-1814-2,5,449.188
+
+When mixtures of the two salts are employed , the substance itself
+appears . DAVY-1814-2,5,449.189
+
+It appears that in the instance when the triple compound is employed ,
+there is not only sufficient oxygen to attract the hydrogen from the
+chlorine which is to combine with the potassium , but likewise enough to
+decompose a portion of muriatic acid , sufficient to afford chlorine to
+enter into combination with the whole of the substance .
+DAVY-1814-2,5,449.190
+
+When the binary compound is used , the result is a simple instance of
+double affinity ; DAVY-1814-2,5,449.191
+
+the new substance quits the potassium to unite to the hydrogen of the
+muriatic acid , DAVY-1814-2,5,449.192
+
+and the chlorine and the potassium combine : DAVY-1814-2,5,449.193
+
+and that the decomposition is only partial depends probably upon the
+attraction of the compound of iodine and potassium for water .
+DAVY-1814-2,5,449.194
+
+When mixtures of the compounds <P_5,450> are used , the oxygen is
+employed to attract hydrogen from the substance , to which it seems to
+adhere with a much weaker attraction than to chlorine .
+DAVY-1814-2,5,450.195
+
+MM. Desormes and Clement have mentioned , that when the new substance
+is exposed to liquid ammonia , a black powder is formed , which , when
+dry , fulminates by the slightest contact or friction .
+DAVY-1814-2,5,450.196
+
+I introduced some of the substance into solution of ammonia ,
+DAVY-1814-2,5,450.197
+
+and separated the liquor from the black powder , DAVY-1814-2,5,450.198
+
+and evaporated it to dryness ; DAVY-1814-2,5,450.199
+
+it left a white saline substance , the same as that produced by the
+union of ammonia with the peculiar acid , which consists of the
+substance combined with hydrogen ; DAVY-1814-2,5,450.200
+
+and hence it appeared probable that a portion of ammonia had been
+decomposed to furnish hydrogen . DAVY-1814-2,5,450.201
+
+I made the experiment on the action of strong solution of ammonia on the
+substance in a pneumatic apparatus ; DAVY-1814-2,5,450.202
+
+but no azote was given off . DAVY-1814-2,5,450.203
+
+Hence I am induced to conclude , that the black powder is a compound of
+the new substance and azote , similar in its character of a binary
+compound to the detonating oil discovered by M. Dulong ;
+DAVY-1814-2,5,450.204
+
+and this conclusion is strengthened by the results of its detonation in
+a tube of glass partially exhausted : DAVY-1814-2,5,450.205
+
+they are , I find , the peculiar substance and a gas which is not
+inflammable , and which does not support flame ; DAVY-1814-2,5,450.206
+
+and unless the substance is moist , I have never been able to discover
+any other product ; DAVY-1814-2,5,450.207
+
+but the minute quantity I have employed prevents me from being confident
+on this point . DAVY-1814-2,5,450.208
+
+It was an object of considerable interest to ascertain the proportion in
+which the new substance combines , as <P_5,451> compared with that in
+which the other substances that form acids by their action on
+inflammable bodies enter into union . DAVY-1814-2,5,451.209
+
+I made several experiments on this subject . DAVY-1814-2,5,451.210
+
+4 grains of hydrate of potassa , I found , were saturated by 6.25 of the
+new substance , DAVY-1814-2,5,451.211
+
+and 2.8 the quantity of potassium in 4 grains of hydrate of potassa is
+to 6.25 the quantity of the substance , as 75 , the number representing
+potassium , is to 166 . DAVY-1814-2,5,451.212
+
+Again , 1 grain of hydrate of soda required 2.1 grains of the new
+substance for its saturation , DAVY-1814-2,5,451.213
+
+and 1 grain of hydrate of soda contains .578 of sodium , so that
+supposing the combination of the new substance with sodium to contain a
+double proportion of the substance , the number representing the
+proportion in which it combines will be nearly 160 .
+DAVY-1814-2,5,451.214
+
+Two grains of the compound of the substance with sodium decomposed by
+sulphuric acid afforded 1.28 {COM:see_errata} of dry sulphate of soda ,
+DAVY-1814-2,5,451.215
+
+and calculating on this experiment the number is 165.5 .
+DAVY-1814-2,5,451.216
+
+I have made some experiments on the quantity of the substance absorbed
+by tin , mercury , and lead . DAVY-1814-2,5,451.217
+
+Mercury absorbs nearly 3$$4 of its weight of the new body to become the
+crimson substance ; from which it appears that it must absorb two
+proportions . DAVY-1814-2,5,451.218
+
+My experiments have been made upon quantities too small to afford very
+exact results ; DAVY-1814-2,5,451.219
+
+but they shew that the new substance enters into union in a quantity
+much more than twice as great as that of chlorine ,
+DAVY-1814-2,5,451.220
+
+and , considered as an element , it offers a number much higher than
+those of the simple inflammable bodies , and higher even than those of
+most of the metals . DAVY-1814-2,5,451.221
+
+The most correct mode of ascertaining the number representing the
+proportion <paren> supposing it to be definite , as is the case with all
+other bodies that have been accurately <P_5,452> examined <$$paren> in
+which it combines , will probably be by ascertaining the specific
+gravity of its gaseous compound with hydrogen . DAVY-1814-2,5,452.222
+
+This gas , as I have stated , affords only half its volume of hydrogen ,
+DAVY-1814-2,5,452.223
+
+and it appeared to me to neutralize an equal volume of ammonia , so that
+supposing it to consist of two proportions of hydrogen , and only one of
+the substance , that is , to be analogous to muriatic acid gas in its
+nature , it must be one of the heaviest elastic fluids existing .
+DAVY-1814-2,5,452.224
+
+Taking the number representing the proportion in which this new
+substance combines as 165 , and supposing that it occupies the same
+volume in this gas that chlorine occupies in muriatic acid gas , 100
+cubical inches of the gas will weigh at mean temperature and pressure
+95.27 grains , <font> i.e. <$$font> supposing hydrogen in the same
+quantity to weigh 2.27 grains . DAVY-1814-2,5,452.225
+
+I am not at present in possession of an apparatus for weighing the gas
+with accuracy . DAVY-1814-2,5,452.226
+
+A particular device will be required for this purpose , as the gas can@
+@not be preserved over mercury . DAVY-1814-2,5,452.227
+
+It may be collected during the action of phosphorus on the moistened
+substance in a vessel exhausted of air ; DAVY-1814-2,5,452.228
+
+or it may be made by heating the compound of the substance and potassium
+in muriatic acid gas in a glass vessel : DAVY-1814-2,5,452.229
+
+in this case , there is , I find , a double decomposition ,
+DAVY-1814-2,5,452.230
+
+the chlorine quits the hydrogen to unite to the potassium ,
+DAVY-1814-2,5,452.231
+
+and the substance quits the potassium to unite to the hydrogen .
+DAVY-1814-2,5,452.232
+
+The new substance , I find , is not decomposed when Voltaic sparks are
+taken in it in its gaseous state from ignited points of charcoal :
+DAVY-1814-2,5,452.233
+
+at first there are white fumes , <P_5,453> probably from the action of
+moisture or hydrogen in charcoal , on the substance ;
+DAVY-1814-2,5,453.234
+
+but these fumes soon cease , DAVY-1814-2,5,453.235
+
+and when the tube in which the experiment is made is cooled , the
+substance appears unaltered . DAVY-1814-2,5,453.236
+
+From all the facts that have been stated , there is every reason to
+consider this new substance as <font> an undecompounded body . <$$font>
+DAVY-1814-2,5,453.237
+
+In its specific gravity , lustre , the high number in which it enters
+into combination and colour , it resembles the metals ;
+DAVY-1814-2,5,453.238
+
+but in all its chemical agencies it is more analogous to oxygen and
+chlorine ; DAVY-1814-2,5,453.239
+
+it is a nonconductor of electricity , DAVY-1814-2,5,453.240
+
+and possesses , like these bodies , the negative electrical energy with
+respect to metals , inflammable and alkaline substances ,
+DAVY-1814-2,5,453.241
+
+and hence when combined with these substances in aqueous solution and
+electrized in the Voltaic circuit , it separates at the positive surface
+; DAVY-1814-2,5,453.242
+
+but it has a positive energy with respect to chlorine ,
+DAVY-1814-2,5,453.243
+
+for when united to chlorine in the compound acid I have described ,
+<paren> page 442 <$$paren> , it separates from the chlorine at the
+negative surface . DAVY-1814-2,5,453.244
+
+This likewise corresponds with their relative attractive energy .
+DAVY-1814-2,5,453.245
+
+Chlorine expels the new substance from all its combinations on which I
+have made any experiments . DAVY-1814-2,5,453.246
+
+The new substance seems to possess a stronger attraction for most of the
+metals than oxygen ; DAVY-1814-2,5,453.247
+
+but it is expelled from phosphorus and sulphur by oxygen :
+DAVY-1814-2,5,453.248
+
+I found by passing oxygen and the compound of it with phosphorus through
+a glass tube heated red , phosphorous acid was formed ,
+DAVY-1814-2,5,453.249
+
+and the violet gas appeared . DAVY-1814-2,5,453.250
+
+That it produces so little heat and so seldom light in entering into
+combination , may be accounted for from its solid form and its great
+weight as an element . DAVY-1814-2,5,453.251
+
+Potassium , however , as I have mentioned , burns in the violet-coloured
+gas , DAVY-1814-2,5,453.252
+
+and when this gas is thrown upon <P_5,454> the flame of hydrogen , it
+seems to support its combustion . DAVY-1814-2,5,454.253
+
+The saturating or neutralising powers of the new substance appear to be
+greater than those of oxygen , and less than those of chlorine .
+DAVY-1814-2,5,454.254
+
+It agrees with chlorine and fluorine in forming acids with hydrogen ,
+DAVY-1814-2,5,454.255
+
+and it agrees with oxygen in forming an acid with chlorine .
+DAVY-1814-2,5,454.256
+
+In my first experiments I conceived that it formed substances analogous
+to alkalies in combining with the alkaline metals ,
+DAVY-1814-2,5,454.257
+
+for the compound produced by its action upon solution of potassa , even
+when the substance was in great excess , reddened turmeric paper ,
+DAVY-1814-2,5,454.258
+
+and rendered green paper tinged with the juice of violets ;
+DAVY-1814-2,5,454.259
+
+but I have since found that this is owing to a small quantity of
+subcarbonate of potassa which existed in the hydrate of potassa ;
+DAVY-1814-2,5,454.260
+
+and when the compound is treated with the acid the substance forms with
+hydrogen , DAVY-1814-2,5,454.261
+
+and heated to redness , it loses this property ; DAVY-1814-2,5,454.262
+
+and when thus formed , its taste more resembles that of a neutral salt
+than of an alkali . DAVY-1814-2,5,454.263
+
+I can@ @not yet say with certainty whether its compound with potassium
+has powers like the oxides , of neutralising those acids which it does
+not decompose , as in all the experiments I have made on this point I
+used the compound which reddens turmeric ; DAVY-1814-2,5,454.264
+
+this neutralised the phosphorous , sulphurous , and boracic acids ,
+DAVY-1814-2,5,454.265
+
+but the effect may possibly depend upon the undecomposed carbonate .
+DAVY-1814-2,5,454.266
+
+The name <font> ione <$$font> has been proposed in France for this new
+substance from its colour in the gaseous state , from <font>
+{COM:greek_omitted} <$$font> , viola ; DAVY-1814-2,5,454.267
+
+and its combination with hydrogen has been named <font> hydroionic acid
+. <$$font> DAVY-1814-2,5,454.268
+
+The name <font> ione , <$$font> in English , would lead to confusion ,
+DAVY-1814-2,5,454.269
+
+for its compounds would be called <font> ionic <$$font> and <font>
+ionian . <$$font> DAVY-1814-2,5,454.270
+
+By terming it <font> iodine , <$$font> from {COM:greek_omitted}
+violaceus , <P_5,455> this confusion will be avoided ,
+DAVY-1814-2,5,455.271
+
+and the name will be more analogous to chlorine and fluorine .
+DAVY-1814-2,5,455.272
+
+The acid it forms with hydrogen may , however , be with propriety named
+in our language <font> hydroionic acid . <$$font> DAVY-1814-2,5,455.273
+
+I venture to propose for the acid it forms with chlorine , the name of
+<font> chlorionic acid , <$$font> and for that it forms with tin <font>
+stannionic acid . <$$font> DAVY-1814-2,5,455.274
+
+With respect to the other compounds , they may be called as a class
+<font> iodes , <$$font> with the name of the base as <font> iode of
+mercury , <$$font> and with <font> proto , deuto , &c. <$$font> to
+signify the proportions ; DAVY-1814-2,5,455.275
+
+or if a termination to the base should be preferred , as I have proposed
+for the combinations of chlorine , the terminations may be in <font> m ,
+<$$font> with the vowels in their usual order to signify proportions .
+DAVY-1814-2,5,455.276
+
+Thus , phosphoroma would signify the combination of one proportion of
+iodine with phosphorus , DAVY-1814-2,5,455.277
+
+and phosphoromè would signify two proportions of iodine to one of
+phosphorus . DAVY-1814-2,5,455.278
+
+If this last plan , which involves no theoretical views , should be
+adopted , it may be extended with different consonants to the
+combinations of <font> fluorine , <$$font> DAVY-1814-2,5,455.279
+
+and the vowel may be made to signify the proportion , and the consonant
+the nature of the compound . DAVY-1814-2,5,455.280
+
+The vowel of termination , to the Latin name of the base , I have
+already proposed , on another occasion , for the compounds of oxygen .
+DAVY-1814-2,5,455.281
+
+Thus argenta may be made to signify the protoxide of silver , and ferrè
+the deutoxide of iron . DAVY-1814-2,5,455.282
+
+<font> n <$$font> is the consonant which I have suggested to represent
+the combination of chlorine , as <font> argentana <$$font> the <font>
+proto-chloride <$$font> of silver ; DAVY-1814-2,5,455.283
+
+and <font> l <$$font> in this system may represent fluorine .
+DAVY-1814-2,5,455.284
+
+Thus <font> calcala <$$font> would be fluor_spar {COM:sic} , or one
+proportion of fluorine , and one of calcium , DAVY-1814-2,5,455.285
+
+and the different combinations of calcium with the supporters of
+combustion with oxygen , fluorine , chlorine , and iodine <P_5,456> in
+one proportion , would be thus expressed <font> calca , calcala ,
+calcana , <$$font> and <font> calcama . <$$font> DAVY-1814-2,5,456.286
+
+I throw out these hints for discussion , rather than with any wish for
+their adoption , and for the purpose of directing the attention of
+chemists towards the subject of nomenclature , which ought to be settled
+on some fixed principles ; DAVY-1814-2,5,456.287
+
+and in naming a new class of compounds , great caution should be used to
+prevent the necessity of alteration . DAVY-1814-2,5,456.288
+
+In my last paper , presented to the Society two months ago , I ventured
+to suggest that it was probable , that new species of matter , which act
+with respect to inflammable bodies , like oxygen , chlorine , and
+fluorine , would be discovered . DAVY-1814-2,5,456.289
+
+I had not hoped , at that time , to be able so soon to describe the
+properties of a body of , this kind , which forms an acid with hydrogen
+, like chlorine and fluorine , and which in some of its combinations
+resembles oxygen . DAVY-1814-2,5,456.290
+
+This new fact will , I hope , do something towards settling the opinion
+of chemists respecting the nature of acidity , which seems to depend
+upon peculiar combinations of matter , and not on any peculiar
+elementary principle . DAVY-1814-2,5,456.291
+
+It is probable that <font> iodine <$$font> will be found in many
+combinations in nature . DAVY-1814-2,5,456.292
+
+We may expect that it will be discovered in various marine vegetables ,
+and in sea water , DAVY-1814-2,5,456.293
+
+and probably the loss of weight indicated in the analysis of certain
+fossil substances may depend upon its expulsion . DAVY-1814-2,5,456.294
+
+Its compounds with the metals will probably form a new class of pigments
+, DAVY-1814-2,5,456.295
+
+and it is not impossible , that the triple salts it forms containing
+oxygen , may be made substitutes for nitre in the manufacture of
+gunpowder . DAVY-1814-2,5,456.296
+
+<P_5,457>
+
+<heading>
+
+XVII . Further Experiments and Observations on Iodine .
+DAVY-1814-2,5,457.299
+
+<$$heading>
+
+I . <font> On the triple Compounds containing Iodine and Oxygen .
+<$$font> DAVY-1814-2,5,457.301
+
+1 . In this communication I shall have the honour of presenting to the
+Royal Society , a continuation of the inquiries I have made respecting
+the chemical agencies of iodine , and the properties of certain of its
+compounds . DAVY-1814-2,5,457.302
+
+2 . I described in my last paper the action of iodine on the fixed
+alkaline lixivia , and the deflagrating salts it forms .
+DAVY-1814-2,5,457.303
+
+In the first experiment which I made on these compounds , I employed the
+first crystals which fall down from moderately strong solutions of
+potassa and soda saturated with iodine , which had been purified by
+being repeatedly acted upon by distilled water : DAVY-1814-2,5,457.304
+
+I now find that this process is not sufficient to free the triple
+compound from the double compound ; and that to obtain them in a state
+of absolute purity , it is necessary to boil them repeatedly in small
+quantities of alcohol of specific gravity of from 8.6 to 9.2 , which
+dissolves the double compound , but has little power of action on the
+triple compound . DAVY-1814-2,5,457.305
+
+The triple compounds , when purified , present some <P_5,458> curious
+chemical phenomena , which a minute quantity of the double compound
+adhering to the crystals that I operated upon , prevented me from
+observing in the experiments I have already communicated to the Society
+. DAVY-1814-2,5,458.306
+
+I shall describe these phenomena as they are produced by the triple
+compound of potassium , as this substance is most easily procured in
+considerable quantities , DAVY-1814-2,5,458.307
+
+but as far as I have been able to observe the phenomena presented by the
+compound of sodium , are precisely analogous . DAVY-1814-2,5,458.308
+
+The triple compound of potassium , purified by alcohol , is almost
+tasteless , DAVY-1814-2,5,458.309
+
+has no action on vegetable colours , DAVY-1814-2,5,458.310
+
+is very little soluble in cold water , but more soluble in hot water ;
+DAVY-1814-2,5,458.311
+
+when it is thrown into concentrated nitric , or sulphuric , or
+phosphoric acids , it has no violent action on them .
+DAVY-1814-2,5,458.312
+
+By heat it may be dissolved in them ; DAVY-1814-2,5,458.313
+
+and the solutions , when saturated , congeal DAVY-1814-2,5,458.314
+
+and form crystalline substances intensely acid . DAVY-1814-2,5,458.315
+
+When the substance formed by the triple compound and the nitric acid is
+strongly heated , the nitric acid flies off , DAVY-1814-2,5,458.316
+
+and at the temperature at which it is entirely expelled , the substance
+itself begins to decompose , DAVY-1814-2,5,458.317
+
+and affords a little iodine and much oxygen . DAVY-1814-2,5,458.318
+
+If the solution of the triple compounds in sulphuric or phosphoric acids
+, be heated strongly at the temperature at which the acids sublime , the
+triple compound itself is decomposed , DAVY-1814-2,5,458.319
+
+and it affords oxygen and iodine , DAVY-1814-2,5,458.320
+
+and leaves acid sulphate and phosphate of potassa .
+DAVY-1814-2,5,458.321
+
+If when the mixture is rendered fluid by heat , a little sugar or other
+combustible matter is added , there is a violent action ,
+DAVY-1814-2,5,458.322
+
+and iodine is disengaged with great rapidity . DAVY-1814-2,5,458.323
+
+The triple compound dissolves without decomposition in solution of
+phosphorous acid ; DAVY-1814-2,5,458.324
+
+but on heating the solution , <P_5,459> oxygen is attracted by it ,
+DAVY-1814-2,5,459.325
+
+iodine appears , DAVY-1814-2,5,459.326
+
+and phosphate of potassa is formed . DAVY-1814-2,5,459.327
+
+When the triple compound is thrown into concentrated muriatic acid ,
+there is an effervescence , DAVY-1814-2,5,459.328
+
+the smell of chlorine is perceived , DAVY-1814-2,5,459.329
+
+the fluid becomes yellow , DAVY-1814-2,5,459.330
+
+and when evaporated , yields the chlorionic acid .
+DAVY-1814-2,5,459.331
+
+When the solution of the hydroionic acid in water is poured upon the
+triple salt , iodine is instantly produced in great quantities .
+DAVY-1814-2,5,459.332
+
+Acetic and oxalic acids dissolve the triple compound without decomposing
+it . DAVY-1814-2,5,459.333
+
+On heating the solution in oxalic acid , the acid becomes brown from the
+deposition of charcoal , DAVY-1814-2,5,459.334
+
+and iodine immediately appears . DAVY-1814-2,5,459.335
+
+When the triple compound is thrown into solution of sulphurous acid ,
+iodine is instantly produced , and sulphuric acid formed ,
+DAVY-1814-2,5,459.336
+
+and if the sulphurous acid is not in too large a proportion , the
+solution becomes yellow by dissolving iodine ; DAVY-1814-2,5,459.337
+
+if more sulphurous acid is added , water is decomposed , and sulphuric
+acid and hydroionic acid formed . DAVY-1814-2,5,459.338
+
+The <font> double compound <$$font> of potassium and iodine has no
+action on oxalic , acetic , sulphurous , or phosphorous acids ,
+DAVY-1814-2,5,459.339
+
+but when it is mixed with the triple compound , it is instantly
+decomposed by them , and iodine set free . DAVY-1814-2,5,459.340
+
+The same double compound in its pure state is decomposed very slowly by
+muriatic acid ; DAVY-1814-2,5,459.341
+
+and to convert the greater portion into muriate of potassa <paren>
+potassane <$$paren> , it is necessary that the acid should be very
+frequently distilled from it , DAVY-1814-2,5,459.342
+
+and a part always remains unaltered ; DAVY-1814-2,5,459.343
+
+when mixtures of the triple and double compounds are exposed to the
+action of muriatic acid , potassane <paren> muriate of potassa <$$paren>
+is instantly formed ; DAVY-1814-2,5,459.344
+
+and if the proper proportions are adopted , none of the double or triple
+<P_5,460> compounds remain , DAVY-1814-2,5,460.345
+
+and the results are potassane only , and the oxychloric acid .
+DAVY-1814-2,5,460.346
+
+Mixtures of the triple and double compounds produce abundance of iodine
+when acted on by glacial hydrophosphoric acid gas ,
+DAVY-1814-2,5,460.347
+
+but the pure double compound affords only hydroionic acid gas ,
+DAVY-1814-2,5,460.348
+
+and this decomposition offers the best method which has yet occurred to
+me of procuring pure hydroionic acid . DAVY-1814-2,5,460.349
+
+When the two substances are gently heated together , the hydroionic acid
+gas , which comes over in considerable quantities , forms a colourless
+solution when absorbed by water . DAVY-1814-2,5,460.350
+
+I have endeavoured to ascertain the composition of the triple compound
+of potassium . DAVY-1814-2,5,460.351
+
+Seven grains that had been dried at the temperature of boiling water ,
+heated to redness in a small crucible of platinum , lost 2.2 grains .
+DAVY-1814-2,5,460.352
+
+Seven grains heated to dull redness in a small tube of glass , lost 1.7
+grain : DAVY-1814-2,5,460.353
+
+a minute portion of iodine , condensed in the middle part of the tube ,
+DAVY-1814-2,5,460.354
+
+but no violet vapour was observed in the upper part of it ,
+DAVY-1814-2,5,460.355
+
+and there was a very slight appearance only of moisture , so that the
+loss of weight in this last experiment must be principally ascribed to
+the expulsion of oxygen . DAVY-1814-2,5,460.356
+
+On a comparison of the results of these two analyses , it appears very
+probable that this triple compound is composed of one proportion of
+iodine about 165 , one of potassium , 75 , and six of oxygen , 90 ;
+which is a composition analogous to that of the hyperoxymuriate of
+potassa . DAVY-1814-2,5,460.357
+
+The quantities that I used in my experiments were too small to render
+these results more than approximations ; DAVY-1814-2,5,460.358
+
+yet the similarity of them to those presented by the hyperoxymuriates
+ought , perhaps , to render them more worthy of confidence .
+DAVY-1814-2,5,460.359
+
+I have attempted to obtain pure triple compounds from solutions of
+baryta and lime , and from magnesia <P_5,461> diffused through water ,
+by dissolving iodine in them by heat , and by evaporating the clear
+liquor until it began to deposit crystals . DAVY-1814-2,5,461.360
+
+In this way I have procured substances , which when well washed in
+distilled water , afforded no iodine to nitric acid , which yielded
+chlorine and chlorionic acid when acted upon by muriatic acid , and
+which , when distilled , afforded much oxygen and some iodine , and left
+substances which appeared to be mixtures of the earths with compounds
+that afforded iodine to sulphuric acid , producing a smell of sulphurous
+acid gas ; and which probably consisted of the metals of the earths
+united to iodine . DAVY-1814-2,5,461.361
+
+The triple Compounds from lime and magnesia were soluble without
+affording iodine in sulphuric acid ; DAVY-1814-2,5,461.362
+
+but on evaporating the acid , at the time that the vessel of platinum in
+which the experiment was made became dry and almost red-hot , the violet
+vapour was perceived . DAVY-1814-2,5,461.363
+
+Even the triple compound from baryta did not afford iodine or oxygen by
+treatment with sulphuric acid , except under the same circumstances .
+DAVY-1814-2,5,461.364
+
+3 . When I first discovered that the triple compounds dissolved in
+acids without effervescence , I thought it probable that the effect
+depended upon the formation of a compound of oxygen and iodine , similar
+to euchlorine , or the oxychloric acid , and which remained dissolved in
+the fluid ; DAVY-1814-2,5,461.365
+
+and on this idea I made a number of experiments with the hope of
+obtaining such a combination in a detached form . DAVY-1814-2,5,461.366
+
+I distilled the solution of the triple compound of potassium in
+sulphuric acid , DAVY-1814-2,5,461.367
+
+but the only gaseous product I obtained was oxygen .
+DAVY-1814-2,5,461.368
+
+Sulphuric acid and iodine condensed in the cool part of the apparatus ,
+DAVY-1814-2,5,461.369
+
+and the residuum was acid sulphate of potassa . DAVY-1814-2,5,461.370
+
+Conceiving that a compound of oxygen and iodine <P_5,462> might
+nevertheless exist in the fluid , and be decomposable at a high
+temperature , I attempted to obtain it by acting on the triple compound
+of barium by sulphuric acid , and by evaporating the fluid obtained at a
+gentle heat , and suffering it to cool at different periods of the
+process ; DAVY-1814-2,5,462.371
+
+but in this manner of operating I gained no better results .
+DAVY-1814-2,5,462.372
+
+The triple compound of barium is scarcely soluble in water .
+DAVY-1814-2,5,462.373
+
+Water that had been boiled upon it gave only a slight cloudiness to
+sulphuric acid , which possibly might be owing to some double compound
+mixed with it ; DAVY-1814-2,5,462.374
+
+the fluid , when evaporated nearly to dryness , afforded fumes which had
+the characters of those of sulphuric acid , DAVY-1814-2,5,462.375
+
+and by a red heat yielded iodine , DAVY-1814-2,5,462.376
+
+and left sulphate of baryta . DAVY-1814-2,5,462.377
+
+When the solid triple compound of baryta was heated in very small
+quantities of diluted sulphuric acid , the fluid separated exhibited
+acid properties , DAVY-1814-2,5,462.378
+
+and when gradually evaporated left a substance which congealed by
+cooling , and formed a solid of a yellow colour deliquescent in the air
+, strongly acid , and which reddened vegetable blues , and did not
+afterwards destroy them . DAVY-1814-2,5,462.379
+
+When strongly heated , the substance afforded the same results as the
+substance procured from the fluid just mentioned .
+DAVY-1814-2,5,462.380
+
+The residual solid matter obtained by the action of sulphuric acid on
+the triple compound of barium was treated a second time with sulphuric
+acid , DAVY-1814-2,5,462.381
+
+yet notwithstanding , when heated to redness , it yielded iodine in
+abundance . DAVY-1814-2,5,462.382
+
+I have repeated these experiments very often , because M. Gay Lussac
+has stated that an acid compound of oxygen and iodine may be procured by
+dropping sulphuric acid into a solution of the triple compound of
+<P_5,463> barium ; DAVY-1814-2,5,463.383
+
+but the conclusions of this ingenious chemist seem to have been founded
+upon the want of effervescence in the process ; DAVY-1814-2,5,463.384
+
+and his experiments were made at a very early period of the
+investigation , DAVY-1814-2,5,463.385
+
+and probably before this time he has found reason to alter his opinion .
+DAVY-1814-2,5,463.386
+
+It is probable that a binary compound of iodine and oxygen may be formed
+, DAVY-1814-2,5,463.387
+
+but the facts presented by the action of acids on the triple compounds
+are not sufficient to prove its existence . DAVY-1814-2,5,463.388
+
+When small quantities of very dilute sulphuric acid are digested on the
+triple compounds of potassium and barium , the fluid obtained is always
+acid , DAVY-1814-2,5,463.389
+
+and always precipitates muriate of baryta . DAVY-1814-2,5,463.390
+
+I thought it possible that the compound of iodine and oxygen might
+possess this property ; DAVY-1814-2,5,463.391
+
+but on collecting the precipitate and examining it , it appeared to be a
+mixture of the triple compound and sulphate of baryta ,
+DAVY-1814-2,5,463.392
+
+and from all the facts it appears that in the action of acids on the
+triple compounds new combinations only are formed .
+DAVY-1814-2,5,463.393
+
+I take the liberty of proposing for the triple compounds <P_5,464> the
+names of oxy-iodes , because when decomposed by heat , they afford
+oxygen and iodine . DAVY-1814-2,5,464.394
+
+Individually they may be named from their bases . DAVY-1814-2,5,464.395
+
+Thus <font> oxy-potassame , <$$font> or oxy-iode of potassium , will
+signify the triple compound of potassium , oxygen , and iodine ,
+DAVY-1814-2,5,464.396
+
+and <font> oxy-barame , <$$font> or oxy-iode of barium , will denote the
+triple compound of barium . DAVY-1814-2,5,464.397
+
+II . <font> Some Observations on Hydroionic Acid , and on the Compound
+procured by means of it . <$$font> DAVY-1814-2,5,464.398
+
+1 . I have generally procured the hydroionic acid which I have used in
+my experiments by the process referred to in the last section , the
+action of hydrophosphoric acid on potassame , DAVY-1814-2,5,464.399
+
+but I have sometimes employed the gas procured from moistened iodine by
+phosphorus . DAVY-1814-2,5,464.400
+
+The hydroionic acid gas is rapidly decomposed by being heated in contact
+with oxygen , DAVY-1814-2,5,464.401
+
+and a solution of iodine and hydroionic gas in water is formed ,
+DAVY-1814-2,5,464.402
+
+and it is slowly decomposed by heat alone , affording a deep red_brown
+easily fusible substance , which seems to be a compound of hydroionic
+gas and iodine . DAVY-1814-2,5,464.403
+
+When condensed in water , it is instantly decomposed by solution of
+nitric acid and iodine precipitated . DAVY-1814-2,5,464.404
+
+The solution of hydroionic acid rapidly absorbs oxygen from the air ,
+DAVY-1814-2,5,464.405
+
+and becomes yellow , and at last deep tawny orange ;
+DAVY-1814-2,5,464.406
+
+and this absorption is assisted by light and heat ,
+DAVY-1814-2,5,464.407
+
+the hydrogen is attracted by the oxygen to form water ,
+DAVY-1814-2,5,464.408
+
+and the iodine formed is dissolved in the remaining acid .
+DAVY-1814-2,5,464.409
+
+The concentrated hydroionic acid will probably form a good eudiometrical
+substance ; DAVY-1814-2,5,464.410
+
+it does not render the vessels in which it is used cloudy like the
+hydro-sulphurets <P_5,465> by the deposition of solid matter ,
+DAVY-1814-2,5,465.411
+
+and it does not enlarge the volume of the residual air like some other
+substances . DAVY-1814-2,5,465.412
+
+The solution of the hydroionic acid is decomposed by being heated with
+the hyper-oxymuriate of potassa , DAVY-1814-2,5,465.413
+
+and iodine is produced . DAVY-1814-2,5,465.414
+
+Hydroionic acid gas , as I have mentioned in my last paper , is
+decomposed by all the metals I have exposed it to , except gold and
+platinum ; DAVY-1814-2,5,465.415
+
+and the same metals that decompose it in its gaseous state , likewise
+decompose it when it is in solution , requiring , however , in some
+cases , the assistance of heat . DAVY-1814-2,5,465.416
+
+The fluid hydro-ionic acid tarnishes silver at common temperatures ,
+DAVY-1814-2,5,465.417
+
+and dissolves mercury slowly when boiled in contact with it .
+DAVY-1814-2,5,465.418
+
+2 . It dissolves the alkaline and common earths , DAVY-1814-2,5,465.419
+
+and forms with them compounds very analogous in their properties to the
+compounds they produce when acted on by muriatic acid .
+DAVY-1814-2,5,465.420
+
+I heated dry quick lime in a small tube filled with hydroionic acid gas
+, DAVY-1814-2,5,465.421
+
+a yellow fluid immediately formed , which was coloured by dissolving
+hydroionic gas and iodine , DAVY-1814-2,5,465.422
+
+and a fusible compound soluble in water , and which had a bitter taste
+similar to muriate of lime , was produced . DAVY-1814-2,5,465.423
+
+I made the same compound by dissolving marble in the hydroionic acid ;
+DAVY-1814-2,5,465.424
+
+the compound when heated to redness became fluid , DAVY-1814-2,5,465.425
+
+and when kept in fusion in contact with air emitted iodine ;
+DAVY-1814-2,5,465.426
+
+gradually lost its fusibility , DAVY-1814-2,5,465.427
+
+and from being neutral became alkaline , so that at a high temperature
+iodine is partly expelled from calcium by oxygen .
+DAVY-1814-2,5,465.428
+
+I proved this still more distinctly by fusing the compound in a close
+vessel , in which it was confined by mercury . DAVY-1814-2,5,465.429
+
+There was no change . DAVY-1814-2,5,465.430
+
+I admitted a little oxy-potassame , DAVY-1814-2,5,465.431
+
+and caused it to give off oxygen <P_5,466> by heating it :
+DAVY-1814-2,5,466.432
+
+as soon as the calcareous compound was fused in contact with oxygen , it
+instantly emitted iodine , DAVY-1814-2,5,466.433
+
+and lime was formed on the surface . DAVY-1814-2,5,466.434
+
+The compound formed from hydroionic acid and baryta is an acrid bitter
+substance , very similar in its taste to <font> barytane <$$font>
+<paren> fused muriate of baryta <$$paren> , not decomposable when heated
+to whiteness unless oxygen is present , DAVY-1814-2,5,466.435
+
+but when it is heated in contact with oxygen , oxygen is absorbed , and
+a part of its iodine expelled . DAVY-1814-2,5,466.436
+
+Magnesia dissolved in hydroionic acid without effervescence ,
+DAVY-1814-2,5,466.437
+
+and the solution evaporated gave a solid substance , having a taste very
+similar to muriate of magnesia . DAVY-1814-2,5,466.438
+
+Like that salt , it partly lost its acid by a red heat ;
+DAVY-1814-2,5,466.439
+
+but a portion remained not decomposable out of the contact of air , but
+which instantly afforded iodine when heated in contact with oxygen .
+DAVY-1814-2,5,466.440
+
+I dissolved glucina , ittria , and zircona in the hydroionic acid ;
+DAVY-1814-2,5,466.441
+
+they formed neutral saline compounds . DAVY-1814-2,5,466.442
+
+The compound of hydroionic acid and glucina was less soluble , and more
+astringent in taste than the muriate of glucina , DAVY-1814-2,5,466.443
+
+and was entirely decomposed when heated in the open air , affording
+hydroionic acid and iodine . DAVY-1814-2,5,466.444
+
+The compound formed from ittria was more soluble , and highly astringent
+; that formed from zircona astringent , with more of bitterness .
+DAVY-1814-2,5,466.445
+
+Both these salts were decomposed when heated in the atmosphere at a low
+red heat ; DAVY-1814-2,5,466.446
+
+a smell of hydroionic gas was perceived , DAVY-1814-2,5,466.447
+
+iodine was produced , DAVY-1814-2,5,466.448
+
+and the earths remained . DAVY-1814-2,5,466.449
+
+3 . I mentioned , in a note , Montpellier , Jan. 10 , <paren>
+containing a correction for my last communication to the society ,
+<$$paren> that the alkaline property which I at first supposed to belong
+to the compounds of potassium and sodium with iodine , depended upon
+some undecomposed subcarbonate of potassa mixed with the hydrate
+<P_5,467> of potassa I employed , DAVY-1814-2,5,467.450
+
+as the subcarbonate of potassa is decomposed by iodine and carbonic acid
+set free , I had not thought it probable that the subcarbonate of
+potassa could interfere with the result . DAVY-1814-2,5,467.451
+
+But I find that if the subcarbonate exist at all in the lixivium , a
+portion of it always remains undecomposed . DAVY-1814-2,5,467.452
+
+I find likewise , that when a solution of iodine in lixivium of potassa
+is rendered perfectly neutral , or even slightly acid by hydroionic acid
+, a strong red heat renders the solid substance obtained slightly
+alkaline , provided it be in contact with air . DAVY-1814-2,5,467.453
+
+Whether the separation of iodine by oxygen , in this instance , depends
+upon some effect of the moisture contained in the atmosphere , or upon
+the continued action of fresh portions of oxygen on the same surface of
+the compound , it is not easy to say ; DAVY-1814-2,5,467.454
+
+but a similar effect I find is produced upon <font> potassile <$$font>
+<paren> fluate of potassa <$$paren> ; DAVY-1814-2,5,467.455
+
+this substance gains the power of reddening paper tinged with turmeric ,
+by being strongly heated in contact with air . DAVY-1814-2,5,467.456
+
+The power of neutralizing acids does not belong to the true compound of
+iodine and potassium , DAVY-1814-2,5,467.457
+
+but depends either on the subcarbonate not decomposed , or upon the
+alkali formed during the ignition of the compound ;
+DAVY-1814-2,5,467.458
+
+the pure double compound seems to have no power of action on the acids
+it does not decompose ; DAVY-1814-2,5,467.459
+
+I fused it in contact with sulphurous acid gas confined by mercury in a
+glass tube , DAVY-1814-2,5,467.460
+
+the salt gained a slight tint of yellow , DAVY-1814-2,5,467.461
+
+but did not absorb its own volume of gas ; DAVY-1814-2,5,467.462
+
+after this , it slightly reddened litmus , so that the acid must have
+had little more than a mechanical adhesion to the salt .
+DAVY-1814-2,5,467.463
+
+When potassane , or iode of potassium , is fused with boracic acid ,
+there is a perfect mixture of the two bodies . DAVY-1814-2,5,467.464
+
+In my first researches on this mixture , I conceived that they entered
+into chemical union , and <P_5,468> formed a violet-coloured glass , and
+that the acid property of the boracic acid was neutralized by the new
+compound ; DAVY-1814-2,5,468.465
+
+but I since find that the violet colour of the glass is owing to the
+development {TEXT:developement} of iodine , and when the application of
+heat is long continued , much iodine is disengaged , and the colour of
+the glass changes to olive , and borate of potassa is formed .
+DAVY-1814-2,5,468.466
+
+When the glass is dissolved in warm water , an olive_coloured powder
+separates , soluble when boiled in the caustic alkalies , so that there
+is great reason to suppose that it is boron , and that the boracic acid
+is decomposed by the attraction of the potassium combined with the
+iodine for oxygen , assisted by the tendency of iodine to assume the
+elastic state . DAVY-1814-2,5,468.467
+
+I fused the neutral compound of iodine with silica ;
+DAVY-1814-2,5,468.468
+
+no change was effected when the experiment was made in close vessels ,
+DAVY-1814-2,5,468.469
+
+but when the mixture was exposed to air , and intensely heated , a
+little iodine was evolved , some potassa formed , and some silica
+dissolved by it . DAVY-1814-2,5,468.470
+
+<heading>
+
+III . <font> On other Acid Compounds of Iodine . DAVY-1814-2,5,468.472
+
+<$$heading>
+
+1 . I have made several experiments on the combination of iodine and
+chlorine , obtained by admitting chlorine in excess to known quantities
+of iodine in vessels exhausted of air , and repeatedly heating the
+sublimate . DAVY-1814-2,5,468.474
+
+Operating in this way , I find that iodine absorbs less than one-@
+@-third of its weight of chlorine . DAVY-1814-2,5,468.475
+
+The compound of iodine and chlorine is a very volatile substance ,
+DAVY-1814-2,5,468.476
+
+and in consequence of its action upon mercury , I have not been able to
+determine the elastic force of its vapour . DAVY-1814-2,5,468.477
+
+Hence the estimations of its composition from experiments on the
+quantity of chlorine absorbed in close vessels must necessarily be
+liable to <P_5,469> error . DAVY-1814-2,5,469.478
+
+In one experiment in which I dissolved the sublimate , by admitting a
+small quantity of water into the retort , I found that eight grains of
+iodine had caused the disappearance of five_and_a_quarter cubical inches
+of chlorine . DAVY-1814-2,5,469.479
+
+In another experiment in which the sublimate was not dissolved by water
+, and in which the absorption was judged of by the admission of fresh
+quantities of the gas , twenty grains caused the disappearance of 9.6
+cubical inches of chlorine , the barometer being at 30.1 , and the
+thermometer at 57@ @=o= Fahrenheit . DAVY-1814-2,5,469.480
+
+It seems probable , from these experiments , that the chlorionic acid
+consists of one proportion of iodine , and one of chlorine .
+DAVY-1814-2,5,469.481
+
+The chlorionic acid formed by the sublimation of iodine in chlorine in
+great excess is of a bright yellow colour , DAVY-1814-2,5,469.482
+
+when fused it becomes of a deep orange , DAVY-1814-2,5,469.483
+
+and when rendered elastic it forms a deep orange-coloured gas .
+DAVY-1814-2,5,469.484
+
+It is capable of combining with much iodine when they are heated
+together , DAVY-1814-2,5,469.485
+
+its colour becomes in consequence deeper , DAVY-1814-2,5,469.486
+
+and the chlorionic acid and the iodine rise together in the elastic
+state . DAVY-1814-2,5,469.487
+
+The solution of the chlorionic acid in water likewise dissolves large
+quantities of iodine , so that it is possible to obtain a fluid
+containing very different proportions of iodine and chlorine .
+DAVY-1814-2,5,469.488
+

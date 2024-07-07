@@ -1,0 +1,1448 @@
+<BEGIN_record-1551-e1-p2>
+
+<P_2,B1R>
+
+<heading>
+
+THE THEOREMES OF GEOMETRY , BEFORE <font> WHICHE ARE SET FORTHE <$$font>
+<font> CERTAINE GRAUNTABLE REQUESTES WHICHE SERUE FOR DEMONSTRATIONS
+<$$font> MATHEMATICALL . RECORD-1551-E1-P2,2,B1R.4
+
+<$$heading>
+
+That fro~ any pricke to one other , there may be drawen a right line .
+As for example . {COM:figure_omitted} RECORD-1551-E1-P2,2,B1R.6
+
+A being the one pricke , and B. the other , you maye drawe betwene them
+from the one to the other , that is to say , from A. vnto B , and from
+B. to A. RECORD-1551-E1-P2,2,B1R.7
+
+That any right line of measurable length may be drawen forth longer ,
+and straight . RECORD-1551-E1-P2,2,B1R.8
+
+Example of A.B , which as it is a line of measurable lengthe , so may it
+be drawen forth longer , as for example vnto C , {COM:figure_omitted}
+and that in true streightenes without crokinge .
+RECORD-1551-E1-P2,2,B1R.9
+
+That vpon any centre , there may be made a circle of anye qua~titee that
+a man wyll . RECORD-1551-E1-P2,2,B1R.10
+
+Let the centre be set to A , RECORD-1551-E1-P2,2,B1R.11
+
+{COM:figure_omitted}
+
+what shal hinder a man to drawe a circle about it , of what quantitee
+that he lusteth , as you se the forme here : other bygger or lesse , as
+it shall lyke him to doo ? RECORD-1551-E1-P2,2,B1R.13
+
+<P_2,B1V>
+
+That all right angles be equall eche to other .
+RECORD-1551-E1-P2,2,B1V.15
+
+Set for an example A. and B , {COM:figure_omitted} of which two though
+A. seme the greater angle to some men of small experience , it
+happeneth only bicause that the lines aboute A , are longer the~ the
+lines about B , as you may proue by drawing them longer ,
+RECORD-1551-E1-P2,2,B1V.16
+
+for so shal B. seme the greater angle yf you make his lines longer then
+the lines that make the angle A. RECORD-1551-E1-P2,2,B1V.17
+
+And to proue it by demonstration , I say thus .
+RECORD-1551-E1-P2,2,B1V.18
+
+If any ij. right corners be not equal , then one right corner is
+greater then an other , RECORD-1551-E1-P2,2,B1V.19
+
+but that corner which is greater then a right angle , is a blunt corner
+<paren> by his definition <$$paren> RECORD-1551-E1-P2,2,B1V.20
+
+so must one corner be both a right corner and a blunt corner also ,
+whiche is not possible : RECORD-1551-E1-P2,2,B1V.21
+
+And againe : the lesser right corner must be a sharpe corner , by his
+definition , bicause it is lesse then a right angle , which thing is
+impossible . RECORD-1551-E1-P2,2,B1V.22
+
+Therefore I conclude that all right angles be equall .
+RECORD-1551-E1-P2,2,B1V.23
+
+Yf one right line do crosse two other right lines , and make ij. inner
+corners of one side lesser the~ ij. righte corners , it is certaine ,
+that if those two lines be drawen forth right on that side that the
+sharpe inner corners be , they wil at le~gth mete togither , and crosse
+on an other . RECORD-1551-E1-P2,2,B1V.24
+
+The ij. lines beinge as A.B. and C.D , and the third line crossing
+them as dooth heere E.F , making ij inner corners {SIC:cornes} <paren>
+as ar G.H. <$$paren> lesser then two right corners ,
+{COM:figure_omitted} sith ech of <P_2,B2R> them is lesse then a right
+corner , as your eyes maye iudge , then say I , if those ij. lines A.B.
+and C.D. be drawen in lengthe on that side that G. and H. are , the
+{COM:sic} will at length meet and crosse one an other .
+RECORD-1551-E1-P2,2,B2R.25
+
+Two right lines make no platte forme . RECORD-1551-E1-P2,2,B2R.26
+
+A platte forme , as you harde before , hath bothe length and bredthe ,
+RECORD-1551-E1-P2,2,B2R.27
+
+and is inclosed with lines as with his boundes ,
+RECORD-1551-E1-P2,2,B2R.28
+
+but ij. right lines can@ @not inclose al the bondes of any platte forme
+. RECORD-1551-E1-P2,2,B2R.29
+
+Take for an example firste these two right lines AB. and A.C. whiche
+meete togither in A , {COM:figure_omitted} but yet can@ @not be called a
+platte forme , bicause there is no bond from B. to C ,
+RECORD-1551-E1-P2,2,B2R.30
+
+but if you will drawe a line betwene them twoo , that is frome B. to C
+, then will it be a platte forme , that is to say , a triangle ,
+RECORD-1551-E1-P2,2,B2R.31
+
+but then are there iij. lines , and not only ij .
+RECORD-1551-E1-P2,2,B2R.32
+
+Likewise may you say of D.E. and F.G , {COM:figure_omitted} whiche doo
+not {TEXT:missing_"not"}
+{COM:"not"_is_required_since_the_lines_de_and_fg_are_parallel_in_the_figure}
+make a platte forme , RECORD-1551-E1-P2,2,B2R.33
+
+nother yet can they make any without helpe of two lines more , whereof
+the one must be drawen from D. to F , and the other frome E. to G ,
+RECORD-1551-E1-P2,2,B2R.34
+
+and then will it be a longe square . RECORD-1551-E1-P2,2,B2R.35
+
+So then of two right lines can bee made no platte forme .
+RECORD-1551-E1-P2,2,B2R.36
+
+But of ij. croked lines be made a platte forme , as you se in the eye
+form . RECORD-1551-E1-P2,2,B2R.37
+
+And also of one rightline , & one croked line , maye a platte fourme bee
+made , as the semicircle F. doothe sette forth .
+RECORD-1551-E1-P2,2,B2R.38
+
+{COM:figure_omitted}
+
+<P_2,B2V>
+
+<heading>
+
+CERTAYN COMMON SENTENCES MANIFEST TO <font> SENCE , AND ACKNOWLEDGED OF
+ALL MEN <$$font> . RECORD-1551-E1-P2,2,B2V.42
+
+THE FIRSTE COMMON SENTENCE . RECORD-1551-E1-P2,2,B2V.43
+
+<$$heading>
+
+What so euer things be equal to one other thinge , those same bee equall
+betwene them selues . RECORD-1551-E1-P2,2,B2V.45
+
+Examples therof you may take both in greatnes and also in numbre .
+RECORD-1551-E1-P2,2,B2V.46
+
+First <paren> though it pertaine not proprely to geometry , but to helpe
+the vnderstandinge of the rules , whiche may bee wrought by both artes
+<$$paren> thus may you perceaue . RECORD-1551-E1-P2,2,B2V.47
+
+If the summe of mounye in my purse , and the mony in your purse be
+equall eche of them to the mony that any other man hathe , then must
+needes your mony and mine be equall togyther .
+RECORD-1551-E1-P2,2,B2V.48
+
+Likewise , if anye ij. quantities , as A and B , be equal to an other ,
+as vn to C , then muste nedes A. and B. be equall eche to other , as
+A. equall to B , and B. equall to A , whiche thinge the better to
+peceaue , tourne these quantities into numbre ,
+RECORD-1551-E1-P2,2,B2V.49
+
+so shall A. and B. make sixteene , and C. as many .
+{COM:figure_omitted} As you may perceaue by multipliyng the numbre of
+their sides togither . RECORD-1551-E1-P2,2,B2V.50
+
+<heading>
+
+THE SECONDE COMMON SENTENCE . RECORD-1551-E1-P2,2,B2V.52
+
+<$$heading>
+
+And if you adde equall portions to thinges that be equall , what so
+amounteth of them <P_2,B3R> shall be equall .
+RECORD-1551-E1-P2,2,B3R.54
+
+Example , RECORD-1551-E1-P2,2,B3R.55
+
+Yf you and I haue like summes of mony , and then receaue eche of vs like
+summes more , then our summes wil be like styll .
+RECORD-1551-E1-P2,2,B3R.56
+
+Also if A. and B. <paren> as in the former example <$$paren> bee
+equall , then by adding an equal portion to them both , as to ech of
+them , the quarter of A. <paren> that is foure <$$paren> they will be
+equall still . RECORD-1551-E1-P2,2,B3R.57
+
+<heading>
+
+THE THIRDE COMMON SENTENCE . RECORD-1551-E1-P2,2,B3R.59
+
+<$$heading>
+
+And if you abate euen portions from things that are equal , those partes
+that remain shall be equall also . RECORD-1551-E1-P2,2,B3R.61
+
+This you may perceaue by the laste example . For that that was added
+there , is subtracted heere . RECORD-1551-E1-P2,2,B3R.62
+
+and so the one doothe approue the other . RECORD-1551-E1-P2,2,B3R.63
+
+<heading>
+
+THE FOURTH COMMON SENTENCE . RECORD-1551-E1-P2,2,B3R.65
+
+<$$heading>
+
+If you abate equalle partes from vnequal thinges , the remainers shall
+be vnequall . As bicause that a_hundreth_and_eight and forty be vnequal
+if I take tenne from them both , there will remayne nynetye_and_eight
+and thirty , which are also vnequall , RECORD-1551-E1-P2,2,B3R.67
+
+and likewise in quantities it is to be iudged .
+RECORD-1551-E1-P2,2,B3R.68
+
+<heading>
+
+THE FIFTE COMMON SENTENCE . RECORD-1551-E1-P2,2,B3R.70
+
+<$$heading>
+
+when euen portions are added to vnequalle thinges , those that amounte
+shal@ @be vnequall . RECORD-1551-E1-P2,2,B3R.72
+
+<P_2,B3V>
+
+So if you adde twenty to fifty , and lyke ways to nynty , you shall make
+seuenty , and a_hundred_and_ten whiche are no lesse vnequall , than were
+fifty and nynty . RECORD-1551-E1-P2,2,B3V.74
+
+<heading>
+
+THE SYXT COMMON SENTENCE . RECORD-1551-E1-P2,2,B3V.76
+
+<$$heading>
+
+If two thinges be double to any other , those same two thinges are equal
+togither . RECORD-1551-E1-P2,2,B3V.78
+
+{COM:figures_omitted}
+
+Bicause A. and B. are eche of them double to C , therefore must A.
+and B. nedes be equall togither . RECORD-1551-E1-P2,2,B3V.80
+
+For as v. times viij. maketh xl. which is double to iiij. times v ,
+that is xx so iiij. times x , likewise is double to xx .
+RECORD-1551-E1-P2,2,B3V.81
+
+<paren> for it maketh fortie <$$paren> RECORD-1551-E1-P2,2,B3V.82
+
+and therefore must neades be equall to forty .
+RECORD-1551-E1-P2,2,B3V.83
+
+<heading>
+
+THE SEUENTH COMMON SENTENCE . RECORD-1551-E1-P2,2,B3V.85
+
+<$$heading>
+
+If any two thinges be the halfes of one other thing , than are thei .ij.
+equall togither . RECORD-1551-E1-P2,2,B3V.87
+
+So are D. and C. in the laste example equal togyther , bicause they
+are eche of them the halfe of A , other of B , as their numbre declareth
+. RECORD-1551-E1-P2,2,B3V.88
+
+<heading>
+
+THE EYGHT COMMON SENTENCE . RECORD-1551-E1-P2,2,B3V.90
+
+<$$heading>
+
+If any one quantitee be laide on an other , and thei agree , so that the
+one <P_2,B4R> excedeth not the other , then are they equall togither .
+RECORD-1551-E1-P2,2,B4R.92
+
+As if this figure A.B.C. {COM:figure_omitted} be layed on that other
+D.E.F , {COM:figure_omitted} so that A. be layed to D , B. to E , and
+C. to F , you shall see them agre in sides exactlye and the one not to
+excede the other , RECORD-1551-E1-P2,2,B4R.93
+
+for the line A.B. is equall to D.E , RECORD-1551-E1-P2,2,B4R.94
+
+and the third lyne C.A , is equal to F.D so that euery side in the one
+is equall to some one side of the other . wherfore it is playne , that
+the two triangles are equall togither . RECORD-1551-E1-P2,2,B4R.95
+
+<heading>
+
+THE NYNTH COMMON SENTENCE . RECORD-1551-E1-P2,2,B4R.97
+
+<$$heading>
+
+Euery whole thing is greater than any of his partes .
+RECORD-1551-E1-P2,2,B4R.99
+
+This sentence nedeth none example . RECORD-1551-E1-P2,2,B4R.100
+
+For the thyng is more playner then any declaration ,
+RECORD-1551-E1-P2,2,B4R.101
+
+yet considering that other commen sentence that foloweth nexte that .
+<heading> THE TENTHE COMMON SENTENCE . <$$heading> Euery whole thinge
+is equall to all his partes taken togither . It shall be mete to
+expresse both w=t= one example , RECORD-1551-E1-P2,2,B4R.102
+
+for of thys last se~tence many me~ at the first hearing do make a doubt
+. RECORD-1551-E1-P2,2,B4R.103
+
+Ther fore as in this example of the circle deuided into su~dry partes
+<P_2,B4V> {COM:figure_omitted} it doeth appere that no parte can be so
+great as the whole circle , <paren> accordyng to the meanyng of the
+eight sentence <$$paren> so yet it is certain , that all those eight
+partes together be equall vnto the whole circle .
+RECORD-1551-E1-P2,2,B4V.104
+
+And this is the meanyng of that common sentence <paren> whiche many vse
+, and fewe do rightly understand <$$paren> that is , that <font> All the
+partes of any thing are nothing els , but the whole . <$$font> And
+contrary waies : <font> The whole is nothing els , but all his partes
+taken togither . <$$font> whiche saiynges some haue vnderstand to meane
+thus : that all the partes are of the same kind that the whole thyng is
+: RECORD-1551-E1-P2,2,B4V.105
+
+but that that meanyng is false , it doth plainly appere by this figure
+A.B , {COM:figure_omitted} whose partes A. and B , are triangles , and
+the whole figure is a square , RECORD-1551-E1-P2,2,B4V.106
+
+and so they are not of one kind . RECORD-1551-E1-P2,2,B4V.107
+
+But and if they applie it to the matter or substance of thinges <paren>
+as some do <$$paren> then it is moste false ,
+RECORD-1551-E1-P2,2,B4V.108
+
+for euery compound thyng is made of partes of diuerse matter and
+substance . RECORD-1551-E1-P2,2,B4V.109
+
+Take for example a man , a house , a boke , and all other compound
+thinges . RECORD-1551-E1-P2,2,B4V.110
+
+Some vnderstand it thus , that the partes all together can make none
+other forme , but that that the whole doth shewe , whiche is also false
+, RECORD-1551-E1-P2,2,B4V.111
+
+for I make fiue_hundred diuerse figures of the partes of some one figure
+, as you shall better perceiue in the third boke .
+RECORD-1551-E1-P2,2,B4V.112
+
+And in the meane seaso~ take for an exa~ple this square figure folowing
+A.B.C.D , {COM:figures_on_next_page_omitted} w=ch= is deuided but into
+two parts , RECORD-1551-E1-P2,2,B4V.113
+
+and yet <paren> as you se <$$paren> I haue made fiue figures more beside
+the firste , with onely diuerse ioynyng of those two partes .
+RECORD-1551-E1-P2,2,B4V.114
+
+But of this shall I speake more largely in an other place ,
+RECORD-1551-E1-P2,2,B4V.115
+
+in the mean season content your self with these principles , whiche are
+certain of the chiefe groundes wheron all demonstrations mathematical
+are fourmed of which though the moste parte seeme so plaine , that no
+childe doth doubte of them , thinke not therfore that the art vnto
+whiche they serue , is simple , other childishe ,
+RECORD-1551-E1-P2,2,B4V.116
+
+but rather consider , howe certayne <P_2,C1R> the profes of that arte is
+, y=t= hath for his grou~des soche playne truthes , & as I may say ,
+such vndowbtfull and sensible principles , RECORD-1551-E1-P2,2,C1R.117
+
+And this is the cause why all learned menne dooth approue the certenty
+of geometry , and co~sequently of the other artes mathematical , which
+haue the grounds <paren> as Arithmetike , musike and astronomy <$$paren>
+aboue all other artes and sciences , that be vsed amo~gest men .
+RECORD-1551-E1-P2,2,C1R.118
+
+This muche haue I sayd of the first principles ,
+RECORD-1551-E1-P2,2,C1R.119
+
+and now will I go on with the theoremes , whiche I do only by examples
+declae {COM:sic} , minding to reserue the proofes to a peculiar boke
+which I will then set forth , when I perceaue this to be thankfully
+taken of the readers of it . RECORD-1551-E1-P2,2,C1R.120
+
+<heading>
+
+THE THEOREMES OF GEOMETRY BRIEFLYE DECLARED BY SHORTE EXAMPLES .
+RECORD-1551-E1-P2,2,C1R.122
+
+<$$heading>
+
+<heading>
+
+THE FIRSTE THEOREME . RECORD-1551-E1-P2,2,C1R.125
+
+<$$heading>
+
+When .ij. triangles be so drawen , that the one of the~ hath ij. sides
+equal to ij sides of the <P_2,C1V> other triangle , and that the angles
+enclosed with those sides , bee equal also in bothe triangles , then is
+the thirde side likewise equall in them . RECORD-1551-E1-P2,2,C1V.127
+
+And the whole triangles be of one greatnes , and euery angle in the one
+equall to his matche angle in the other , I meane those angles that be
+inclosed with like sides . RECORD-1551-E1-P2,2,C1V.128
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C1V.129
+
+This triangle A.B.C. hath ij. sides <paren> that is to say <$$paren>
+C.A. and C.B , equal to ij. sides of the other triangle F.G.H ,
+RECORD-1551-E1-P2,2,C1V.130
+
+{COM:figures_omitted}
+
+for A.C. is equall to F.G , RECORD-1551-E1-P2,2,C1V.132
+
+and B.C. is equall to G.H. And also the angle C. contayned beetweene
+F.G , and G.H , RECORD-1551-E1-P2,2,C1V.133
+
+for both of them answere to the eight parte of a circle .
+RECORD-1551-E1-P2,2,C1V.134
+
+Ther fore doth it remayne that A.B. whiche is the thirde lyne in the
+firste triangle , doth agre in lengthe with F.H , w=ch= is the third
+line in y=e= seco~d {SIC:y=e=se_co~d} tria~gle & y=t= hole tria~gle
+A.B.C. must nedes be equal to y=e= hole triangle F.G.H. And euery
+corner equall to his match , that is to say , A. equall to F , B. to H
+, and C. to G , RECORD-1551-E1-P2,2,C1V.135
+
+for those bee called <font> match corners <$$font> , which are inclosed
+with like sides , other els do lye against like sides .
+RECORD-1551-E1-P2,2,C1V.136
+
+<heading>
+
+THE SECOND THEOREME . RECORD-1551-E1-P2,2,C1V.138
+
+<$$heading>
+
+In twileke triangles the ij. corners that be <P_2,C2R> about the groud
+{COM:sic} line , are equal togither . RECORD-1551-E1-P2,2,C2R.140
+
+And if the sides that be equal , be drawe~ out in le~gth the~ wil the
+corners that are vnder the ground lines , be equal also togither .
+RECORD-1551-E1-P2,2,C2R.141
+
+<font> Example <$$font> RECORD-1551-E1-P2,2,C2R.142
+
+A.B.C. is a twileke triangle , RECORD-1551-E1-P2,2,C2R.143
+
+for the one side A.C , is equal to the other side B.C.
+RECORD-1551-E1-P2,2,C2R.144
+
+{COM:figure_omitted}
+
+And therfore I saye that the inner corners A. and B , which are about
+the ground lines , <paren> that is A.B. <$$paren> be equall to_gither .
+RECORD-1551-E1-P2,2,C2R.146
+
+And farther if C.A. and C.B. bee drawen forthe vnto D and E. as you
+se that I haue drawen them , then saye I that the two vtter angles vnder
+A. and B , are equal also togither : as the theorem said . The profe
+wherof , as of al the rest , shal apeare in Euclide , whome I intende to
+set foorth in english with sondry new additions , if I may perceaue that
+it wil be thankfully taken . RECORD-1551-E1-P2,2,C2R.147
+
+<heading>
+
+THE THIRDE THEOREME . RECORD-1551-E1-P2,2,C2R.149
+
+<$$heading>
+
+If in annye triangle there bee twoo angles equall togither , then shall
+the sides , that lie against those angles , be equal also .
+RECORD-1551-E1-P2,2,C2R.151
+
+<font> Example <$$font> RECORD-1551-E1-P2,2,C2R.152
+
+This triangle A.B.C. {COM:figure_omitted} hath two corners equal eche
+to other , that is A. and B , as I do by supposition limite , wherfore
+it foloweth that the side A.C , is equal to that other side B.C ,
+RECORD-1551-E1-P2,2,C2R.153
+
+for the side A.C , lieth againste the angle B ,
+RECORD-1551-E1-P2,2,C2R.154
+
+and the side B.C , lieth against the angle A .
+RECORD-1551-E1-P2,2,C2R.155
+
+<P_2,C2V>
+
+<heading>
+
+THE FOURTH THEOREME . RECORD-1551-E1-P2,2,C2V.158
+
+<$$heading>
+
+when two lines are drawen fro~ the endes of anie one line , and meet in
+anie pointe , it is not possible to draw two other lines of like lengthe
+ech to his match that shal begi~ at the same pointes , and end in anie
+other pointe then the twoo first did . RECORD-1551-E1-P2,2,C2V.160
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C2V.161
+
+{COM:figure_omitted}
+
+The first line is A.B , on which I haue erected two other lines A.C ,
+and B.C , that meete in the pricke C , wherefore I say , it is not
+possible to draw ij. other lines from A. and B. which shal mete in
+one point <paren> as you se A.D. and B.D. mete in D. <$$paren> but
+that the match lines shal@ @be vnequal , RECORD-1551-E1-P2,2,C2V.163
+
+I mean by <font> match lines <$$font> , the two lines on one side ,
+RECORD-1551-E1-P2,2,C2V.164
+
+that is the ij. on the right hand , or the ij. on the lefte hand ,
+RECORD-1551-E1-P2,2,C2V.165
+
+for as you se in this example A.D. is longer the~ A.C.
+RECORD-1551-E1-P2,2,C2V.166
+
+and A.D. shall bee of one lengthe , if B.D. and B.C. bee like longe .
+RECORD-1551-E1-P2,2,C2V.167
+
+For if one couple of matche lines be equall <paren> as the same example
+A.E. is equall to A.C. in length <$$paren> then must B.E. needes be
+vnequall to B.C . RECORD-1551-E1-P2,2,C2V.168
+
+as you see , it is here shorter . RECORD-1551-E1-P2,2,C2V.169
+
+<heading>
+
+THE FIFTE THEOREME . RECORD-1551-E1-P2,2,C2V.171
+
+<heading>
+
+If two tria~gles haue there ij. sides equal one to an other , and their
+grou~d lines equal also , then <P_2,C3R> shall their corners , whiche
+are contained betwene like sides , be equall one to the other .
+RECORD-1551-E1-P2,2,C3R.173
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C3R.174
+
+Because these two triangles A.B.C , and D.E.F. haue two sides equall
+one to an other . {COM:figure_omitted} For A.C. is equall to D.F , and
+B.C. is equall to E.F , and again their grou~d lines A.B. and D.E.
+are lyke in length , therfore is eche angle of the one triangle equall
+to ech angle of the other , comparyng together those angles that are
+contained within lyke sides , RECORD-1551-E1-P2,2,C3R.175
+
+so is A. equall to D , B. to E , and C. to F ,
+RECORD-1551-E1-P2,2,C3R.176
+
+for they are contayned within like sides , as before is said .
+RECORD-1551-E1-P2,2,C3R.177
+
+<heading>
+
+THE SIXT THEOREME . RECORD-1551-E1-P2,2,C3R.179
+
+<$$heading>
+
+when any right line standeth on an other , the ij. angles that thei
+make , other are both right angles , or els equall to .ij. righte
+angles . RECORD-1551-E1-P2,2,C3R.181
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C3R.182
+
+A.B. is a right line , RECORD-1551-E1-P2,2,C3R.183
+
+and on it there doth light another right line , drawen from C.
+perpendicularly on it , RECORD-1551-E1-P2,2,C3R.184
+
+{COM:figure_omitted}
+
+therefore saie I , that the .ij. angles that thei do make , are .ij.
+right angles as maie be iudged by the definition of a right angle .
+RECORD-1551-E1-P2,2,C3R.186
+
+But in the second part of the example , where A.B. beyng still the
+right line , on whiche D. standeth <P_2,C3V> in slope wayes , but yet
+they are equall to two righte angles , RECORD-1551-E1-P2,2,C3V.187
+
+for so muche as the one is to greate , more then a righte angle , so
+muche iuste is the other to little , so that bothe togither are equall
+to two right angles , as you may perceiue . RECORD-1551-E1-P2,2,C3V.188
+
+<heading>
+
+THE SEUENTH THEOREME . RECORD-1551-E1-P2,2,C3V.190
+
+<$$heading>
+
+If .ij. lines be drawen to any one pricke in an other lyne , and those
+.ij. lines do make with the fyrst lyne , two right angles , other suche
+as be equall to two right angles , and that towarde one hande , than
+those two lines doo make one streyght lyne .
+RECORD-1551-E1-P2,2,C3V.192
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C3V.193
+
+A.B. is a streyght lyne , on which there doth lyght two other lines one
+frome D , and the other frome C , RECORD-1551-E1-P2,2,C3V.194
+
+{COM:figure_omitted}
+
+but considerynge that they meete in one pricke E , and that the angles
+on one hand be equal to two right corners <paren> as the laste theoreme
+dothe declare <$$paren> therfore maye D.E. and E.C. be counted for one
+ryght lyne . RECORD-1551-E1-P2,2,C3V.196
+
+<heading>
+
+THE EIGHT THEOREME . RECORD-1551-E1-P2,2,C3V.198
+
+<$$heading>
+
+when two lines do cut one an other crosseways they do make their matche
+angles equall . RECORD-1551-E1-P2,2,C3V.200
+
+<P_2,C4R>
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C4R.202
+
+What matche angles are , I haue tolde you in the definition of the
+termes . RECORD-1551-E1-P2,2,C4R.203
+
+And here A , and B. are matche corners in this example , as are also C.
+and D , so that the corner A , is equall to B , and the angle C , is
+equall to D . RECORD-1551-E1-P2,2,C4R.204
+
+{COM:figure_omitted}
+
+<heading>
+
+THE NYNTH THEOREME . RECORD-1551-E1-P2,2,C4R.207
+
+<$$heading>
+
+whan so euer in any triangle the line of one side is drawen forthe in
+lengthe , that vtter angle is greater than any of the two inner corners
+, that ioyne not with it . RECORD-1551-E1-P2,2,C4R.209
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C4R.210
+
+The triangle A.D.C {COM:figure_omitted} hathe hys grounde lyne A.C.
+drawen forthe in lengthe vnto B , so that the vtter corenr that it
+maketh at C , is greater then any of the two inner corners that lye
+againste it , and ioyne not wyth it , whyche are A. and D ,
+RECORD-1551-E1-P2,2,C4R.211
+
+for they both are lesser then a ryght angle ,
+RECORD-1551-E1-P2,2,C4R.212
+
+and be sharpe angles , RECORD-1551-E1-P2,2,C4R.213
+
+but C. is a blonte angle , and therfore greater then a ryght angle .
+RECORD-1551-E1-P2,2,C4R.214
+
+<heading>
+
+THE TENTH THEOREME . RECORD-1551-E1-P2,2,C4R.216
+
+<$$heading>
+
+In euery triangle any .ij. corners , how so euer you take the~ , ar
+lesse the~ ij. right corners . RECORD-1551-E1-P2,2,C4R.218
+
+<P_2,C4V>
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C4V.220
+
+In the first triangle E , {COM:figure_omitted} whiche is a threlyke ,
+and therfore hath all his angles sharpe , take anie twoo corners that
+you will , and you shall perceiue that they be lesser then ij. right
+corners , RECORD-1551-E1-P2,2,C4V.221
+
+for in euery triangle that hath all sharpe corners <paren> as you see it
+to be in this example <$$paren> euery corner is lesse then a right
+corner . RECORD-1551-E1-P2,2,C4V.222
+
+And therfore also euery two corners must nedes be lesse then two right
+corners . RECORD-1551-E1-P2,2,C4V.223
+
+Furthermore in that other triangle marked with M , {COM:figure_omitted}
+whiche hath .ij. sharpe corners and one right , any .ij. of them also
+are lesse then two ryght angles . RECORD-1551-E1-P2,2,C4V.224
+
+For though you take the right corner for one , yet the other whiche is a
+sharpe corner , is lesse then a right corner .
+RECORD-1551-E1-P2,2,C4V.225
+
+And so it is true in all kindes of triangles , as you maie perceiue more
+plainly by the .xxij. Theoreme . RECORD-1551-E1-P2,2,C4V.226
+
+<heading>
+
+THE .XI. THEOREME . RECORD-1551-E1-P2,2,C4V.228
+
+<$$heading>
+
+In euery triangle , the greattest side lieth against the greattest angle
+. RECORD-1551-E1-P2,2,C4V.230
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,C4V.231
+
+As in this triangle A.B.C , {COM:figure_omitted} the greatest angle is
+C. RECORD-1551-E1-P2,2,C4V.232
+
+And A.B. <paren> whiche is the side that lieth against it <$$paren> is
+the greatest and longest side . RECORD-1551-E1-P2,2,C4V.233
+
+And contrary waies , as A.C. is the shortest side , so B. <paren>
+whiche is the angle liyng against it <$$paren> is the <P_2,D1R> smallest
+and sharpest angle , RECORD-1551-E1-P2,2,D1R.234
+
+for this doth folow also , that as the longest side lyeth against the
+greatest angle , so it that foloweth RECORD-1551-E1-P2,2,D1R.235
+
+<heading>
+
+THE TWELFT THEOREME . RECORD-1551-E1-P2,2,D1R.237
+
+<$$heading>
+
+In euery triangle the greattest angle lieth against the longest side .
+RECORD-1551-E1-P2,2,D1R.239
+
+For these ij. theoremes are one in truthe .
+RECORD-1551-E1-P2,2,D1R.240
+
+<heading>
+
+THE THIRTENTH THEOREME . RECORD-1551-E1-P2,2,D1R.242
+
+<$$heading>
+
+In euerie triangle anie ij. sides togither how so euer you take them ,
+are longer the~ the thirde . RECORD-1551-E1-P2,2,D1R.244
+
+For example you shal take this triangle A.B. {COM:figure_omitted} which
+hath a veery blunt corner , and therfore one of his sides greater a good
+deale then any of the other , RECORD-1551-E1-P2,2,D1R.245
+
+and yet the ij. lesser sides togither ar greate
+{COM:preceding_word_"greate"_emended} {COM:sic} then it .
+RECORD-1551-E1-P2,2,D1R.246
+
+And if it bee so in a blunte_angeled triangle , it must nedes be true in
+all other , RECORD-1551-E1-P2,2,D1R.247
+
+for there is no other kinde of triangles that hathe the one side so
+greate aboue the other sids {COM:sic} , as they y=t= haue blunt corners
+. RECORD-1551-E1-P2,2,D1R.248
+
+<heading>
+
+THE FOURTENTH THEOREME . RECORD-1551-E1-P2,2,D1R.250
+
+<$$heading>
+
+If there be drawen from the endes of anie side of a triangle .ij. lines
+metinge within the triangle , those two lines shall be lesse then the
+other twoo sides of the triangle , RECORD-1551-E1-P2,2,D1R.252
+
+but yet the <P_2,D1V> corner that thei make , shall bee greater then
+that corner of the triangle , whiche standeth ouer it .
+RECORD-1551-E1-P2,2,D1V.253
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D1V.254
+
+A.B.C. is a triangle . {COM:figure_omitted} on whose ground line A.B.
+there is drawen ij. lines , from the ij. endes of it , I say from A.
+and B , RECORD-1551-E1-P2,2,D1V.255
+
+and they meete within the triangle in the pointe D , wherfore I say ,
+that as those two lynes A.D. and B.D , are lesser then A.C. and B.C ,
+so the angle D , is greatter then the angle C , which is the angle
+against it . RECORD-1551-E1-P2,2,D1V.256
+
+<heading>
+
+THE FIFTENTH THEOREME . RECORD-1551-E1-P2,2,D1V.258
+
+<$$heading>
+
+If a triangle haue two sides equall to the two sides of an other
+triangle , but yet the a~gle that is contained betwene those sides ,
+greater then the like angle in the other triangle , then is his grounde
+line greater then the grounde line of the other triangle .
+RECORD-1551-E1-P2,2,D1V.260
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D1V.261
+
+A.B.C. is a triangle , {COM:figure_omitted} whose sides A.C. and B.C ,
+ar equall to E.D. and D.F , the two sides of the triangle D.E.F ,
+RECORD-1551-E1-P2,2,D1V.262
+
+{COM:figure_on_next_page_omitted}
+
+but bicause the angle in D , is greatter then the angle C. whiche are
+the ij. angles contayned betwene the equal lynes <$$paren>
+{COM:no_matching_open_paren} <P_2,D2R> therfore muste the ground line
+E.F. nedes bee greatter thenne the grounde line A.B , as you se
+plainely . RECORD-1551-E1-P2,2,D2R.264
+
+<heading>
+
+THE XVI. THEOREME . RECORD-1551-E1-P2,2,D2R.266
+
+<$$heading>
+
+If a triangle haue twoo sides equalle to the two sides of an other
+triangle , but yet hathe a longer ground line the~ that other triangle ,
+then is his angle that lieth betwene the equall sides , greater the~ the
+like corner in the other triangle . RECORD-1551-E1-P2,2,D2R.268
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D2R.269
+
+This Theoreme is nothing els , but the sentence of the first Theoreme
+turned backward , RECORD-1551-E1-P2,2,D2R.270
+
+and therefore nedeth none other profe nother declaration , then the
+other example . RECORD-1551-E1-P2,2,D2R.271
+
+<heading>
+
+THE SEUENTENTH THEOREME . RECORD-1551-E1-P2,2,D2R.273
+
+<$$heading>
+
+If two triangles be of such sort , that two angles of the one be equal
+to ij. angles of the other , and that one side of the one be equal to
+on side of the other , whether that side do adioyne to one of the equall
+corners , or els lye againste <P_2,D2V> one of them , then shall the
+other twoo sides of those triangles bee equalle togither ,
+RECORD-1551-E1-P2,2,D2V.275
+
+and the thirde corner also shall be equall in those two triangles .
+RECORD-1551-E1-P2,2,D2V.276
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D2V.277
+
+Bicause that A.B.C , the one triangle {COM:figure_omitted} hath two
+corners A. and B , equal to D.E , that are twoo corners of the other
+triangle . D.E.F. {COM:figure_omitted} and that they haue one side in
+theym bothe equall , that is A.B , which is equall to D.E , therefore
+shall both the other ij. sides be equall one to an other , as A.C. and
+B.C. equall to D.F and E.F , RECORD-1551-E1-P2,2,D2V.278
+
+and also the thirde angle in them both shal@ @be equall ,
+RECORD-1551-E1-P2,2,D2V.279
+
+that is , the angle C. shal be equall to the angle F .
+RECORD-1551-E1-P2,2,D2V.280
+
+<heading>
+
+THE EIGHTENTH THEOREME . RECORD-1551-E1-P2,2,D2V.282
+
+<$$heading>
+
+when on .ij. right lines ther is drawen a third right line crosse waies
+, and maketh .ij. matche corners of the one line equall to the like
+twoo matche corners of the other line , then ar those two lines gemmow
+lines , or paralleles . RECORD-1551-E1-P2,2,D2V.284
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D2V.285
+
+<P_2,D3R>
+
+The .ij. fyrst lynes are A.B. and C.D , RECORD-1551-E1-P2,2,D3R.287
+
+the thyrd lyne that crosseth them is E.F . RECORD-1551-E1-P2,2,D3R.288
+
+{COM:figure_omitted}
+
+And bycause that E.F. maketh ij. matche angles with A.B , equall to
+.ij. other lyke matche angles on C.D , <paren> that is to say E.G ,
+equall to K.F , and M.N. equall also to H , L. <$$paren> therfore are
+those ij. lynes A.B. and C.D. gemow lynes ,
+RECORD-1551-E1-P2,2,D3R.290
+
+vnderstand here by <font> lyke matche corners <$$font> , those that go
+one way as doth E.G , and K.F , lyke ways N.M , and H.L ,
+RECORD-1551-E1-P2,2,D3R.291
+
+for as E.G. and H.L , other N.M. and K.F. go not one waie , so be not
+they lyke match corners . RECORD-1551-E1-P2,2,D3R.292
+
+<heading>
+
+THE NYNTENTH THEOREME . RECORD-1551-E1-P2,2,D3R.294
+
+<$$heading>
+
+when on two right lines there is drawen a thirde right line crossewaies
+, and maketh the ij. ouer corners towarde one hande equall togither ,
+then ar those .ij. lines paralleles . And in like maner if two inner
+corners toward one hande , be equall to .ii. right angles .
+RECORD-1551-E1-P2,2,D3R.296
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D3R.297
+
+As the Theoreme dothe speake of .ij. ouer angles , so muste you
+vnderstande also of .ij. nether angles , RECORD-1551-E1-P2,2,D3R.298
+
+for the iudgement is lyke in bothe . RECORD-1551-E1-P2,2,D3R.299
+
+Take for an example the figure of the last theoreme , where A.B , and
+C.D , be called paralleles also , bicause E. and K , <paren> whiche are
+.ij. ouer corners <$$paren> are equall , and lyke waies L. and M .
+RECORD-1551-E1-P2,2,D3R.300
+
+And so are in lyke maner the nether corners N. and H , and G. and F .
+RECORD-1551-E1-P2,2,D3R.301
+
+Nowe to the seconde parte of the theoreme , RECORD-1551-E1-P2,2,D3R.302
+
+those .ij. lynes A.B. and C.D , shall be called paralleles , bicause
+the ij. inner corners . As for example those two that bee toward the
+right hande <paren> that is G. and L. <$$paren> are equall <P_2,D3V>
+<paren> by the fyrst parte of this nyntenth theoreme <$$paren>
+
+therfore muste G. and L. be equall to two ryght angles .
+RECORD-1551-E1-P2,2,D3V.304
+
+<heading>
+
+THE XX. THEOREME . RECORD-1551-E1-P2,2,D3V.306
+
+<$$heading>
+
+when a right line is drawen crosse ouer .ij. right gemow lines , it
+maketh .ij. matche corners of the one line , equall to two matche
+corners of the other line , and also bothe ouer corners of one hande
+equall togither , and bothe nether corners likewaies , and more_ouer two
+inner corners , and two vtter corners also towarde one hande , equall to
+two right angles . RECORD-1551-E1-P2,2,D3V.308
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D3V.309
+
+Bycause A.B. and C.D , <paren> in the last figure <$$paren> are
+paralleles , therefore the two matche corners of the one lyne , as E.G.
+be equall vnto the .ij. matche corners of the other line , that is K.F
+, and lykewaies M.N , equall to H.L. And also E. and K. bothe ouer
+corners of the lefte hande equall togyther , RECORD-1551-E1-P2,2,D3V.310
+
+and so are M. and L , the two ouer corners on the ryghte hande , in
+lyke maner N. and H , the two nether corners on the lefte hande ,
+equall eche to other , and G. and F. the two nether angles on the
+right hande equall togither . RECORD-1551-E1-P2,2,D3V.311
+
+& Farthermore yet G. and L. the .ij. inner angles on the right hande
+bee equall to two right angles , RECORD-1551-E1-P2,2,D3V.312
+
+and so are M. and F. the .ij. vtter angles on the same hande ,
+RECORD-1551-E1-P2,2,D3V.313
+
+in lyke manner shall you say of N. and K. the two inner corners on the
+left hand . and of E. and H. the two vtter corners on the same hande
+. RECORD-1551-E1-P2,2,D3V.314
+
+And thus you see the agreable sentence of these .iij. theoremes to
+tende to this purpose , to declare by the angles how to iudge paralleles
+, and contrary waies howe you may by paralleles iudge the proportion of
+the angles . RECORD-1551-E1-P2,2,D3V.315
+
+<P_2,D4R>
+
+<heading>
+
+THE XXI. THEOREME . RECORD-1551-E1-P2,2,D4R.318
+
+<$$heading>
+
+what so euer lines be paralleles to any other line , those same be
+paralleles togither . RECORD-1551-E1-P2,2,D4R.320
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D4R.321
+
+A.B. is a gemow line ; or a parallele vnto C.D .
+RECORD-1551-E1-P2,2,D4R.322
+
+And E.F , lykewaies is a parallele vnto C.D. {COM:figures_omitted}
+Wherfore it foloweth , that A.B. must nedes bee a parallele vnto E.F .
+RECORD-1551-E1-P2,2,D4R.323
+
+<heading>
+
+THE .XXIJ. THEOREME . RECORD-1551-E1-P2,2,D4R.325
+
+<$$heading>
+
+In euery triangle , when any side is drawen forth in length , the vtter
+angle is equall to the ij. inner angles that lie againste it .
+RECORD-1551-E1-P2,2,D4R.327
+
+And all iij. inner angles of any triangle are equall to ij. right
+angles . RECORD-1551-E1-P2,2,D4R.328
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D4R.329
+
+The triangle beeyng A.D.E. {COM:figure_omitted} and the syde A.E.
+drawen foorthe vnto B , there is made an vtter corner , which is C ,
+RECORD-1551-E1-P2,2,D4R.330
+
+and this vtter corner C , is equall to bothe the inner corners that lye
+agaynst it , whyche are A. and D . RECORD-1551-E1-P2,2,D4R.331
+
+And all thre inner corners , that is to say , A.D. and E , are equall
+to two ryght corners , whereof it foloweth , <font> that all the three
+corners of any one triangle are equall to all the three corners of
+euerye other triangle <$$font> . RECORD-1551-E1-P2,2,D4R.332
+
+For what so euer thynges are equalle to anny one thyrde thynge , those
+same are <P_2,D4V> equalle togitther , by the fyrste common sentence ,
+so that bycause all the .iij. angles of euery triangle are equall to
+two ryghte angles , and all ryghte angles bee equall togyther <paren> by
+the fourth request <$$paren> therfore must it nedes folow , that all the
+thre corners of euery triangle <paren> accomptyng them togyther
+<$$paren> are equall to iij. corners of any other triangle , taken all
+togyther . RECORD-1551-E1-P2,2,D4V.333
+
+<heading>
+
+THE .XXIII. THEOREME . RECORD-1551-E1-P2,2,D4V.335
+
+<$$heading>
+
+when any ij. right lines doth touche and couple .ij. other righte
+lines , whiche are equall in length and paralleles , and if those .ij.
+lines bee drawen towarde one hande , then are thei also equall together
+, and paralleles . RECORD-1551-E1-P2,2,D4V.337
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,D4V.338
+
+A.B. and C.D. {COM:figure_omitted} are ij. ryght lynes and paralleles
+and equall in length , RECORD-1551-E1-P2,2,D4V.339
+
+and they ar touched and ioyned togither by ij. other lynes A.C. and
+B.D , RECORD-1551-E1-P2,2,D4V.340
+
+this beyng so , and A.C. and B.D. beyng drawen towarde one syde
+<paren> that is to saye , both towarde the lefte hande <$$paren>
+therefore are A , C. and B.D. bothe equall and also paralleles .
+RECORD-1551-E1-P2,2,D4V.341
+
+<heading>
+
+THE .XXIIIJ. THEOREME . RECORD-1551-E1-P2,2,D4V.343
+
+<$$heading>
+
+In any likeiamme the two contrary sides ar equall togither ,
+RECORD-1551-E1-P2,2,D4V.345
+
+and so are eche .ij. contrary angles , RECORD-1551-E1-P2,2,D4V.346
+
+and the bias line that is drawen in it , doth diuide it into two equall
+portions . RECORD-1551-E1-P2,2,D4V.347
+
+<P_2,E1R>
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E1R.349
+
+Here are two likeiammes ioyned togither , RECORD-1551-E1-P2,2,E1R.350
+
+{COM:figure_omitted}
+
+the one is a longe square A.B.E , RECORD-1551-E1-P2,2,E1R.352
+
+and the other is a losengelike D.C.E.F. which ij. likeiammes ar proued
+equall togither , bycause they haue one ground line , that is , F.E ,
+And are made betwene one payre of gemow lines , I meane A.D. and E.H .
+RECORD-1551-E1-P2,2,E1R.353
+
+By this Theoreme may you know the arte of the righte measuringe of
+likeiammes , as in my booke of measuring I wil more plainly declare .
+RECORD-1551-E1-P2,2,E1R.354
+
+<heading>
+
+THE XXVI. THEOREME . RECORD-1551-E1-P2,2,E1R.356
+
+<$$heading>
+
+All likeiammes that haue equal grounde lines and are drawen betwene one
+paire of paralleles , are equal togither . RECORD-1551-E1-P2,2,E1R.358
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E1R.359
+
+Fyrste you muste marke the difference betwene this Theoreme and the
+laste , RECORD-1551-E1-P2,2,E1R.360
+
+for the laste Theoreme presupposed to the diuers likeiammes one ground
+line common to them , RECORD-1551-E1-P2,2,E1R.361
+
+but this theoreme doth presuppose a diuers ground line for euery
+likeiamme , only meaning them to be equal in length , though they be
+diuers in numbhe {COM:sic} . RECORD-1551-E1-P2,2,E1R.362
+
+As for example . In the last figure ther are two parallels , A.D. and
+E.H , RECORD-1551-E1-P2,2,E1R.363
+
+and betwene them are drawen thre likeiammes ,
+RECORD-1551-E1-P2,2,E1R.364
+
+the firste is , A.B.E.F , RECORD-1551-E1-P2,2,E1R.365
+
+the second is E.C.D.F , RECORD-1551-E1-P2,2,E1R.366
+
+and the thirde is C.G.H.D . RECORD-1551-E1-P2,2,E1R.367
+
+The firste and the seconde haue one ground line , <paren> that is E.F.
+<$$paren> RECORD-1551-E1-P2,2,E1R.368
+
+and therfore in_so_muche as they are betwene one paire of paralleles ,
+they are equall accordinge to the fiue_and_twentye Theoreme ,
+RECORD-1551-E1-P2,2,E1R.369
+
+but the thirde likeiamme that is C.G.H.D. hathe his grounde line G.H ,
+seuerall frome <P_2,E1V> the other , but yet equall vnto it . wherefore
+the third likeiam is equall to the other two firste likeiammes .
+RECORD-1551-E1-P2,2,E1V.370
+
+And for a proofe that G.H. being the ground line of the third likeiamme
+, is equall to E.F , whiche is the ground line to both the other
+likeiams , that may be thus declared , RECORD-1551-E1-P2,2,E1V.371
+
+G.H. is equall to C.D , seynge they are the contrary sides of one
+likeiamme <paren> by the foure_and_twentye theoreme <$$paren>
+RECORD-1551-E1-P2,2,E1V.372
+
+and so are C.D. and E.F. by the same theoreme .
+RECORD-1551-E1-P2,2,E1V.373
+
+Therfore seynge both those ground lines , E.F. and G.H , are equall to
+one thirde line <paren> that is C.D. <$$paren> they must nedes be
+equall togyther by the firste common sentence .
+RECORD-1551-E1-P2,2,E1V.374
+
+<heading>
+
+THE XXVII. THEOREME . RECORD-1551-E1-P2,2,E1V.376
+
+<$$heading>
+
+All triangles hauinge one grounde lyne , and {SIC:an} standing betwene
+one paire of parallels , ar equall togither .
+RECORD-1551-E1-P2,2,E1V.378
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E1V.379
+
+A.B. and C.F. are twoo gemowe lines , betweene which there be made two
+triangles , A.D.E. and D.E.B , so that D.E , is the common ground line
+to them bothe . {COM:figure_omitted} wherfore it doth folow , that
+those two triangles A.D.E. and D.E.B. are equall eche to other .
+RECORD-1551-E1-P2,2,E1V.380
+
+<heading>
+
+THE XXVIIJ. THEOREME . RECORD-1551-E1-P2,2,E1V.382
+
+<$$heading>
+
+All triangles that haue like long ground lines , and bee made betweene
+one paire of gemow lines , are equall togither .
+RECORD-1551-E1-P2,2,E1V.384
+
+<P_2,E2R>
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E2R.386
+
+Example of this Theoreme you may see in the last figure , where as sixe
+triangles made betwene those two gemowe lines A.B. and C.F , the first
+triangle is A.C.D , the seconde is A.D.E , the thirde is A.D.B , the
+fourth is A.B.E , the fifte is D.E.B , and the sixte is B.E.F , of which
+sixe triangles , A.D.E. and D.E.B. are equall bicause they haue one
+common grounde line . And so likewise A.B.E. and A.B.D , whose commen
+grounde line is A.B , RECORD-1551-E1-P2,2,E2R.387
+
+but A.C.D. is equal to B.E.F , being both betwene one couple of
+parallels , not bicause thei haue one groune line , but bicause they
+haue their ground lines equall , RECORD-1551-E1-P2,2,E2R.388
+
+for C.D. is equall to E.F , as you may declare thus .
+RECORD-1551-E1-P2,2,E2R.389
+
+C.D , is equall to A.B. <paren> by the foure_and_twenty Theoreme
+<$$paren> RECORD-1551-E1-P2,2,E2R.390
+
+for thei are two contrary sides of one lykeiamme . A.C.D.B ,
+RECORD-1551-E1-P2,2,E2R.391
+
+and E.F by the same theoreme , is equall to A.B ,
+RECORD-1551-E1-P2,2,E2R.392
+
+for thei ar the two y=e= contrary sides of the likeiamme , A.E.F.B ,
+wherfore C.D. must needes be equall to E.F .
+RECORD-1551-E1-P2,2,E2R.393
+
+like wise the triangle A.C.D , is equal to A.B.E , bicause they ar made
+betwene one paire of parallels and haue their groundlines like , I meane
+C.D. and A.B . RECORD-1551-E1-P2,2,E2R.394
+
+Againe A.D.E , is equal to eche of them both ,
+RECORD-1551-E1-P2,2,E2R.395
+
+for his ground line D.E , is equall to A.B , in_so_muche as they are the
+contrary sides of one likeiamme , RECORD-1551-E1-P2,2,E2R.396
+
+that is the long square A.B.D.E. RECORD-1551-E1-P2,2,E2R.397
+
+And thus may you proue the equalnes of all the reste .
+RECORD-1551-E1-P2,2,E2R.398
+
+<heading>
+
+THE XXIX. THEOREME . RECORD-1551-E1-P2,2,E2R.400
+
+<$$heading>
+
+Al equal triangles that are made on one grounde line , and rise one waye
+, must needes be betwene one paire of parallels .
+RECORD-1551-E1-P2,2,E2R.402
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E2R.403
+
+Take for example A.D.F , and D.E.B , which as the xxvij. <P_2,E2V>
+conclusion dooth proue <$$paren> are equall togither ,
+RECORD-1551-E1-P2,2,E2V.404
+
+and as you see , they haue on ground line D.E.
+RECORD-1551-E1-P2,2,E2V.405
+
+And againe they rise towarde one side , that is to say , vpwarde toward
+the line A.B , wher fore they must needes be inclosed betweene one paire
+of parallels , which are heere in this example A.B. and D.E .
+RECORD-1551-E1-P2,2,E2V.406
+
+<heading>
+
+THE THIRTY THEOREME . RECORD-1551-E1-P2,2,E2V.408
+
+<$$heading>
+
+Equal triangles that haue their ground {SIC:the_irground} lines equal ,
+and be drawe~ toward one side , are made betwene one paire of paralleles
+. RECORD-1551-E1-P2,2,E2V.410
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E2V.411
+
+The example that declared the last theoreme , maye well serue to the
+declaration of this also . RECORD-1551-E1-P2,2,E2V.412
+
+For those ij. theoremes do diffre but in this one pointe , that the
+laste theoreme meaneth of triangles , that haue one ground line common
+to them both , RECORD-1551-E1-P2,2,E2V.413
+
+and this theoreme doth presuppose the grounde lines to bee diuers , but
+yet of one length , as A.C.D , and B.E.F , RECORD-1551-E1-P2,2,E2V.414
+
+as they are ij. equall triangles approued , by the eighte_and_twentye
+Theorem , so in the same Theorem it is declared , y=t= their grou~d
+lines are equall togither , that is C.D , and E.F ,
+RECORD-1551-E1-P2,2,E2V.415
+
+now this beeynge true , and considering that they are made towarde one
+side , it foloweth , that they are made betwene one paire of parallels
+RECORD-1551-E1-P2,2,E2V.416
+
+when I saye , drawen towarde one side , I meane that the triangles must
+be drawen other both vpward frome one parallel , other els both downward
+, RECORD-1551-E1-P2,2,E2V.417
+
+then are they drawen betwene two paire of parallels , presupposinge one
+to bee drawen by their ground line , RECORD-1551-E1-P2,2,E2V.418
+
+and then do they ryse toward contrary sides .
+RECORD-1551-E1-P2,2,E2V.419
+
+<P_2,E3R>
+
+<heading>
+
+THE XXXI. THEOREME . RECORD-1551-E1-P2,2,E3R.422
+
+<$$heading>
+
+If a likeiamme haue one ground line with a triangle , and be drawen
+betwene one paire of paralleles , then shall the likeiamme be double to
+the triangle . RECORD-1551-E1-P2,2,E3R.424
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E3R.425
+
+A.H. and B.G. are .ij. gemow lines , betwene which there is made a
+triangle B.CG , and a lykeiamme , A.B.G.C , whiche haue a grounde lyne ,
+RECORD-1551-E1-P2,2,E3R.426
+
+that is to saye , B.G . RECORD-1551-E1-P2,2,E3R.427
+
+{COM:figure_omitted}
+
+Therfore doth it folow that the lyke_iamme A.B.G.C. is double to the
+triangle B.C.G . RECORD-1551-E1-P2,2,E3R.429
+
+For euery halfe of that lykeiamme is equall to the triangle , I meane
+A.B.F.E. other F.E.C.G. as you may coniecture by the .xi. conclusion
+geometrical . RECORD-1551-E1-P2,2,E3R.430
+
+And as this Theoreme dothe speake of a triangle and likeiamme that haue
+one groundelyne , so is it true also , yf theyr groundelynes be equall ,
+though they bee dyuers , so that thei be made betwene one payre of
+paralleles . RECORD-1551-E1-P2,2,E3R.431
+
+And hereof may you perceaue the reason , why in measuryng the platte of
+a triangle , you must multiply the perpendicular lyne by halfe the
+grounde lyne , or els the hole grounde lyne by halfe the perpendicular ,
+RECORD-1551-E1-P2,2,E3R.432
+
+for by any of these bothe {COM:sic} waies is there made a lykiamme
+equall to halfe suche a one as shulde be made on the same hole grounde
+lyne with the triangle , and betweene one payre of paralleles .
+RECORD-1551-E1-P2,2,E3R.433
+
+Therfore as that lykeiamme is double to the triangle , so the halfe of
+it , must needes be equall to the triangle .
+RECORD-1551-E1-P2,2,E3R.434
+
+Compare the .xi. conclusion with this theoreme .
+RECORD-1551-E1-P2,2,E3R.435
+
+<heading>
+
+THE .XXXIJ. THEOREME . RECORD-1551-E1-P2,2,E3R.437
+
+<$$heading>
+
+In all likeiammes where there are more than <P_2,E3V> one made aboute
+one bias line , the fill squares of euery of them must nedes be equall .
+RECORD-1551-E1-P2,2,E3V.439
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,E3V.440
+
+Fyrst before I declare the examples , it shal be mete to shew the true
+vndersta~dyng of this theorem . RECORD-1551-E1-P2,2,E3V.441
+
+Therfore by the <font> Bias line <$$font> , I meane that lyne , which in
+any square figure dooth runne from corner to corner .
+RECORD-1551-E1-P2,2,E3V.442
+
+And euery square which is diuided by that bias line into equall halues
+from corner to corner <paren> that is to say , into .ij. equall
+triangles <$$paren> those be counted <font> to stande aboute one bias
+line <$$font> , RECORD-1551-E1-P2,2,E3V.443
+
+and the other squares , whiche touche that bias line , with one of their
+corners onely , those doo I call <font> Fyll squares <$$font> ,
+accordyng to the greke name , whiche is <font> anapleromata <$$font> ,
+and called in latin <font> supplementa <$$font> , bycause that they make
+one generall square , includyng and enclosyng the other diuers squares ,
+as in this exa~ple H.C.E.N. is one square likeiamme , and L.M.G.C. is
+an other , {COM:figures_omitted} whiche bothe are made aboute one bias
+line , RECORD-1551-E1-P2,2,E3V.444
+
+that is N.M , RECORD-1551-E1-P2,2,E3V.445
+
+than K.L.H.C. and C.E.F.G. are .ij. fyll squares ,
+RECORD-1551-E1-P2,2,E3V.446
+
+for they doo fyll vp the sydes of the .ij fyrste square lykeiammes , in
+suche sorte , that of all them foure is made one greate generall square
+K.M.F.N . RECORD-1551-E1-P2,2,E3V.447
+
+Nowe to the sentence of the theoreme , I say , that the .ij. fill
+squares , H.K.L.C. and C.E.F.G. are both equall togither , <paren> as
+it shall bee declared in the booke of proofes <$$paren> bicause they are
+the fill squares of two likeiammes made aboute one bias line , as the
+exaumple sheweth . RECORD-1551-E1-P2,2,E3V.448
+
+Conferre the twelfthe conclusion with this theoreme .
+RECORD-1551-E1-P2,2,E3V.449
+
+{COM:insert_helsinki_2}
+
+<P_2,G1R>
+
+<heading>
+
+THE XLIJ. THEOREME . RECORD-1551-E1-P2,2,G1R.453
+
+<$$heading>
+
+If a right line be deuided as chance happeneth the iiij. long squares ,
+that may be made of that whole line and one of his partes with the
+square of the other part , shall be equall to the square that is made of
+the whole line and the saide first portion ioyned to him in lengthe as
+one whole line . RECORD-1551-E1-P2,2,G1R.455
+
+<font> Example . <$$font> RECORD-1551-E1-P2,2,G1R.456
+
+The firste line is A.B , RECORD-1551-E1-P2,2,G1R.457
+
+and is deuided by C. into two vnequall partes as happeneth
+RECORD-1551-E1-P2,2,G1R.458
+
+{COM:figure_omitted}
+
+the longsquare of yt , and his lesser portion A.C , is foure times
+drawen , RECORD-1551-E1-P2,2,G1R.460
+
+the first is E.G.M.K , RECORD-1551-E1-P2,2,G1R.461
+
+the seconde is K.M.Q.O , RECORD-1551-E1-P2,2,G1R.462
+
+the third is H.K.R.S , RECORD-1551-E1-P2,2,G1R.463
+
+and the fourthe is K.L.S.T. RECORD-1551-E1-P2,2,G1R.464
+
+{COM:figure_omitted}
+
+And where as it appeareth that one of the little squares <paren> I meane
+K.L.PO <$$paren> is reckened twise , ones as parcell of the second long
+square and agayne as parte of the <P_2,G1V> thirde longsquare , to
+auoide ambiguite , you may place one insteede of it , an other square of
+equalitee , with it . RECORD-1551-E1-P2,2,G1V.466
+
+that is to saye , D.E.K.H , which was at no tyme accompting as percell
+of any one of them , RECORD-1551-E1-P2,2,G1V.467
+
+and then haue you iiij. long squares distinctly made of the whole line
+A.B , and his lesser portion A.C . RECORD-1551-E1-P2,2,G1V.468
+
+And within them is there a greate full square P.Q.T.V. whiche is the
+iust square of B.C , beynge the greatter portion of the line A.B.
+RECORD-1551-E1-P2,2,G1V.469
+
+And that those fiue squares doo make iuste as muche as the whole square
+of that longer line D.G , <paren> whiche is as longe as A.B , and A.C.
+<$$paren> ioyned togither <$$paren> it may be iudged easyly by the eye ,
+sith that one greate square doth comprehe~d in it all the other fiue
+squares , that is to say , foure longsqares <paren> as before mencioned
+<$$paren> and one full square , which is the intent of the Theoreme .
+RECORD-1551-E1-P2,2,G1V.470
+

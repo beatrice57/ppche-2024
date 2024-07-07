@@ -1,0 +1,2087 @@
+<BEGIN_townley-1746-1>
+
+<P_12>
+
+<font> Clerk of the Arraigns . <$$font> Count these .
+TOWNLEY-1746-1,12.3
+
+<font> Cryer . Daniel Ponton <$$font> , One , <paren> and so on till
+the Twelve sworn all answer'd to their Names <$$paren> All good Men and
+true , stand together , TOWNLEY-1746-1,12.4
+
+and hear your Evidence . TOWNLEY-1746-1,12.5
+
+Then the Clerk of the Arraigns <paren> after Silence commanded <$$paren>
+read over his Indictment to him , which was as follows :
+TOWNLEY-1746-1,12.6
+
+<font> Francis Townley <$$font> , late of the City of <font> Carlisle ,
+in <$$font> the County of <font> Cumberland <$$font> , Gent.
+{COM:missing_comma} was indicted for that he , <paren> with <font>
+Andrew Blood <$$font> and <font> George Fletcher <$$paren> <$$font> not
+<P_13> having the Fear of God in his Heart , nor regarding his Duty and
+Allegiance , but , being moved and seduced by the Instigation of the
+Devil , as a false Traitor against his most serene , illustrious and
+excellent Prince , <font> George <$$font> the Second , by the Grace of
+God of <font> Great Britain , France <$$font> , and <font> Ireland
+<$$font> , King , Defender of the Faith , <font> &c. <$$font> his
+supreme , true , lawful , rightful , and undoubted Sovereign Lord , the
+cordial Love , and due and true Obedience , Fidelity , and true
+Allegiance , which every Subject of our said Lord the King ought to bear
+, withdrawing , and utterly to extinguish , intending and contriving ,
+and with all his Force , purposing and designing the Government of these
+Kingdoms to subvert , change , and alter ; as also our said Lord the
+King , to Death , and final Destruction to put and bring , and these
+Kingdoms into intolerable and miserable Slavery to subdue and inthral ;
+and to fix on the Imperial Throne of these Realms , a Person called the
+Prince of <font> Wales <$$font> , in the Time of the late King <font>
+James <$$font> the Second , <font> &c. <$$font> TOWNLEY-1746-1,13.7
+
+And the Indictment further chargeth , That he , the said <font> Francis
+Townley <$$font> , on the 10th Day of <font> November <$$font> last , in
+the 19th Year of the Reign of his present Majesty , did appear , array'd
+in a hostile Manner , at the City <font> of Carlisle <$$font> aforesaid
+, in the County of <font> Cumberland <$$font> aforesaid , with 3000
+Persons and upwards , in a tumultuous and rebellious Manner , with Guns
+, Swords , Clubs , Staves , and other Weapons , offensive as well as
+defensive , with Drums beating , Colours flying , Pipes playing , and
+there , being so array'd , did , in a warlike and hostile Manner , levy
+a cruel War , and took Possession of the said City of <font> Carlisle
+<$$font> , and the Citadel of the same City , being a City and Citadel
+of our Sovereign Lord the King , and made a cruel Slaughter of the
+<P_14> Subjects of our Sovereign Lord the King that now is , and the
+same City did keep , sustain and defend . TOWNLEY-1746-1,14.8
+
+And this Indictment is laid to be against the King's Peace , his Crown ,
+and Dignity , the Duty of their Allegiance , and the Forms of the
+Statute in that Case made and provided , <font> &c. <$$font>
+TOWNLEY-1746-1,14.9
+
+<font> Clerk <$$font> Gentlemen , Upon this Indictment , the Prisoner at
+the Bar has been arraign'd , TOWNLEY-1746-1,14.10
+
+and thereunto has pleaded <font> Not guilty <$$font> ,
+TOWNLEY-1746-1,14.11
+
+and for his Trial has put himself upon God and his Country , which
+Country you are : TOWNLEY-1746-1,14.12
+
+Your Charge is to inquire , whether he be guilty of the High Treason
+whereof he stands indicted , or not guilty ; TOWNLEY-1746-1,14.13
+
+if you find him guilty , you are to inquire what Goods and Chattels ,
+Lands or Tenements he had at the Time of the High Treason committed , or
+at any Time since : TOWNLEY-1746-1,14.14
+
+If you find him not guilty , you are to inquire whether he fled for it ;
+TOWNLEY-1746-1,14.15
+
+and if you find he fled for it , you are to inquire of his Goods and
+Chattels , as if you had found him guilty : TOWNLEY-1746-1,14.16
+
+If you find him not guilty , nor that he did fly for it , you are to say
+so , and no more , and hear your Evidence . TOWNLEY-1746-1,14.17
+
+The Council {COM:sic_here_and_passim_for_"counsel"} for the King were
+Mr. Attorney_General , Sir <font> John Strange <$$font> , Mr.
+Solicitor_General , Sir <font> Richard Lloyd <$$font> , and the
+Honourable Mr. <font> York ; <$$font> and for the Prisoner , Mr.
+Serjeant <font> Wynne <$$font> , and Mr. <font> Clayton . <$$font>
+TOWNLEY-1746-1,14.18
+
+Mr. <font> York , Council for the King . <$$font> May it please your
+Lordships , and you Gentlemen of the Jury , This is an Indictment
+against <font> Francis Townley <$$font> , the Prisoner at the Bar ,
+TOWNLEY-1746-1,14.19
+
+and sets forth , <font> &c. <$$font> TOWNLEY-1746-1,14.20
+
+<bracket> the Purport of the Indictment is before-@ @mention'd
+<$$bracket> {COM:missing_period} TOWNLEY-1746-1,14.21
+
+To this Indictment he hath pleaded <font> Not guilty . <$$font>
+TOWNLEY-1746-1,14.22
+
+We shall produce our Witnesses to make good the Charge against the
+Prisoner , which if we do , we doubt not that you will find him guilty
+of the Indictment . TOWNLEY-1746-1,14.23
+
+Mr. <font> Attorney_General <$$font> My Lords and you Gentlemen <P_15>
+of the Jury , The Prisoner at the Bar , having been deeply engaged in
+the late unnatural and wicked Rebellion , begun in <font> Scotland
+<$$font> , and carried into the Heart of this Kingdom , in order to
+overset our present happy Constitution in Church and State , hath made
+it necessary for this Prosecution against him : TOWNLEY-1746-1,15.24
+
+I do@ @n't doubt but , in the Course of our Evidence , we shall make it
+appear to your Satisfaction , that the Prisoner with two others , whose
+Names are <font> Blood <$$font> and <font> Fletcher <$$font> , and other
+their Confederates , did assemble in a warlike Manner , and procured
+Arms , Ammunition , and other Instruments of War ; and compos'd a
+Regiment for the Service of the Pretender to these Realms , to wage War
+against his present most sacred Majesty ; and did march through and
+invade several Parts of this Kingdom , and unlawfully did seize his
+Majesty's Treasure in many Places for the Service of their villainous
+Cause , and took away the Horses and other Goods , Merchandize , and
+Chattels of many of his Majesty's peaceable Subjects . And that ,
+during the said March , the Prisoner , with other Rebels in open
+Defiance of his Majesty's undoubted Right and Title to the Crown of
+these Realms , frequently caused the Pretender's Son to be proclaimed ,
+in {TEXT:n} a publick and solemn Manner , as Regent of these Realms ,
+and himself march'd at the Head of a pretended Regiment which they
+call'd the <font> Manchester <$$font> Regiment . TOWNLEY-1746-1,15.25
+
+My Lords , I shall not take up the Time of the Court in saying a great
+deal ; TOWNLEY-1746-1,15.26
+
+for all that the Prisoner is charg'd with will appear so full and plain
+from the Evidence we shall produce for the King , that there will not be
+the least Doubt with the Jury to find him guilty . TOWNLEY-1746-1,15.27
+
+Sir <font> John Strange <$$font> then spoke to the following Effect :
+TOWNLEY-1746-1,15.28
+
+My Lords , and you Gentlemen of the Jury ; I am <P_16> of Council in
+this Case likeways for the Crown : TOWNLEY-1746-1,16.29
+
+I am very far from aggravating this Case against the Prisoner at the Bar
+; TOWNLEY-1746-1,16.30
+
+but I can@ @not help observing , that the Engagements which the Prisoner
+had embarked in , would have overset one of the most glorious and free
+Constitutions that ever was framed , and , I believe I may venture to
+say , is the only one in the whole World . TOWNLEY-1746-1,16.31
+
+If an Attempt to subvert the Government , to destroy the King , and set
+up a <font> Popish <$$font> Pretender , if marching in an hostile Manner
+, carrying on a bloody and destructive War in this Nation , can move
+Compassion , or be extenuated , any Rebellion may be palliated over and
+excused , since scarce any Circumstance can be added in Aggravation of
+that which hath lately been raised and carried on in this Kingdom .
+TOWNLEY-1746-1,16.32
+
+Every body knows the Rebellion broke out in <font> Scotland <$$font>
+with a small Number of People , and made a very great Progress , 'till
+at last the Rebels had the Audaciousness , with the Pretender's Son at
+their Head , to fight his Majesty's Forces at <font> Preston-pans
+<$$font> , TOWNLEY-1746-1,16.33
+
+and then the Rebellion burrowed into <font> England <$$font> ,
+TOWNLEY-1746-1,16.34
+
+and the Prisoner at the Bar was with them in <font> Lancashire <$$font>
+, particularly at <font> Preston <$$font> , and several other Places ;
+TOWNLEY-1746-1,16.35
+
+and then they proceeded to <font> Manchester <$$font> , where the
+Prisoner form'd a Regiment , and accepted a Commission to be Colonel of
+the said Regiment , from the eldest Son of the Pretender , and wore a
+white Cockade , and a Plaid Sash , as a Mark of his Authority , and the
+Party he sided with ; TOWNLEY-1746-1,16.36
+
+and then advanced from <font> Manchester <$$font> to <font> Derby
+<$$font> with his Regiment , where the Rebel Army halted some few Days ;
+TOWNLEY-1746-1,16.37
+
+but being apprehensive of the Duke of <font> Cumberland <$$font> 's
+attacking them , it so alarmed them , that they marched back with great
+Precipitation till they came to <font> Carlisle <$$font> , where he
+acted as Commandant of the City , and gave out Orders <P_17> to the
+Garrison , amongst which he order'd the Houses of some of his Majesty's
+faithful Subjects to be set on Fire , but was afterwards obliged by the
+<font> Duke <$$font> to surrender to the King's Pleasure ;
+TOWNLEY-1746-1,17.38
+
+and tho' Humanity may induce you to have Compassion towards the Prisoner
+, yet if it is proved he is guilty of the Crimes laid to him , the
+Justice of this Nation calls aloud for his Punishment .
+TOWNLEY-1746-1,17.39
+
+For no less was to be a Sacrifice , than his Majesty and his Royal
+Family <paren> a Succession of Princes , appointed by Divine Providence
+, to be not only the Preservers of our Rights and Liberties , but to be
+the Guardians of the Protestant Interest in <font> Europe <$$font>
+<$$paren> to appease the Fury of a Set of unsatisfy'd People , who have
+associated in this most wicked and unnatural Rebellion , and who envied
+us , the faithful Subjects of his Majesty , the Blessings we enjoy'd
+uninterrupted of our Religious and Civil Rights and Privileges .
+TOWNLEY-1746-1,17.40
+
+These People , in order to divert themselves , and amuse the Ignorant ,
+had on their Standards or Colours , Motto's that they imagined would be
+grateful , <font> viz. <$$font> Liberty <font> and <$$font> Property ,
+Church <font> and <$$font> Country . TOWNLEY-1746-1,17.41
+
+But your Lordship , and the Gentlemen of the Jury , as well as the
+unfortunate Person who stands before you at the Bar , will excuse me if
+I take upon me to interpret the Meaning of their famous Motto or
+Inscription , on their Colours , which not to take up too much of the
+Time of the Court , I shall do in few Words . TOWNLEY-1746-1,17.42
+
+The <font> Liberty <$$font> they designed , was nothing less than
+Slavery ; TOWNLEY-1746-1,17.43
+
+Their intended <font> Property <$$font> was Plunder , which too many of
+the good People of this Kingdom hath found ; TOWNLEY-1746-1,17.44
+
+their <font> Church <$$font> was Popery , TOWNLEY-1746-1,17.45
+
+and the Meaning of their <font> Country <$$font> , was only to make
+these <P_18> free Kingdoms a Province to <font> France . <$$font>
+TOWNLEY-1746-1,18.46
+
+We shall now call our Witnesses , who will give such Proofs against the
+Prisoner , that I doubt not , Gentlemen of the Jury , you will find him
+guilty of the Treason he stands charged with . TOWNLEY-1746-1,18.47
+
+<font> Mr. Sollicitor_General . <$$font> Call <font> Roger MacDonald .
+<$$font> TOWNLEY-1746-1,18.48
+
+<font> Roger MacDonald <$$font> being sworn , said , that he knew
+Colonel <font> Townley <$$font> the Prisoner , that he saw him at <font>
+Derby <$$font> , and , on the Retreat of the Rebel Army from thence , he
+march'd at the Head of the <font> Manchester <$$font> Regiment , as
+Colonel of the same . TOWNLEY-1746-1,18.49
+
+This Witness also said , that he saw him with a white Cockade in his Hat
+, a Brace of Pistols , and was accounted as a principal Officer ,
+between <font> Lancaster <$$font> and <font> Preston <$$font> , and he
+appeared at the Head of the Regiment , with Colours flying and Drums
+beating , and that he had on a Plaid Sash . TOWNLEY-1746-1,18.50
+
+This Witness was then ask'd , what Number at that Time the Rebel Army
+might consist of ? TOWNLEY-1746-1,18.51
+
+and he said , to the best of his Knowledge , he believed 5600 Men , but
+not all arm'd . TOWNLEY-1746-1,18.52
+
+This Witness farther depos'd , that the Prisoner at the Bar was always
+look'd upon by both Officers and Soldiers , as Colonel of the Regiment
+called the <font> Manchester <$$font> Regiment ; and that he gave
+Command to all the Officers under him , who obey'd his Command as
+principal Officer . - That the Regiment had a Flag with these Words on
+one Side , <font> viz. Liberty and Property ; <$$font> and on the other
+, <font> Church and Country : <$$font> - that they had some <font>
+Artillery <$$font> with them , and the Prisoner always appear'd at the
+Head of his Regiment . TOWNLEY-1746-1,18.53
+
+<font> Cross Examination . <$$font> TOWNLEY-1746-1,18.54
+
+<font> Prisoner's Council . <$$font> TOWNLEY-1746-1,18.55
+
+Mr. Serj. <font> Wynne . <$$font> Pray have you had no Promise of
+Pardon ? TOWNLEY-1746-1,18.56
+
+<font> Witness . <$$font> I have had no certain Promise of Pardon .
+TOWNLEY-1746-1,18.57
+
+I was first examined , at <font> Inverness <$$font> , by the Judge
+<P_19> Advocate of <font> Scotland <$$font> , TOWNLEY-1746-1,19.58
+
+but he did not assure me of a Pardon . TOWNLEY-1746-1,19.59
+
+<font> Prisoner's Council . <$$font> Did not you expect it ?
+TOWNLEY-1746-1,19.60
+
+<font> Witness <$$font> , I can@ @not say , TOWNLEY-1746-1,19.61
+
+but I did expect to be pardon'd , TOWNLEY-1746-1,19.62
+
+for I was only a Servant . TOWNLEY-1746-1,19.63
+
+I was brought ashore very poor , and without any thing to subsist on .
+TOWNLEY-1746-1,19.64
+
+<font> King's Council . <$$font> You say you saw the Prisoner , in the
+Retreat from <font> Derby <$$font> , command his Regiment :
+TOWNLEY-1746-1,19.65
+
+Was not he look'd upon as Colonel ? TOWNLEY-1746-1,19.66
+
+<font> Witness . <$$font> Yes , I saw him on Horseback very often ,
+TOWNLEY-1746-1,19.67
+
+and he always rode at the Head of the Regiment on a bay Horse .
+TOWNLEY-1746-1,19.68
+
+Sir <font> Richard Lloyd . <$$font> Call <font> Samuel Maddox <$$font>
+, who appeared and was sworn , and said , the first Time he saw the
+Prisoner Colonel <font> Townley <$$font> was at <font> Manchester
+<$$font> , about the 6th , 7th , or 8th Day of <font> December <$$font>
+last , but the Day he could not particularly remember and said the
+Prisoner was made Colonel of the <font> Manchester <$$font> Regiment by
+the Pretender's Son ; and one Reason why he was certain he was Colonel
+of the Regiment , was , that a Guard from the said Regiment was mounted
+every Day , and Sentinels {TEXT:Centinels} placed at the Prisoner's
+Quarters ; that he the said <font> Maddox <$$font> marched out with him
+in the Station of an Ensign , but never had any Commission , tho' he
+carried the Colours as such ; that the Prisoner wore a Sword and a Brace
+of Pistols , with a white Cockade in his Hat , and that the Prisoner
+gave Command as Colonel of the Regiment , and that he ordered the said
+<font> Manchester <$$font> Regiment to be drawn up in the Church Yard ,
+in <font> Manchester <$$font> , where the Pretender's Son reviewed them
+, and that he marched at the Head of the Regiment as Colonel to <font>
+Derby . <$$font> TOWNLEY-1746-1,19.69
+
+Their first Day's March from <font> Manchester <$$font> was to <font>
+Winslow <$$font> , where the Prisoner appeared also at the Head of the
+Regiment , and had a white Cockade in his Hat , a Plaid Sash , a Brace
+of Pistols , and <P_20> a Sword ; TOWNLEY-1746-1,20.70
+
+that their next Day's March was to <font> Macclesfield <$$font> , where
+he , this Witness , signified , he had an Inclination to leave the
+Regiment , and return home to his Master at <font> Manchester <$$font> ,
+but was intimidated from so doing , by being threatned , and told , that
+if he did , he would have his Brains knock'd out . TOWNLEY-1746-1,20.71
+
+This Witness farther depos'd , that when they were at <font> Derby
+<$$font> with the Rebel Army , they beat up for Volunteers for the
+<font> Manchester <$$font> Regiment , commanded by the Honourable
+Colonel <font> Francis Townley <$$font> , and that the same was done by
+the particular Order and Direction of the Prisoner . That when the
+Rebel Army retreated from <font> Derby <$$font> , Col. <font> Townley
+<$$font> the Prisoner , and some of his Regiment , took out of a House
+between <font> Derby <$$font> and <font> Ashborn <$$font> , a Sack full
+of Arms , which were concealed under some old Writings ; that the said
+Arms were taken with them to <font> Ashborn <$$font> , and lodg'd all
+Night in the Prisoner's own Room , and dispos'd of afterwards among his
+Men ; that the Prisoner had two Centinels always at his Door all Night
+for fear the Duke of <font> Cumberland <$$font> was nearer to them then
+they imagined ; that the Prisoner march'd as Col. of the <font>
+Manchester <$$font> Regiment , in their Retreat from <font> Derby
+<$$font> to <font> Carlisle <$$font> some Times at the Head of the
+Regiment ; that when they came to <font> Carlisle <$$font> , the
+Prisoner was made by the Pretender's Son Commandant of <font> Carlisle
+<$$font> ; and had another Commission given him by the Pretender's Son
+to raise a Regiment of Horse ; that so soon as the main Body of the
+Rebel Army were gone from <font> Carlisle <$$font> for <font> Scotland
+<$$font> , he the Prisoner took on him the Command of the whole Rebel
+Forces left there , and that he gave Orders for the Guns to be mounted ,
+and also ordered a House to be burnt ; which was accordingly done ,
+alledging that several of the King's <P_21> Forces had fired from it ,
+and annoyed the Pretender's Army ; and that he particularly directed and
+caused several <font> Chevaux_de_Frize <$$font> to be made and fix'd at
+the Gates and Entrances to the City , to prevent his Majesty's Horse or
+Dragoons from approaching it ; that the Prisoner order'd some of the
+Rebel Army then in <font> Carlisle <$$font> , to make a Sally out to
+bring in some Sheep , and that the Prisoner mounted the Walls , with a
+Pistol in his Hand , to give Notice if the King's Forces was near where
+the Men were to go ; that the Prisoner paid the Men of his own Company
+himself , as all the Captains of Companies did theirs ; and that he had
+heard the Prisoner , when in <font> Carlisle <$$font> in Company with
+other Officers , complain that he was fourscore Pounds out of Pocket in
+paying his Men ; that , before the Capitulation , this Witness heard the
+Prisoner have some Words , and was seemingly in a great Passion with
+Colonel <font> Hamilton <$$font> , who was Governor of the Castle or
+Citadel of <font> Carlisle <$$font> , for surrendering the Place , and
+not making a Defence to the last ; and that he heard the Prisoner
+declare , that <font> it was better to die by the Sword , than to fall
+into the Hands of those damn'd <$$font> Hanoverians .
+TOWNLEY-1746-1,21.72
+
+This Witness being particularly asked by the King's Council , if he had
+at any Time seen the Prisoner in <font> Carlisle <$$font> , act as an
+Officer , said , that he had particularly seen him encouraging the Rebel
+Soldiers to make Sallies out on the King's Forces .
+TOWNLEY-1746-1,21.73
+
+<font> Cross Examination of this Witness . <$$font>
+TOWNLEY-1746-1,21.74
+
+Mr. <font> Sergeant Wynne . <$$font> Mr. <font> Maddox <$$font> ,
+after the Surrender of the Town and Citadel of <font> Carlisle <$$font>
+, did not you all expect Mercy ? TOWNLEY-1746-1,21.75
+
+<font> Maddox . <$$font> We were all put Prisoners into the Church .
+TOWNLEY-1746-1,21.76
+
+Serj. <font> Wynne . <$$font> Did you all expect to be hang'd ?
+TOWNLEY-1746-1,21.77
+
+<font> Maddox . <$$font> I ca@ @n't say that , TOWNLEY-1746-1,21.78
+
+for we were in Expectation of being at Liberty again soon .
+TOWNLEY-1746-1,21.79
+
+<P_22>
+
+Serj. <font> Wynne <$$font> , Pray do not you expect a Pardon ,
+TOWNLEY-1746-1,22.81
+
+or have you had any Promise of a Reward for what you have done in this
+Affair ? TOWNLEY-1746-1,22.82
+
+<font> Maddox . <$$font> I can@ @not say I have ever had any Promise of
+a Reward . TOWNLEY-1746-1,22.83
+
+Serj. <font> Wynne . <$$font> I find you are a very smart young Man ,
+TOWNLEY-1746-1,22.84
+
+and I desire to be answer'd to this Question ; TOWNLEY-1746-1,22.85
+
+Pray have you had any Promise of a Reward or Pardon ,
+TOWNLEY-1746-1,22.86
+
+or do you expect any Reward or Pardon after having given your Evidence
+against the Prisoner at the Bar , or the other Prisoners that are in
+Custody ? TOWNLEY-1746-1,22.87
+
+<font> Maddox . <$$font> My Brother came to me when I was in <font> New
+Prison <$$font> , TOWNLEY-1746-1,22.88
+
+and he did advise me to do the best I could for myself , and serve my
+Country . TOWNLEY-1746-1,22.89
+
+Soon after one of his Majesty's Messengers took me away ;
+TOWNLEY-1746-1,22.90
+
+and I have been at his House ever since , only at those Times I went to
+be examined ; TOWNLEY-1746-1,22.91
+
+no body ever told me that I should be pardon'd , TOWNLEY-1746-1,22.92
+
+but my Friends advis'd me to do what I have done . TOWNLEY-1746-1,22.93
+
+If I could have a free Pardon I should be very thankful for it .
+TOWNLEY-1746-1,22.94
+
+Mr. <font> Clayton , <paren> another of the Prisoner's Council .
+<$$paren> <$$font> Mr. <font> Maddox <$$font> , did not his Royal
+Highness the Duke , <paren> when you surrendred Prisoners <$$paren>
+promise you Mercy ? TOWNLEY-1746-1,22.95
+
+<font> Maddox . <$$font> All the Terms his Royal Highness said we were
+to expect , were , we should not be put to the Sword , but that we
+should be left to his Majesty's Pleasure , which two <font> Scots
+<$$font> Officers who went to the Duke , and whose Names were <font>
+Abernethy <$$font> and <font> Forbes <$$font> , told us ; and that the
+People in <font> Carlisle <$$font> were to deliver up all their Arms at
+the Gate , and the Officers were to go into the Church .
+TOWNLEY-1746-1,22.96
+
+<font> King's Council . <$$font> Call <font> Austin Coleman <$$font> ,
+who appear'd and was sworn , and said , he saw the Prisoner at the Bar
+in <font> Carlisle <$$font> , who was call'd Col. <font> Townly
+<$$font> , and commanded the <font> Manchester <$$font> Regiment , and
+was made Commandant <P_23> of the said City by the Pretender's Son ;
+TOWNLEY-1746-1,23.97
+
+and if any of the Soldiers wanted Arms they applied to him ,
+TOWNLEY-1746-1,23.98
+
+and he furnish'd them with Firelocks , Pistols and Bayonets ;
+TOWNLEY-1746-1,23.99
+
+and that he often had seen the Prisoner order the Guard to mount , and
+always acted as their chief Officer , and all the other Officers took
+their Orders from him as their Superior . TOWNLEY-1746-1,23.100
+
+<font> Cross Examination . <$$font> TOWNLEY-1746-1,23.101
+
+Mr. Serj. <font> Wynne . <$$font> Pray Sir inform me what Time you
+saw the Gentleman at the Bar at <font> Carlisle <$$font> ,
+TOWNLEY-1746-1,23.102
+
+was it in the Month of <font> November <$$font> ? TOWNLEY-1746-1,23.103
+
+<font> Coleman . <$$font> I can@ @not tell what Month it was ,
+TOWNLEY-1746-1,23.104
+
+I know I saw him at <font> Carlisle <$$font> , and he had a Commission
+from the Pretender's Son . TOWNLEY-1746-1,23.105
+
+Mr. Serj. <font> Wynne . <$$font> Did you ever hear him say he had a
+Commission ? TOWNLEY-1746-1,23.106
+
+<font> Coleman . <$$font> No I never did . TOWNLEY-1746-1,23.107
+
+Mr. Serj. <font> Wynne . <$$font> Then what you say signifies nothing
+: TOWNLEY-1746-1,23.108
+
+Was it before <font> Christmas <$$font> or after that you saw him at
+<font> Carlisle <$$font> ? TOWNLEY-1746-1,23.109
+
+<font> Coleman . <$$font> I do@ @n't know when it was I saw him there .
+TOWNLEY-1746-1,23.110
+
+Mr. <font> Clayton . <$$font> Do@ @n't you know what Time of the Year
+<font> Christmas <$$font> is ? TOWNLEY-1746-1,23.111
+
+<font> Coleman . <$$font> I do@ @n't know ; TOWNLEY-1746-1,23.112
+
+<font> Christmas <$$font> is when <font> Christmas <$$font> comes .
+TOWNLEY-1746-1,23.113
+
+Mr Serj. <font> Wynne . <$$font> I believe you hardly know your Right
+Hand from your Left . TOWNLEY-1746-1,23.114
+
+<font> King's Council . <$$font> Call Capt. <font> Carey <$$font> of
+the Foot Guards , who appear'd . TOWNLEY-1746-1,23.115
+
+<font> King's Council . <$$font> Pray swear the Captain ; which being
+done , he said that he received Orders by Lord <font> George Beauclerk
+<$$font> , from his Royal Highness Duke <font> William <$$font> , to
+take Care of the Governor of <font> Carlisle <$$font> , and had his
+Royal Highness's Orders to examine all the Rebel Prisoners Papers ,
+amongst whom he apply'd <P_24> to the Prisoner at the Bar , who said he
+had delivered his Commission before to Major <font> Adams . <$$font>
+TOWNLEY-1746-1,24.116
+
+He farther said , that the Prisoner had some Guineas in his Pockets ,
+and his Watch , which he did not take from him ; TOWNLEY-1746-1,24.117
+
+for his Royal Highness's Orders were not to take any Money out of the
+Pockets of any of the Officers , only to seize all publick Money that
+they had collected ; for that what Money they had in their Pockets might
+be of Service to them in their Confinement . TOWNLEY-1746-1,24.118
+
+That this Evidence indors'd all the Papers that he found on such of the
+Officers as he search'd , TOWNLEY-1746-1,24.119
+
+and said , the Capitulation was sign'd by the Duke of <font> Richmond
+<$$font> , Lieutenant_General in the Army ; wherein the Rebels in <font>
+Carlisle <$$font> were to be at the King's Pleasure .
+TOWNLEY-1746-1,24.120
+
+<font> Council for the King . <$$font> Sir , are you sure that the
+Capitulation that was signed by the Duke of <font> Richmond <$$font> was
+mentioned to be reserv'd for the King's Pleasure .
+TOWNLEY-1746-1,24.121
+
+Capt. <font> Carey . <$$font> I ca@ @n't take upon me to be certain of
+that ; TOWNLEY-1746-1,24.122
+
+but I think so . TOWNLEY-1746-1,24.123
+
+<font> King's Council . <$$font> Do you know the Duke of <font>
+Richmond <$$font> 's Hand-writing ? TOWNLEY-1746-1,24.124
+
+Capt. <font> Carey . <$$font> No , I never saw his Grace write .
+TOWNLEY-1746-1,24.125
+
+Then a Paper was shewn him , which he said was the Capitulation ,
+TOWNLEY-1746-1,24.126
+
+and was read , as follows . TOWNLEY-1746-1,24.127
+
+' All the Terms his Royal Highness will or can grant to the Rebel
+Garrison of <font> Carlisle <$$font> , are , That they shall not be put
+to the Sword , but be reserv'd for the King's Pleasure .
+TOWNLEY-1746-1,24.128
+
+If they consent to these Conditions , the Governor and principal
+Officers are to deliver themselves up immediately ,
+TOWNLEY-1746-1,24.129
+
+and the Castle , Citadel , and all the Gates of the Town , are to be
+taken Possession of forthwith by the King's Troops .
+TOWNLEY-1746-1,24.130
+
+All the small Arms are to be lodged in the Town Guard Room ,
+TOWNLEY-1746-1,24.131
+
+<P_25>
+
+and the rest of the Garrison are to retire to the Cathedral , where a
+Guard is to be placed over them . TOWNLEY-1746-1,25.133
+
+No Damage is to be done to the Artillery , Arms , or Ammunition . '
+TOWNLEY-1746-1,25.134
+
+<font> Head Quarters at <$$font> Blackall , TOWNLEY-1746-1,25.135
+
+30 Dec. <font> TOWNLEY-1746-1,25.136
+
+Half an Hour past Two in the Afternoon . <$$font> TOWNLEY-1746-1,25.137
+
+By his Royal Highness's Command , Sign'd <font> Richmond , Lenox
+<$$font> , and <font> Aubigney <$$font> , Lieutenant-Generals of his
+Majesty's Forces . TOWNLEY-1746-1,25.138
+
+<font> King's Council . <$$font> Call Capt. <font> Nevet <$$font> of
+the 3d Regiment of Foot Guards , who appearing , and being sworn , said
+, He went by Order of his Royal Highness the Duke to visit and examine
+the Rebel Officers in <font> Carlisle ; <$$font> and that the Prisoner
+was one of them , and went by the Name of Col. <font> Townley <$$font>
+, and Commandant of <font> Carlisle . <$$font> TOWNLEY-1746-1,25.139
+
+<font> King's Council . <$$font> Swear Capt. <font> Vere <$$font> ,
+which was done . TOWNLEY-1746-1,25.140
+
+<font> King's Council <$$font> Sir , will you be pleased to tell my
+Lords and the Gentlemen of the Jury , what you know of the Prisoner at
+the Bar being in the late unnatural Rebellion ? TOWNLEY-1746-1,25.141
+
+Capt. <font> Vere . <$$font> I saw the Prisoner on the 20th of <font>
+November <$$font> at <font> Carlisle <$$font> , TOWNLEY-1746-1,25.142
+
+for I was taken Prisoner a little before by the Rebel Army ;
+TOWNLEY-1746-1,25.143
+
+he was called <font> Colonel Townley <$$font> , Colonel of the <font>
+Manchester <$$font> Regiment , and Commandant of the Town .
+TOWNLEY-1746-1,25.144
+
+On the 25th of <font> December <$$font> he appear'd with a white Cockade
+; TOWNLEY-1746-1,25.145
+
+I went up to Colonel <font> Hamilton <$$font> 's Room , where we talked
+of a Capitulation , TOWNLEY-1746-1,25.146
+
+and Mr. <font> Hamilton <$$font> was willing to agree to it :
+TOWNLEY-1746-1,25.147
+
+We then wrote a Letter to his Royal Highness the Duke ,
+TOWNLEY-1746-1,25.148
+
+and the Messenger who carried it was made a Prisoner ;
+TOWNLEY-1746-1,25.149
+
+and Mr. <font> Hamilton <$$font> desired me to go to Capt. <font>
+Abernethy <$$font> , and the <font> Scotch <$$font> Officers ,
+TOWNLEY-1746-1,25.150
+
+and they all agreed to what was done , TOWNLEY-1746-1,25.151
+
+and the next Day they hung out the white Flag . TOWNLEY-1746-1,25.152
+
+<P_26>
+
+Sir <font> John Strange . <$$font> Did not <font> Townley <$$font>
+appear as the Commanding Officer ? TOWNLEY-1746-1,26.154
+
+Capt. <font> Vere . <$$font> Yes ; I saw his Commission in the Guard
+Room . TOWNLEY-1746-1,26.155
+
+Sir <font> John Strange . <$$font> Did you see it in his own Hands ?
+{TEXT:.} TOWNLEY-1746-1,26.156
+
+Capt. <font> Vere . <$$font> I ca@ @n't say I did .
+TOWNLEY-1746-1,26.157
+
+Mr. Serj. <font> Wynne . <$$font> Pray , Sir , what are you ?
+TOWNLEY-1746-1,26.158
+
+Capt. <font> Vere . <$$font> I am an Officer , TOWNLEY-1746-1,26.159
+
+and was sent by his Grace the Duke of <font> Newcastle <$$font> upon the
+publick Service . TOWNLEY-1746-1,26.160
+
+Mr. <font> Davidson <$$font> , a Grocer of <font> Carlisle <$$font> ,
+was the next Witness ; who , being call'd and sworn , depos'd , that he
+had seen the Prisoner at <font> Carlisle <$$font> , where he acted as
+Colonel of the <font> Manchester <$$font> Regiment , and Commandant of
+the City of <font> Carlisle ; <$$font> TOWNLEY-1746-1,26.161
+
+he was present when he ordered a House to be set on fire at <font>
+Carlisle ; <$$font> TOWNLEY-1746-1,26.162
+
+and on this Deponent's asking him the Reason for it , he reply'd , that
+several of the Elector of <font> Hanover <$$font> 's Men had fired from
+it , and annoy'd his Men . TOWNLEY-1746-1,26.163
+
+Here the King's Council rested it . TOWNLEY-1746-1,26.164
+
+The Council for the Prisoner proceeded now to his Defence ,
+TOWNLEY-1746-1,26.165
+
+and pleaded , That Mr. <font> Townley <$$font> was a Gentleman of a
+good Family , and that his Education was suitable to his Birth ; but ,
+by some Misfortunes in his Family , was obliged to retire to <font>
+France <$$font> , which happen'd in the Year 1728 .
+TOWNLEY-1746-1,26.166
+
+Being a Man of Spirit he was soon taken Notice of by the <font> French
+<$$font> Court , TOWNLEY-1746-1,26.167
+
+and being recommended to his most Christian Majesty as a Person capable
+of a Post in his Army , the King gave him a Commission . In Consequence
+of which he serv'd at the Siege of <font> Philipsburgh <$$font> under
+the Marshal Duke of <font> Berwick <$$font> , who lost his Life before
+the Walls of that Place . TOWNLEY-1746-1,26.168
+
+Our young Officer , Mr. <font> Townley <$$font> , behaved himself there
+with such Courage <P_27> and Conduct , as gained him the Respect and
+Esteem of all the Officers in the Army . TOWNLEY-1746-1,27.169
+
+He executed all the Orders of his Superiors with the greatest
+Intrepidity ; TOWNLEY-1746-1,27.170
+
+and exposed himself on every Occasion in such a Manner , as if Life was
+of no Signification , when Honour and the Service of his Master stood in
+Competition with it . TOWNLEY-1746-1,27.171
+
+He was likeways in several other Sieges and Engagements , where his
+Behaviour was always such as became a Man of Honour ;
+TOWNLEY-1746-1,27.172
+
+and as he received the Pay of his most Christian Majesty , he thought it
+his Duty to serve him with all the Fidelity he was capable of .
+TOWNLEY-1746-1,27.173
+
+Thus he continued in that Service from the Year 1728 , till a few Years
+since , that he came into <font> England <$$font> , where he privately
+resided till about the Time of the Breaking out of the Rebellion ;
+TOWNLEY-1746-1,27.174
+
+and the <font> French <$$font> King imagining he might be of Service in
+promoting his Views , in the Invasion which he had meditated against
+these Kingdoms , sent him a Colonel's Commission , to enable him to
+raise Forces , and to assist his Ally , the Pretender , in his
+Expedition to <font> Scotland . <$$font> TOWNLEY-1746-1,27.175
+
+Thus it appears , that he has been sixteen Years in the Service of
+<font> France <$$font> ; that he has had the <font> French <$$font>
+King's Commission during all that Time , and consequently was as much in
+the Service of <font> France <$$font> as any Officer in the <font>
+French <$$font> Army ; TOWNLEY-1746-1,27.176
+
+and therefore they were humbly of Opinion , that Col. <font> Townley
+<$$font> had as just a Right to the <font> Cartel <$$font> as any <font>
+French <$$font> Officer that has been taken by the <font> English
+<$$font> , during the Progress of the War between the two Kingdoms .
+TOWNLEY-1746-1,27.177
+
+We must acknowledge , that the King's Council have open'd the Nature of
+the Indictment with all the Candour that could be expected , and have
+not exaggerated the Charge against the Prisoner beyond the Bounds of
+Humanity and Good-nature ; TOWNLEY-1746-1,27.178
+
+and we humbly hope they will be of Opinion with us , that tho' the
+Prisoner at the Bar should unhappily be found <P_28> acting in this
+unnatural Rebellion , yet as he acted under a Commission from the <font>
+French <$$font> King , he has a Right to the <font> Cartel <$$font> for
+settling the Exchange of Prisoners that may be taken on either Side , in
+the War now carried on between the two Kingdoms . TOWNLEY-1746-1,28.179
+
+The Evidence we have to produce in Behalf of the Prisoner , are only
+three . TOWNLEY-1746-1,28.180
+
+The first is Capt. <font> Carpentier <$$font> , who will prove , we
+hope , to your Lordships' Satisfaction , that Col. <font> Townley
+<$$font> was many Years in the <font> French <$$font> Service , under a
+Commission from the <font> French <$$font> King ; and , since his being
+taken at <font> Carlisle <$$font> , has been constantly supplied from
+<font> France ; <$$font> TOWNLEY-1746-1,28.181
+
+the other two , who are <font> John Hayward <$$font> and <font> Thomas
+Dickinson <$$font> , we shall bring to invalidate the Evidence of Mr.
+<font> Maddox <$$font> , by shewing the Badness of his Character , and
+that he is such a Man whose Testimony is not to be credited .
+TOWNLEY-1746-1,28.182
+
+And the Prisoner's Council farther observed , that the Indictment was
+insufficient , for that they had not mentioned the Day in the Indictment
+when the Treason was done , and that by the glorious Statute of the 7th
+of King <font> William <$$font> III. which was justly esteemed the
+Bulwark of <font> English <$$font> Liberty , directed , that nothing
+shall be given in Evidence but what is inserted in the Indictment , and
+that the Time not being mentioned in the Indictment when the Treason was
+acted , is sufficient to quash it , because it might be so long past as
+to intitle the Prisoner to the Benefit of the Limitation enacted in the
+said King's Reign ; TOWNLEY-1746-1,28.183
+
+and that Act says , that no Person shall be convicted , or suffer for
+High or Petit Treason , unless a Prosecution is begun against the Person
+who committed such Treason , in three Years after the Commission of such
+Treason . TOWNLEY-1746-1,28.184
+
+<font> Council . <$$font> Pray call M. <font> Carpentier <$$font> ,
+who appeared and was sworn . TOWNLEY-1746-1,28.185
+
+<P_29>
+
+<font> Kings Council . <$$font> Pray what would you ask this Gentleman
+to {COM:sic} ? TOWNLEY-1746-1,29.187
+
+<font> Prisoner's Council . <$$font> To prove that the Prisoner had a
+Commission from the <font> French <$$font> King , and that he was at the
+Siege of <font> Philipsburg . <$$font> TOWNLEY-1746-1,29.188
+
+<font> Court . <$$font> That will be against you ;
+TOWNLEY-1746-1,29.189
+
+for no Man that is a liege Subject of his Majesty can justify taking up
+Arms , and acting in the Service of a Prince that is actually in War
+against his Majesty . TOWNLEY-1746-1,29.190
+
+On which <font> Carpentier <$$font> was set aside , without being
+examined . TOWNLEY-1746-1,29.191
+
+Mr. Serj. <font> Wynne . <$$font> Pray call <font> John Hayward
+<$$font> ; who appeared and was sworn . TOWNLEY-1746-1,29.192
+
+Mr. Serj. <font> Wynne . <$$font> Pray , Sir , do you know <font>
+Samuel Maddox <$$font> , TOWNLEY-1746-1,29.193
+
+and how long have you known him ? TOWNLEY-1746-1,29.194
+
+<font> John Hayward . <$$font> Yes , Sir , about two Years .
+TOWNLEY-1746-1,29.195
+
+Mr. Serj. <font> Wynne . <$$font> Pray what Character doth he bear ?
+TOWNLEY-1746-1,29.196
+
+<font> John Hayward . <$$font> He bears such a very bad Character ,
+that I would not believe him upon his Oath . TOWNLEY-1746-1,29.197
+
+<heading>
+
+<font> Cross_Examined . <$$font> TOWNLEY-1746-1,29.199
+
+<$$heading>
+
+Sir <font> John Strange . <$$font> I hope you believe every Person that
+join'd with the Rebels , are bad Men . TOWNLEY-1746-1,29.201
+
+<font> Hayward . <$$font> Yes , Sir . TOWNLEY-1746-1,29.202
+
+Sir <font> R. Lloyd . <$$font> What Business are you of ?
+TOWNLEY-1746-1,29.203
+
+<font> Hayward . <$$font> I am a Glover and Leather-seller at <font>
+Manchester . <$$font> TOWNLEY-1746-1,29.204
+
+After being examined , he went out of Court , TOWNLEY-1746-1,29.205
+
+but was recalled . TOWNLEY-1746-1,29.206
+
+<font> Solicitor_Gen. <$$font> Mr. <font> Hayward <$$font> , Pray did
+you see the Prisoner at the Bar in <font> Manchester ? <$$font>
+TOWNLEY-1746-1,29.207
+
+<font> Hayward . <$$font> No , I never saw the Prisoner before .
+TOWNLEY-1746-1,29.208
+
+<font> Couns. Clayton . <$$font> Pray call <font> Thomas Dickinson ;
+<$$font> who appear'd , and was sworn . TOWNLEY-1746-1,29.209
+
+<font> Couns. Clayton . <$$font> Sir , do you know <font> Samuel
+Maddox ? <$$font> TOWNLEY-1746-1,29.210
+
+<P_30>
+
+<font> T. Dickinson . <$$font> Yes , Sir ; he was bound Apprentice to
+an Apothecary at <font> Manchester . <$$font> TOWNLEY-1746-1,30.212
+
+<font> Couns. Clayton . <$$font> Pray what Character does he bear ?
+TOWNLEY-1746-1,30.213
+
+<font> T. Dickinson . <$$font> A very bad one . TOWNLEY-1746-1,30.214
+
+<font> Couns. Clayton . <$$font> Would you believe him upon his Oath ?
+TOWNLEY-1746-1,30.215
+
+<font> T. Dickinson . <$$font> No , I would not , especially upon Life
+and Death . TOWNLEY-1746-1,30.216
+
+Sir <font> John Strange . <$$font> For what Reason do you take upon you
+to swear , he is not to be believed upon his Oath ?
+TOWNLEY-1746-1,30.217
+
+<font> Dickinson . <$$font> I do@ @n't know particularly ;
+TOWNLEY-1746-1,30.218
+
+but I have heard he was a very bad Apprentice , and that he had wrong'd
+his Master . TOWNLEY-1746-1,30.219
+
+<font> Sir J. Strange . <$$font> Do you know his Master ?
+TOWNLEY-1746-1,30.220
+
+<font> Dickinson . <$$font> Yes ; his Master is in <font> London
+<$$font> now . TOWNLEY-1746-1,30.221
+
+Sir <font> J. Strange . <$$font> So , for no other Reason , than
+because you have heard he was not a good 'Prentice , you take upon you
+to swear he is not to be believed on his Oath . TOWNLEY-1746-1,30.222
+
+I suppose you have some more bad 'Prentices in <font> Manchester .
+<$$font> TOWNLEY-1746-1,30.223
+
+<font> Dickinson . <$$font> Yes , there are . TOWNLEY-1746-1,30.224
+
+Mr. <font> Att._Gen. Dickinson <$$font> , Did you ever see the
+Prisoner at <font> Manchester <$$font> at the Time the Rebel Army was
+there ? TOWNLEY-1746-1,30.225
+
+<font> Dickinson . <$$font> Yes . TOWNLEY-1746-1,30.226
+
+<font> Mr. Att._Gen. <$$font> What was he doing there ?
+TOWNLEY-1746-1,30.227
+
+<font> Dickinson . <$$font> He was Colonel of the <font> Manchester
+<$$font> Regiment . TOWNLEY-1746-1,30.228
+
+<font> Mr. Att._Gen. <$$font> What , in the Pretender's Service ?
+TOWNLEY-1746-1,30.229
+
+<font> Dickinson . <$$font> Yes , in the Rebel Army .
+TOWNLEY-1746-1,30.230
+
+<font> The Evidence for the Prisoner being all gone through , Mr.
+Solicitor_General replied to what had been objected by the Prisoner's
+Council to the Indictment . <$$font> TOWNLEY-1746-1,30.231
+
+Mr. <font> Solicitor_General <$$font> stood up , TOWNLEY-1746-1,30.232
+
+and made a Reply to the Prisoner's Council , wherein he observ'd , the
+<P_31> first overt {TEXT:ouvert} Act of High Treason charged against the
+Prisoner , is compassing and imagining the Death of the King ;
+TOWNLEY-1746-1,31.233
+
+the next is , adhering to the King's Enemies , and levying of War
+against his Majesty's Person and Government , TOWNLEY-1746-1,31.234
+
+and this is founded on the Statute of the 25th of <font> Edward the
+Third . <$$font> TOWNLEY-1746-1,31.235
+
+And levying of War by one or more Persons , is Treason :
+TOWNLEY-1746-1,31.236
+
+That this War has been levy'd , and that Acts of Hostilities have been
+committed by the Prisoner , I do@ @n't doubt but that it has been
+sufficiently proved to you , Gentlemen of the Jury ;
+TOWNLEY-1746-1,31.237
+
+there is no Occasion to prove explicitly all that is laid in the
+Indictment ; TOWNLEY-1746-1,31.238
+
+but that War has been levyed against his Majesty , has been sufficiently
+proved , and admitted by the learned Council for the Prisoner ;
+TOWNLEY-1746-1,31.239
+
+it has been proved likeways , that the Prisoner , with a tumultuous
+Number of Rebels and Traitors , did assemble in several Parts of his
+Majesty's Dominions , and levied a cruel and destructive War .
+TOWNLEY-1746-1,31.240
+
+The Council on the other Side would insinuate , that the Crime was
+committed before the Day laid in the Indictment , TOWNLEY-1746-1,31.241
+
+therefore the Day of the Commission in the Indictment should be inserted
+. TOWNLEY-1746-1,31.242
+
+But , admitting it was so , this Indictment is good ;
+TOWNLEY-1746-1,31.243
+
+for in the Case of Sir <font> Harry Gray <$$font> , it was the Opinion
+of all the Judges , that Sir <font> Harry <$$font> was guilty ,
+notwithstanding that the Fact was committed twelve Years before the
+Indictment ; TOWNLEY-1746-1,31.244
+
+and it is recent in the Memory of many Gentlemen of the Law , that this
+was the Case of <font> Chandler , Layer <$$font> , and <font> Bradshaw ;
+<$$font> TOWNLEY-1746-1,31.245
+
+and so it was allowed in constructive Treason , in the Case of <font>
+Dammery <$$font> and others , in the Reign of the late Queen <font> Anne
+<$$font> , for pulling down of Houses , and many Cases of the like
+Nature in Sir <font> Matthew Hale's <$$font> Pleas of the Crown . For
+which several Reasons , and what has been mentioned before , I humbly
+conceive your Lordship will over-rule this Exception , as having no
+<P_32> Weight . <bracket> Upon which the said Motion was overruled by
+the Court . TOWNLEY-1746-1,32.246
+
+<$$bracket> Then my Lord_Chief_Justice <font> Lee <$$font> summ'd up the
+Evidence very impartially , TOWNLEY-1746-1,32.247
+
+and gave a most eloquent and learned Charge to the Jury . After which
+the Jury consulted together in Court , TOWNLEY-1746-1,32.248
+
+but not agreeing in their Verdict , withdrew about ten Minutes ,
+TOWNLEY-1746-1,32.249
+
+and when they returned into Court , were called over by the Clerk of the
+Arraigns , TOWNLEY-1746-1,32.250
+
+and answered to their Names . TOWNLEY-1746-1,32.251
+
+<font> Clerk of the Arraigns . <$$font> Gentlemen of the Jury , are you
+agreed on your Verdict ? TOWNLEY-1746-1,32.252
+
+<font> Jury . <$$font> Yes . TOWNLEY-1746-1,32.253
+
+<font> Clerk of the Arraigns . <$$font> Who shall say for you ?
+TOWNLEY-1746-1,32.254
+
+<font> Jury . <$$font> Our Foreman . TOWNLEY-1746-1,32.255
+
+<font> Clerk of the Arraigns . Francis Townley <$$font> , hold up your
+Hand , <font> <paren> which he did <$$paren> <$$font>
+TOWNLEY-1746-1,32.256
+
+How say you ? TOWNLEY-1746-1,32.257
+
+Is <font> Francis Townley <$$font> guilty of the High Treason whereof he
+stands indicted , or not guilty ? TOWNLEY-1746-1,32.258
+
+<font> Foreman . <$$font> Guilty . TOWNLEY-1746-1,32.259
+
+<font> Clerk of the Arraigns . <$$font> What Goods and Chattels , Lands
+and Tenements , had he at the Time of the said High Treason committed ,
+and at any time since , to your Knowledge ? TOWNLEY-1746-1,32.260
+
+<font> Jury . <$$font> None . TOWNLEY-1746-1,32.261
+
+<font> Clerk of the Arraigns . <$$font> Hearken to your Verdict , as
+the Court has recorded it ; TOWNLEY-1746-1,32.262
+
+you say that <font> Francis Townley <$$font> is guilty of the High
+Treason whereof he stands indicted , TOWNLEY-1746-1,32.263
+
+and you say he had no Goods , nor Chattels , Land or Tenements , at the
+Time of the said High Treason committed , or at any time since , to your
+Knowledge , TOWNLEY-1746-1,32.264
+
+and so you say all . TOWNLEY-1746-1,32.265
+
+<font> Jury . <$$font> Yes . TOWNLEY-1746-1,32.266
+
+Then Mr. <font> Jones <$$font> , Keeper of the County Gaol {TEXT:Goal}
+of <font> Surrey <$$font> , was order'd to take Care of the Prisoner .
+TOWNLEY-1746-1,32.267
+
+<P_33_omitted>
+
+<P_34>
+
+<font> Ormsby MacCormack being sworn . <$$font> TOWNLEY-1746-1,34.270
+
+<font> King's Council . <$$font> Mr. <font> MacCormack <$$font> , pray
+look upon the Prisoner , TOWNLEY-1746-1,34.271
+
+and then tell the Court , and the Gentlemen of the Jury , what you know
+of him ; TOWNLEY-1746-1,34.272
+
+and speak out loud , that you may be heard . TOWNLEY-1746-1,34.273
+
+<font> MacCormack . <$$font> The first Time that I saw him , was before
+the Rebels march'd from <font> Manchester <$$font> to <font> Derby .
+<$$font> TOWNLEY-1746-1,34.274
+
+<font> King's Council . <$$font> What Appearance did the Prisoner make
+at <font> Manchester ? <$$font> TOWNLEY-1746-1,34.275
+
+Did you look upon him to be an Officer ? TOWNLEY-1746-1,34.276
+
+<font> MacCormack . <$$font> He had a white Cockade in his Hat ,
+TOWNLEY-1746-1,34.277
+
+and marched as Captain in the <font> Manchester <$$font> Regiment .
+TOWNLEY-1746-1,34.278
+
+I saw the Flag that belonged to the Regiment flying ,
+TOWNLEY-1746-1,34.279
+
+and the Motto was , <font> Liberty and Property , Church and Country .
+<$$font> TOWNLEY-1746-1,34.280
+
+<font> King's Council . <$$font> Did he march with all the Rebel Army ?
+TOWNLEY-1746-1,34.281
+
+Were there any Pipes playing ? TOWNLEY-1746-1,34.282
+
+<font> MacCormack . <$$font> There were Pipes playing before the <font>
+Highland <$$font> Rebels , but none in the <font> Manchester <$$font>
+Regiment . TOWNLEY-1746-1,34.283
+
+- I saw him also at <font> Derby . <$$font> TOWNLEY-1746-1,34.284
+
+<font> Prisoner's Council . <$$font> Pray , Friend , how came you to
+know him so particularly ? TOWNLEY-1746-1,34.285
+
+<font> MacCormack . <$$font> They call'd him Captain <font> Dawson .
+<$$font> TOWNLEY-1746-1,34.286
+
+<bracket> <font> Here the Council for the Prisoner interrupted the
+Witness , because there is one <$$font> Dawson <font> now in Custody
+<$$font> , <P_35> <font> who was an Officer in the said Regiment , and
+the Prisoner's Name is <$$font> Fletcher . TOWNLEY-1746-1,35.287
+
+<$$bracket> <font> King's Council . <$$font> Look at the Prisoner again
+. TOWNLEY-1746-1,35.288
+
+<paren> <font> Looking earnestly at him <$$font> <$$paren> <font>
+MacCormack . <$$font> Though I may mistake his Name , I am sure he is
+the Person that I saw at <font> Derby <$$font> , though I can@ @not
+positively say he gave any Command there as an Officer .
+TOWNLEY-1746-1,35.289
+
+I saw him at <font> Preston <$$font> , and other Places along the Road ,
+till we came to <font> Carlisle . <$$font> TOWNLEY-1746-1,35.290
+
+<font> King's Council . <$$font> Was you with him at <font> Carlisle ?
+<$$font> TOWNLEY-1746-1,35.291
+
+<font> MacCormack . <$$font> I was at <font> Carlisle <$$font> ,
+TOWNLEY-1746-1,35.292
+
+but he was there before I came , TOWNLEY-1746-1,35.293
+
+and there I saw him act as a Captain ; TOWNLEY-1746-1,35.294
+
+and when the Soldiers were drawn up in the <font> Castle-Yard <$$font> ,
+I saw him there , TOWNLEY-1746-1,35.295
+
+and saw Arms distributed to some of the Soldiers who had none .
+TOWNLEY-1746-1,35.296
+
+<font> Prisoner's Council <$$font> Did you see him distribute any Arms
+to any of the Soldiers ? TOWNLEY-1746-1,35.297
+
+<font> MacCormack . <$$font> I can@ @not say that I did .
+TOWNLEY-1746-1,35.298
+
+<font> Prisoner's Council . <$$font> Then who distributed those Arms ?
+TOWNLEY-1746-1,35.299
+
+<font> MacCormack . <$$font> It was a <font> Scotch <$$font> Officer ,
+whom I am informed is since killed . TOWNLEY-1746-1,35.300
+
+- I heard so . TOWNLEY-1746-1,35.301
+
+<font> King's Council . <$$font> Was not the Prisoner at the Bar at
+<font> Carlisle <$$font> when the Duke was before the Town ?
+TOWNLEY-1746-1,35.302
+
+<font> M'Cormack . <$$font> Yes , I am sure he was , and commanded as
+an Officer ; TOWNLEY-1746-1,35.303
+
+he had a white Cockade in his Hat , a <font> Highland <$$font> Sash
+Plaid lin'd with white Silk , and all Military Accoutrements that
+Officers have . TOWNLEY-1746-1,35.304
+
+<font> King's Council . <$$font> Then you are certain as to his Person
+. TOWNLEY-1746-1,35.305
+
+<font> M'Cormack . <$$font> I am certain this is the Gentleman ,
+TOWNLEY-1746-1,35.306
+
+for he mounted the very first Captain's Guard that was mounted at <font>
+Carlisle . <$$font> TOWNLEY-1746-1,35.307
+
+I saw him at the Surrender , TOWNLEY-1746-1,35.308
+
+and he was carried into the Church , and made Prisoner with the rest of
+the Officers . TOWNLEY-1746-1,35.309
+
+Serj. <font> Wynne . <$$font> Are you sure he is the very Man ?
+TOWNLEY-1746-1,35.310
+
+<P_36>
+
+<font> M'Cormack . <$$font> I am very sure of it , tho' he has been
+long out of my Sight . TOWNLEY-1746-1,36.312
+
+<font> Lord_Chief_Justice . <$$font> Consider , you are upon your Oath
+, and what you say affects his Life . TOWNLEY-1746-1,36.313
+
+<font> M'Cormack . <$$font> I am sure he@ @'s the very same .
+TOWNLEY-1746-1,36.314
+
+I know his Person perfectly well . TOWNLEY-1746-1,36.315
+
+Serj. <font> Wynne . <$$font> How can you be so positive to him ,
+TOWNLEY-1746-1,36.316
+
+did you ever see him before you came to <font> Manchester ? <$$font>
+TOWNLEY-1746-1,36.317
+
+<font> M'Cormack . <$$font> Not to my Knowledge .
+TOWNLEY-1746-1,36.318
+
+Serj. <font> Wynne . <$$font> Where did you come from ?
+TOWNLEY-1746-1,36.319
+
+what Countryman are you ? TOWNLEY-1746-1,36.320
+
+<font> M'Cormack . <$$font> I am an <font> Irishman <$$font> ,
+TOWNLEY-1746-1,36.321
+
+I came from <font> Ireland . <$$font> TOWNLEY-1746-1,36.322
+
+Serj. <font> Wynne . <$$font> What brought you to <font> Manchester ?
+<$$font> TOWNLEY-1746-1,36.323
+
+<font> M'Cormack . <$$font> I am a Weaver by Trade ,
+TOWNLEY-1746-1,36.324
+
+and I came to <font> Manchester <$$font> last <font> May <$$font> was
+Twelve-month to seek for Business , TOWNLEY-1746-1,36.325
+
+and I continued there , TOWNLEY-1746-1,36.326
+
+and worked till the 30th of <font> June ; <$$font> TOWNLEY-1746-1,36.327
+
+then Business falling short , I went into <font> Warwickshire <$$font> ,
+TOWNLEY-1746-1,36.328
+
+and worked as a Haymaker for my Living . TOWNLEY-1746-1,36.329
+
+<font> Cross Examination . <$$font> TOWNLEY-1746-1,36.330
+
+<font> Prisoner's Court . <$$font> It is a little extraordinary , that
+you should take such particular Notice of the Prisoner ;
+TOWNLEY-1746-1,36.331
+
+was you in the Rebel Army ? TOWNLEY-1746-1,36.332
+
+Was he your Commander ? TOWNLEY-1746-1,36.333
+
+<font> M'Cormack . <$$font> No , he was not ; TOWNLEY-1746-1,36.334
+
+Capt. <font> Peter Moss <$$font> was my Commander .
+TOWNLEY-1746-1,36.335
+
+Serj. <font> Wynne . <$$font> Had you any Command in the Rebel Army ?
+TOWNLEY-1746-1,36.336
+
+was you either a Captain , or a Lieutenant ? TOWNLEY-1746-1,36.337
+
+<font> M'Cormack . <$$font> I had no Command at all .
+TOWNLEY-1746-1,36.338
+
+<font> Council . <$$font> How came you hither to give your Evidence ?
+TOWNLEY-1746-1,36.339
+
+<font> M'Cormack . <$$font> I was taken into Custody by Mr. <font>
+Carrington <$$font> , one of the King's Messengers at <font>
+West-Chester <$$font> , TOWNLEY-1746-1,36.340
+
+and I did not know I was to come to <font> London <$$font> to be an
+Evidence . TOWNLEY-1746-1,36.341
+
+<P_37>
+
+<font> Council . <$$font> Have you had any Promise of a Pardon ?
+TOWNLEY-1746-1,37.343
+
+<font> M'Cormack . <$$font> I have not , TOWNLEY-1746-1,37.344
+
+nor never had to my Knowledge . TOWNLEY-1746-1,37.345
+
+<font> Sir John Strange . <$$font> Pray call <font> Samuel Maddox .
+<paren> Who appeared and was sworn . TOWNLEY-1746-1,37.346
+
+<$$paren> King's Council . <$$font> Mr. <font> Maddox <$$font> , Do
+you know Mr. <font> Fletcher <$$font> , the Prisoner at the Bar ?
+TOWNLEY-1746-1,37.347
+
+<font> Maddox . <$$font> I know him very well , TOWNLEY-1746-1,37.348
+
+and in the Month of last <font> November <$$font> , but I ca@ @n't
+particularly remember the Day , I saw him at the <font> Dog-Inn <$$font>
+in <font> Manchester <$$font> , where there were several Persons
+assembled , TOWNLEY-1746-1,37.349
+
+and his Name was put down as an Officer in a new-raised Regiment ,
+called the <font> Manchester <$$font> Regiment ; TOWNLEY-1746-1,37.350
+
+he marched as a Captain from <font> Manchester <$$font> to <font>
+Winslow <$$font> , and from thence on to <font> Macclesfield <$$font> ,
+where the said Regiment was drawn up in the Church-yard ;
+TOWNLEY-1746-1,37.351
+
+and all the Soldiers who were unarmed had Arms delivered to them ;
+TOWNLEY-1746-1,37.352
+
+the Prisoner , Mr. <font> Fletcher <$$font> , had there a Sword by his
+Side , TOWNLEY-1746-1,37.353
+
+and appeared in his Regimentals , as Captain , with a white Cockade ,
+and a Plaid Sash . TOWNLEY-1746-1,37.354
+
+The Rebels at <font> Macclesfield <$$font> were in general in Confusion
+for want of Men , TOWNLEY-1746-1,37.355
+
+and very much dreaded the King's Forces . TOWNLEY-1746-1,37.356
+
+I was determined to return to <font> Manchester <$$font> ,
+TOWNLEY-1746-1,37.357
+
+and communicated my Thoughts and Intentions to several of my Comrades ;
+TOWNLEY-1746-1,37.358
+
+the Prisoner , Mr. <font> Fletcher <$$font> , heard of my Resolution at
+a Place called <font> Blackersey <$$font> , TOWNLEY-1746-1,37.359
+
+and then he came to me , TOWNLEY-1746-1,37.360
+
+and told me it would be a scandalous thing to make such a dishonourable
+Retreat ; TOWNLEY-1746-1,37.361
+
+and , putting his Hand in his Pocket , pulled out a great Parcel of Gold
+, TOWNLEY-1746-1,37.362
+
+and told me , I should never want while that lasted .
+TOWNLEY-1746-1,37.363
+
+I marched with him to <font> Derby <$$font> , and back to <font>
+Carlisle <$$font> afterwards . TOWNLEY-1746-1,37.364
+
+<font> Cross Examination . <$$font> TOWNLEY-1746-1,37.365
+
+<font> Pris. Council . <$$font> How came you to be at the <font> Black
+Dog <$$font> at <font> Manchester ? <$$font> TOWNLEY-1746-1,37.366
+
+<font> Maddox . <$$font> I went there accidentally ;
+TOWNLEY-1746-1,37.367
+
+I was with the Regiment three Days before it marched ,
+TOWNLEY-1746-1,37.368
+
+and I was never sober all the Time . TOWNLEY-1746-1,37.369
+
+<P_38>
+
+<font> Pr. Coun. <$$font> What , not sober all the Time .
+TOWNLEY-1746-1,38.371
+
+<font> Maddox . <$$font> I mean not all the Time I was at <font>
+Manchester . <$$font> TOWNLEY-1746-1,38.372
+
+<font> Pr. Coun. <$$font> Where did you see the Prisoner , besides at
+<font> Manchester ? <$$font> TOWNLEY-1746-1,38.373
+
+<font> Maddox . <$$font> I saw him at <font> Penrith <$$font> ,
+TOWNLEY-1746-1,38.374
+
+and I saw him at <font> Carlisle <$$font> , with other Officers , and
+with the Pretender's Son ; at both which Places he acted in the Capacity
+of a Captain : TOWNLEY-1746-1,38.375
+
+And when <font> Carlisle <$$font> was surrendred , he went into the
+Church with other Officers . TOWNLEY-1746-1,38.376
+
+<font> Pr. Council . <$$font> Have you had no Promise of Pardon ?
+TOWNLEY-1746-1,38.377
+
+<font> Maddox . <$$font> I have had none ; TOWNLEY-1746-1,38.378
+
+I told you so , Sir , several Times before . TOWNLEY-1746-1,38.379
+
+<font> Pr. Coun. <$$font> What , did none of your Friends advise you ,
+or persuade you to do what you have done ? TOWNLEY-1746-1,38.380
+
+<font> Maddox . <$$font> I can@ @not say , TOWNLEY-1746-1,38.381
+
+but one of my Relations persuaded me to do what I could to save my own
+Life . TOWNLEY-1746-1,38.382
+
+<font> Pr. Coun. <$$font> Could not Mr. <font> Fletcher <$$font> have
+escaped to save his Life , if he would ? TOWNLEY-1746-1,38.383
+
+<font> Maddox . <$$font> I can@ @not tell but what he might ;
+TOWNLEY-1746-1,38.384
+
+for Capt. <font> Bradshaw <$$font> got away , TOWNLEY-1746-1,38.385
+
+but he soon joined the Army again . TOWNLEY-1746-1,38.386
+
+<font> Pr. Coun. <$$font> Pray what Character does the Prisoner bear
+at <font> Manchester ? <$$font> TOWNLEY-1746-1,38.387
+
+<font> Maddox . <$$font> I do not know much of his general Character ;
+TOWNLEY-1746-1,38.388
+
+I have seen him at the Assembly with the Ladies : TOWNLEY-1746-1,38.389
+
+He was a Chapman , TOWNLEY-1746-1,38.390
+
+and dealt in Linen before this Affair . TOWNLEY-1746-1,38.391
+
+<font> King's Council . <$$font> Pray call <font> Thomas Bradbury
+<$$font> , who appeared and was sworn . TOWNLEY-1746-1,38.392
+
+<font> King's Council . <$$font> Mr. <font> Bradbury <$$font> , pray
+what do you know , TOWNLEY-1746-1,38.393
+
+or what have you to say against the Prisoner at the Bar ?
+TOWNLEY-1746-1,38.394
+
+<font> Evid. <$$font> I lived at <font> Manchester <$$font> when the
+Rebels were in that Town ; TOWNLEY-1746-1,38.395
+
+and one Morning , when a Serjeant and Drum were beating up for
+Voluntiers at <P_39> the <font> Exchange <$$font> , for the Pretender's
+<font> Manchester <$$font> Regiment , I happened to be there , where I
+believe there were more than 1000 People assembled ;
+TOWNLEY-1746-1,39.396
+
+and , when the Serjeant had done his Speech , the Person at the Bar
+pulled off his Hat TOWNLEY-1746-1,39.397
+
+and hollowed , TOWNLEY-1746-1,39.398
+
+and said , God bless King <font> J-s <$$font> and Prince <font> C-s .
+<$$font> TOWNLEY-1746-1,39.399
+
+<font> Cross Examination . <$$font> TOWNLEY-1746-1,39.400
+
+<font> Pr. Coun. <$$font> As you live at <font> Manchester <$$font> ,
+pray what Character does the Prisoner bear at that Town ?
+TOWNLEY-1746-1,39.401
+
+<font> Evid. <$$font> A good Character for ought I know ,
+TOWNLEY-1746-1,39.402
+
+for I only came here to speak the Truth . TOWNLEY-1746-1,39.403
+
+<font> K. Coun. <$$font> Pray call <font> Austin Coleman <$$font> who
+being sworn , was asked if he had seen the Prisoner ?
+TOWNLEY-1746-1,39.404
+
+<font> Coleman <$$font> , Yes , I have seen him act as a Captain at
+<font> Preston , Penrith <$$font> , and at <font> Carlisle <$$font> ,
+when it was surrendred to the Duke of <font> Cumberland . <$$font>
+TOWNLEY-1746-1,39.405
+
+<font> Pr. Coun. <$$font> What Countryman are you ?
+TOWNLEY-1746-1,39.406
+
+<font> Evid. <$$font> I am an <font> Irishman <$$font> ,
+TOWNLEY-1746-1,39.407
+
+and I came to <font> Manchester <$$font> about 12 Months ago .
+TOWNLEY-1746-1,39.408
+
+<font> Thomas Cragg <$$font> was then called by the King's Council ,
+TOWNLEY-1746-1,39.409
+
+and being sworn , was asked what he knew of the Prisoner ?
+TOWNLEY-1746-1,39.410
+
+<font> Evid. <$$font> I saw him march from <font> Manchester ; <$$font>
+TOWNLEY-1746-1,39.411
+
+I saw the Colours of the <font> Manchester <$$font> Regiment flying ,
+and the Drums beating ; TOWNLEY-1746-1,39.412
+
+and I saw him act on the March as Captain , TOWNLEY-1746-1,39.413
+
+and I saw him surrender at <font> Carlisle <$$font> to his Royal
+Highness the Duke of <font> Cumberland@ 's <$$font> Troops .
+TOWNLEY-1746-1,39.414
+
+<font> K. Coun. <$$font> Pray call Capt. <font> Nevet <$$font> , who
+appeared and was sworn . TOWNLEY-1746-1,39.415
+
+<font> K. Coun. <$$font> Pray , Sir , give the Court and the Jury an
+Account of what you know of the Prisoner at the Bar .
+TOWNLEY-1746-1,39.416
+
+Capt. <font> Nevet . <$$font> I am an Officer in the third Regiment of
+Foot Guards in his Majesty's Service ; TOWNLEY-1746-1,39.417
+
+and was at <font> Carlisle <$$font> when the Rebels surrender'd the Town
+to his Royal Highness the Duke of <font> Cumberland . <$$font>
+TOWNLEY-1746-1,39.418
+
+When the Officers of the Garrison surrendered themselves <P_40>
+Prisoners , and were in Custody , I had a particular Order from his
+Royal Highness , to go to the Place of their Confinement , to take the
+Names , Ranks , and Qualities of all those that were there .
+TOWNLEY-1746-1,40.419
+
+When I called on the Prisoner at the Bar , he told me he was a Captain ;
+TOWNLEY-1746-1,40.420
+
+and when I had taken the Names of all the rest , and what Commissions
+they had under the Pretender's Son , I went TOWNLEY-1746-1,40.421
+
+and made a Report that Evening to the Duke , TOWNLEY-1746-1,40.422
+
+and his Royal Highness commanded me the next Day to go to the same Place
+; TOWNLEY-1746-1,40.423
+
+and I called over their Names , TOWNLEY-1746-1,40.424
+
+and he answered by the Name of Captain <font> Fletcher . <$$font>
+TOWNLEY-1746-1,40.425
+
+<heading>
+
+<font> The Prisoner's Defence . <$$font> TOWNLEY-1746-1,40.427
+
+<$$heading>
+
+<font> Prisoner's Council . <$$font> Call <font> Anne Acton <$$font>
+<paren> who was sworn <$$paren> TOWNLEY-1746-1,40.429
+
+Do you know the Prisoner ? TOWNLEY-1746-1,40.430
+
+<font> Evidence . <$$font> Yes , Sir , I have known him ever since he
+was born , TOWNLEY-1746-1,40.431
+
+for I have lived in the Family 27 Years ; TOWNLEY-1746-1,40.432
+
+he managed the Trade for his Mother at <font> Salford <$$font> , just
+over the Bridge at <font> Manchester <$$font> , TOWNLEY-1746-1,40.433
+
+and he had a very good Share of Business for a young Man .
+TOWNLEY-1746-1,40.434
+
+The Rebels came the 29th of <font> November <$$font> to <font>
+Manchester <$$font> , TOWNLEY-1746-1,40.435
+
+and we had a great many of them quarter'd upon us ;
+TOWNLEY-1746-1,40.436
+
+Mr. <font> Fletcher's <$$font> Mother was very uneasy at the Sight of
+them , TOWNLEY-1746-1,40.437
+
+and went away , because she could not bear to see them eat and drink ,
+and make free with every thing in the House . TOWNLEY-1746-1,40.438
+
+They tarried at <font> Manchester <$$font> 3 Days ,
+TOWNLEY-1746-1,40.439
+
+and upon the 8th <font> of December <$$font> they returned again to
+<font> Manchester <$$font> , TOWNLEY-1746-1,40.440
+
+and Capt. <font> Robinson <$$font> , who commanded the Soldiers who
+were at our House before , came a second Time , TOWNLEY-1746-1,40.441
+
+and asked for our Master ; TOWNLEY-1746-1,40.442
+
+he went out , TOWNLEY-1746-1,40.443
+
+and there were half a Dozen of Soldiers at the Door ,
+TOWNLEY-1746-1,40.444
+
+and swore they would have him , TOWNLEY-1746-1,40.445
+
+and I never saw him after . TOWNLEY-1746-1,40.446
+
+I do@ @n't know he ever did a bad Thing in his Life ;
+TOWNLEY-1746-1,40.447
+
+he always behaved well and dutiful to King <font> George <$$font> , and
+all the Royal Family . TOWNLEY-1746-1,40.448
+
+I never <P_41> saw the least Willingness in him to join with the
+Pretender ; TOWNLEY-1746-1,41.449
+
+all the Family were of the Church of <font> England <$$font> ,
+TOWNLEY-1746-1,41.450
+
+and when they drag'd him away , he went away with Tears in his Eyes .
+TOWNLEY-1746-1,41.451
+
+She was cross_examined by Sir <font> John Strange <$$font> ;
+TOWNLEY-1746-1,41.452
+
+and prevaricated very much in her Answers to most Questions that were
+asked of her . TOWNLEY-1746-1,41.453
+
+<font> Charles Worral <$$font> was produced and sworn , who said , he
+knew the Prisoner an Apprentice , and had sold him Goods , and that the
+Prisoner paid him honestly ; TOWNLEY-1746-1,41.454
+
+but as to his Principles he knew nothing of them .
+TOWNLEY-1746-1,41.455
+
+Then <font> John Howard <$$font> was call'd and sworn ,
+TOWNLEY-1746-1,41.456
+
+and being ask'd what Business he follow'd , he said , he was a Dealer in
+Leather . TOWNLEY-1746-1,41.457
+
+<font> Prisoner's Council . <$$font> What do you know of the Prisoner ?
+TOWNLEY-1746-1,41.458
+
+<font> Witness . <$$font> I can@ @not say that I know much of his
+Notions one way or other . TOWNLEY-1746-1,41.459
+
+<font> Prisoner's Council . <$$font> I think , Sir , you live at <font>
+Manchester . <$$font> TOWNLEY-1746-1,41.460
+
+<font> Witness . <$$font> Yes , I do , Sir . TOWNLEY-1746-1,41.461
+
+<font> Prisoner's Council . <$$font> Then pray inform the Court , and
+the Gentlemen of the Jury , so far as you know , what past at <font>
+Manchester <$$font> relating to the Prisoner , during the Time the
+Rebels were there . TOWNLEY-1746-1,41.462
+
+<font> Witness . <$$font> I can@ @not say any thing particularly ,
+TOWNLEY-1746-1,41.463
+
+<font> Prisoner's Council . <$$font> Pray do you know , at the Time the
+Pretender's Party were beating up for Volunteers at the Exchange in
+<font> Manchester <$$font> , that the Prisoner was present , and took
+off his Hat and hollow'd ? TOWNLEY-1746-1,41.464
+
+<font> Witness . <$$font> I was not out of Doors at that Time ;
+TOWNLEY-1746-1,41.465
+
+I had a Relation lay dead in my House at the Time .
+TOWNLEY-1746-1,41.466
+
+The Prisoner's Council not having any thing more to say in his Defence ,
+and the Testimony of Mrs. {TEXT:Mris.} <font> Anne Acton <$$font>
+having very little Weight with the Court <P_42> and Jury , after my
+Lord_Chief_Justice had summ'd up the Evidence , the Jury , without going
+out of Court , found the Prisoner , Mr. <font> Fletcher <$$font> ,
+Guilty . TOWNLEY-1746-1,42.467
+
+{COM:narrative_material_omitted} <font> Mr. Att._Gen. <$$font> Call
+<font> Samuel Maddox <$$font> ; who appearing in Court , was sworn .
+TOWNLEY-1746-1,42.468
+
+<font> K. Coun. <$$font> Mr. <font> Maddox <$$font> , pray relate to
+my Lord and the Gentlemen of the Jury , what you know concerning the
+Prisoners at the Bar , or either of them . TOWNLEY-1746-1,42.469
+
+<font> Maddox <$$font> , <paren> <font> looking on the Prisoners at the
+Bar <$$font> <$$paren> I know both of them ; TOWNLEY-1746-1,42.470
+
+Mr. <font> Chadwick <$$font> was a Lieutenant , TOWNLEY-1746-1,42.471
+
+and Mr. <font> Batteagh <$$font> served as an Ensign in the <font>
+Manchester <$$font> Regiment , in the Rebel Army .
+TOWNLEY-1746-1,42.472
+
+<font> K. Coun. <$$font> Pray how did Mr. <font> Chadwick <$$font>
+appear ? TOWNLEY-1746-1,42.473
+
+did he appear as an Officer ? TOWNLEY-1746-1,42.474
+
+<P_43>
+
+<font> Maddox . Chadwick <$$font> wore a lac'd Hat , with a white
+Cockade in it , TOWNLEY-1746-1,43.476
+
+and I saw both of them march from <font> Manchester <$$font> ,
+TOWNLEY-1746-1,43.477
+
+and when they marched Mr. <font> Batteagh <$$font> had on a <font>
+Scotch <$$font> Plaid Sash , lined with a white Ribbon ;
+TOWNLEY-1746-1,43.478
+
+I was with them when they marched from <font> Manchester <$$font> to
+<font> Winslow . <$$font> TOWNLEY-1746-1,43.479
+
+There were a great many Men listed as we went on the Road .
+TOWNLEY-1746-1,43.480
+
+<font> K. Coun. <$$font> Can you take upon you to say that either of
+the Prisoners at the Bar inlisted any ? TOWNLEY-1746-1,43.481
+
+<font> Evid. <$$font> I can@ @not be positive to that ;
+TOWNLEY-1746-1,43.482
+
+but there were a great many Men inlisted by Captain <font> Deacon
+<$$font> upon our March from <font> Manchester . <$$font>
+TOWNLEY-1746-1,43.483
+
+Both the Prisoners appeared on Horse-back as Officers ;
+TOWNLEY-1746-1,43.484
+
+and I myself carried the Colours out of <font> Manchester . <$$font>
+TOWNLEY-1746-1,43.485
+
+And as we were upon the Road on our March , I saw the Prisoner <font>
+Batteagh <$$font> carry the Colours once or twice , whereon was the
+Motto , Liberty and Property , Church and Country .
+TOWNLEY-1746-1,43.486
+
+<font> K. Coun. <$$font> Did any thing remarkable happen at <font>
+Winslow <$$font> , relating to the Prisoners ? TOWNLEY-1746-1,43.487
+
+Did they act as Officers ? TOWNLEY-1746-1,43.488
+
+<font> Evid. <$$font> I know nothing at all particular there .
+TOWNLEY-1746-1,43.489
+
+<font> K. Coun. <$$font> What Rout did you take when you left <font>
+Winslow ? <$$font> TOWNLEY-1746-1,43.490
+
+<font> Evid. <$$font> We marched on <font> Derby . <$$font>
+TOWNLEY-1746-1,43.491
+
+<font> K. Coun. <$$font> Did the Prisoners all along appear as
+Officers , and act as such ? TOWNLEY-1746-1,43.492
+
+<font> Evid. <$$font> Yes they did , <font> Chadwick <$$font> as a
+Lieutenant , and <font> Batteagh <$$font> as an Ensign ;
+TOWNLEY-1746-1,43.493
+
+I saw them at <font> Penrith <$$font> , and at <font> Preston <$$font> ;
+TOWNLEY-1746-1,43.494
+
+<font> Batteagh <$$font> belonged to Captain <font> James Dawson
+<$$font> 's Company , TOWNLEY-1746-1,43.495
+
+but I do@ @n't know what company the other Prisoner belonged to ,
+TOWNLEY-1746-1,43.496
+
+and I saw both of them review'd by the young Pretender .
+TOWNLEY-1746-1,43.497
+
+<font> K. Coun. <$$font> And what further happen'd ;
+TOWNLEY-1746-1,43.498
+
+tell my Lord and the Gentlemen of the Jury every thing you know relating
+to the Matter . TOWNLEY-1746-1,43.499
+
+<P_44>
+
+<font> Evid. <$$font> I ca@ @n't say any thing more that is very
+material , only that from <font> Manchester <$$font> all the Way they
+acted as Officers . TOWNLEY-1746-1,44.501
+
+<font> K. Coun. <$$font> Do you remember any thing that was remarkable
+when you came to <font> Lancaster ? <$$font> TOWNLEY-1746-1,44.502
+
+<font> Evid. <$$font> I remember that all the Officers were very merry
+there , TOWNLEY-1746-1,44.503
+
+and Mr. <font> Chadwick <$$font> proposed to entertain them with a Tune
+, TOWNLEY-1746-1,44.504
+
+and myself , and most of the Rebel Offciers went into <font> Lancaster
+<$$font> Church , TOWNLEY-1746-1,44.505
+
+and went up into the Organ Gallery , TOWNLEY-1746-1,44.506
+
+and Mr. <font> Chadwick <$$font> play'd a Tune on the Organ .
+TOWNLEY-1746-1,44.507
+
+<font> K. Coun. <$$font> What Tune did he play ?
+TOWNLEY-1746-1,44.508
+
+<font> Evid. <$$font> He play'd , <font> The King shall enjoy his own
+again <$$font> ; TOWNLEY-1746-1,44.509
+
+and we were all very merry . TOWNLEY-1746-1,44.510
+
+<font> K. Coun. <$$font> Pray inform the Court if you saw any of the
+Prisoners at <font> Carlisle . <$$font> TOWNLEY-1746-1,44.511
+
+<font> Evid. <$$font> Yes , I saw both the Prisoners at <font> Carlisle
+<$$font> , in the Room with the young Pretender . TOWNLEY-1746-1,44.512
+
+<font> K. Coun. <$$font> How came they in particular to be in the Room
+with the young Pretender . TOWNLEY-1746-1,44.513
+
+<font> Evid. <$$font> We were all drawn up together to take Leave of
+him , before he left <font> Carlisle . <$$font> TOWNLEY-1746-1,44.514
+
+<font> K. Coun. <$$font> Was the Town of <font> Carlisle <$$font> put
+in a posture of Defence against the King's Forces .
+TOWNLEY-1746-1,44.515
+
+<font> Evid. <$$font> Yes , we opposed his Majesty's Forces ,
+TOWNLEY-1746-1,44.516
+
+and I saw both the Prisoners mount Guard in the Town Hall , where a
+Guard was placed a Day or two after the Pretender left the Town .
+TOWNLEY-1746-1,44.517
+
+<font> K. Coun. <$$font> Was you present when the Town was surrender'd
+to his Royal Highness the Duke of <font> Cumberland . <$$font>
+TOWNLEY-1746-1,44.518
+
+<font> Evid. <$$font> I was ; TOWNLEY-1746-1,44.519
+
+and both the Prisoners were put into the Isles of the Church amongst the
+other Rebel Officers . TOWNLEY-1746-1,44.520
+
+<font> Cross Examination <$$font> TOWNLEY-1746-1,44.521
+
+<font> Pris. Coun. <$$font> How long have you known <font> Brettah
+<$$font> , or <font> Batteagh <$$font> as they call him ?
+TOWNLEY-1746-1,44.522
+
+<P_45>
+
+<font> Evid. <$$font> I have known him two Years and upwards ;
+TOWNLEY-1746-1,45.524
+
+he was an Attorney's Clerk , TOWNLEY-1746-1,45.525
+
+and came TOWNLEY-1746-1,45.526
+
+and persuaded me to join with the young Pretender before I had any
+Inclination so to do ; TOWNLEY-1746-1,45.527
+
+this we talk'd of privately in his Bed-Chamber , TOWNLEY-1746-1,45.528
+
+he told me had new Linen made on Purpose , and was going to the Sadlers
+to bespeak Bags to carry his Linen and other Things in .
+TOWNLEY-1746-1,45.529
+
+<font> Pris. Coun. <$$font> Had not you and the Prisoner a Quarrel at
+<font> Carlisle <$$font> , TOWNLEY-1746-1,45.530
+
+I think you had a Trial of Skill there . TOWNLEY-1746-1,45.531
+
+<font> Evid. <$$font> That I confess , TOWNLEY-1746-1,45.532
+
+and I will tell you what it was about ; TOWNLEY-1746-1,45.533
+
+it was about a very foolish Affair . TOWNLEY-1746-1,45.534
+
+- Provision being a little scarce at <font> Carlisle <$$font> , I had
+some Sausages , TOWNLEY-1746-1,45.535
+
+and the Prisoner would have them from me , TOWNLEY-1746-1,45.536
+
+and I not caring to part with them , caused a Quarrel ,
+TOWNLEY-1746-1,45.537
+
+and we fought together . TOWNLEY-1746-1,45.538
+
+<font> Pris. Coun. <$$font> Did not you tell him you would do for him
+, or be reveng'd on him , or some Words to that Purpose ?
+TOWNLEY-1746-1,45.539
+
+<font> Evid. <$$font> No , never as I remember , TOWNLEY-1746-1,45.540
+
+I would not swear any Man's Life away for a Sausage .
+TOWNLEY-1746-1,45.541
+
+<font> Pris. Coun. <$$font> Do@ @n't you swear in Expectation of
+saving your Life . TOWNLEY-1746-1,45.542
+
+Mr. <font> Attorney_General . <$$font> It is not a proper Question , -
+TOWNLEY-1746-1,45.543
+
+that has been answer'd already . TOWNLEY-1746-1,45.544
+
+Sir <font> J. Strange . <$$font> Do you expect to save your Life by
+false Swearing ? TOWNLEY-1746-1,45.545
+
+<font> Evid. <$$font> No , I do not indeed ; TOWNLEY-1746-1,45.546
+
+I will swear nothing but the Truth , TOWNLEY-1746-1,45.547
+
+and what I have sworn in this honourable Court is all Matters of Fact .
+TOWNLEY-1746-1,45.548
+
+<font> King's Council . <$$font> Pray call <font> Thomas Craig <$$font>
+, who appeared and was sworn . TOWNLEY-1746-1,45.549
+
+<font> King's Coun. <$$font> Well , Sir , what have you to say to
+either of the Prisoners that stand by you ? TOWNLEY-1746-1,45.550
+
+<font> Craig . <$$font> I know Mr. <font> Chadwick <$$font> very well
+, TOWNLEY-1746-1,45.551
+
+but I can@ @not say that I have so much Knowledge of <font> Batterah
+<$$font> ; TOWNLEY-1746-1,45.552
+
+I remember seeing Mr. <$$font> Chadwick <$$font> at <font> Manchester
+<$$font> , with a Cockade in his Hat . TOWNLEY-1746-1,45.553
+
+Then I afterwards saw him <P_46> march from <font> Manchester <$$font>
+to <font> Winslow <$$font> as a Lieutenant , TOWNLEY-1746-1,46.554
+
+I saw him at several other Places on the Road , and also at <font>
+Penrith <$$font> , where he still appeared as a Lieutenant .
+TOWNLEY-1746-1,46.555
+
+<font> King's Coun. <$$font> Then you are sure he was a Lieutenant in
+the Rebel Army ? TOWNLEY-1746-1,46.556
+
+<font> Evid. <$$font> Yes ; he marched from <font> Manchester <$$font>
+to <font> Penrith Moor <$$font> as such , TOWNLEY-1746-1,46.557
+
+then I saw him at <font> Carlisle <$$font> , TOWNLEY-1746-1,46.558
+
+and there he mounted Guard as a Lieutenant . TOWNLEY-1746-1,46.559
+
+I am sure that I saw him once mount Guard . TOWNLEY-1746-1,46.560
+
+<font> Pris. Coun. <$$font> Do@ @n't you expect to have a free Pardon
+? TOWNLEY-1746-1,46.561
+
+<font> Evid. <$$font> As to that I must trust to his Majesty's Mercy .
+TOWNLEY-1746-1,46.562
+
+<font> Pris. Coun. <$$font> How come you to know Mr. <font> Chadwick
+<$$font> so well ? TOWNLEY-1746-1,46.563
+
+do you know him so very well that you can be positive to him ?
+TOWNLEY-1746-1,46.564
+
+<font> Evid. <$$font> I have known him many Years ,
+TOWNLEY-1746-1,46.565
+
+and I belonged to the <font> Manchester <$$font> Regiment .
+TOWNLEY-1746-1,46.566
+
+<font> King's Coun. <$$font> Call <font> Austin Coleman <$$font> , who
+was produced and sworn . TOWNLEY-1746-1,46.567
+
+<font> King's Coun. <$$font> Give an Account , Mr. <font> Coleman
+<$$font> to my Lord and the Jury , what you know of the Prisoners at the
+Bar . TOWNLEY-1746-1,46.568
+
+<paren> Coleman <font> being sworn , and looking at them , and then
+pointing <$$font> {TEXT:missing_preposition} Batteah . <$$paren> That
+Gentleman's Name is <font> Batteah <$$font> , TOWNLEY-1746-1,46.569
+
+and I have seen him at <font> Derby <$$font> TOWNLEY-1746-1,46.570
+
+and t'other is <font> Chadwick <$$font> , TOWNLEY-1746-1,46.571
+
+and him I have seen at <font> Manchester <$$font> ,
+TOWNLEY-1746-1,46.572
+
+there he appeared as an Officer , with a Plaid Sash , and laced Hat ,
+with a white Cockade in it : TOWNLEY-1746-1,46.573
+
+I did not see <font> Batteah <$$font> have any . TOWNLEY-1746-1,46.574
+
+They both appeared as Officers in marching along ; TOWNLEY-1746-1,46.575
+
+they were sometimes on Foot , and sometimes on Horse-back .
+TOWNLEY-1746-1,46.576
+
+<font> King's Council . <$$font> Do you know any thing of their being
+at <font> Carlisle ? <$$font> TOWNLEY-1746-1,46.577
+
+<font> Evidence . <$$font> I saw them both in the Guard-room with Capt.
+<font> Fletcher . <$$font> TOWNLEY-1746-1,46.578
+
+<P_47>
+
+<font> King's Council . <$$font> Did they wear their Sashes there , as
+other Officers did ? TOWNLEY-1746-1,47.580
+
+<font> Evidence . <$$font> I can@ @not remember that ,
+TOWNLEY-1746-1,47.581
+
+but when the Town was surrender'd to the Duke of <font> Cumberland
+<$$font> , they were put into the Church with other Rebel Officers .
+TOWNLEY-1746-1,47.582
+
+- I am sure of it . TOWNLEY-1746-1,47.583
+
+<paren> Ormsby M'Cormack <font> was next produced and sworn <$$paren>
+<$$font> {COM:missing_period} TOWNLEY-1746-1,47.584
+
+<font> King's Council . <$$font> Do you know either of the Prisoners ?
+TOWNLEY-1746-1,47.585
+
+<font> Evidence . <$$font> Yes , I have seen both of them in the <font>
+Manchester <$$font> Regiment , TOWNLEY-1746-1,47.586
+
+I saw <font> Bretah <$$font> with the Rebel Army , TOWNLEY-1746-1,47.587
+
+and he carried the Colours from <font> Penrith <$$font> to <font>
+Carlisle . <$$font> TOWNLEY-1746-1,47.588
+
+<font> King's Council . <$$font> And did you see him at <font> Carlisle
+? <$$font> TOWNLEY-1746-1,47.589
+
+<font> Evidence . <$$font> Yes , I saw him there when the Town was
+besieged by the Duke of <font> Cumberland . <$$font>
+TOWNLEY-1746-1,47.590
+
+<font> King's {TEXT:Kings} Council . <$$font> Did he ever mount Guard
+at <font> Carlisle ? <$$font> TOWNLEY-1746-1,47.591
+
+<font> Evidence . <$$font> Not to my Knowledge ; TOWNLEY-1746-1,47.592
+
+but I have seen him in the Guard-room , with a Sword , a Sash , and a
+Cockade . TOWNLEY-1746-1,47.593
+
+<font> King's Council . <$$font> And you always took him to be an
+Officer there , did you not ? TOWNLEY-1746-1,47.594
+
+<font> Evidence . <$$font> Yes , for I well remember , that he was
+walking up and down the <font> Castle-Yard <$$font> , as an Officer ,
+when the Arms were distributing to the Rebel Soldiers there ,
+TOWNLEY-1746-1,47.595
+
+and Mr. <font> Chadwick <$$font> was with them . TOWNLEY-1746-1,47.596
+
+John Collins , <font> a Boy of 13 Years of Age was called and sworn .
+<$$font> TOWNLEY-1746-1,47.597
+
+<font> Pris. Coun. <$$font> Do you know the Nature of an Oath , Child
+? TOWNLEY-1746-1,47.598
+
+<font> Collins . <$$font> Yes I do , TOWNLEY-1746-1,47.599
+
+I know I am sworn to speak the Truth , TOWNLEY-1746-1,47.600
+
+and I shall never be happy if I do not . TOWNLEY-1746-1,47.601
+
+<font> King's Council . <$$font> Do you know either of the Prisoners ?
+TOWNLEY-1746-1,47.602
+
+was you among the Rebels at <font> Carlisle ? <$$font>
+TOWNLEY-1746-1,47.603
+
+<P_48>
+
+<font> Collins . <$$font> yes , I was , TOWNLEY-1746-1,48.605
+
+and was a Servant to Capt. <font> Lowther <$$font> ,
+TOWNLEY-1746-1,48.606
+
+and we were taken Prisoners by the Duke at <font> Carlisle <$$font> ,
+where on my Knees I beg'd my Life of his Royal Highness , which he
+generously granted , TOWNLEY-1746-1,48.607
+
+and God bless him for it . TOWNLEY-1746-1,48.608
+
+I saw both the Prisoners at <font> Carlisle <$$font> ,
+TOWNLEY-1746-1,48.609
+
+and there they always acted as Officers in the <font> Manchester
+<$$font> Regiment ; <font> Chadwick <$$font> as a Lieutenant , and
+<font> Batteah <$$font> as an Ensign TOWNLEY-1746-1,48.610
+
+I know them both perfectly well . TOWNLEY-1746-1,48.611
+
+<font> King's Coun. <$$font> Pray call Capt. <font> Nevet <$$font> ,
+who was sworn . TOWNLEY-1746-1,48.612
+
+<font> King's Coun. <$$font> I think when <font> Carlisle <$$font>
+surrender'd to his Royal Highness the Duke , you had a Command from his
+Royal Highness to go to the Church where the Officers were Prisoners ,
+and to take their Names ? TOWNLEY-1746-1,48.613
+
+Capt. <font> Nevet . <$$font> Yes , I had , Sir .
+TOWNLEY-1746-1,48.614
+
+<font> King's Coun. <$$font> Do you remember to have seen either of the
+Prisoners at the Bar at <font> Carlisle ? <$$font>
+TOWNLEY-1746-1,48.615
+
+Capt. <font> Nevet . <$$font> Perfectly well : TOWNLEY-1746-1,48.616
+
+The first Time that I saw them , Mr. <font> Chadwick <$$font> gave in
+his Name as a Lieutenant in <font> Townley <$$font> 's <font> Manchester
+<$$font> Regiment ; TOWNLEY-1746-1,48.617
+
+and the other Prisoner , <font> Batteah <$$font> told me he was an
+Ensign in the same Regiment ; TOWNLEY-1746-1,48.618
+
+I noted it so in my Paper : And on making a Report to his Royal Highness
+the Duke , and giving in a List of their Names , and Qualities ;
+TOWNLEY-1746-1,48.619
+
+I was ordered to go the next Morning , TOWNLEY-1746-1,48.620
+
+and I went accordingly , TOWNLEY-1746-1,48.621
+
+and called all the Prisoners over by their Names , TOWNLEY-1746-1,48.622
+
+and they answered , <font> Chadwick <$$font> as a Lieutenant , and
+<font> Batteah <$$font> as an Ensign . TOWNLEY-1746-1,48.623
+
+The King's Witnesses being all gone thro' , and neither of the Prisoners
+making any Defence , or calling any Witnesses to their Characters , the
+Jury , without going out of the Court , found both the Prisoners Guilty
+of High Treason , TOWNLEY-1746-1,48.624
+
+and the Court ordered the Irons to be put on Mr. <font> Chadwick
+<$$font> again . TOWNLEY-1746-1,48.625
+
+<font> Finis . <$$font> TOWNLEY-1746-1,48.626
+

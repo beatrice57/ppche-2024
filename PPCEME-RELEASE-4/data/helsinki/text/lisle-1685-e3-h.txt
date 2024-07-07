@@ -1,0 +1,1561 @@
+<BEGIN_lisle-1685-e3-h>
+
+<P_IV,113C2>
+
+<font> L. C. J. <$$font> Thou had'st need to know it very well ,
+LISLE-1685-E3-H,IV,113C2.3
+
+for it seems thou wentest without a Candle or any thing in the World ,
+and put in thy Horse . LISLE-1685-E3-H,IV,113C2.4
+
+Did'st thou see that Man <font> Carpenter <$$font> the Bailiff that thou
+spokest of ? LISLE-1685-E3-H,IV,113C2.5
+
+<font> Dunne . <$$font> Mr. <font> Carpenter <$$font> gave my Horse
+Hay . LISLE-1685-E3-H,IV,113C2.6
+
+<font> L. C. J. <$$font> Was there any Light in the Stable ?
+LISLE-1685-E3-H,IV,113C2.7
+
+<font> Dunne . <$$font> Not when I put in my Horse first .
+LISLE-1685-E3-H,IV,113C2.8
+
+<font> L. C. J. <$$font> Who brought the Light thither ?
+LISLE-1685-E3-H,IV,113C2.9
+
+<font> Dunne . <$$font> Goodman <font> Carpenter <$$font> .
+LISLE-1685-E3-H,IV,113C2.10
+
+<font> L. C. J. <$$font> Did not he give thy Horse Hay ?
+LISLE-1685-E3-H,IV,113C2.11
+
+<font> Dunne . <$$font> Yes , he did . LISLE-1685-E3-H,IV,113C2.12
+
+<font> L. C. J. <$$font> And did he not give him Oats too ?
+LISLE-1685-E3-H,IV,113C2.13
+
+<font> Dunne . <$$font> No , my Lord , he did not .
+LISLE-1685-E3-H,IV,113C2.14
+
+<font> L. C. J. <$$font> Did not he conduct you into the House ?
+LISLE-1685-E3-H,IV,113C2.15
+
+<font> Dunne . <$$font> Who , my Lord ? LISLE-1685-E3-H,IV,113C2.16
+
+<font> L. C. J. <$$font> That same Goodman <font> Carpenter <$$font>
+. LISLE-1685-E3-H,IV,113C2.17
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,113C2.18
+
+<font> L. C. J. <$$font> Did you see any body else but that Girl you
+speak of ? LISLE-1685-E3-H,IV,113C2.19
+
+<font> Dunne . <$$font> My Lord , I did see the Girl there .
+LISLE-1685-E3-H,IV,113C2.20
+
+<font> L. C. J. <$$font> But you Blockhead , I ask you whether you
+did see any body else ? LISLE-1685-E3-H,IV,113C2.21
+
+<font> Dunne . <$$font> I do not know but I might see Goodman <font>
+Carpenter <$$font> . LISLE-1685-E3-H,IV,113C2.22
+
+<P_IV,114C1>
+
+<font> L. C. J. <$$font> Why , thou said'st he brought the Light ,
+and gave thy Horse Hay ; LISLE-1685-E3-H,IV,114C1.24
+
+but I see thou art set upon nothing but Prevarication :
+LISLE-1685-E3-H,IV,114C1.25
+
+Sirrah , tell me plainly , did you see no body else ?
+LISLE-1685-E3-H,IV,114C1.26
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,114C1.27
+
+<font> L. C. J. <$$font> Not any body ? LISLE-1685-E3-H,IV,114C1.28
+
+<font> Dunne . <$$font> No , my Lord , not any one .
+LISLE-1685-E3-H,IV,114C1.29
+
+<font> L. C. J. <$$font> Did you not drink in the House ?
+LISLE-1685-E3-H,IV,114C1.30
+
+<font> Dunne . <$$font> No , my Lord , not a Drop .
+LISLE-1685-E3-H,IV,114C1.31
+
+<font> L. C. J. <$$font> Did not you call for Drink ?
+LISLE-1685-E3-H,IV,114C1.32
+
+<font> Dunne . <$$font> No , my Lord , I did not ,
+LISLE-1685-E3-H,IV,114C1.33
+
+I had nothing but my Cake and Cheese that I brought thither my self .
+LISLE-1685-E3-H,IV,114C1.34
+
+<font> L. C. J. <$$font> Who went up to the Chamber with you ?
+LISLE-1685-E3-H,IV,114C1.35
+
+<font> Dunne . <$$font> The Girl , my Lord .
+LISLE-1685-E3-H,IV,114C1.36
+
+<font> L. C. J. <$$font> And no body else ?
+LISLE-1685-E3-H,IV,114C1.37
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,114C1.38
+
+<font> L. C. J. <$$font> Was the Bed made ?
+LISLE-1685-E3-H,IV,114C1.39
+
+<font> Dunne . <$$font> Yes , my Lord , it was .
+LISLE-1685-E3-H,IV,114C1.40
+
+<font> L. C. J. <$$font> You eat nothing in the House , you say ?
+LISLE-1685-E3-H,IV,114C1.41
+
+<font> Dunne . <$$font> Nothing but my own Cake and Cheese , my Lord .
+LISLE-1685-E3-H,IV,114C1.42
+
+<font> L. C. J. <$$font> But you did not drink in the House at all ?
+LISLE-1685-E3-H,IV,114C1.43
+
+<font> Dunne . <$$font> No , my Lord , I did not .
+LISLE-1685-E3-H,IV,114C1.44
+
+<font> L. C. J. <$$font> Did you drink at <font> Marton <$$font> ,
+where you did call upon <font> Fane <$$font> .
+LISLE-1685-E3-H,IV,114C1.45
+
+<font> Dunne . <$$font> Yes , I did , but not afterwards .
+LISLE-1685-E3-H,IV,114C1.46
+
+<font> L. C. J. <$$font> Did you see any body there the next Morning
+before they were taken ? LISLE-1685-E3-H,IV,114C1.47
+
+<font> Dunne . <$$font> No , my Lord ; LISLE-1685-E3-H,IV,114C1.48
+
+but after the House was beset , I saw my Lady and Mr. <font> Hicks
+<$$font> , LISLE-1685-E3-H,IV,114C1.49
+
+and I think I saw Goodman <font> Carpenter <$$font> .
+LISLE-1685-E3-H,IV,114C1.50
+
+<font> L. C. J. <$$font> They and you were taken there together ,
+were not you ? LISLE-1685-E3-H,IV,114C1.51
+
+<font> Dunne . <$$font> Yes . LISLE-1685-E3-H,IV,114C1.52
+
+<font> L. C. J. <$$font> Did you see <font> Carpenter's <$$font> Wife
+, upon your Oath , that Night ? LISLE-1685-E3-H,IV,114C1.53
+
+<font> Dunne . <$$font> My Lord , I did not .
+LISLE-1685-E3-H,IV,114C1.54
+
+<font> L. C. J. <$$font> Nor no Woman-kind besides the Girl you speak
+of ? LISLE-1685-E3-H,IV,114C1.55
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,114C1.56
+
+<font> L. C. J. <$$font> Nor no Man besides <font> Carpenter <$$font>
+? LISLE-1685-E3-H,IV,114C1.57
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,114C1.58
+
+<font> L. C. J. <$$font> You are sure of this ?
+LISLE-1685-E3-H,IV,114C1.59
+
+<font> Dunne . <$$font> I am so , my Lord .
+LISLE-1685-E3-H,IV,114C1.60
+
+<font> L. C. J. <$$font> You are sure you did not drink there ?
+LISLE-1685-E3-H,IV,114C1.61
+
+<font> Dunne . <$$font> I am , my Lord . LISLE-1685-E3-H,IV,114C1.62
+
+<font> L. C. J. <$$font> And you say he brought the Light into the
+Stable , and gave your Horse Hay ? LISLE-1685-E3-H,IV,114C1.63
+
+<font> Dunne . <$$font> He did , my Lord . LISLE-1685-E3-H,IV,114C1.64
+
+<font> L. C. J. <$$font> Now pri@ @thee tell me truly , where came
+<font> Carpenter <$$font> unto you ? LISLE-1685-E3-H,IV,114C1.65
+
+I must know the Truth of that ; LISLE-1685-E3-H,IV,114C1.66
+
+remember that I gave you fair Warning , LISLE-1685-E3-H,IV,114C1.67
+
+do not tell me a Lye , LISLE-1685-E3-H,IV,114C1.68
+
+for I will be sure to treasure up every Lye that thou tellest me ,
+LISLE-1685-E3-H,IV,114C1.69
+
+and thou may'st be certain it will not be for thy Advantage :
+LISLE-1685-E3-H,IV,114C1.70
+
+I would not terrify thee to make thee say any thing but the Truth :
+LISLE-1685-E3-H,IV,114C1.71
+
+but assure thy self I never met with a lying , sneaking , canting Fellow
+, but I always treasur'd up Vengeance for him :
+LISLE-1685-E3-H,IV,114C1.72
+
+and therefore look to it , that thou dost not prevaricate with me ,
+LISLE-1685-E3-H,IV,114C1.73
+
+for to be sure thou wilt come to the worst of it in the end ?
+LISLE-1685-E3-H,IV,114C1.74
+
+<font> Dunne . <$$font> My Lord , I will tell the Truth as near as I
+can . LISLE-1685-E3-H,IV,114C1.75
+
+<font> L. C. J. <$$font> Then tell me where <font> Carpenter <$$font>
+met thee ? LISLE-1685-E3-H,IV,114C1.76
+
+<font> Dunne . <$$font> In the Court , my Lord .
+LISLE-1685-E3-H,IV,114C1.77
+
+<font> L. C. J. <$$font> Before you came to the Gate , or after ?
+LISLE-1685-E3-H,IV,114C1.78
+
+<font> Dunne . <$$font> It was after we came to the Gate , in the Court
+. LISLE-1685-E3-H,IV,114C1.79
+
+<P_IV,114C2>
+
+<font> L. C. J. <$$font> Then tell me , and I charge you tell me true
+, who was with you when <font> Carpenter <$$font> met you ?
+LISLE-1685-E3-H,IV,114C2.81
+
+<font> Dunne . <$$font> <font> Hicks <$$font> and <font> Nelthorp
+<$$font> . LISLE-1685-E3-H,IV,114C2.82
+
+<font> L. C. J. <$$font> Was there any body else besides them two in
+the Court ? LISLE-1685-E3-H,IV,114C2.83
+
+<font> Dunne . <$$font> There was no body but <font> Hicks <$$font> and
+<font> Nelthorp <$$font> , and I and Mr. <font> Carpenter <$$font> .
+LISLE-1685-E3-H,IV,114C2.84
+
+<font> L. C. J. <$$font> You are sure of that ?
+LISLE-1685-E3-H,IV,114C2.85
+
+<font> Dunne . <$$font> Yes , my Lord . LISLE-1685-E3-H,IV,114C2.86
+
+<font> L. C. J. <$$font> Consider of it , LISLE-1685-E3-H,IV,114C2.87
+
+are you sure there was no body else ? LISLE-1685-E3-H,IV,114C2.88
+
+<font> Dunne . <$$font> Truly , my Lord , I did not mind that there was
+any body else . LISLE-1685-E3-H,IV,114C2.89
+
+<font> L. C. J. <$$font> Recollect your self ,
+LISLE-1685-E3-H,IV,114C2.90
+
+and consider well of it . LISLE-1685-E3-H,IV,114C2.91
+
+<font> Dunne . <$$font> Truly , my Lord , I do not know of any body
+else . LISLE-1685-E3-H,IV,114C2.92
+
+<font> L. C. J. <$$font> Now upon your Oath tell me truly , who it
+was that opened the Stable-door , LISLE-1685-E3-H,IV,114C2.93
+
+was it <font> Carpenter <$$font> or you ? LISLE-1685-E3-H,IV,114C2.94
+
+<font> Dunne . <$$font> It was <font> Carpenter <$$font> , my Lord .
+LISLE-1685-E3-H,IV,114C2.95
+
+<font> L. C. J. <$$font> Why , thou vile Wretch didst not thou tell
+me just now that thou pluck'd up the Latch ?
+LISLE-1685-E3-H,IV,114C2.96
+
+Dost thou take the God of Heaven not to be a God of Truth , and that he
+is not a Witness of all thou say'st ? LISLE-1685-E3-H,IV,114C2.97
+
+Dost thou think because thou prevaricatest with the Court here , thou
+can'st do so with God above , who knows thy Thoughts ,
+LISLE-1685-E3-H,IV,114C2.98
+
+and it is infinite Mercy , that for those Falshoods of thine , he does
+not immediately strike thee into Hell ? LISLE-1685-E3-H,IV,114C2.99
+
+Jesus God ! LISLE-1685-E3-H,IV,114C2.100
+
+there is no sort of Conversation nor human Society to be kept with such
+People as these are , who have no other Religion but only in Pretence ,
+and no way to uphold themselves but by countenancing Lying and Villany :
+LISLE-1685-E3-H,IV,114C2.101
+
+Did not you tell me that you opened the Latch your self , and that you
+saw no body else but a Girl ? LISLE-1685-E3-H,IV,114C2.102
+
+How durst you offer to tell such horrid Lyes in the presence of God and
+of a Court of Justice ? LISLE-1685-E3-H,IV,114C2.103
+
+Answer me one Question more : LISLE-1685-E3-H,IV,114C2.104
+
+Did he pull down the Hay or you ? LISLE-1685-E3-H,IV,114C2.105
+
+<font> Dunne . <$$font> I did not pull down any Hay at all .
+LISLE-1685-E3-H,IV,114C2.106
+
+<font> L. C. J. <$$font> Was there any Hay pull'd down before the
+Candle was brought ? LISLE-1685-E3-H,IV,114C2.107
+
+<font> Dunne . <$$font> No , there was not .
+LISLE-1685-E3-H,IV,114C2.108
+
+<font> L. C. J. <$$font> Who brought the Candle ?
+LISLE-1685-E3-H,IV,114C2.109
+
+<font> Dunne . <$$font> Mr. <font> Carpenter <$$font> brought the
+Candle and Lanthorn . LISLE-1685-E3-H,IV,114C2.110
+
+<font> L. C. J. <$$font> It seems the Saints have a certain Charter
+for Lying ; LISLE-1685-E3-H,IV,114C2.111
+
+they may lye and cant , and deceive , and rebel , and think God Almighty
+takes no notice of it , nor will reckon with them for it :
+LISLE-1685-E3-H,IV,114C2.112
+
+You see , Gentlemen , what a precious Fellow this is , a very pretty
+Tool to be employ'd upon such an Errand , a Knave that no body would
+trust for half a Crown between Man and Man ,
+LISLE-1685-E3-H,IV,114C2.113
+
+but he is the fitter to be employ'd about such Works ;
+LISLE-1685-E3-H,IV,114C2.114
+
+what Pains is a Man at to get the Truth out of these Fellows ,
+LISLE-1685-E3-H,IV,114C2.115
+
+and it is with a great deal of Labour , that we can squeeze one Drop out
+of them ? LISLE-1685-E3-H,IV,114C2.116
+
+A <font> Turk <$$font> has more Title to an Eternity of Bliss than these
+Pretenders to Christianity , LISLE-1685-E3-H,IV,114C2.117
+
+for he has more Morality and Honesty in him .
+LISLE-1685-E3-H,IV,114C2.118
+
+Sirrah , I charge you in the presence of God , tell me true , What other
+Persons did you see that Night ? LISLE-1685-E3-H,IV,114C2.119
+
+<font> Dunne . <$$font> My Lord , I did not see any than what I have
+told you already . LISLE-1685-E3-H,IV,114C2.120
+
+<font> L. C. J. <$$font> Then they went out
+LISLE-1685-E3-H,IV,114C2.121
+
+and brought word that thou wert come , LISLE-1685-E3-H,IV,114C2.122
+
+and so he came out to meet thee . LISLE-1685-E3-H,IV,114C2.123
+
+Very well : LISLE-1685-E3-H,IV,114C2.124
+
+I would have every body that has but the least Tang of Saintship to
+observe the Carriage of this Fellow , and see how they can cant and
+snivel , and lye , and forswear themselves , and all for <P_IV,115C1>
+the Good Old Cause : LISLE-1685-E3-H,IV,115C1.125
+
+They will stick at nothing , if they think they can but preserve a
+Brother or Sister Saint forsooth ; LISLE-1685-E3-H,IV,115C1.126
+
+they can do any thing in the world but speak Truth , and do their Duty
+to God and their Governours : LISLE-1685-E3-H,IV,115C1.127
+
+I ask you again , Did not <font> Carpenter <$$font> meet you before you
+left <font> Hicks <$$font> and <font> Nelthorp <$$font> ?
+LISLE-1685-E3-H,IV,115C1.128
+
+<font> Dunne . <$$font> No , he did not . LISLE-1685-E3-H,IV,115C1.129
+
+<font> L. C. J. <$$font> Then I ask you again once more , did not
+<font> Carpenter <$$font> ask you to drink ?
+LISLE-1685-E3-H,IV,115C1.130
+
+<font> Dunne . <$$font> No , he did not . LISLE-1685-E3-H,IV,115C1.131
+
+<font> L. C. J. <$$font> Did not he light you with a Lanthorn and
+Candle into the House ? LISLE-1685-E3-H,IV,115C1.132
+
+<font> Dunne . <$$font> I went into the House .
+LISLE-1685-E3-H,IV,115C1.133
+
+<font> L. C. J. <$$font> Dost thou believe we think any body thrust
+thee in : LISLE-1685-E3-H,IV,115C1.134
+
+Did he light thee in , I ask thee ? LISLE-1685-E3-H,IV,115C1.135
+
+<font> Dunne . <$$font> I went in along with Mr. <font> Carpenter
+<$$font> . LISLE-1685-E3-H,IV,115C1.136
+
+<font> L. C. J. <$$font> What Room did he carry you into ?
+LISLE-1685-E3-H,IV,115C1.137
+
+<font> Dunne . <$$font> My Lord , he carried me into no Room ,
+LISLE-1685-E3-H,IV,115C1.138
+
+the young Woman shew'd me into a Room . LISLE-1685-E3-H,IV,115C1.139
+
+<font> L. C. J. <$$font> What Room was it ?
+LISLE-1685-E3-H,IV,115C1.140
+
+<font> Dunne . <$$font> Into the Chamber .
+LISLE-1685-E3-H,IV,115C1.141
+
+<font> L. C. J. <$$font> Was not thou in the Hall or Kitchen ?
+LISLE-1685-E3-H,IV,115C1.142
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,115C1.143
+
+<font> L. C. J. <$$font> It is hard thou hadst not one Cup of Drink
+to thy Cake and Cheese . LISLE-1685-E3-H,IV,115C1.144
+
+<font> Dunne . <$$font> My Lord , I had never a Drop .
+LISLE-1685-E3-H,IV,115C1.145
+
+<font> L. C. J. <$$font> No , nor did no body ask you to eat or drink
+? LISLE-1685-E3-H,IV,115C1.146
+
+<font> Dunne . <$$font> No , my Lord . LISLE-1685-E3-H,IV,115C1.147
+
+<font> L. C. J. <$$font> Thou art the best-natur'd Fellow that ever I
+met with , but the worst rewarded . LISLE-1685-E3-H,IV,115C1.148
+
+Come , I will ask thee another Question : LISLE-1685-E3-H,IV,115C1.149
+
+When was the first time thou heard'st <font> Nelthorp's <$$font> Name ?
+LISLE-1685-E3-H,IV,115C1.150
+
+<font> Dunne . <$$font> Not till he was taken .
+LISLE-1685-E3-H,IV,115C1.151
+
+<font> L. C. J. <$$font> What Name did the Fellow with the black
+Beard tell thee he had ? LISLE-1685-E3-H,IV,115C1.152
+
+<font> Dunne . <$$font> My Lord , he never told me any Name ?
+LISLE-1685-E3-H,IV,115C1.153
+
+<font> L. C. J. <$$font> Didst thou never ask him his Name ?
+LISLE-1685-E3-H,IV,115C1.154
+
+<font> Dunne . <$$font> No , my Lord , that Man that was afterwards
+found to be <font> Nelthorp <$$font> , I did not know to be <font>
+Nelthorp <$$font> till he was taken , nor what his Name was , nor any
+Name he had . LISLE-1685-E3-H,IV,115C1.155
+
+<font> L. C. J. <$$font> No , pri@ @thee tell the Truth ,
+LISLE-1685-E3-H,IV,115C1.156
+
+did not <font> Nelthorp <$$font> go by the Name of <font> Crofts
+<$$font> ? LISLE-1685-E3-H,IV,115C1.157
+
+<font> Dunne . <$$font> He did , my Lord .
+LISLE-1685-E3-H,IV,115C1.158
+
+<font> L. C. J. <$$font> Then pri@ @thee , when did he first go by
+that Name in thy Hearing ? LISLE-1685-E3-H,IV,115C1.159
+
+<font> Dunne . <$$font> My Lord , I only heard <font> Hicks <$$font>
+say he went by the Name of <font> Crofts <$$font> .
+LISLE-1685-E3-H,IV,115C1.160
+
+<font> L. C. J. <$$font> When was that ?
+LISLE-1685-E3-H,IV,115C1.161
+
+<font> Dunne . <$$font> When they were taken .
+LISLE-1685-E3-H,IV,115C1.162
+
+<font> L. C. J. <$$font> Did you not hear him call'd by that Name any
+time of the Journey ? LISLE-1685-E3-H,IV,115C1.163
+
+<font> Dunne . <$$font> I can@ @not recollect , my Lord , that I ever
+did . LISLE-1685-E3-H,IV,115C1.164
+
+<font> L. C. J. <$$font> Thou canst recollect nothing of Truth :
+LISLE-1685-E3-H,IV,115C1.165
+
+Is this as much as you can say ? LISLE-1685-E3-H,IV,115C1.166
+
+<font> Dunne . <$$font> It is , my Lord . LISLE-1685-E3-H,IV,115C1.167
+
+Mr. <font> Jennings . <$$font> You say <font> Carpenter <$$font> met
+you very civilly , and took care of your Horse :
+LISLE-1685-E3-H,IV,115C1.168
+
+Did he make no Provision for <font> Hicks <$$font> and <font> Nelthorp's
+<$$font> Horses ? LISLE-1685-E3-H,IV,115C1.169
+
+What became of them ? LISLE-1685-E3-H,IV,115C1.170
+
+<font> Dunne . <$$font> I can@ @not tell , my Lord .
+LISLE-1685-E3-H,IV,115C1.171
+
+Mr. <font> Rumsey . <$$font> Did you see their Horses afterwards ?
+LISLE-1685-E3-H,IV,115C1.172
+
+<font> Dunne . <$$font> No , my Lord , I did not .
+LISLE-1685-E3-H,IV,115C1.173
+
+Mr. <font> Rumsey . <$$font> When they alighted from them , were they
+ty'd fast to the Gate , or how ? LISLE-1685-E3-H,IV,115C1.174
+
+<font> Dunne . <$$font> They were not ty'd at all , as I know of .
+LISLE-1685-E3-H,IV,115C1.175
+
+Mr. <font> Jennings . <$$font> Did you tell <font> Carpenter <$$font>
+that their Horses were there ? LISLE-1685-E3-H,IV,115C1.176
+
+<font> Dunne . <$$font> I did not tell him any such thing .
+LISLE-1685-E3-H,IV,115C1.177
+
+<font> L. C. J. <$$font> Thou art a strange prevaricating , shuffling
+, sniveling , lying Rascal . LISLE-1685-E3-H,IV,115C1.178
+
+<P_IV,115C2>
+
+Mr. <font> Pollexfen . <$$font> We will set him by for the present ,
+and call <font> Barter <$$font> , LISLE-1685-E3-H,IV,115C2.180
+
+that is the other Fellow . LISLE-1685-E3-H,IV,115C2.181
+
+<font> L. C. J. <$$font> Will the Prisoner ask this Person any
+Questions ? LISLE-1685-E3-H,IV,115C2.182
+
+<font> Lisle . <$$font> No . LISLE-1685-E3-H,IV,115C2.183
+
+<P_IV,120C1>
+
+<font> Lisle . <$$font My Lord , I hope I shall not be condemned
+without being heard . LISLE-1685-E3-H,IV,120C1.185
+
+<font> L. C. J. <$$font> No , God forbid , Mrs. <font> Lisle
+<$$font> ; LISLE-1685-E3-H,IV,120C1.186
+
+that was a sort of practice in your Husband's time ;
+LISLE-1685-E3-H,IV,120C1.187
+
+you know very well what I mean : LISLE-1685-E3-H,IV,120C1.188
+
+But God be thanked , it is not so now ; LISLE-1685-E3-H,IV,120C1.189
+
+the King's Courts of Law never condemn without hearing .
+LISLE-1685-E3-H,IV,120C1.190
+
+Col. <font> Penruddock <$$font> , have you any more to say ?
+LISLE-1685-E3-H,IV,120C1.191
+
+Col. <font> Penruddock . <$$font> No , my Lord ;
+LISLE-1685-E3-H,IV,120C1.192
+
+but here is one Mr. <font> Dowding <$$font> , that was with me when I
+searched the House . LISLE-1685-E3-H,IV,120C1.193
+
+<font> L. C. J. <$$font> Swear him . LISLE-1685-E3-H,IV,120C1.194
+
+<font> Which was done . <$$font> LISLE-1685-E3-H,IV,120C1.195
+
+Mr. <font> Pollexfen . <$$font> Mr. <font> Dowding <$$font> , pray
+did you go with Col. <font> Penruddock <$$font> to Mrs. <font> Lisle's
+<$$font> House ? LISLE-1685-E3-H,IV,120C1.196
+
+Mr. <font> Dowding . <$$font> Yes , my Lord :
+LISLE-1685-E3-H,IV,120C1.197
+
+We came to the House , LISLE-1685-E3-H,IV,120C1.198
+
+and beset the House round , some to the back Gate , and some to the fore
+Gate ; LISLE-1685-E3-H,IV,120C1.199
+
+we called almost half an hour before we got in ;
+LISLE-1685-E3-H,IV,120C1.200
+
+and had found two , LISLE-1685-E3-H,IV,120C1.201
+
+and we came to my Lady ; LISLE-1685-E3-H,IV,120C1.202
+
+she said , she knew nothing of any body being in the House -
+LISLE-1685-E3-H,IV,120C1.203
+
+<font> Lisle . <$$font My Lord , this Fellow that now speaks against me
+, broke open my Trunk , LISLE-1685-E3-H,IV,120C1.204
+
+and stole away a great part of my best Linen ;
+LISLE-1685-E3-H,IV,120C1.205
+
+and sure , my Lord , those Persons that rob me , are not fit to be
+Evidences against me , because it behoves them that I be convicted , to
+prevent their being indicted for Felony . LISLE-1685-E3-H,IV,120C1.206
+
+<font> L. C. J. <$$font> Look you , Friend , you say you went with
+Col. <font> Penruddock <$$font> to search the House ,
+LISLE-1685-E3-H,IV,120C1.207
+
+did you find any body there ? LISLE-1685-E3-H,IV,120C1.208
+
+<font> Dowding . <$$font> Yes , my Lord , I found this same <font>
+Dunne <$$font> in a little hole in the Malt-house .
+LISLE-1685-E3-H,IV,120C1.209
+
+<font> L. C. J. <$$font> Was he covered , or not ?
+LISLE-1685-E3-H,IV,120C1.210
+
+<font> Dowding . <$$font> He had taken some stuff or other to cover him
+. LISLE-1685-E3-H,IV,120C1.211
+
+<font> L. C. J. <$$font> Did you find <font> Hicks <$$font> there ?
+LISLE-1685-E3-H,IV,120C1.212
+
+<font> Dowding . <$$font> Yes , my Lord , we did find one that said his
+Name was <font> Hicks <$$font> . LISLE-1685-E3-H,IV,120C1.213
+
+<font> L. C. J. <$$font> Is that the same <font> Hicks <$$font> that
+is in <font> Salisbury <$$font> Goal ? LISLE-1685-E3-H,IV,120C1.214
+
+<font> Dowding . <$$font> Yes , my Lord , it is ;
+LISLE-1685-E3-H,IV,120C1.215
+
+I saw him yesterday at the <font> George <$$font> in <font> Salisbury
+<$$font> , when he had that Discourse with those other Gentlemen .
+LISLE-1685-E3-H,IV,120C1.216
+
+Mr. <font> Pollexfen . <$$font> Swear <font> Carpenter <$$font> and
+his Wife . LISLE-1685-E3-H,IV,120C1.217
+
+<font> Which was done . <$$font> LISLE-1685-E3-H,IV,120C1.218
+
+<font> Dowding . <$$font> My Lord , <font> Hicks <$$font> acknowledged
+before me , that he was at <font> Keinsham <$$font> , in the Duke of
+<font> Monmouth@ @s <$$font> Army . LISLE-1685-E3-H,IV,120C1.219
+
+Mr. <font> Pollexfen . <$$font> Come , Mrs. <font> Carpenter <$$font>
+, tell my Lord and the Jury , did you know the Time when these Men came
+to your Lady's House ? LISLE-1685-E3-H,IV,120C1.220
+
+<font> L. C. J. <$$font> Is this the Bailiff's Wife ?
+LISLE-1685-E3-H,IV,120C1.221
+
+Mr. <font> Pollexfen . <$$font> Yes , my Lord , it is .
+LISLE-1685-E3-H,IV,120C1.222
+
+<font> L. C. J. <$$font> Well then , what say you to the Question :
+LISLE-1685-E3-H,IV,120C1.223
+
+Do you know the Time when they came ? LISLE-1685-E3-H,IV,120C1.224
+
+Mrs. <font> Carpenter . <$$font> Yes , my Lord , they came at night .
+LISLE-1685-E3-H,IV,120C1.225
+
+<font> L. C. J. <$$font> Did you see them there ?
+LISLE-1685-E3-H,IV,120C1.226
+
+Mrs. <font> Carpenter . <$$font> Yes . LISLE-1685-E3-H,IV,120C1.227
+
+<font> L. C. J. <$$font> Were they lodged there ?
+LISLE-1685-E3-H,IV,120C1.228
+
+Mrs. <font> Carpenter . <$$font> Yes ; but I never made the Bed .
+LISLE-1685-E3-H,IV,120C1.229
+
+<font> L. C. J. <$$font> Who did ? LISLE-1685-E3-H,IV,120C1.230
+
+<P_IV,120C2>
+
+Mrs. <font> Carpenter . <$$font> My Lord , I can@ @not tell .
+LISLE-1685-E3-H,IV,120C2.232
+
+<font> L. C. J. <$$font> Had they any Supper , or Victuals there ?
+LISLE-1685-E3-H,IV,120C2.233
+
+Mrs. <font> Carpenter . <$$font> Yes , they had .
+LISLE-1685-E3-H,IV,120C2.234
+
+<font> L. C. J. <$$font> Who dress'd it ?
+LISLE-1685-E3-H,IV,120C2.235
+
+Mrs. <font> Carpenter . <$$font> I did . LISLE-1685-E3-H,IV,120C2.236
+
+<font> L. C. J. <$$font> By whose Order did you dress it ?
+LISLE-1685-E3-H,IV,120C2.237
+
+Mrs. <font> Carpenter . <$$font> By my Lady's Order .
+LISLE-1685-E3-H,IV,120C2.238
+
+<font> L. C. J. <$$font> Pri@ @thee where did they eat their Meat ?
+LISLE-1685-E3-H,IV,120C2.239
+
+Mrs. <font> Carpenter . <$$font> In the Chamber , my Lord , where they
+lay . LISLE-1685-E3-H,IV,120C2.240
+
+<font> L. C. J. <$$font> Who was with them ?
+LISLE-1685-E3-H,IV,120C2.241
+
+Mrs. <font> Carpenter . <$$font> My Lord , I can@ @not tell ,
+LISLE-1685-E3-H,IV,120C2.242
+
+for I did not stay in the Room . LISLE-1685-E3-H,IV,120C2.243
+
+<font> L. C. J. <$$font> Didst thou see them when they came into the
+Room ? LISLE-1685-E3-H,IV,120C2.244
+
+Mrs. <font> Carpenter . <$$font> My Lord , I dress'd the Meat ,
+LISLE-1685-E3-H,IV,120C2.245
+
+and carried it within the Door , LISLE-1685-E3-H,IV,120C2.246
+
+and my Husband set it upon the Table . LISLE-1685-E3-H,IV,120C2.247
+
+<font> L. C. J. <$$font> Pri@ @thee tell me who was with them :
+LISLE-1685-E3-H,IV,120C2.248
+
+Was thy Lady there ? LISLE-1685-E3-H,IV,120C2.249
+
+Mrs. <font> Carpenter . <$$font> My Lady was in presence there then .
+LISLE-1685-E3-H,IV,120C2.250
+
+<font> L. C. J. <$$font> How long did they stay below stairs before
+they went up ? LISLE-1685-E3-H,IV,120C2.251
+
+Mrs. <font> Carpenter . <$$font> Truly , my Lord , I can@ @not tell .
+LISLE-1685-E3-H,IV,120C2.252
+
+<font> L. C. J. <$$font> Did your Lady use to sup below stairs or
+above ? LISLE-1685-E3-H,IV,120C2.253
+
+Mrs. <font> Carpenter . <$$font> She used to sup below , my Lord .
+LISLE-1685-E3-H,IV,120C2.254
+
+Mr. <font> Pollexfen . <$$font> My Lord , if your Lordship please ,
+this Woman and her Husband are both unwilling Witnesses ;
+LISLE-1685-E3-H,IV,120C2.255
+
+but we will examine the Husband , and see what we can get out of him .
+LISLE-1685-E3-H,IV,120C2.256
+
+Hark you , <font> Carpenter <$$font> , did you meet with this Fellow ,
+<font> Dunne <$$font> , at his first coming to your Lady's House ?
+LISLE-1685-E3-H,IV,120C2.257
+
+Mr. <font> Carpenter . <$$font> Yes , my Lord , I did see him there on
+the <font> Saturday <$$font> . LISLE-1685-E3-H,IV,120C2.258
+
+<font> L. C. J. <$$font> Well then , let me ask you a Question ;
+LISLE-1685-E3-H,IV,120C2.259
+
+and be sure you tell me the Truth , LISLE-1685-E3-H,IV,120C2.260
+
+for it may be I know it already ; LISLE-1685-E3-H,IV,120C2.261
+
+did he offer you a Letter to be deliver'd to your Lady ?
+LISLE-1685-E3-H,IV,120C2.262
+
+Mr. <font> Carpenter . <$$font> No , my Lord .
+LISLE-1685-E3-H,IV,120C2.263
+
+<font> L. C. J. <$$font> What do you say , <font> Barter <$$font> ?
+LISLE-1685-E3-H,IV,120C2.264
+
+<font> Barter . <$$font> I saw him produce it to Mr. <font> Carpenter
+<$$font> , LISLE-1685-E3-H,IV,120C2.265
+
+but he refused to meddle with it . LISLE-1685-E3-H,IV,120C2.266
+
+Mr. <font> Carpenter . <$$font> My Lord , he asked me , if my Lady
+would give Entertainment to one <font> Hicks <$$font> , and another
+Person , LISLE-1685-E3-H,IV,120C2.267
+
+but he did not know who that Person was . LISLE-1685-E3-H,IV,120C2.268
+
+<font> L. C. J. <$$font> Did he speak of another Person ?
+LISLE-1685-E3-H,IV,120C2.269
+
+Mr. <font> Carpenter . <$$font> Yes , he did .
+LISLE-1685-E3-H,IV,120C2.270
+
+<font> L. C. J. <$$font> Who was that other Person ?
+LISLE-1685-E3-H,IV,120C2.271
+
+Mr. <font> Carpenter . <$$font> I did ask his Name ,
+LISLE-1685-E3-H,IV,120C2.272
+
+but he said , he did not know him . LISLE-1685-E3-H,IV,120C2.273
+
+<font> L. C. J. <$$font> Well then , when they came there on the
+<font> Tuesday-night <$$font> , how did you receive them ?
+LISLE-1685-E3-H,IV,120C2.274
+
+Mr. <font> Carpenter . <$$font> I did not receive them .
+LISLE-1685-E3-H,IV,120C2.275
+
+<font> L. C. J. <$$font> Did not you light the Candle , and bring it
+in a Lanthorn , to light him into the Stable ?
+LISLE-1685-E3-H,IV,120C2.276
+
+Mr. <font> Carpenter . <$$font> My Lord , that was afterwards .
+LISLE-1685-E3-H,IV,120C2.277
+
+<font> L. C. J. <$$font> Did not you bring the Men into the House ?
+LISLE-1685-E3-H,IV,120C2.278
+
+Mr. <font> Carpenter . <$$font> No , my Lord , indeed I did not .
+LISLE-1685-E3-H,IV,120C2.279
+
+<font> L. C. J. <$$font> Did not you see them all night ?
+LISLE-1685-E3-H,IV,120C2.280
+
+Mr. <font> Carpenter . <$$font> Yes , my Lord .
+LISLE-1685-E3-H,IV,120C2.281
+
+<font> L. C. J. <$$font> Then where did you see them first ?
+LISLE-1685-E3-H,IV,120C2.282
+
+Mr. <font> Carpenter . <$$font> In the Room where they supp'd and lay
+. LISLE-1685-E3-H,IV,120C2.283
+
+<font> L. C. J. <$$font> Did not you meet them in the Courtyard ?
+LISLE-1685-E3-H,IV,120C2.284
+
+Mr. <font> Carpenter . <$$font> No , my Lord .
+LISLE-1685-E3-H,IV,120C2.285
+
+<P_IV,121C1>
+
+<font> L. C. J. <$$font> Who gave you Directions to light <font>
+Dunne <$$font> into the Stable ? LISLE-1685-E3-H,IV,121C1.287
+
+Mr. <font> Carpenter . <$$font> They told me his Horse was out in the
+Yard . LISLE-1685-E3-H,IV,121C1.288
+
+<font> L. C. J. <$$font> Who told you so ?
+LISLE-1685-E3-H,IV,121C1.289
+
+Mr. <font> Carpenter . <$$font> The Men did .
+LISLE-1685-E3-H,IV,121C1.290
+
+<font> L. C. J. <$$font> Where did they sup ?
+LISLE-1685-E3-H,IV,121C1.291
+
+Mr. <font> Carpenter . <$$font> In the Room above stairs .
+LISLE-1685-E3-H,IV,121C1.292
+
+<font> L. C. J. <$$font> Who supp'd along with them ?
+LISLE-1685-E3-H,IV,121C1.293
+
+Mr. <font> Carpenter . <$$font> I can@ @not say any body supp'd with
+them . LISLE-1685-E3-H,IV,121C1.294
+
+<font> L. C. J. <$$font> Was not my Lady there ?
+LISLE-1685-E3-H,IV,121C1.295
+
+Mr. <font> Carpenter . <$$font> She was in the Room ,
+LISLE-1685-E3-H,IV,121C1.296
+
+but I did not see her eat any thing . LISLE-1685-E3-H,IV,121C1.297
+
+<font> L. C. J. <$$font> What time of the night did they come ?
+LISLE-1685-E3-H,IV,121C1.298
+
+Mr. <font> Carpenter . <$$font> About Ten of the Clock .
+LISLE-1685-E3-H,IV,121C1.299
+
+<font> L. C. J. <$$font> And where did they lie ?
+LISLE-1685-E3-H,IV,121C1.300
+
+Mr. <font> Carpenter . <$$font> In the Room where they supped .
+LISLE-1685-E3-H,IV,121C1.301
+
+<font> L. C. J. <$$font> Who lay there ?
+LISLE-1685-E3-H,IV,121C1.302
+
+Mr. <font> Capenter . <$$font> <font> Hicks <$$font> and <font>
+Nelthorp <$$font> lay there . LISLE-1685-E3-H,IV,121C1.303
+
+<font> L. C. J. <$$font> Was <font> Nelthorp <$$font> named there ?
+LISLE-1685-E3-H,IV,121C1.304
+
+Mr. <font> Carpenter . <$$font> No , I never heard of his Name till
+after he was taken . LISLE-1685-E3-H,IV,121C1.305
+
+<font> L. C. J. <$$font> What kind of a Man was he ?
+LISLE-1685-E3-H,IV,121C1.306
+
+Mr. <font> Carpenter . <$$font> A tall , thin , black Man .
+LISLE-1685-E3-H,IV,121C1.307
+
+<font> L. C. J. <$$font> Well , what can you say more ?
+LISLE-1685-E3-H,IV,121C1.308
+
+Mr. <font> Carpenter . <$$font> My Lord , this Person has swore , that
+a Letter was offered me , but I refused it ;
+LISLE-1685-E3-H,IV,121C1.309
+
+but I assure your Lordship I never saw any Letter .
+LISLE-1685-E3-H,IV,121C1.310
+
+<font> Barter . <$$font> I am sure he met you ,
+LISLE-1685-E3-H,IV,121C1.311
+
+and , as I remember , there was a Letter produced .
+LISLE-1685-E3-H,IV,121C1.312
+
+<font> L. C. J. <$$font> Thou should'st not be angry with him ,
+LISLE-1685-E3-H,IV,121C1.313
+
+for he spoke very kindly of thee , that thou refused'st to meddle in it
+, and thereupon <font> Dunne <$$font> went in to thy Lady , and
+deliver'd his Message to her . LISLE-1685-E3-H,IV,121C1.314
+
+Mr. <font> Carpenter . <$$font> That , my Lord , I acknowledge .
+LISLE-1685-E3-H,IV,121C1.315
+
+<font> L. C. J. <$$font> Then , pri@ @thee let me ask thee another
+Question : LISLE-1685-E3-H,IV,121C1.316
+
+Did you carry any Beer up into the Room ? LISLE-1685-E3-H,IV,121C1.317
+
+Mr. <font> Carpenter . <$$font> My Lady gave order for the Provision .
+LISLE-1685-E3-H,IV,121C1.318
+
+<font> L. C. J. <$$font> Did you make <font> Dunne <$$font> drink ?
+LISLE-1685-E3-H,IV,121C1.319
+
+Mr. <font> Carpenter . <$$font> No , I did not .
+LISLE-1685-E3-H,IV,121C1.320
+
+<font> L. C. J. <$$font> Did you offer him any Drink ?
+LISLE-1685-E3-H,IV,121C1.321
+
+Mr. <font> Carpenter . <$$font> My Lord , I did not see him drink at
+all . LISLE-1685-E3-H,IV,121C1.322
+
+<font> L. C. J. <$$font> What say you , good Woman ;
+LISLE-1685-E3-H,IV,121C1.323
+
+Did not your Lady sup there ? LISLE-1685-E3-H,IV,121C1.324
+
+Mr. <font> Carpenter . <$$font> My Lord , my Wife was little there at
+all ? LISLE-1685-E3-H,IV,121C1.325
+
+Mr. <font> Rumsey . <$$font> Now , my Lord , <font> Dunne <$$font>
+says he will tell all , whether it make for him or against him .
+LISLE-1685-E3-H,IV,121C1.326
+
+<font> L. C. J. <$$font> Let him but tell the Truth , and I am
+satisfied . LISLE-1685-E3-H,IV,121C1.327
+
+<font> Dunne . <$$font> Sure , my Lord , I never entertained these Men
+a night in my House in my Life ; LISLE-1685-E3-H,IV,121C1.328
+
+but this <font> Hicks <$$font> sent that Man to me , to go to my Lady
+<font> Lisle@ @'s <$$font> , to know whether she would please to
+entertain him : LISLE-1685-E3-H,IV,121C1.329
+
+And when I came , my Lady asked me , whether he had been in the Army or
+no ? LISLE-1685-E3-H,IV,121C1.330
+
+I told her , I could not tell , LISLE-1685-E3-H,IV,121C1.331
+
+I did not know that he was . LISLE-1685-E3-H,IV,121C1.332
+
+She then ask'd me , if he had no body else with him ?
+LISLE-1685-E3-H,IV,121C1.333
+
+I told her , I believed there was : LISLE-1685-E3-H,IV,121C1.334
+
+This is the very Truth of it , my Lord . LISLE-1685-E3-H,IV,121C1.335
+
+I asked her , might the Men be entertain'd ?
+LISLE-1685-E3-H,IV,121C1.336
+
+She said they might . LISLE-1685-E3-H,IV,121C1.337
+
+So when we came to my Lady <font> Lisle's @'s <$$font> , on the <font>
+Tuesday <$$font> night , somebody took the two Horses ,
+LISLE-1685-E3-H,IV,121C1.338
+
+I can@ @not tell who , if I were to die ; LISLE-1685-E3-H,IV,121C1.339
+
+the two went in ; LISLE-1685-E3-H,IV,121C1.340
+
+and after I had set up my Horse , I went in along with <font> Carpenter
+<$$font> up into the Chamber to my Lady , and to this <font> Hicks
+<$$font> and <font> Nelthorp <$$font> ; LISLE-1685-E3-H,IV,121C1.341
+
+and when I came there , I heard my Lady bid them welcome to her House ;
+LISLE-1685-E3-H,IV,121C1.342
+
+and Mr. <font> Carpenter <$$font> , <P_IV,121C2> or the Maid , I can@
+@not tell which , brought in the Supper , LISLE-1685-E3-H,IV,121C2.343
+
+and set it on the Table . LISLE-1685-E3-H,IV,121C2.344
+
+<font> L. C. J. <$$font> And did'st thou eat or drink with 'em in the
+Room , or not ? LISLE-1685-E3-H,IV,121C2.345
+
+<font> Dunne . <$$font> My Lord , I will tell every thing that I know ;
+LISLE-1685-E3-H,IV,121C2.346
+
+I confess I did both eat and drink there in the Room .
+LISLE-1685-E3-H,IV,121C2.347
+
+<font> L. C. J. <$$font> I pity thee with all my Soul ,
+LISLE-1685-E3-H,IV,121C2.348
+
+and pray to God Almighty for thee to forgive thee , and to the blessed
+Jesus to mediate for thee ; LISLE-1685-E3-H,IV,121C2.349
+
+and I pray for thee with as much earnestness , as I would for my own
+Soul ; LISLE-1685-E3-H,IV,121C2.350
+
+and I beg of thee once more , as thou regardest thy own eternal Welfare
+, to tell all the Truth . LISLE-1685-E3-H,IV,121C2.351
+
+<font> Dunne . <$$font> My Lord , I did never know these Men were in
+the Army when I carried the Message to my Lady <font> Lisle@ @'s
+<$$font> , LISLE-1685-E3-H,IV,121C2.352
+
+nor never did entertain them in my House in my life-time , so much as
+one Night . LISLE-1685-E3-H,IV,121C2.353
+
+<font> L. C. J. <$$font> Pri@ @thee , I do not ask thee what thou
+did'st not , but what thou did'st ? LISLE-1685-E3-H,IV,121C2.354
+
+<font> Dunne . <$$font> My Lord , I will tell all I know .
+LISLE-1685-E3-H,IV,121C2.355
+
+<font> L. C. J. <$$font> What Discourse had you that Night at the
+Table in the Room ? LISLE-1685-E3-H,IV,121C2.356
+
+<font> Dunne . <$$font> I can@ @not tell what Discourse truly , my Lord
+, there was . LISLE-1685-E3-H,IV,121C2.357
+
+<font> L. C. J. <$$font> Was there nothing of coming from beyond Seas
+, who came from thence , and how they came ?
+LISLE-1685-E3-H,IV,121C2.358
+
+Come , I would have it rather the Effect of thy own Ingenuity , than
+lead thee by any Questions that I can propound ;
+LISLE-1685-E3-H,IV,121C2.359
+
+come , tell us what was the Discourse . LISLE-1685-E3-H,IV,121C2.360
+
+<font> Dunne . <$$font> I do not remember all the Discourse .
+LISLE-1685-E3-H,IV,121C2.361
+
+<font> L. C. J. <$$font> Pri@ @thee , let me ask thee one Question ,
+LISLE-1685-E3-H,IV,121C2.362
+
+and answer me it fairly ; LISLE-1685-E3-H,IV,121C2.363
+
+Did'st not thou hear <font> Nelthorp's <$$font> Name named in the Room ?
+LISLE-1685-E3-H,IV,121C2.364
+
+<font> Dunne . <$$font> My Lord , I can@ @not tell whether he were
+called <font> Nelthorp <$$font> , LISLE-1685-E3-H,IV,121C2.365
+
+but it was either <font> Crofts <$$font> or <font> Nelthorp <$$font> ,
+LISLE-1685-E3-H,IV,121C2.366
+
+I am sure one of them . LISLE-1685-E3-H,IV,121C2.367
+
+<font> L. C. J. <$$font> Pri@ @thee be ingenuous ,
+LISLE-1685-E3-H,IV,121C2.368
+
+and let@ @'s have the Truth on@ @'t ? LISLE-1685-E3-H,IV,121C2.369
+
+<font> Dunne . <$$font> My Lord , I am ingenuous ,
+LISLE-1685-E3-H,IV,121C2.370
+
+and will be so . LISLE-1685-E3-H,IV,121C2.371
+
+<font> L. C. J. <$$font> I will assure you , <font> Nelthorp <$$font>
+told me all the Story before I came out of Town ?
+LISLE-1685-E3-H,IV,121C2.372
+
+<font> Dunne . <$$font> I think , my Lord , he was called <font>
+Nelthorp <$$font> in the Room , and there was some Discourse about him .
+LISLE-1685-E3-H,IV,121C2.373
+
+<font> L. C. J. <$$font> Ay , there was unquestionably ,
+LISLE-1685-E3-H,IV,121C2.374
+
+and I know thou wert by , LISLE-1685-E3-H,IV,121C2.375
+
+and that made me the more concern'd to press upon thee the Danger of
+forswearing thy self . LISLE-1685-E3-H,IV,121C2.376
+
+<font> Dunne . <$$font> My Lady ask'd <font> Hicks <$$font> who that
+Gentleman was , LISLE-1685-E3-H,IV,121C2.377
+
+and he said it was <font> Nelthorp <$$font> , as I remember .
+LISLE-1685-E3-H,IV,121C2.378
+
+<font> L. C. J. <$$font> Very well , and upon that Discourse with
+<font> Nelthorp <$$font> , which I had in Town , did I give particular
+Direction , that the Outlawry of <font> Nelthorp <$$font> should be
+brought down hither , LISLE-1685-E3-H,IV,121C2.379
+
+for he told me particularly of all the Passages and Discourses of his
+being beyond Sea , and coming from beyond Sea :
+LISLE-1685-E3-H,IV,121C2.380
+
+I would not mention any such thing as any piece of Evidence to influence
+this case , LISLE-1685-E3-H,IV,121C2.381
+
+but I could not but tremble to think , after what I knew , that any one
+should dare so much to prevaricate with God and Man , as to tell such
+horrid Lyes in the Face of a Court . LISLE-1685-E3-H,IV,121C2.382
+
+<font> Dunne . <$$font> What does your Lordship ask me ?
+LISLE-1685-E3-H,IV,121C2.383
+
+<font> L. C. J. <$$font> Come , I will ask thee a plain Question ;
+LISLE-1685-E3-H,IV,121C2.384
+
+Was there no Discourse there about the Battle , and of their being in
+the Army ? LISLE-1685-E3-H,IV,121C2.385
+
+<font> Dunne . <$$font> There was some such Discourse , my Lord .
+LISLE-1685-E3-H,IV,121C2.386
+
+<P_IV,122C1>
+
+<font> L. C. J. <$$font> Ay , pri@ @thee now tell us what that
+Discourse was ? LISLE-1685-E3-H,IV,122C1.388
+
+<font> Dunne . <$$font> My Lord , I will tell you when I have
+re-collected it , if you will give me time till to-morrow Morning .
+LISLE-1685-E3-H,IV,122C1.389
+
+<font> L. C. J. <$$font> Nay , but we can@ @not stay so long ,
+LISLE-1685-E3-H,IV,122C1.390
+
+our Business must be dispatched now ; LISLE-1685-E3-H,IV,122C1.391
+
+but I would have all People consider what a Reason there is , that they
+should be pressed to join with me in hearty Prayers to Almighty God ,
+that this Sin of Lying and Perjury may never be laid at thy door .
+LISLE-1685-E3-H,IV,122C1.392
+
+What say'st thou ? LISLE-1685-E3-H,IV,122C1.393
+
+Pri@ @thee tell us what the Discourse was ?
+LISLE-1685-E3-H,IV,122C1.394
+
+<font> Dunne . <$$font> My Lord , they did talk of Fighting ,
+LISLE-1685-E3-H,IV,122C1.395
+
+but I can@ @not exactly tell what the Discourse was ?
+LISLE-1685-E3-H,IV,122C1.396
+
+<font> L. C. J. <$$font> And thou said'st thou did'st eat and drink
+with them in the same Room ? LISLE-1685-E3-H,IV,122C1.397
+
+<font> Dunne . <$$font> I did so , my Lord ,
+LISLE-1685-E3-H,IV,122C1.398
+
+I confess it . LISLE-1685-E3-H,IV,122C1.399
+
+<font> L. C. J. <$$font> And it was not a little Girl that lighted
+thee to Bed , or conducted thee in ? LISLE-1685-E3-H,IV,122C1.400
+
+<font> Dunne . <$$font> It was not a little Girl .
+LISLE-1685-E3-H,IV,122C1.401
+
+<font> L. C. J. <$$font> Who was it then ?
+LISLE-1685-E3-H,IV,122C1.402
+
+<font> Dunne . <$$font> It was Mr. <font> Carpenter <$$font> , my Lord
+. LISLE-1685-E3-H,IV,122C1.403
+
+<font> L. C. J. <$$font> And why did'st thou tell so many Lyes then ?
+LISLE-1685-E3-H,IV,122C1.404
+
+Jesu God ! that we should live to see any such Creatures among Mankind
+, nay , and among us too , LISLE-1685-E3-H,IV,122C1.405
+
+to the Shame and Reproach be it spoken of our Nation and Religion :
+LISLE-1685-E3-H,IV,122C1.406
+
+Is this that that is called the Protestant Religion , a thing so much
+boasted of , and pretended to ? LISLE-1685-E3-H,IV,122C1.407
+
+We have heard a great deal of Clamour against Popery and Dispensations ,
+LISLE-1685-E3-H,IV,122C1.408
+
+what Dispensations pray does the Protestant Religion give for such
+Practices as these ? LISLE-1685-E3-H,IV,122C1.409
+
+I pity thee with all my Soul , LISLE-1685-E3-H,IV,122C1.410
+
+and pray for thee , LISLE-1685-E3-H,IV,122C1.411
+
+but it can@ @not but make all Mankind to tremble and be filled with
+Horror , that such a wretched Creature should live upon the Earth :
+LISLE-1685-E3-H,IV,122C1.412
+
+Pri@ @thee be free , LISLE-1685-E3-H,IV,122C1.413
+
+and tell us what Discourse there was ? LISLE-1685-E3-H,IV,122C1.414
+
+<font> Dunne . <$$font> My Lord , they did talk of Fighting ,
+LISLE-1685-E3-H,IV,122C1.415
+
+but I can@ @not remember what it was . LISLE-1685-E3-H,IV,122C1.416
+
+<font> L. C. J. <$$font> Did you lie with them ?
+LISLE-1685-E3-H,IV,122C1.417
+
+<font> Dunne . <$$font> No , my Lord , I did not .
+LISLE-1685-E3-H,IV,122C1.418
+
+<font> L. C. J. <$$font> Well , I see thou wilt answer nothing
+ingenuously , LISLE-1685-E3-H,IV,122C1.419
+
+therefore I will trouble my self no more with thee :
+LISLE-1685-E3-H,IV,122C1.420
+
+Go on with your Evidence , Gentlemen . LISLE-1685-E3-H,IV,122C1.421
+
+Mr. <font> Jennings . <$$font> My Lord , we have done ,
+LISLE-1685-E3-H,IV,122C1.422
+
+we have no more Witnesses . LISLE-1685-E3-H,IV,122C1.423
+
+<font> L. C. J. <$$font> Then you that are for the Prisoner at the
+Bar , now is your time to make your Defence ;
+LISLE-1685-E3-H,IV,122C1.424
+
+you hear what is charged upon you , LISLE-1685-E3-H,IV,122C1.425
+
+and you see what a kind of Shuffling here has been to stifle the Truth ,
+LISLE-1685-E3-H,IV,122C1.426
+
+and I am sorry to find the Occasion to speak it , that under the Figure
+and Form of Religion such Practices should be carried on .
+LISLE-1685-E3-H,IV,122C1.427
+
+What have you to say for your self ? LISLE-1685-E3-H,IV,122C1.428
+
+<font> Lisle . <$$font> My Lord , that which I have to say to it , is
+this : LISLE-1685-E3-H,IV,122C1.429
+
+I knew of no body's coming to my House but Mr. <font> Hicks <$$font> ,
+LISLE-1685-E3-H,IV,122C1.430
+
+and for him I was inform'd that he did abscond , by reason of Warrants
+that were out against him for preaching in private Meetings ,
+LISLE-1685-E3-H,IV,122C1.431
+
+but I never heard that he was in the Army , nor that <font> Nelthorp
+<$$font> was to come with him ; LISLE-1685-E3-H,IV,122C1.432
+
+and for that Reason it was , that I sent to him to come by night :
+LISLE-1685-E3-H,IV,122C1.433
+
+but for the other Man <font> Nelthorp <$$font> , I never knew he was
+<font> Nelthorp <$$font> , I could die upon it ,
+LISLE-1685-E3-H,IV,122C1.434
+
+nor did not know what Name he had , till after he came into my House ;
+LISLE-1685-E3-H,IV,122C1.435
+
+but as for Mr. <font> Hicks <$$font> , I did not in the least suspect
+him to have been in the Army , being a Presbyterian Minister , that used
+to preach , and not to fight . LISLE-1685-E3-H,IV,122C1.436
+
+<font> L. C. J. <$$font> But I will tell you , there is not one of
+those lying , sniveling , canting , Presbyterian Rascals , but one way
+or other had a hand in the late <P_IV,122C2> horrid Conspiracy and
+Rebellion ; upon my Conscience I believe it , and would have been as
+deep in the actual Rebellion , had it had any little Success , as that
+other Fellow <font> Hicks <$$font> ; LISLE-1685-E3-H,IV,122C2.437
+
+their Principles carry them to it : LISLE-1685-E3-H,IV,122C2.438
+
+Presbytery has all manner of Villainy in it ,
+LISLE-1685-E3-H,IV,122C2.439
+
+nothing but Presbytery could lead that Fellow <font> Dunne <$$font> to
+tell so many Lyes as he has here told ; LISLE-1685-E3-H,IV,122C2.440
+
+for shew me a Presbyterian , and I will engage to shew a lying Knave .
+LISLE-1685-E3-H,IV,122C2.441
+
+<font> Lisle . <$$font My Lord , I abhorred both the Principles and
+Practices of the late Rebellion . LISLE-1685-E3-H,IV,122C2.442
+
+<font> L. C. J. <$$font> I am sure you had great reason for it .
+LISLE-1685-E3-H,IV,122C2.443
+
+<font> Lisle . <$$font Besides , my Lord , I should have been the most
+ungrateful Person living , should I have been disloyal , or acted any
+thing against the present King , considering how much I was obliged to
+him for my Estate . LISLE-1685-E3-H,IV,122C2.444
+
+<font> L. C. J. <$$font> Oh then ! LISLE-1685-E3-H,IV,122C2.445
+
+Ungrateful , ungrateful adds to the Load which is between Man and Man ,
+LISLE-1685-E3-H,IV,122C2.446
+
+and is the basest Crime that any one can be guilty of .
+LISLE-1685-E3-H,IV,122C2.447
+
+<font> Lisle . <$$font My Lord , had I been try'd in <font> London
+<$$font> , I could have had my Lady <font> Abergavenny <$$font> , and
+several other Persons of Quality , that could have testified how much I
+was against this Rebellion , and with what Detestation I spoke against
+it , during the time of it ; LISLE-1685-E3-H,IV,122C2.448
+
+for I was all that time at <font> London <$$font> ,
+LISLE-1685-E3-H,IV,122C2.449
+
+and staid there till after the Duke of <font> Monmouth <$$font> was
+beheaded ; LISLE-1685-E3-H,IV,122C2.450
+
+and if I had certainly known the time of my Trial in the Country , I
+could have had the Testimony of those Persons of Honour for me .
+LISLE-1685-E3-H,IV,122C2.451
+
+But , my Lord , I am told , and so I thought it would have been , that I
+should not have been try'd as a Traitor for harbouring him , till he was
+Convict for a Traitor . LISLE-1685-E3-H,IV,122C2.452
+
+My Lord , I would take my Death of it , that I never knew of <font>
+Nelthorp's <$$font> coming , nor any thing of his being <font> Nelthorp
+<$$font> ; LISLE-1685-E3-H,IV,122C2.453
+
+I never ask'd his Name , LISLE-1685-E3-H,IV,122C2.454
+
+and if he had told it me , I had then remember'd the Proclamation .
+LISLE-1685-E3-H,IV,122C2.455
+
+I do assure you , my Lord , for my own part , I did abhor those that
+were in that horrid Plot and Conspiracy against the King's Life ;
+LISLE-1685-E3-H,IV,122C2.456
+
+I know my Duty to my King better , LISLE-1685-E3-H,IV,122C2.457
+
+and have always exercised it , LISLE-1685-E3-H,IV,122C2.458
+
+I defy any body in the world that ever knew the contrary , to come and
+give Testimony . LISLE-1685-E3-H,IV,122C2.459
+
+<font> L. C. J. <$$font> Have you any more to say ?
+LISLE-1685-E3-H,IV,122C2.460
+
+<font> Lisle . <$$font As to what they say of my denying <font>
+Nelthorp <$$font> to be in my House , I was in great Consternation and
+Fear of the Soldiers , who were very rude and violent , and could not be
+restrained by their Officers from Robbery , and plundering my House .
+LISLE-1685-E3-H,IV,122C2.461
+
+And I beseech your Lordship to make that Construction of it ;
+LISLE-1685-E3-H,IV,122C2.462
+
+and I humbly beg of your Lordship not to harbour an ill Opinion of me ,
+because of those false Reports that go about of me , relating to my
+Carriage towards the old King , that I was any ways consenting to the
+Death of King <font> Charles <$$font> I. LISLE-1685-E3-H,IV,122C2.463
+
+for , my Lord , that is as false as God is true ;
+LISLE-1685-E3-H,IV,122C2.464
+
+my Lord , I was not out of my Chamber all the day , in which that King
+was beheaded , LISLE-1685-E3-H,IV,122C2.465
+
+and I believe I shed more Tears for him , than any Woman then living did
+; LISLE-1685-E3-H,IV,122C2.466
+
+and this the late Countess of <font> Monmouth <$$font> , and my Lady
+<font> Marlborough <$$font> , and my Lord Chancellor <font> Hyde
+<$$font> , if they were alive , and twenty Persons of the most eminent
+Quality , could bear witness for me . LISLE-1685-E3-H,IV,122C2.467
+
+And I do repeat it , my Lord , as I hope to attain Salvation , I never
+did know <font> Nelthrop <$$font> , LISLE-1685-E3-H,IV,122C2.468
+
+nor never did see him before in my Life , LISLE-1685-E3-H,IV,122C2.469
+
+nor did I know of any body's coming , but Mr. <font> Hicks <$$font> ,
+LISLE-1685-E3-H,IV,122C2.470
+
+and him I did know to be a Nonconformist Minister ;
+LISLE-1685-E3-H,IV,122C2.471
+
+and there being , as is well known , Warrants out to apprehend all
+Nonconformist Ministers , I was willing to give him shelter from these
+Warrants . LISLE-1685-E3-H,IV,122C2.472
+
+I <P_IV,123C1> was come down but that Week into the Country , when this
+Man came to me from Mr. <font> Hicks <$$font> , to know if he might be
+receiv'd at my House ; LISLE-1685-E3-H,IV,123C1.473
+
+and I told him , if Mr. <font> Hicks <$$font> pleas'd , he might come
+upon <font> Tuesday <$$font> in the Evening , and should be welcome ;
+LISLE-1685-E3-H,IV,123C1.474
+
+but withal I told him , I must go away the <font> Monday <$$font>
+following from that place , LISLE-1685-E3-H,IV,123C1.475
+
+but while I staid I would entertain him . LISLE-1685-E3-H,IV,123C1.476
+
+And I beseech your Lordship to believe , I had no intention to harbour
+him but as a Nonconformist , LISLE-1685-E3-H,IV,123C1.477
+
+and that I knew was no Treason : LISLE-1685-E3-H,IV,123C1.478
+
+It can@ @not be imagined , that I would venture the hazard of my own
+Life , and the Ruin both of myself and Children , to conceal one that I
+never knew in my Life , as I did not know Mr. <font> Nelthorp <$$font>
+, but had heard of him in the Proclamation .
+LISLE-1685-E3-H,IV,123C1.479
+
+And for that white-headed Man that speaks of my denying them , as I said
+before , he was one of them that rifled and plunder'd my House , and
+tore open my Trunk ; LISLE-1685-E3-H,IV,123C1.480
+
+and if I should not be convicted , he and the rest of them may be call'd
+to account for what they did , LISLE-1685-E3-H,IV,123C1.481
+
+for they ought not to have meddled with my Goods :
+LISLE-1685-E3-H,IV,123C1.482
+
+Besides , my Lord , I have a Witness that can testify what Mr. <font>
+Nelthorp <$$font> said , when he was examined before -
+LISLE-1685-E3-H,IV,123C1.483
+
+<font> L. C. J. <$$font> Look you , Mrs. <font> Lisle <$$font> ,
+that will signify little ; LISLE-1685-E3-H,IV,123C1.484
+
+but if you have any Witnesses , call them , LISLE-1685-E3-H,IV,123C1.485
+
+we will hear what they say : LISLE-1685-E3-H,IV,123C1.486
+
+Who is that Man you speak of ? LISLE-1685-E3-H,IV,123C1.487
+
+<font> Lisle . <$$font <font> George Creed <$$font> his Name is ;
+LISLE-1685-E3-H,IV,123C1.488
+
+there he is . LISLE-1685-E3-H,IV,123C1.489
+
+<font> L. C. J. <$$font> Well , what do you know ?
+LISLE-1685-E3-H,IV,123C1.490
+
+<font> Creed . <$$font> I heard <font> Nelthorp <$$font> say , that my
+Lady <font> Lisle <$$font> did not know of his coming , nor did not know
+his Name ; LISLE-1685-E3-H,IV,123C1.491
+
+nor had he ever told his name , till he named himself to Col. <font>
+Penruddock <$$font> when he was taken . LISLE-1685-E3-H,IV,123C1.492
+
+<font> L. C. J. <$$font> Well , this is nothing ;
+LISLE-1685-E3-H,IV,123C1.493
+
+she is not indicted for harbouring <font> Nelthorp <$$font> , but <font>
+Hicks <$$font> : LISLE-1685-E3-H,IV,123C1.494
+
+Have you any more Witnesses ? LISLE-1685-E3-H,IV,123C1.495
+
+<font> Lisle . <$$font No , my Lord . LISLE-1685-E3-H,IV,123C1.496
+
+<font> L. C. J. <$$font> Have you any more to say for yourself ?
+LISLE-1685-E3-H,IV,123C1.497
+
+<font> Lisle . <$$font My Lord , I came but five days before this into
+the Country - LISLE-1685-E3-H,IV,123C1.498
+
+<font> L. C. J. <$$font> Nay , I can@ @not tell when you came into
+the Country , LISLE-1685-E3-H,IV,123C1.499
+
+nor I do not care ; LISLE-1685-E3-H,IV,123C1.500
+
+it seems you came time enough to harbour Rebels .
+LISLE-1685-E3-H,IV,123C1.501
+
+<font> Lisle . <$$font I staid in <font> London <$$font> till all the
+Rebellion was past and over ; LISLE-1685-E3-H,IV,123C1.502
+
+and I never uttered a good Word for the Rebels ,
+LISLE-1685-E3-H,IV,123C1.503
+
+nor ever harbour'd so much as a good Wish for them in my Mind :
+LISLE-1685-E3-H,IV,123C1.504
+
+I know the King is my Sovereign , LISLE-1685-E3-H,IV,123C1.505
+
+and I know my Duty to him , LISLE-1685-E3-H,IV,123C1.506
+
+and if I would have ventured my Life for any thing , it should have been
+to serve him , LISLE-1685-E3-H,IV,123C1.507
+
+I know it is his due , LISLE-1685-E3-H,IV,123C1.508
+
+and I owed all I had in the World to him : LISLE-1685-E3-H,IV,123C1.509
+
+But tho' I could not fight for him my self , my Son did ;
+LISLE-1685-E3-H,IV,123C1.510
+
+he was actually in Arms on the King's side in this Business ;
+LISLE-1685-E3-H,IV,123C1.511
+
+I instructed him always in Loyalty , LISLE-1685-E3-H,IV,123C1.512
+
+and sent him thither ; LISLE-1685-E3-H,IV,123C1.513
+
+it was I that bred him up to fight for the King .
+LISLE-1685-E3-H,IV,123C1.514
+
+<font> L. C. J. <$$font> Well , have you done ?
+LISLE-1685-E3-H,IV,123C1.515
+
+<font> Lisle . <$$font Yes , my Lord . LISLE-1685-E3-H,IV,123C1.516
+
+<font> L. C. J. <$$font> Have you a mind to say any thing more ?
+LISLE-1685-E3-H,IV,123C1.517
+
+<font> Lisle . <$$font No , my Lord . LISLE-1685-E3-H,IV,123C1.518
+
+<font> L. C. J. <$$font> Then command Silence .
+LISLE-1685-E3-H,IV,123C1.519
+
+<font> Which was done by Proclamation . <$$font>
+LISLE-1685-E3-H,IV,123C1.520
+
+<font> Lisle . <$$font My Lord , may I speak one word more ?
+LISLE-1685-E3-H,IV,123C1.521
+
+My Lord , I beseech you afford me your Patience and your Advice ;
+LISLE-1685-E3-H,IV,123C1.522
+
+<font> Keinsham <$$font> , where Mr. <font> Hicks <$$font> is said to
+be in Arms , does not lie in this County . LISLE-1685-E3-H,IV,123C1.523
+
+<P_IV,123C2>
+
+<font> L. C. J. <$$font> That is nothing :
+LISLE-1685-E3-H,IV,123C2.525
+
+But the Treason you committed was in this County .
+LISLE-1685-E3-H,IV,123C2.526
+
+<font> Lisle . <$$font But I assure your Lordship I never knew he was
+in the Army ; LISLE-1685-E3-H,IV,123C2.527
+
+and for any Talk or Discourse in private about his or <font> Nelthorp's
+<$$font> being there , I never heard any : LISLE-1685-E3-H,IV,123C2.528
+
+indeed one of them asked me , whether the Duke of <font> Monmouth
+<$$font> was beheaded ; LISLE-1685-E3-H,IV,123C2.529
+
+and I told them , yes , LISLE-1685-E3-H,IV,123C2.530
+
+for so he was before I came out of Town : LISLE-1685-E3-H,IV,123C2.531
+
+And that is all the Discourse that I can remember , wherein he is
+concerned . LISLE-1685-E3-H,IV,123C2.532
+
+<font> L. C. J. <$$font> Well , have you any more to say now ?
+LISLE-1685-E3-H,IV,123C2.533
+
+<font> Lisle . <$$font No , my Lord . LISLE-1685-E3-H,IV,123C2.534
+

@@ -1,0 +1,1559 @@
+<BEGIN_grafting-1780-1>
+
+{COM:In_this_text,"scion"_is_always_spelled_"cion"}
+
+<P_1>
+
+<heading>
+
+A New Treatise On the Art of Grafting <font> and <$$font> Inoculation .
+GRAFTING-1780-1,1.5
+
+<$$heading>
+
+Grafting is an artificial method of transplanting a shoot of <font> one
+tree <$$font> into <font> another , <$$font> in such a manner , that
+both may unite and form <font> one tree . <$$font> GRAFTING-1780-1,1.7
+
+This art is pretty ancient , GRAFTING-1780-1,1.8
+
+and probably was discovered in the first ages of the world by some of
+the Antideluvians ; perhaps by <font> Noah <$$font> himself , the first
+inhabitant , who was placed in the terrestrial paradise , in order to
+cultivate it , and enjoy its first <P_2> fruits . GRAFTING-1780-1,2.9
+
+Gardening in those days was highly esteemed , and reckoned an <font>
+honourable employment <$$font> ; GRAFTING-1780-1,2.10
+
+it was even the study and delight of princes . GRAFTING-1780-1,2.11
+
+<font> Nihil homini libero dignius , <$$font> nothing more becoming a
+gentleman , was the saying of the Roman Orator . GRAFTING-1780-1,2.12
+
+Books of husbandry were written by men whose exalted station
+sufficiently indicates the high value then set upon the art they taught
+. GRAFTING-1780-1,2.13
+
+For the truth of this , the <font> Fabii , <$$font> the <font> Cato's ,
+<$$font> the <font> Varro's , <$$font> the <font> Virgil's , <$$font>
+the <font> Pliny's , <$$font> and other great names , are sufficient
+witnesses . GRAFTING-1780-1,2.14
+
+There is indeed something truly magnificent in this kind of amusement ,
+as it fills the earth with a variety of beautiful scenes , and has
+something in it like <font> creation . <$$font> GRAFTING-1780-1,2.15
+
+Whenever therefore we can breathe in freedom a few moments , we are
+sensible of an innate propensity to gardening , among which amusements
+<font> grafting , <$$font> and <font> inoculation <$$font> in particular
+, are as <font> pleasing <$$font> and <font> profitable <$$font> as any
+thing belonging to it . GRAFTING-1780-1,2.16
+
+It is also less laborious and fatiguing than most other of these rural
+avocations . GRAFTING-1780-1,2.17
+
+<P_3>
+
+- And nothing I think can be more innocent and delightful to the mind ,
+than to mark the gradual process of germination in the tender cion ,
+when it begins to thrive , and draw its nourishment from the mother
+stock . GRAFTING-1780-1,3.19
+
+But it is infinitely more pleasing when we see it spread , bear fruit ,
+and become a perfect tree ; when we reap the advantages of our labour ,
+and can walk in the groves of <font> Pomona , <$$font> and even under
+those shades which our <font> own industry <$$font> has raised .
+GRAFTING-1780-1,3.20
+
+Amusements of this nature compose the spirits , GRAFTING-1780-1,3.21
+
+fill the mind with calmness and tranquillity , GRAFTING-1780-1,3.22
+
+lay all its turbulent passions to rest , GRAFTING-1780-1,3.23
+
+and conduct us to every social virtue ; GRAFTING-1780-1,3.24
+
+besides that they naturally engender good thoughts ,
+GRAFTING-1780-1,3.25
+
+and dispose us to laudable contemplations . GRAFTING-1780-1,3.26
+
+Many of the old Philosophers passed away the greatest part of their
+lives among their <font> gardens . GRAFTING-1780-1,3.27
+
+Epicurus <$$font> himself could not think sensual pleasure attainable in
+any other <font> scene . <$$font> GRAFTING-1780-1,3.28
+
+Gardening has had , <paren> as before observed <$$paren> in all ages ,
+and all parts of the world , some of the greatest Princes , the wisest
+Philosophers , <P_4> the chief Politicians , and bravest Warriors , as
+well as the most humble vulgar , for its admirers .
+GRAFTING-1780-1,4.29
+
+Every reader , who is acquainted with <font> Homer , Virgil , <$$font>
+and <font> Horace , <$$font> the greatest geniusses of all antiquity ,
+knows very well with how much rapture they have spoken on this subject ,
+and that the two former have each of them left us a particular <font>
+picture <$$font> of a garden , wherein those great masters have given a
+full idea of what they esteemed the most excellent in the art of
+gardening . GRAFTING-1780-1,4.30
+
+<font> Virgil <$$font> has also written a whole book on the art of
+planting . GRAFTING-1780-1,4.31
+
+He describes in his writings the serenity of such employments ,
+GRAFTING-1780-1,4.32
+
+and highly extols the salutary exercises , and the unparalleled
+pleasures of a rural life , which certainly can@ @not be too much
+commended : GRAFTING-1780-1,4.33
+
+Indeed I can@ @not but think the very complacency and satisfaction which
+a man takes in these works of nature , to be a <font> laudable <$$font>
+if not a <font> virtuous <$$font> habit of mind . GRAFTING-1780-1,4.34
+
+The man who is fond of grafting and inoculation , and other rural
+employments , <P_5> generally enjoys <font> sound health , <$$font> and
+an uninterrupted <font> tranquillity <$$font> of mind .
+GRAFTING-1780-1,5.35
+
+We may say a man in such a situation tastes in perfection the pleasures
+of life . GRAFTING-1780-1,5.36
+
+And are such the advantages of these amusements ? GRAFTING-1780-1,5.37
+
+surely then they can@ @not be too strongly recommended .
+GRAFTING-1780-1,5.38
+
+The person who can with delight spend his time in such innocent and
+healthful avocations , must certainly be happy , if he will ;
+GRAFTING-1780-1,5.39
+
+for , as the Poet saith , {COM:verse_omitted} GRAFTING-1780-1,5.40
+
+<P_6>
+
+But enough of this ; GRAFTING-1780-1,6.42
+
+we come now to the subject itself , GRAFTING-1780-1,6.43
+
+and shall first consider <font> Grafting . <$$font>
+GRAFTING-1780-1,6.44
+
+The reason for <font> grafting <$$font> is , that as all good fruits
+have been accidentally obtained from seeds , so these when sown will
+often <font> degenerate , <$$font> and produce such fruits as are not
+worth cultivating ; GRAFTING-1780-1,6.45
+
+but when the shoots , cions , or grafts , are taken from such trees as
+yield good fruit , these will never <font> vary <$$font> from their kind
+, whatever be the stock , or tree , on which they are grafted .
+GRAFTING-1780-1,6.46
+
+The proper season for grafting is in the <font> spring , <$$font> just
+before the rising of the sap , or at least before it rises in any great
+quantity . GRAFTING-1780-1,6.47
+
+The cions should be cut off from the trees before the buds <font> begin
+to swell , <$$font> which is generally three weeks or a month before the
+season for grafting . GRAFTING-1780-1,6.48
+
+The proper time for cutting the cions of plumbs , apricots , and peaches
+, is about the middle of February ; GRAFTING-1780-1,6.49
+
+but medlars , cherries , pears , &c. should not be cut till the latter
+end of that month , unless the spring season come earlier <P_7> than
+usual . GRAFTING-1780-1,7.50
+
+As for the apple , we seldom graft them before the beginning or middle
+of April ; GRAFTING-1780-1,7.51
+
+however , the season is the <font> best rule ; <$$font>
+GRAFTING-1780-1,7.52
+
+for , remember , no kind of fruit trees should be grafted till there is
+a sufficient quantity of sap to seed the cions , and the bark of the
+stock will separate easily from the wood , which is sooner or later ,
+according to the state and temperament of the season .
+GRAFTING-1780-1,7.53
+
+The <font> implements <$$font> generally made use of in the art of
+grafting are the following : A <font> fine small hand saw , <$$font> to
+cut off the heads of large stocks ; a <font> good strong knife ,
+<$$font> with a thick back , to make clefts in the stocks ; a <font>
+sharp penknife , <$$font> to cut the grafts ; a <font> grafting chissel
+, <$$font> and a <font> small mallet , <$$font> to pare away the wood ;
+<font> bass <$$font> or <font> woollen yarn <$$font> to tie the grafts
+with ; and a quantity of <font> clay <$$font> or <font> cement ,
+<$$font> properly prepared , to lay over the incisions , in order to
+prevent their bleeding , and keep out the air . GRAFTING-1780-1,7.54
+
+The method of preparing the clay intended for this purpose , is to mix
+thoroughly <P_8> together a quantity of strong , fat loam , some new
+stone-horse dung , broken into small bits , a little tanner's hair or
+straw , cut very small , with a little salt , and as much water as will
+make the whole of the consistence of pretty stiff mortar .
+GRAFTING-1780-1,8.55
+
+In the choice of grafts , the following directions should be carefully
+observed : 1st , That they are shoots of the <font> former <$$font> year
+. 2dly , That they are taken from <font> healthy fruitful trees .
+<$$font> And 3dly , that you prefer those grafts which are taken from
+the <font> lateral <$$font> or <font> horizontal <$$font> branches , to
+those taken from the <font> perpendicular <$$font> shoots .
+GRAFTING-1780-1,8.56
+
+These grafts <paren> as before observed <$$paren> should be cut off from
+the trees some weeks before the season for grafting , that the stocks in
+the mean time may gather sap , and the cions be more empty of it .
+GRAFTING-1780-1,8.57
+
+As soon as they are taken from the trees , to keep them from drying ,
+and to preserve them from the frost , they should be laid in the ground
+with the cuts downwards , burying them half their length , or more , and
+covering <P_9> the tops with dry stubble . GRAFTING-1780-1,9.58
+
+If a small joint of the former year's wood be cut off with the cion , it
+will preserve it the better ; GRAFTING-1780-1,9.59
+
+and when it is grafted , this may be cut off ; GRAFTING-1780-1,9.60
+
+for the grafts must be cut to a proper length before they are inserted
+into the stocks ; GRAFTING-1780-1,9.61
+
+but , 'till then , the shoots should remain their <font> full length ,
+<$$font> as they were taken from the tree , which will preserve them the
+better from <font> striking . <$$font> GRAFTING-1780-1,9.62
+
+- <font> Note , <$$font> When the grafts are to be carried a
+considerable distance , it will be proper to put their cut ends into a
+lump of clay , and to wrap them up in moss , which will preserve them
+fresh for a month , or longer : GRAFTING-1780-1,9.63
+
+But these should always be cut off earlier from the trees , than those
+that are to be grafted near the place where the trees are growing .
+GRAFTING-1780-1,9.64
+
+Directions <font> how to choose <$$font> your stocks , &c. for grafting
+, will be given hereafter . GRAFTING-1780-1,9.65
+
+There are <font> divers <$$font> ways of performing the art of grafting
+; GRAFTING-1780-1,9.66
+
+but the best and most successful method that hath been discovered <P_10>
+is the <font> following , <$$font> which is now universally practiced .
+GRAFTING-1780-1,10.67
+
+The top of the stock is first cut off in a smooth strait place ,
+GRAFTING-1780-1,10.68
+
+and your cion <paren> which for a standard tree should be four inches
+long , and for a dwarf six <$$paren> is to be sloped off with a sharp
+knife an inch or more , that it may be the better fixed to the stock ;
+GRAFTING-1780-1,10.69
+
+this done , give a cut at the top of the slope , so that there may be a
+kind of shoulder to rest on the top of the stock ; GRAFTING-1780-1,10.70
+
+but care must be taken that it be not too deep . GRAFTING-1780-1,10.71
+
+The whole slope also must be plain and smooth , without dints and
+risings , so that it may fall close to the side of the stock .
+GRAFTING-1780-1,10.72
+
+Your cion being thus prepared , to receive the same , you must make a
+slit in the rind of the stock , about two inches in length , drawing
+your knife downwards ; GRAFTING-1780-1,10.73
+
+but be careful not to wound the stock . GRAFTING-1780-1,10.74
+
+This incision should be made on the south-west side of the stock .
+GRAFTING-1780-1,10.75
+
+At the top of the slit , loosen the bark with the flat haft of your
+penknife , clear to the wood , GRAFTING-1780-1,10.76
+
+and with your instrument <paren> which should be made <P_11> of ivory ,
+smooth hard wood , or the like <$$paren> make way for the cion , by
+thrusting it down between the inner bark , and the wood of the stock .
+GRAFTING-1780-1,11.77
+
+Before you put in the cion , cut off a little of the bark at the thin
+end of the slope , that it double not in going down ;
+GRAFTING-1780-1,11.78
+
+however , observe to leave it with a sharp end , GRAFTING-1780-1,11.79
+
+and so contrive it , that it may fit well , and fall close to the wood
+of the stock . GRAFTING-1780-1,11.80
+
+Thus having exactly fitted the one to the other , bind them closely
+round with bass mats , woollen yarn , or some such thing , beginning at
+the lower part , and so proceeding to the top . GRAFTING-1780-1,11.81
+
+The cement , or clay , <paren> the use of which is to keep out the air
+<$$paren> must then be applied , which must be daubed about the stock
+and cion a <font> compleat inch <$$font> above and below the stock's
+head . GRAFTING-1780-1,11.82
+
+It should also be smoothed with a trowel , and worked in such a manner ,
+that it may come sharp at the top , that the rain may the better run off
+. GRAFTING-1780-1,11.83
+
+If , some time after it is done , the clay <font> crack <$$font> or
+<font> cleave , <$$font> as it sometimes does , by the frost , or heat
+of the sun , the cracks should be filled up , or the grafts clayed again
+, GRAFTING-1780-1,11.84
+
+<P_12>
+
+for the air is <font> very pernicious , <$$font> GRAFTING-1780-1,12.86
+
+and frequently destroys the grafts , even after they have taken the sap
+, and begun to thrive . GRAFTING-1780-1,12.87
+
+This is called <font> grafting in the bark , <$$font>
+GRAFTING-1780-1,12.88
+
+and it is certainly preferable to any other way . GRAFTING-1780-1,12.89
+
+I shall now briefly specify the other different methods mentioned by the
+Ancients , or practised at present by our gardeners .
+GRAFTING-1780-1,12.90
+
+<font> Grafting in the cleft <$$font> was formerly very much practised
+by the gardeners ; GRAFTING-1780-1,12.91
+
+but it is now seldom made use of , except for very large , and very
+small stocks : GRAFTING-1780-1,12.92
+
+For the latter , it is indeed preferable to the other , because the bark
+of very young stocks will not easily separate from the wood to admit the
+cion . GRAFTING-1780-1,12.93
+
+Grafting in the cleft is performed in the following manner :
+GRAFTING-1780-1,12.94
+
+The head of the stock is first cut off with a sharp knife , or saw , as
+smooth and even as possible : GRAFTING-1780-1,12.95
+
+It is then cleft with a knife or chissel , about two inches deep ;
+GRAFTING-1780-1,12.96
+
+a piece of wood cut thin at one end is to be put into the cleft , in
+order to open the gap , to make room for <P_13> the cion , which is
+prepared by cutting it down a-slope on each side , about an inch , in
+length , observing to leave it much thinner on that side which goes
+nearest to the heart of the stock . GRAFTING-1780-1,13.97
+
+Some cut it with a shoulder , as in the former case ;
+GRAFTING-1780-1,13.98
+
+but this is very immaterial . GRAFTING-1780-1,13.99
+
+If the stock is pretty large , you may put in two or three cions ,
+taking care to place them in such a manner , that the passage of the sap
+between the bark and wood of the stock and cion may meet all along the
+cleft , as near as possible . GRAFTING-1780-1,13.100
+
+After the cions are properly inserted , bind them well round with bass
+matting , GRAFTING-1780-1,13.101
+
+and clay them , as before directed . GRAFTING-1780-1,13.102
+
+In <font> whip grafting , <$$font> as it is usually termed , the stock
+and cion should be nearly of the same bigness . GRAFTING-1780-1,13.103
+
+The cion is sloped off a full inch or more , the same being done to the
+stock ; after which they are joined , the one being tied upon the other
+. GRAFTING-1780-1,13.104
+
+This method is improved by what we call <font> tipping , <$$font> or
+tonguing , which is to make a slit with a knife in the bare place of the
+stock <P_14> downward , beginning towards the top of the slope , and so
+slitting it a little way , and doing the like in the sloped part of the
+cion ; GRAFTING-1780-1,14.105
+
+but in the latter , observe to begin at the same distance from the lower
+end of it , as was done before from the top of the stock ,
+GRAFTING-1780-1,14.106
+
+and carry it upward . GRAFTING-1780-1,14.107
+
+This done , join them , by thrusting the one into the other , till the
+cut part of the cion cover the cut part of the stock ;
+GRAFTING-1780-1,14.108
+
+bind , GRAFTING-1780-1,14.109
+
+and properly cement it . GRAFTING-1780-1,14.110
+
+In <font> side grafting , <$$font> the cion is prepared as above ;
+GRAFTING-1780-1,14.111
+
+but instead of cutting off the head of the stock , you must take out
+from the west side thereof as much bark as the cut part of the cion will
+cover , slitting both cion and stock as before ; GRAFTING-1780-1,14.112
+
+afterwards it must be bound and clayed . GRAFTING-1780-1,14.113
+
+The succeeding spring the top of the stock must be taken off sloping ,
+about <font> two inches <$$font> above the graft ;
+GRAFTING-1780-1,14.114
+
+and care must be taken that the head of the stock does not overgrow the
+cion the first year , which may be prevented by nipping the shoots , or
+cutting off part of the branches . GRAFTING-1780-1,14.115
+
+There is another <P_15> way of doing this kind of grafting ;
+GRAFTING-1780-1,15.116
+
+but 't@ @is only made use of when the bark will not <font> part <$$font>
+from the stock . GRAFTING-1780-1,15.117
+
+The method is this : GRAFTING-1780-1,15.118
+
+Make a horizontal cut in a smooth place of the stock ,
+GRAFTING-1780-1,15.119
+
+and from the middle of that cut make a slit downwards , about two inches
+in length , so that it may be in the form of a great T ;
+GRAFTING-1780-1,15.120
+
+then loosening the bark with the point of a knife , thrust in a cion ,
+which may be prepared as before mentioned ; GRAFTING-1780-1,15.121
+
+then bind them round , GRAFTING-1780-1,15.122
+
+and carefully clay them . GRAFTING-1780-1,15.123
+
+Grafting by <font> approach , <$$font> called by the ancients <font>
+ablactation {COM:see_errata} , <$$font> and by the moderns <font>
+inarching , <$$font> or <font> enarching , <$$font> is a method wherein
+the cion of one tree is united to another by degrees , and then cut off
+, and weaned from its mother stock . GRAFTING-1780-1,15.124
+
+This way of grafting by approach is practicable only when two trees grow
+so near together that the <font> cion of one <$$font> may be applied ,
+without cutting off , to the stock of the <font> other . <$$font>
+GRAFTING-1780-1,15.125
+
+It is done by cutting the side of the branch and stock about three
+inches long , so contriving them , that they may shut well <P_16>
+together , so that the passage of the sap may join , in which position
+they should be fast bound and clayed . GRAFTING-1780-1,16.126
+
+When they are well cemented , cut off the head of the stock , about four
+inches above the binding , and in March following the other part may be
+taken off , about an inch from the grafted place .
+GRAFTING-1780-1,16.127
+
+There is <font> another <$$font> method of doing this , by cutting off
+the head of the stock at first , sloping half off , about two inches in
+length , and joining the cion thereunto . GRAFTING-1780-1,16.128
+
+This last method was anciently practised on oranges , lemons ,
+pomegranates , vines , &c. GRAFTING-1780-1,16.129
+
+Observe , when you graft , that the weather be <font> mild <$$font> and
+<font> seasonable . <$$font> GRAFTING-1780-1,16.130
+
+It should be neither frosty nor wet , GRAFTING-1780-1,16.131
+
+nor should the wind blow very bleak or strong when this operation is
+performed ; GRAFTING-1780-1,16.132
+
+for on <font> these circumstances , <$$font> and upon the <font> exact
+joining <$$font> of the inner bark of the cion with the inner bark of
+the stock , so that the sap which flows between the bark and the wood
+may <font> be communicated <$$font> from one to the other , the <font>
+success <$$font> of grafting chiefly depends . GRAFTING-1780-1,16.133
+
+<P_17>
+
+The cement or composition which some have of late used for grafting ,
+and which has been found to keep out the air <font> better <$$font> than
+the clay before-@ @mention'd , is made of turpentine , bees wax , and
+rosin , melted together . GRAFTING-1780-1,17.135
+
+This composition , when of a proper consistence , is laid about a
+quarter of an inch thick , upon the cut part of the stock round the
+graft , GRAFTING-1780-1,17.136
+
+and has this further advantage over the clay , that there is no danger
+of its being hurt by frost ; GRAFTING-1780-1,17.137
+
+for cold hardens it ; GRAFTING-1780-1,17.138
+
+and when the heat of summer comes on , by which time it is no longer
+wanted on the tree , it will melt and fall off , without any trouble .
+GRAFTING-1780-1,17.139
+
+The stocks for grafting upon ought to be <font> smooth <$$font> in the
+bark , <font> healthy , <$$font> and <font> sound . <$$font>
+GRAFTING-1780-1,17.140
+
+Crab is allowed to be the most durable , and the best for apples .
+GRAFTING-1780-1,17.141
+
+In the nurseries there are three sorts of stocks generally used to graft
+apples upon : GRAFTING-1780-1,17.142
+
+The first are called <font> free stocks ; <$$font>
+GRAFTING-1780-1,17.143
+
+these are raised from the kernels of all apples indifferently ,
+GRAFTING-1780-1,17.144
+
+and are also termed crab-stocks ; GRAFTING-1780-1,17.145
+
+for all those trees that are produced from the seeds <P_18> are called
+crabs , without any distinction ; GRAFTING-1780-1,18.146
+
+but I should always prefer such stocks as are raised from the kernels of
+crabs , where they are pressed for verjuice ; GRAFTING-1780-1,18.147
+
+and I find several of the old writers on this subject of the same mind .
+GRAFTING-1780-1,18.148
+
+Mr. <font> Austin , <$$font> who wrote an_hundred years ago says , the
+stocks which he accounts best for apple grafts is the crab , which is
+better than sweeter apples , and will make fruits more strong and hardy
+to endure frosts ; GRAFTING-1780-1,18.149
+
+and it is very certain , that by frequently grafting some sorts of
+apples upon free stocks , the fruits have been rendered less firm and
+poignant , and of a shorter duration . GRAFTING-1780-1,18.150
+
+The second sort of stocks is the <font> Dutch Creeper ; <$$font>
+GRAFTING-1780-1,18.151
+
+these are designed to stint the growth of the trees , and keep them
+within compass for dwarfs , or espaliers . GRAFTING-1780-1,18.152
+
+The third sort is the <font> Paradise Apple , <$$font> which is a very
+low shrub , so only proper for trees which are kept in pots by way of
+curiosity , GRAFTING-1780-1,18.153
+
+for these do not continue long . GRAFTING-1780-1,18.154
+
+<P_19>
+
+Some persons have made use of codlin trees for grafting of apples , in
+order to stint their growth ; GRAFTING-1780-1,19.156
+
+but as these are commonly propagated by suckers , I would by no means
+advise the use of them ; GRAFTING-1780-1,19.157
+
+nor would I choose to raise the codlin trees from suckers , but rather
+graft them upon <font> crab stocks , <$$font> which will cause the fruit
+to be finer , last longer , and have a sharper flavour ;
+GRAFTING-1780-1,19.158
+
+and these trees will last much longer sound , and never put out suckers
+, as the codlins always do ; which , if not constantly taken off , will
+weaken the trees , and cause them to <font> canker . <$$font>
+GRAFTING-1780-1,19.159
+
+The method of raising the stocks from the kernels of crabs or apples is
+, to procure them where they are pressed for verjuice or cyder ;
+GRAFTING-1780-1,19.160
+
+and after they are cleared of the pulp , they may be sown on a bed of
+light earth , covering them over about half an inch thick with the same
+light earth : GRAFTING-1780-1,19.161
+
+These may be sown in November or December where the ground is dry ,
+GRAFTING-1780-1,19.162
+
+but in wet ground it will be better to defer it till February ;
+GRAFTING-1780-1,19.163
+
+but then the seed should be <P_20> preserved in dry sand , and kept out
+of the reach of vermin ; GRAFTING-1780-1,20.164
+
+for if mice or rats can get to them , they will devour the seeds :
+GRAFTING-1780-1,20.165
+
+There should also be care taken of the seeds when they are sown , to
+protect them from those vermin , by setting of traps to take them , &c.
+GRAFTING-1780-1,20.166
+
+In the spring , when the plants appear , they must be carefully weeded ,
+GRAFTING-1780-1,20.167
+
+and if the season should prove dry , it will be of great service to
+water them two or three times a week . GRAFTING-1780-1,20.168
+
+If they thrive well , they will be fit to transplant into the nursery
+the October following . GRAFTING-1780-1,20.169
+
+When they are thus transplanted out of the seed bed , the first autumn
+after sowing , they need not be headed ; GRAFTING-1780-1,20.170
+
+but where they are inclined to shoot downward , the tap_root must be
+shortened , in order to force out horizontal shoots .
+GRAFTING-1780-1,20.171
+
+If the ground is pretty good in which the stocks are planted , and the
+weeds constantly cleared away , the stocks will make great progress ; so
+that those which are intended for dwarfs may be grafted the spring
+twelvemonth after they are planted out of the seed beds ;
+GRAFTING-1780-1,20.172
+
+but those which are designed for standards will require <P_21> two years
+more growth before they will be fit to graft ; by which time they will
+be upwards of six feet high , and of a competent bigness .
+GRAFTING-1780-1,21.173
+
+All the sorts of <font> pears <$$font> propagated in gardens are
+produced by budding , or grafting them upon stocks ; of their <font> own
+kind , <$$font> which are commonly called <font> tree stocks , <$$font>
+or else upon the <font> quince <$$font> or <font> white thorn stocks ;
+<$$font> GRAFTING-1780-1,21.174
+
+but the last are now generally disused , the fruit produced this way
+being apt to be dry and meally . GRAFTING-1780-1,21.175
+
+The quince stocks are , however , in great esteem for the trees designed
+for dwarfs , or for walls , because they do not let the shoots grow so
+fast and luxuriant . GRAFTING-1780-1,21.176
+
+But there are objections against even these , which are of some
+consequence ; GRAFTING-1780-1,21.177
+
+for there are many kinds of pears that will not prosper upon them , but
+will die , or become weak and good for nothing , after three or four
+years ; GRAFTING-1780-1,21.178
+
+and the hard baking pears are rendered very unpleasant by being grafted
+on these stocks , while the buttery or melting ones are meliorated by
+them . GRAFTING-1780-1,21.179
+
+And it is also to be minded that no sort of pear <P_22> will thrive upon
+a quince stock in a poor or gravelly soil . GRAFTING-1780-1,22.180
+
+The <font> medlar <$$font> is propagated by grafting it on a <font> pear
+stock , crab , white thorn , <$$font> or <font> service tree . <$$font>
+GRAFTING-1780-1,22.181
+
+I have seen it thrive extremely well on a pear , GRAFTING-1780-1,22.182
+
+but white thorn stocks are now more frequently used .
+GRAFTING-1780-1,22.183
+
+The great Dutch medlar is preferable to the common English medlar , and
+much better tasted . GRAFTING-1780-1,22.184
+
+The proper time for grafting these is generally <paren> unless the
+season indicate the contrary <$$paren> about the beginning of April .
+GRAFTING-1780-1,22.185
+
+Apricots of every kind are propagated by breeding them on <font> plum
+stocks , <$$font> GRAFTING-1780-1,22.186
+
+and will readily take upon almost any sort of plum , except the <font>
+Brussels , <$$font> provided the stock be free and thriving .
+GRAFTING-1780-1,22.187
+
+These should be grafted pretty early in the season ,
+GRAFTING-1780-1,22.188
+
+and it is rarely too soon at the beginning of March .
+GRAFTING-1780-1,22.189
+
+The proper time , however , may easily be ascertained , by observing
+when the buds begin to swell . GRAFTING-1780-1,22.190
+
+<P_23>
+
+The best stocks for grafting <font> peaches <$$font> on are of the
+<font> plum kind . <$$font> GRAFTING-1780-1,23.192
+
+Those of the <font> muscle , <$$font> or <font> white pear plum ,
+<$$font> are accounted the best . GRAFTING-1780-1,23.193
+
+These trees , however , and most of the stone fruit kind , are now
+raised by <font> budding <$$font> ; GRAFTING-1780-1,23.194
+
+for they take better by the <font> latter , <$$font> than by the <font>
+former <$$font> method . GRAFTING-1780-1,23.195
+
+Stocks <font> for cherry trees <$$font> are raised from cherry stones
+set or sowed , from slips , and frequently from young wild cherry trees
+, that are found in the woods and hedges . GRAFTING-1780-1,23.196
+
+The best stocks , however , are those of the <font> black , <$$font> or
+<font> wild red cherry , <$$font> which are strong shooters , and of a
+longer duration than any of the garden kinds . GRAFTING-1780-1,23.197
+
+The stones of these two sorts should be sown in a bed of light sandy
+earth , in autumn , GRAFTING-1780-1,23.198
+
+and the young stocks produced from them are to remain where they are
+sown till the second autumn ; when in October they should be planted out
+into a rich earth , at three feet distance from row to row , and about
+ten inches distant in the rows . GRAFTING-1780-1,23.199
+
+In about three years after they are planted out , they will be fit to
+graft , if designed for dwarfs ; GRAFTING-1780-1,23.200
+
+<P_24>
+
+but if for standards , they will not be tall enough till the fourth or
+fifth year ; GRAFTING-1780-1,24.202
+
+for they should be grafted <font> six <$$font> feet from the ground .
+GRAFTING-1780-1,24.203
+
+I would rather recommend budding for the breeding of cherry trees ,
+GRAFTING-1780-1,24.204
+
+for grafting is seldom successful . GRAFTING-1780-1,24.205
+
+Plums are generally grafted on inferior stocks of their own kind ;
+GRAFTING-1780-1,24.206
+
+sometimes they will take very well , when grafted on white thorn or
+damson , GRAFTING-1780-1,24.207
+
+and they seldom fail on the black thorn , or sloe tree .
+GRAFTING-1780-1,24.208
+
+Some have grafted them on cherry stocks with success ;
+GRAFTING-1780-1,24.209
+
+and this season I myself made the experiment , GRAFTING-1780-1,24.210
+
+and found it answer beyond my expectation ; GRAFTING-1780-1,24.211
+
+for the cion of the plum readily took the sap of the cherry stock ,
+GRAFTING-1780-1,24.212
+
+and put forth two or three long shoots . GRAFTING-1780-1,24.213
+
+At the same time I made other trials of the same kind , which shall be
+taken notice of in their proper places . GRAFTING-1780-1,24.214
+
+All such trees as are of the same <font> genus , <$$font> i.e. which
+agree in their flower and fruit , will generally <font> take <$$font>
+upon each other ; GRAFTING-1780-1,24.215
+
+for instance , all nut-bearing trees may be <P_25> safely grafted upon
+each other , as may also the plum-bearing trees , under which head I
+reckon not only the several sorts of plums , but also the almond , peach
+, nectarine , apricot , &c. which agree exactly in their general
+characters by which they are distinguished from all other trees ;
+GRAFTING-1780-1,25.216
+
+but many of these are very subject to emit large quantities of gum from
+such parts of the trees as are deeply cut and wounded , which in the
+tender trees of this kind , viz. peaches and nectarines , being more
+common and hurtful , it is found to be the surest method to <font> bud
+<$$font> or inoculate them . GRAFTING-1780-1,25.217
+
+All such trees as bear cones will do well upon each other , though they
+may differ in one being evergreen , and the other shedding its leaves in
+winter ; as is observable in the cedar of Libanus , and the larch tree ,
+which are found to succeed upon each other very well ;
+GRAFTING-1780-1,25.218
+
+but these must be grafted by approach , for they abound with a great
+quantity of resin which is apt to evaporate from the graft , if
+separated from the tree before it be joined <P_26> with the stock ,
+whereby they are often destroyed , as also the laurel on the cherry , or
+the cherry on the laurel . GRAFTING-1780-1,26.219
+
+All the mast-bearing trees will also take upon each other ,
+GRAFTING-1780-1,26.220
+
+and those which have a tender soft wood will do well if grafted in the
+common way ; GRAFTING-1780-1,26.221
+
+but those of a more firm contexture , and that are slow growers , should
+be grafted by <font> approach . <$$font> GRAFTING-1780-1,26.222
+
+By observing this rule we shall seldom miscarry , provided the operation
+be rightly performed , and at {COM:see_errata} a proper season , unless
+the weather should prove very bad . GRAFTING-1780-1,26.223
+
+It is by this method that many kinds of exotic trees are not only
+propagated , but also rendered hardy enough to endure the cold of our
+climate in the open air ; GRAFTING-1780-1,26.224
+
+for being grafted upon stocks of the same sort that are hardy , the
+grafts are rendered more capable of enduring the cold , as has been
+experienced of most of our valuable fruits now in England , which were
+formerly transplanted here from more southerly climates .
+GRAFTING-1780-1,26.225
+
+<P_27>
+
+The improvements , &c. that may be made in grafting and inoculation ,
+and the <font> different cions <$$font> that have been found to succeed
+when grafted on <font> different stocks , <$$font> I shall more
+particularly consider in treating of inoculation .
+GRAFTING-1780-1,27.227
+
+<font> Reiterated grafting , <$$font> or <font> grafting <$$font> by a
+<font> double <$$font> or <font> treble incision , <$$font> is a method
+recommended by Lord Bacon : GRAFTING-1780-1,27.228
+
+It is also mentioned by Agricola , whose work , though chimerical enough
+, contains , notwithstanding , several very good things .
+GRAFTING-1780-1,27.229
+
+To perform this , first graft a good cion on the stock ,
+GRAFTING-1780-1,27.230
+
+and cut it away to one half , or a third part ; GRAFTING-1780-1,27.231
+
+then fix to that remaining part of the cion another graft of a better
+kind , and to that a third ; GRAFTING-1780-1,27.232
+
+for the oftener the tree is grafted , the finer fruit it produceth .
+GRAFTING-1780-1,27.233
+
+By this method Agricola assures us , that he produced <font> muscat
+pears <$$font> which were admirable , making at first use of a stock
+grafted with a pound pear , on which he grafted a <font> summer
+bon-cretien <$$font> ; GRAFTING-1780-1,27.234
+
+and when <P_28> the branch of this last had shot , he grafted on it a
+cion of a <font> bergamot , <$$font> which he also cut ,
+GRAFTING-1780-1,28.235
+
+and grafted on it a cion of a muscat pear . GRAFTING-1780-1,28.236
+
+To have <font> several kinds <$$font> of fruit upon <font> one <$$font>
+tree , the best way is to graft <font> divers sorts <$$font> of cions
+upon the branches of an old spreading tree . GRAFTING-1780-1,28.237
+
+Thus the cions of medlars , pears , or quinces , may be grafted with
+success on an <font> apple tree ; <$$font> as also apples , medlars &c.
+with like success , may be inserted in <font> pear stocks , &c.
+<$$font> GRAFTING-1780-1,28.238
+
+And if done with skill , and at the proper season , they seldom fail .
+GRAFTING-1780-1,28.239
+
+I have frequently grafted apples and medlars , on several kinds of
+stocks , particularly <font> pear , <$$font> and on the contrary , the
+cions of pears and medlars on apple or crab stocks ,
+GRAFTING-1780-1,28.240
+
+and they took very sure , GRAFTING-1780-1,28.241
+
+and thrived extremely well : GRAFTING-1780-1,28.242
+
+But it is to be observed , that this will not do , unless the trees on
+which they are grafted be <font> sound , and , of a good growth <$$font>
+GRAFTING-1780-1,28.243
+
+Care must be also taken that each cion be inserted in its proper season
+, i.e. as soon as the buds of the trees from which the cions are taken
+begin to swell , <P_29> which happens sooner or later , in different
+kinds of trees , GRAFTING-1780-1,29.244
+
+but in this judgment must direct . GRAFTING-1780-1,29.245
+
+The best and most successful way for this kind of grafting is in the
+bark . GRAFTING-1780-1,29.246
+
+<font> Root grafting <$$font> is a modern invention , the design of
+which is somewhat different from that of any of the former methods :
+this being for the propagation or multiplication of plants , already
+fitted to produce their fruits . GRAFTING-1780-1,29.247
+
+To perform this , take a graft or sprig of a young tree , which you
+intend to propagate , and a small piece of the root of another tree of
+the same kind , or of a like genus , GRAFTING-1780-1,29.248
+
+and whip-graft them together , observing that the rind of the root join
+closely to that of the graft . GRAFTING-1780-1,29.249
+
+These may afterwards be planted out at pleasure , GRAFTING-1780-1,29.250
+
+and the piece of root will collect the nutritive juices , and seed the
+graft , as the stock does the other way . GRAFTING-1780-1,29.251
+
+This method of propagation is certainly <font> very curious , <$$font>
+and at the same time both <P_30> easy and expeditious in the operation ,
+roots being more plentiful than stocks ; GRAFTING-1780-1,30.252
+
+by this means the pieces or roots of one crab stock , for example , or
+of one apple stock , will serve for <font> twenty <$$font> or <font>
+thirty <$$font> apple grafts ; and the like of other trees .
+GRAFTING-1780-1,30.253
+
+It is also an excellent way for raising such trees , which will hardly
+bear of being grafted in the stock . GRAFTING-1780-1,30.254
+
+Add , that trees thus grafted bear sooner , and are more easily dwarfed
+than any other way . GRAFTING-1780-1,30.255
+
+The only objection against this method is , that the young tree grows
+but <font> slowly <$$font> at first , which is occasioned by the
+smallness of the root that seeds the graft ; GRAFTING-1780-1,30.256
+
+for in all trees the head must follow the increase of the roots , from
+whence it has its nourishment . GRAFTING-1780-1,30.257
+
+All grafts , particularly young cions are subject to be injured by
+<font> birds <$$font> ; GRAFTING-1780-1,30.258
+
+but that may be prevented by binding some small bushes about the tops of
+the stocks . GRAFTING-1780-1,30.259
+
+The binding of grafts should be loosened when the cions have pushed
+forth about <P_31> an inch and a half , or two inches ;
+GRAFTING-1780-1,31.260
+
+for if it is continued longer , its too great tightness will hinder the
+swelling of the stock , so as to hazard the cion being broke by the
+winds at the place of the bandage ; GRAFTING-1780-1,31.261
+
+as a substitute in this case , if the cion is so ordered in cutting ,
+that an <font> eye <$$font> be left against the place of <font> junction
+, <$$font> between the stock and graft , there is a probability of the
+buds putting forth after the damage has so happened , provided it is
+broke off above it , GRAFTING-1780-1,31.262
+
+and thereby a year is gained . GRAFTING-1780-1,31.263
+
+Ablactation , or <font> Grafting by approach , <$$font> is not so much
+in vogue as formerly . GRAFTING-1780-1,31.264
+
+It was a method universally practised by the ancients on orange trees ,
+jasmines , &c. GRAFTING-1780-1,31.265
+
+but as we have now better ways to manage them , either by cuttings or
+inoculation , we seldom make use of it , except for those sorts of
+plants which are of a <font> firm contexture , <$$font> and <font> slow
+growth , <$$font> which will not take otherwise .
+GRAFTING-1780-1,31.266
+
+For such , the best way of performing it is thus :
+GRAFTING-1780-1,31.267
+
+The branch to be inarched is <P_32> fitted to that part of the stock ;
+GRAFTING-1780-1,32.268
+
+the rind and part of the wood of one side of that branch is then pared
+away very smooth and even , for the length of three inches ;
+GRAFTING-1780-1,32.269
+
+and afterwards the other branch , which is to serve for the stock to
+which the graft is to be united , is served in the same manner , so that
+the two may join close and equally together , that the sap vessels may
+meet . GRAFTING-1780-1,32.270
+
+A little tongue is then cut upwards in the graft ,
+GRAFTING-1780-1,32.271
+
+and a slit is made in the stock to receive it , so that when they are
+joined together , the tongue prevents their slipping , and the graft is
+more closely united to the stock . GRAFTING-1780-1,32.272
+
+When they are thus placed exactly together , they must be tied with bass
+, worsted , or some other soft stuff , GRAFTING-1780-1,32.273
+
+and the place of junction must be well covered over with grafting clay ,
+to prevent the air from drying the wound , and the wet from rotting the
+stock . GRAFTING-1780-1,32.274
+
+A stake must also be fixed in the ground , GRAFTING-1780-1,32.275
+
+and both the stock and graft must be tied thereto , to prevent their
+being displaced by the winds . GRAFTING-1780-1,32.276
+
+When they have remained in this state four months , they will be
+sufficiently <P_33> united , GRAFTING-1780-1,33.277
+
+and the graft may then be cut off from the mother tree , observing to
+slope it <font> close <$$font> to the stock . GRAFTING-1780-1,33.278
+
+It is of great service to the graft then to lay a fresh coat of clay all
+round the graft or jointed part . GRAFTING-1780-1,33.279
+
+This operation should be performed in April or May ; that the graft may
+be perfectly united to the stock before the ensuing winter .
+GRAFTING-1780-1,33.280
+
+The bass used for this , or for any other binding , should be taken from
+a sound mat , and be soaked in water for some hours to encrease its
+strength , and render it more pliable . GRAFTING-1780-1,33.281
+
+<font> Whip Grafting , <$$font> or <font> Tongue Grafting , <$$font> is
+most proper for small stocks , from an inch diameter to a quarter of an
+inch , or less . GRAFTING-1780-1,33.282
+
+This method I would <font> particularly <$$font> recommend , because it
+is generally <font> successful . <$$font> GRAFTING-1780-1,33.283
+
+Mr. <font> Worlidge , <$$font> Mr. <font> Loudon , <$$font> Mr.
+<font> Miller , <$$font> and others , speak of it as the most successful
+way of any , and that which is most in use , because the cion covers the
+stock much sooner in this method than in any other .
+GRAFTING-1780-1,33.284
+
+But it must be observed , that <P_34> the cion and stock must be always
+of the <font> same bigness . <$$font> GRAFTING-1780-1,34.285
+
+If the reader please to look back in the preceding pages , he will find
+I have already mentioned how it is performed ; GRAFTING-1780-1,34.286
+
+however , it may not be improper to observe , that some , instead of
+sloping the cion and stock as before recited , cut off the latter as
+smooth and even as possible ; and after having made a slope , and at the
+top of that slope a shoulder in the cion , join them close together ;
+GRAFTING-1780-1,34.287
+
+a ligature is then made round them , with bass or woolen yarn ,
+GRAFTING-1780-1,34.288
+
+and the engrafted part is well covered with clay or cement .
+GRAFTING-1780-1,34.289
+
+<P_35>
+
+<heading>
+
+<font> Of <$$font> Inoculation , <font> or <$$font> Budding , <font> &c.
+<$$font> GRAFTING-1780-1,35.292
+
+<$$heading>
+
+This , as before observed , is usually practised upon <font> all sorts
+of stone fruit , <$$font> as nectarines , peaches , apricots , plums ,
+cherries , &c. as also upon oranges and jasmines , &c.
+GRAFTING-1780-1,35.294
+
+And indeed this is <font> preferable <$$font> to any sort of grafting ,
+for <font> most <$$font> kinds of fruit . GRAFTING-1780-1,35.295
+
+- It is usually performed in the following manner :
+GRAFTING-1780-1,35.296
+
+- You must be provided with a <font> sharp penknife , <$$font> with a
+<font> flat haft <$$font> which is to <font> raise <$$font> the bark of
+the stock , to admit the bud , and some <font> sound bass mat <$$font>
+which should be soaked in water to encrease its strength , and render it
+more pliable ; GRAFTING-1780-1,35.297
+
+then having taken off the cuttings from the trees you would propagate ,
+you must choose a <font> smooth part <$$font> of the stock , about
+<font> five <$$font> or <font> six <$$font> inches above the surface of
+the ground , if designed for dwarfs ; GRAFTING-1780-1,35.298
+
+but if for standards , they should be budded six feet above the ground ;
+GRAFTING-1780-1,35.299
+
+then with your knife make an horizontal cut across <P_36> the rind of
+the stock , GRAFTING-1780-1,36.300
+
+and from the middle of that cut make a slit downwards , about <font> two
+<$$font> inches in length , so that it may be in the form of a T ;
+GRAFTING-1780-1,36.301
+
+but you must be careful not to cut too deep , lest you wound the stock ;
+GRAFTING-1780-1,36.302
+
+then having , fixed upon a leaf that hath a fresh and fair bud growing
+out between it and the bark , cut off the leaf from the bud , leaving
+the foot stalk remaining ; GRAFTING-1780-1,36.303
+
+this done , you must make a cross cut , about half an inch above the eye
+, and with your knife slit off the bud , with part of the wood to it :
+GRAFTING-1780-1,36.304
+
+You must also with your knife pull off that part of the wood which was
+taken with the buds , observing whether the <font> eye <$$font> of the
+bud be left to it or not GRAFTING-1780-1,36.305
+
+for all those buds which <font> lose <$$font> their eyes in stripping
+are good for <font> nothing <$$font> ; GRAFTING-1780-1,36.306
+
+then having gently raised the bark of the stock with the flat haft of
+your penknife clear to the wood , thrust the bud therein , observing to
+place it <font> smooth <$$font> between the rind and wood of the stock ,
+cutting off any part of the rind belonging to the bud , that may be too
+long for the <P_37> slit made in the stock ; GRAFTING-1780-1,37.307
+
+and so having <font> exactly <$$font> fitted the bud to the stock , tie
+them <font> closely <$$font> round with bass mats , beginning at the
+lower part of the slit , and so proceeding to the top , taking care not
+to bind round the <font> eye <$$font> of the bud , which must be left
+<font> open . <$$font> GRAFTING-1780-1,37.308
+
+Some gardeners , after having prepared the bud as above directed , cut
+out the bark <font> entirely , <$$font> GRAFTING-1780-1,37.309
+
+and apply the cion to the disbarked place . GRAFTING-1780-1,37.310
+
+Others make a cut downward in the bark about two inches long , and
+another across the middle of that ; GRAFTING-1780-1,37.311
+
+then gently raising the four corners of the bark , thrust in the bud ,
+taking care that it fits <font> close <$$font> to the wood of the stock
+. GRAFTING-1780-1,37.312
+
+Another method practised by some is , to make a cut downward as before ,
+and another horizontal one at the bottom of that ;
+GRAFTING-1780-1,37.313
+
+then loosening the bark with an instrument provided for that purpose ,
+the bud being made sharp at one end , is thrust gently up between the
+bark and the wood . GRAFTING-1780-1,37.314
+
+All these different methods are made use of by different persons ;
+GRAFTING-1780-1,37.315
+
+but the first method I proposed <P_38> above is preferable to any other
+, and the most <font> successful <$$font> , as I have found by
+experience . GRAFTING-1780-1,38.316
+
+When your buds have been inoculated three weeks or a month , those which
+are <font> fresh <$$font> and <font> plump <$$font> you may be sure are
+<font> joined <$$font> ; GRAFTING-1780-1,38.317
+
+and at this time you should <font> loosen <$$font> the bandage , which
+if it be not done in time , will injure , if not totally destroy the bud
+. GRAFTING-1780-1,38.318
+
+Note also , if you perceive the bark <font> swell <$$font> where the
+binding is , cut it off ; GRAFTING-1780-1,38.319
+
+and if the first inoculation fail , which may be known by the colour ,
+&c. the stock may be inoculated again the next summer , or the very
+same year , provided the inoculation be done early .
+GRAFTING-1780-1,38.320
+
+When your buds thrive luxuriantly , and are in danger of being <font>
+displaced <$$font> by winds , fasten them to the stocks with matting ,
+or some such thing . GRAFTING-1780-1,38.321
+
+The March following , cut off the stock sloping , about three inches
+above the bud , GRAFTING-1780-1,38.322
+
+and to what is left fasten the shoot ; GRAFTING-1780-1,38.323
+
+but this must continue no longer than <font> one year <$$font> ; after
+which the stock must be cut off close above the bud .
+GRAFTING-1780-1,38.324
+
+When <P_39> you inoculate , always make choice of <font> cloudy weather
+<$$font> ; GRAFTING-1780-1,39.325
+
+for if it be done in the middle of the day , when the weather is hot ,
+the shoots will perspire so fast , as to leave the buds <font> destitute
+of moisture . <$$font> GRAFTING-1780-1,39.326
+
+The proper time for inoculating is from <font> Midsummer <$$font> to the
+<font> middle of August ; <$$font> GRAFTING-1780-1,39.327
+
+but the most general rule is , when you observe the buds <font> formed
+<$$font> at the extremity of the same year's shoot , which is an
+indication of their having finished their spring growth ,
+GRAFTING-1780-1,39.328
+
+The evening of a fair day is reckoned the <font> properest <$$font> time
+for this business . GRAFTING-1780-1,39.329
+
+The first sort of trees commonly inoculated is the <font> apricot
+<$$font> , next the <font> peach , plum , cherry <$$font> , &c. and the
+last the <font> orange tree <$$font> , which should never be done till
+the latter end of August . GRAFTING-1780-1,39.330
+
+Great care must be taken that the buds are not <font> injured <$$font>
+in the operation . GRAFTING-1780-1,39.331
+
+Stocks raised of peach stones {COM:see_errata} are commonly big enough
+to be inoculated the <font> second <$$font> or <font> third <$$font>
+summer . GRAFTING-1780-1,39.332
+
+The buds should be chosen from a <font> healthy <$$font> tree , which
+produces <P_40> a great deal of fruit . GRAFTING-1780-1,40.333
+
+And the inoculation should be always done in the <font> morning <$$font>
+or <font> evening <$$font> of a fair day , when the sun has not much
+power : Also , in a dry time if possible ; GRAFTING-1780-1,40.334
+
+and the stocks should be treated with the usual care afterwards .
+GRAFTING-1780-1,40.335
+
+Sometimes peaches are budded on <font> plum stocks <$$font> with success
+, particularly in what we call the <font> wheat plum <$$font> , on which
+stock they usually take <font> sure <$$font> , and thrive well .
+GRAFTING-1780-1,40.336
+
+The <font> white pear plum <$$font> is in the same predicament .
+GRAFTING-1780-1,40.337
+
+Peach trees should be always budded within about an <font> handful
+<$$font> of the ground . GRAFTING-1780-1,40.338
+
+As for plums , cherries , pears , and other fruit , they may be
+inoculated <font> higher <$$font> on the stocks : GRAFTING-1780-1,40.339
+
+The young trees should be brought up in the nursery , and grow there
+three or four years before they are removed . GRAFTING-1780-1,40.340
+
+As for the choice of shoots from which you take your buds , care must be
+taken that they come <font> from healthy , fruitful <$$font> trees ;
+that they be of a <font> strong <$$font> growth , <font> firm <$$font>
+bark , and not any ways <font> spungy . <$$font> GRAFTING-1780-1,40.341
+
+- Nectarines , peaches , and apricots , are now <P_41> seldom raised
+otherwise than by inoculation : GRAFTING-1780-1,41.342
+
+Cherries and pears take very sure ; GRAFTING-1780-1,41.343
+
+most plums hit very well ; GRAFTING-1780-1,41.344
+
+but apples <font> fail <$$font> for the most part , their bark being
+tender , and buds weak ; GRAFTING-1780-1,41.345
+
+however , I have found the latter succeed very well , by taking a bud
+from the <font> former <$$font> year to inoculate with , provided the
+same be well chosen . GRAFTING-1780-1,41.346
+
+Upon the whole , where inoculation succeeds well , it is <paren> as
+before said <$$paren> to be preferred before grafting ;
+GRAFTING-1780-1,41.347
+
+for the stock for inoculation will be <font> much sooner <$$font> big
+enough than for grafting ; GRAFTING-1780-1,41.348
+
+besides , the tree , when the nature is so changed , will thrive much
+better than it did before , GRAFTING-1780-1,41.349
+
+and will be sooner ready to transplant ; GRAFTING-1780-1,41.350
+
+neither will the stock be so <font> much hurt <$$font> as in grafting ;
+GRAFTING-1780-1,41.351
+
+and if it chance to fail , it may be inoculated again the next year , or
+perhaps the very same season , if done timely . GRAFTING-1780-1,41.352
+
+The operation is also much more decent , speedy , easy , and delightful
+, than grafting . GRAFTING-1780-1,41.353
+
+The insertion or inoculation of a cion or bud into the bole of a stock ,
+for the improvement and propagation of fruit trees , <P_42> seems to be
+nothing more than an <font> artificial transplanting <$$font> of those
+trees , just the same as though they were put into suitable earth ; by
+putting their seeds into a good proper soil , whereby the seminal
+principles concentred in the seed , or {COM:see_errata} contracted into
+those prolific buds , are put into their proper matrix , which , with
+other requisites concurring , are set into their vegetative spring , or
+fermental motion . GRAFTING-1780-1,42.354
+
+And 't@ @is apparent that the <font> fitness <$$font> of stocks answers
+the <font> peculiarity <$$font> of soils . GRAFTING-1780-1,42.355
+
+For <font> all sorts <$$font> of cions or buds are not proper , or with
+expected success , to be grafted or inoculated in <font> any sort
+<$$font> of stock , no more than any kind of soil is naturally fitted
+and qualified for every kind of seed . GRAFTING-1780-1,42.356
+
+There is , indeed , this difference , that in the one <paren> viz. in
+the earth <$$paren> the juice prepared lies more <font> crude <$$font>
+and scattered , whereas in the other <paren> viz. in the stocks
+<$$paren> it is <font> digested <$$font> and <font> naturalized <$$font>
+, as it were , if I may be allowed the expression .
+GRAFTING-1780-1,42.357
+
+'T@ @is plain that the bole of any tree is as a <font> peculiar soil
+<$$font> to the proper engrafted <P_43> or inoculated cion or bud ;
+because if a sufficient quantity of earth {COM:see_errata} be cast about
+the tree , <paren> after it has begun to thrive , and put forth branches
+<$$paren> above the place where it was grafted or inoculated , the cion
+or bud will shoot out <font> fibrous roots <$$font> just as if it
+<paren> or the seed <$$paren> was <font> originally <$$font> planted
+into any well prepared soil ; GRAFTING-1780-1,43.358
+
+hence 't@ @is evident that the root and bole of the tree do nothing more
+than prepare a <font> liquor <$$font> or <font> juice ; <$$font> proper
+for the nourishment , growth , and increase of any suitable graft or bud
+inserted therein ; which the aforesaid cion imbibes and transmits by its
+own fermental principles into its own nature , admitting not of the
+<font> least tincture <$$font> of the native disposition , or seminal
+inclination , from the <font> assumed sap . <$$font>
+GRAFTING-1780-1,43.359
+
+Thus , for instance , we commonly inoculate a fruitful bud or cion of an
+apricot or peach into a <font> plum stock <$$font> , whose thriving ,
+budding , putting forth branches , &c. are in fact nothing more than
+the evident <font> indexes <$$font> of the action of the seminal
+principles of those inoculated buds , which <P_44> being set into motion
+, <paren> by requisites duly concurring <$$paren> admit of the juice or
+sap of the bole , , and becomes fermental , dashing the preconceived
+seminal tincture of the stock , <paren> whereby it was disposed to the
+putting on the form of a plum tree <$$paren> transmutes that juice into
+its own nature , and so from the <font> intestine strugglings <$$font>
+of the said seminal principles of the <font> inoculated bud <$$font> ,
+proceeds the vegetation and growth of the whole , clothing itself with
+all those natural liveries peculiar to the texture of such seminal
+prolific principles . GRAFTING-1780-1,44.360
+
+If you cut off the old root and bole of a tree , after the inserted cion
+or bud has begun to thrive , and sent forth roots as before mentioned ,
+the said cion or bud , if transplanted , will become an <font> entire
+tree <$$font> of itself . GRAFTING-1780-1,44.361
+
+From the same cause it is , that you may by <font> splicing <$$font> ,
+as the gardeners call it , propagate as many trees as you please :
+GRAFTING-1780-1,44.362
+
+Also by layers you may raise almost as many trees as there are prolific
+buds , if in case they could be all conveniently laid ; from whence it
+appears , as I said before , that <P_45> the sap of the stock is to a
+cion or fruitful bud , the same as the <font> earth <$$font> to <font>
+seed <$$font> , or as the <font> earth <$$font> to a <font> laid cion .
+<$$font> GRAFTING-1780-1,45.363
+
+Hence , t@ @is evident , that by grafting and inoculation , there may be
+<font> great improvements <$$font> made , as to the <font> acceleration
+, melioration <$$font> , and <font> fructification <$$font> of some
+fruit trees . GRAFTING-1780-1,45.364
+
+Thus we see the bud or cion of an apricot is <font> hastened <$$font> as
+to its fructifying , by being inserted into <font> plum stocks ;
+<$$font> peaches by being put into <font> apricot ; <$$font> as also
+cherries , such as the Flanders kind , hart , duke , &c. put into wild
+or black <font> cherry stocks <$$font> , by which means in <font> two
+<$$font> or <font> three <$$font> years they become <font> fruit-bearing
+trees <$$font> , which if raised from the stones , or propagated from
+suckers , would not come to pass till after many more ;
+GRAFTING-1780-1,45.365
+
+and they are not only hastened as to their growth and maturity ,
+GRAFTING-1780-1,45.366
+
+but are also bettered both as to bulk of fruit , and pleasantness and
+gratefulness of taste . GRAFTING-1780-1,45.367
+
+'T@ @is probable that , if the bud of a quince were skilfully inoculated
+into some <font> early apple stock <$$font> , the same might be hastened
+<P_46> as to <font> maturity : <$$font> GRAFTING-1780-1,46.368
+
+Also <font> later <$$font> grapes of a more delicate taste ,
+artificially inoculated into <font> more early <$$font> , might do the
+same . GRAFTING-1780-1,46.369
+
+- And 't@ @is not unlikely , if accurate trials were made of this nature
+, but melons , inserted into pompions , might make them both <font> more
+early <$$font> and <font> more large <$$font> , especially if the seeds
+of pompions were to be brought up in <font> hot beds <$$font> , to be
+ready early in the spring , while the others are also fostered in the
+same , 'till they were fit for inserting . GRAFTING-1780-1,46.370
+
+Again , 't@ @is probable , if the prolific buds of oranges <paren>
+trained up from their seedlings in hot beds , or other suitable soil
+<$$paren> were inserted in some sort of trees that grow well with us ,
+and seem somewhat to resemble them , as for instance , in some <font>
+choice apples <$$font> , <paren> as pippins or pearmains <$$paren> or in
+<font> quinces <$$font> , we might have oranges grow frequently with us
+in England ; GRAFTING-1780-1,46.371
+
+for the reason why such tender trees do not fructify with us is , the
+want of a <font> competent heat <$$font> , or the effect of our intense
+cold or frost in the winter season , which reaching the roots of such
+weak trees , stints them , and prevents their fruit bearing , <P_47> by
+suspending the fermental action of the seminal principles ;
+GRAFTING-1780-1,47.372
+
+nay , sometimes it so overpowers them , that it totally kills them .
+GRAFTING-1780-1,47.373
+
+If , therefore , instead of training up orange-trees from hot nurseries
+, we take their prolific buds , <paren> which we can by hot beds easily
+procure <$$paren> and insert them by inoculation into the stocks of the
+before-mentioned trees , we shall absolutely <font> secure <$$font> them
+from <font> frosts <$$font> , which being removed by the aforesaid
+artificial expedient , bids fair , on such trial , to have plenty of
+oranges grow with us in England . GRAFTING-1780-1,47.374
+
+Thus , also , if the fruitful buds of <font> figs <$$font> <paren> which
+rarely in England come to maturity for want of sufficient heat <$$paren>
+were inoculated into some kinds of <font> good pear <$$font> , such as
+the <font> bergamots <$$font> , &c. it might probably procure their
+maturity . GRAFTING-1780-1,47.375
+
+These , I think , and <font> many other <$$font> observations and
+experiments , concerning the <font> maturation <$$font> and <font>
+melioration <$$font> of plants and fruits , might be made , not yet
+taken notice of . GRAFTING-1780-1,47.376
+
+<P_48>
+
+What improvements might also be made are only here proposed to further
+trial , in order to the having of <font> roses <$$font> , and perhaps
+some other flowers , <font> all the year <$$font> , by inoculating their
+buds reasonably into some <font> evergreens <$$font> , such as <font>
+yew , fir <$$font> , or <font> pine , <$$font> especially if those trees
+were assisted by some <font> artificial heat <$$font> , by being planted
+near some <font> stoves <$$font> or <font> furnaces <$$font> , where a
+proper heat might be kept and conveyed to them all the winter :
+GRAFTING-1780-1,48.378
+
+For the principles in any prolific bud being set into motion , by being
+planted into any proper stock , the juice of that stock at the same time
+being warmed by any adventitious heat , or what way soever kept in
+action , becomes like a <font> soil <$$font> adapted for them , whereby
+the aforesaid principles become <font> fermental , vegetate <$$font> ,
+and put on the intire form of the whole plant or tree .
+GRAFTING-1780-1,48.379
+
+There might , as I said before , be a great many curious experiments
+made to advantage , by judicious persons , in grafting and inoculation ,
+which have never yet been tried , or so much as thought of .
+GRAFTING-1780-1,48.380
+
+<P_49>
+
+- I have known plums frequently grafted , and sometimes inoculated , on
+<font> cherry trees <$$font> , GRAFTING-1780-1,49.382
+
+and it is certain , that the cions will sometimes <font> take <$$font> ,
+and thrive well ; GRAFTING-1780-1,49.383
+
+by this means also the fruit comes <font> earlier <$$font> ,
+GRAFTING-1780-1,49.384
+
+and is more grateful and palatable . GRAFTING-1780-1,49.385
+
+- Cherries may also be grafted on <font> plum stocks <$$font> ,
+GRAFTING-1780-1,49.386
+
+but these seldom prosper long . GRAFTING-1780-1,49.387
+
+Apples grafted on pear stocks often take <font> easily ; <$$font>
+GRAFTING-1780-1,49.388
+
+and pears on apple generally <font> succeed well <$$font> , as I have
+been convinced by experience . GRAFTING-1780-1,49.389
+
+The cions of <font> pears <$$font> may also be inserted on <font> quince
+<$$font> and <font> thorn stocks <$$font> , GRAFTING-1780-1,49.390
+
+and Lord <font> Bacon <$$font> saith , that some have grafted apples on
+<font> elm stocks <$$font> with success . GRAFTING-1780-1,49.391
+
+It is also asserted by some of the ancients , that the <font> oak
+<$$font> will take the <font> pear <$$font> , or almost any other kind
+of fruit , by grafting ; GRAFTING-1780-1,49.392
+
+but , as Mr. <font> Evelyn <$$font> observes , this is very improbable
+, because the sap of the oak is <font> unkind <$$font> to most trees .
+GRAFTING-1780-1,49.393
+
+The <font> medlar <$$font> may be grafted on thorn , cherry , or pear
+stocks , GRAFTING-1780-1,49.394
+
+and seldom <font> fails <$$font> if done seasonably .
+GRAFTING-1780-1,49.395
+
+<font> Filberts <$$font> may be grafted or inoculated on <font> common
+hazel ; <$$font> GRAFTING-1780-1,49.396
+
+and the large <font> Spanish nut <$$font> sometimes thrives pretty
+<P_50> well on the <font> filbert tree <$$font> or <font> common hazel .
+GRAFTING-1780-1,50.397
+
+Walnuts <$$font> are usually propagated from their own kernels , or
+grafted with their <font> own cions . <$$font> GRAFTING-1780-1,50.398
+
+It is said , if grafted on <font> ash <$$font> , they prosper well ;
+GRAFTING-1780-1,50.399
+
+but this is fictitious , as I have found by experiment .
+GRAFTING-1780-1,50.400
+
+Sometimes the season is so very <font> unfavourable <$$font> to grafts
+in general , that the greatest part of them are destroyed , and your
+labour is all thrown away . GRAFTING-1780-1,50.401
+
+Excessive dry springs are hurtful . GRAFTING-1780-1,50.402
+
+Bleak northern winds and frosts are very prejudicial ,
+GRAFTING-1780-1,50.403
+
+and even when the cions have begun to thrive , these will <font> stint
+<$$font> their growth , if not <font> entirely <$$font> destroy them .
+GRAFTING-1780-1,50.404
+
+There is no remedy to prevent these evils . GRAFTING-1780-1,50.405
+
+The best method , however , to secure them from the frost , is , to lay
+on a pretty deal of cement , and to keep the clay from cracking as much
+as possible , by mixing it with a sufficient quantity of hair , &c.
+GRAFTING-1780-1,50.406
+
+When your grafts have thrived well and luxuriantly , they are in great
+danger of being taken off by the <font> wind . <$$font>
+GRAFTING-1780-1,50.407
+
+To prevent this , pinch , or cut off the <font> tops <$$font> of those
+shoots that are most in <P_51> danger . GRAFTING-1780-1,51.408
+
+Some make it a practice to take off the cement when they begin to shoot
+, GRAFTING-1780-1,51.409
+
+but this should never be done , GRAFTING-1780-1,51.410
+
+for it not only exposes them more to the power of the winds ,
+GRAFTING-1780-1,51.411
+
+but injures them exceedingly , by opening them to the <font> sun
+<$$font> and <font> air <$$font> before the cions and stocks are <font>
+properly <$$font> joined . GRAFTING-1780-1,51.412
+
+If a <font> vine <$$font> be grafted on a common cherry , or any other
+of the kind , the grapes which it produces will be so <font> remarkably
+<$$font> forward as to be ripe in the season of <font> cherries .
+<$$font> GRAFTING-1780-1,51.413
+
+But it is very difficult to graft a vine well on a cherry stock , so as
+to make it thrive and flourish . GRAFTING-1780-1,51.414
+
+The following method has , however , been generally successful .
+GRAFTING-1780-1,51.415
+
+First bore a hole with an augur in the trunk of a cherry tree ;
+GRAFTING-1780-1,51.416
+
+in this hole insert the cion of the vine , GRAFTING-1780-1,51.417
+
+and let it grow there till it has filled the hole of the augur , and is
+closely joined to the cherry tree . GRAFTING-1780-1,51.418
+
+Then cut off the vine branch from the vine , after which it will draw
+all its nourishment from the cherry tree , whose sap <P_52> will hasten
+the formation and maturity of the grapes , which will be ripe near
+<font> two months <$$font> sooner than ordinary .
+GRAFTING-1780-1,52.419
+
+It is said that the fruits of any kind of tree may be rendered more
+delicious by <font> boring a hole <$$font> in the trunk of the tree near
+the root , and afterward filling up the aperture with the <font> sap
+<$$font> of the <font> same tree <$$font> , in which you have previously
+infused some sweet and odoriferous matter . GRAFTING-1780-1,52.420
+
+Lord <font> Bacon <$$font> saith , that the leaves of shady trees , by
+grafting , may be made <font> larger <$$font> than ordinary :
+GRAFTING-1780-1,52.421
+
+And he delivers it for a certainty , that if the cion of a <font> witch
+elm <$$font> be grafted upon the stock of an <font> ordinary <$$font>
+elm , it will put forth leaves almost so broad as the brim of one's hat
+; GRAFTING-1780-1,52.422
+
+for as in fruit trees the graft maketh a <font> greater <$$font> fruit ,
+so in trees that bear no fruit , it will make the <font> greater
+<$$font> leaves . - <font> Nat. Hist. cent. <$$font> 5 , <font> pa.
+<$$font> 100 . GRAFTING-1780-1,52.423
+
+Finis . GRAFTING-1780-1,52.424
+

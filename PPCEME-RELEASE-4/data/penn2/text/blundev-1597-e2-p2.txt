@@ -1,0 +1,1302 @@
+<BEGIN_blundev-1597-e2-p2>
+
+<P_57R>
+
+<heading>
+
+THE DESCRIPTION and vse of the Tables of <font> Tangents and Secants .
+BLUNDEV-1597-E2-P2,57R.4
+
+<$$heading>
+
+Evclid in the second proposition of his third Booke defineth the line
+Tangent in this sort . BLUNDEV-1597-E2-P2,57R.6
+
+A right line <paren> saith he <$$paren> is said to touch a circle when
+it toucheth it so as being drawn out in length , it woulde neuer cut the
+saide Circle . BLUNDEV-1597-E2-P2,57R.7
+
+The line Secant is not by him any wher defined ,
+BLUNDEV-1597-E2-P2,57R.8
+
+but what these two lines are , you shall better vnderstand by this
+figure Demonstratiue here following , then by any definition that can be
+made thereof : BLUNDEV-1597-E2-P2,57R.9
+
+for a definition ought to bee plaine and briefe , and not long ,
+intricate or doubtfull , which will be hardly performed in shewing the
+nature of these two lines by way of definition ,
+BLUNDEV-1597-E2-P2,57R.10
+
+and therefore marke well this figure following .
+BLUNDEV-1597-E2-P2,57R.11
+
+{COM:figure_omitted} In this figure you see first a Circle drawne vpon
+the Centre <font> C. <$$font> from which Centre is extended to the
+circumference of the Circle a right line , called the Semidiameter ,
+marked with the letters <font> A. C. <$$font>
+BLUNDEV-1597-E2-P2,57R.12
+
+then there is another right line which toucheth the said Circle , and
+also the outermost end of the said Semi-diameter making therewith a
+right Angle in the point <font> A. <$$font> and is called the line
+Tangent BLUNDEV-1597-E2-P2,57R.13
+
+then ther is a third line which proceeding from the Centre <font> C.
+<$$font> doth cut the circumference of the Circle in the point <font> B.
+<$$font> & also meeteth with the line Tangent in the point <font> D
+<$$font> and therfore is called y=e= line Secant , betweene which two
+lines , I meane the Tangent & Secant , is intercepted or included a
+certaine portion <P_57V> or arch of the foresaid Circle , lesse then a
+Quadrant marked with the letters <font> A. B. <$$font> of which Arke
+the line <font> A. D. <$$font> is the Tangent , and the line <font> C.
+D. <$$font> is the Secant thereof , which must needes meete with the
+Tangent in the point <font> D. <$$font> because that the two Angles
+<font> C. A. D <$$font> , and <font> D. C. A. <$$font> are lesser
+then two right Angles , BLUNDEV-1597-E2-P2,57V.14
+
+for the one is right , and the other sharpe , by reason that the Arke is
+lesse then a Quadrant . BLUNDEV-1597-E2-P2,57V.15
+
+And some doe call the line Tangent the line <font> Ascript <$$font> ,
+because it is ascribed to the Circle , BLUNDEV-1597-E2-P2,57V.16
+
+and they call the line Secant the <font> Hipothenuse <$$font> , because
+it subtendeth the right Angle <font> A. <$$font>
+BLUNDEV-1597-E2-P2,57V.17
+
+& they call the Semidiameter or totall Sine , the base of y=e= rectangle
+Triangle <font> C. A. D. <$$font> which is called a rectangle
+Triangle because it contayneth one right Angle marked with the letter
+<font> A. <$$font> BLUNDEV-1597-E2-P2,57V.18
+
+and note that when soeuer any maner of Angle is propounded by three
+letters , that the middle letter doth alwayes signifie the Angle
+propounded , be it right , sharpe , or blunt .
+BLUNDEV-1597-E2-P2,57V.19
+
+Now if you would know to what ende the foresaid two lines were inuented
+, and wherto they serue you have to vnderstand that they chiefly serue
+in calculating the quantitie of Angles and their sides , as well in
+right_lined Triangles as in sphericall Triangles ,
+BLUNDEV-1597-E2-P2,57V.20
+
+for the sides of Triangles are either right or crooked ,
+BLUNDEV-1597-E2-P2,57V.21
+
+and if they haue right sides , such Triangles are eyther right_angled
+Triangles , or oblique_angled Triangles , BLUNDEV-1597-E2-P2,57V.22
+
+and you haue to note that the quantitie of euery Angle is to be measured
+by the arch of a Circle subtending that angle ,
+BLUNDEV-1597-E2-P2,57V.23
+
+for the point of every Angle is imagined to be the Centre of a whole
+Circle , which you may suppose to bee so great or little as you will ,
+BLUNDEV-1597-E2-P2,57V.24
+
+for euery Circle <paren> bee it great or little <$$paren> is deuided
+into 360. degrees , BLUNDEV-1597-E2-P2,57V.25
+
+and looke how many degrees and minutes the arch subtending that Angle
+containeth , so much is the quantitie of that Angle , the practise
+whereof is very wel set downe by <font> Clauius <$$font> in his
+commentaries vpon <font> Theodosius <$$font> , which I minde <paren> God
+willing <$$paren> hereafter to translate into our mother tongue :
+BLUNDEV-1597-E2-P2,57V.26
+
+In the meane time my intention here , is onely to shew you by one
+example or two , the vse of the Tables made for the foresaid lines
+Tangent and Secant . BLUNDEV-1597-E2-P2,57V.27
+
+<heading>
+
+The vse of the said Tables according to Clauius , is thus .
+BLUNDEV-1597-E2-P2,57V.29
+
+<$$heading>
+
+In seeking out the Tangent or Secant of any Arke giuen , or of the
+complement of any Arke by either of these Tables , you haue <P_58R> to
+obserue the selfe_same order which you did before in finding out the
+right Sine of any Arke giuen , or of the complement of any Arke , <font>
+Per tabulas sinuum <$$font> . BLUNDEV-1597-E2-P2,58R.31
+
+As for example , if you would finde out the Tangent of an Arke
+containing 50. degrees , 2 ' 4. then resort to the Table of Tangents
+in the front , wherof looke first for the Arke 50. degrees , and then
+in the first collum on the left hand of the said table , for 2 ' 4.
+right against which on the right hand vnder the Arke 50. you shall
+finde in the common Angle the Tangent to bee 12$$087$$923. the total
+Sine wherof is 10$$000$$000. BLUNDEV-1597-E2-P2,58R.32
+
+but if you would find out the Secant of the foresaid Arke 50. and 2 '
+4. then you must resort to the table of Secants ,
+BLUNDEV-1597-E2-P2,58R.33
+
+and hauing found out the Arke 50 , in the front of the said Tables , and
+the 2 ' 4. on the left hand as before , you shall find in the commen
+Angle the Secant to be 15688144. BLUNDEV-1597-E2-P2,58R.34
+
+And if you would haue the Tangent of the complement of the said Arke
+which is 39. degrees , and 3 ' 6. you shall find the 39. degrees of
+the complement in the foot of the table of Tangents right vnder the Arke
+50. & the 3 ' 6. in the outermost collum on the right hand of the said
+table , with which complement you must enter the table of Tangents ,
+seeking for 39. degrees in the front of the table , and 3 ' 6. in the
+first collum on the left hand of the said table , right against which in
+the common Angle you shall finde 8272720. to be the Tangent of 39.
+degrees 3 ' 6. which is the complement of 50 degrees , 2 ' 4.
+BLUNDEV-1597-E2-P2,58R.35
+
+And you must worke in like manner with the table of Secants :
+BLUNDEV-1597-E2-P2,58R.36
+
+As for example , if you would find the Secant of 72. degrees , 3 ' 6.
+BLUNDEV-1597-E2-P2,58R.37
+
+first then enter the table of Secants , looking for 72. degrees aboue
+in the front of the table , and 36. in the first collum on the left
+hand of the said table , and in the common Angle you shall find
+33$$440$$240. which is the Secant of 72. degrees , 3 ' 6.
+BLUNDEV-1597-E2-P2,58R.38
+
+But if you would haue the Secant of the complement of the said arch 72.
+degrees , 3 ' 6. then looking in the foote of the Table right vnder 72.
+degrees , you shall finde 17. degrees , BLUNDEV-1597-E2-P2,58R.39
+
+and in the outermost collum on the right hand , iust against 3 ' 6. you
+shall find 2 ' 4. so as you see that 17. degrees 2 ' 4. is the
+complement of 72. degrees , 3 ' 6. with which complement you must
+enter the Table of Secants , looking for 17. degrees , aboue in the
+front of the Table , and for 2 ' 4. in the first collum on the left
+hand of the said tables , BLUNDEV-1597-E2-P2,58R.40
+
+& in the common Angle you shall find 10$$479$$542. to bee the Secant of
+the arch 17. <P_58V> degrees , 2 ' 4. which is the complement of the
+arch 72. degrees 3 ' 6. BLUNDEV-1597-E2-P2,58V.41
+
+<heading>
+
+The vse of which tables in Astronomical matters , I haue here set <font>
+downe as followeth <$$font> . BLUNDEV-1597-E2-P2,58V.43
+
+1
+
+To finde out the declination of the Sunne , the place thereof being
+knowne . BLUNDEV-1597-E2-P2,58V.45
+
+<$$heading>
+
+Multiply the Secant of the complement of the greater declination by the
+totall sine , BLUNDEV-1597-E2-P2,58V.47
+
+& deuide the product by the sine of the Suns distance fro~ one of the
+Equinoctial points , the quotient is the Secant of an arch , whose
+complement is the declination of the Sun ; BLUNDEV-1597-E2-P2,58V.48
+
+for example , suppose that the sunne be entering into
+{TEXT:zodiac_symbol} . BLUNDEV-1597-E2-P2,58V.49
+
+to find the declination thereof , first I multiply 25112030. the Secant
+of 66. degrees 3 ' 2. <paren> which is the complement of 23. degrees
+2 ' 8. the greatest declination <$$paren> by 10000000.
+BLUNDEV-1597-E2-P2,58V.50
+
+the product is 251120300000000. which being diuided by 5000000.
+<paren> the sine of 30. degrees the Sunnes distance from the
+Equinoctiall point <$$paren> the quotient is 50224060. for which number
+I seeke in the Table of Secants , BLUNDEV-1597-E2-P2,58V.51
+
+the arch answering vnto it is 78. degr. 3 ' 2. the complement wherof
+is 11. degrees 2 ' 9. which is the declination of the Sunne .
+BLUNDEV-1597-E2-P2,58V.52
+
+<heading>
+
+2 Knowing the declination of the Sunne how to finde his distance from
+the Equinoctiall point , and so consequently his place in the Zodiacke .
+BLUNDEV-1597-E2-P2,58V.54
+
+<$$heading>
+
+Multiply the Secant of the complement of the greatest declination by the
+totall sine BLUNDEV-1597-E2-P2,58V.56
+
+& deuide the product by the Secant of the complement of the declination
+giuen , the quotient is the distance of the Sun from the Equinoctiall
+point . BLUNDEV-1597-E2-P2,58V.57
+
+As for example , the declination of the sun is supposed to be 11.
+degrees 2 ' 9. BLUNDEV-1597-E2-P2,58V.58
+
+then to <P_59R> find his distance from the Equinoctiall , I multiply
+25112030. the Secant of 66. degrees 3 ' 2. <paren> which is the
+complement of the greatest declination <$$paren> by the totall sine
+BLUNDEV-1597-E2-P2,59R.59
+
+the product is 251120300000000. which I diuide by 50224350.
+BLUNDEV-1597-E2-P2,59R.60
+
+the Secant is 78. degr. 3 ' 1. the complement of 11. degrees 2 ' 9.
+the supposed declination , BLUNDEV-1597-E2-P2,59R.61
+
+the quotient is 5000000. the sine whereof is 30. degrees
+{COM:symbol_omitted} which is the distance of the Sunne from the
+Equinoctiall : BLUNDEV-1597-E2-P2,59R.62
+
+then for his place you must take the same according to the season of the
+yeare : BLUNDEV-1597-E2-P2,59R.63
+
+for if it be in Aprill , then the Sunne is entring into <font> Taurus
+<$$font> , BLUNDEV-1597-E2-P2,59R.64
+
+but if it be in August it is entering into <font> Virgo <$$font> ,
+BLUNDEV-1597-E2-P2,59R.65
+
+and being in October , it is entring into <font> Scorpio <$$font> ,
+BLUNDEV-1597-E2-P2,59R.66
+
+and being in Februarie it is in the beginning of <font> Pisces <$$font>
+. BLUNDEV-1597-E2-P2,59R.67
+
+<heading>
+
+3 To find out the right ascention of the Sunne .
+BLUNDEV-1597-E2-P2,59R.69
+
+<$$heading>
+
+Multiply the Tangent of the distance of the Sunne from the Equinoctiall
+point which is nearest vnto it , by the signe of the complement of the
+greatest declination , BLUNDEV-1597-E2-P2,59R.71
+
+and diuide the product by the total signe , the quotient is the Tangent
+of the right ascention of the Sunne , for which if you seeke in the
+Table of Tangents , the arch answering vnto it is your desire :
+BLUNDEV-1597-E2-P2,59R.72
+
+For example the Sunne being in the first of <font> Taurus <$$font> , to
+knowe the right ascention thereof , I multiply 5773502. the Tangent of
+30. degrees <paren> for that 30. degrees is the distance of the Sun
+from the Equinoctiall point <$$paren> by 9172920. the sine of 66.
+degrees 3 ' 2. which is the complement of 23 degrees 2 ' 8. the
+greatest declination . BLUNDEV-1597-E2-P2,59R.73
+
+the product is 52959871965840. which being deuided by 10000000. the
+totall sine , the quotient is 5295987. which is the Tangent of 27.
+degrees , 5 ' 4. which is the right ascention of the Sunne beeing
+entered into <font> Taurus <$$font> . BLUNDEV-1597-E2-P2,59R.74
+
+<heading>
+
+4 How to find out the declination of the Sunne knowing onely the right
+ascention thereof . BLUNDEV-1597-E2-P2,59R.76
+
+<$$heading>
+
+Multiply the Tangent of the complement of the greatest declination by
+the total sine , BLUNDEV-1597-E2-P2,59R.78
+
+and diuide the product by the sine of the right ascention giuen , the
+quotient is the Tangent of the complement of the Sunnes declination :
+BLUNDEV-1597-E2-P2,59R.79
+
+for example the right ascention <P_59V> of the Sunne being 27. degrees
+5 ' 4. I would know the declination thereof , BLUNDEV-1597-E2-P2,59V.80
+
+multiplying 23035062. the Tangent of 66. degrees 3 ' 2. the
+complement of 23. degrees 2 ' 8. by 10000000. the product is
+230370620000000. which being deuided by 4679298. the sine of the giuen
+ascention the quotient is 49224856. the arch of which Tangent is 78.
+degrees 3 ' 2. which being subducted out of 90. the remainder is 11.
+degrees 2 ' 8. BLUNDEV-1597-E2-P2,59V.81
+
+and so much is the declination of the Sunne . BLUNDEV-1597-E2-P2,59V.82
+
+<heading>
+
+5 How to finde the place of the Sunne knowing onely the right ascention
+thereof . BLUNDEV-1597-E2-P2,59V.84
+
+<$$heading>
+
+Subduct the right ascention giuen out of 90. if it be lesse then 90
+BLUNDEV-1597-E2-P2,59V.86
+
+but if the same bee more then 90. subtract the ascention giuen out of
+180. BLUNDEV-1597-E2-P2,59V.87
+
+and being greater then 180. subduct the same from 30.
+BLUNDEV-1597-E2-P2,59V.88
+
+and multiply the Tangent of the remainder by the sine of the complement
+of the greatest declination , BLUNDEV-1597-E2-P2,59V.89
+
+and deuide the product by the totall sine , the quotient is the Tangent
+of the complement of the Suns distance from one of the Equinoctiall
+points : which distance being knowne , the place of the Sunne can now
+{SIC:not} be knowne . BLUNDEV-1597-E2-P2,59V.90
+
+For example , supposing the right ascention of the Sun to be 27.
+degrees 5 ' 4. the complement thereof is 62. degrees 6@ @'. the
+Tangent wherof is 18886715. which being multiplyed by 9172920. the
+product is 173245985757800. which being deuided by 10000000 the
+quotient is 17324598. for which I looke in the table of Tangents ,
+BLUNDEV-1597-E2-P2,59V.91
+
+and I finde the arch thereof to be 60. the complement wherof is 30.
+which is the distance of the Sunne from the Equinoctiall point , that is
+, from <font> Aries <$$font> , for that the right ascention is lesse
+then 90. BLUNDEV-1597-E2-P2,59V.92
+
+I say then that the Sunne is in the beginning of <font> Taurus <$$font>
+. BLUNDEV-1597-E2-P2,59V.93
+
+But if the right ascention had beene more then 90 , and lesse then 180.
+the place of the Sunne had beene betwixt <font> Cancer <$$font> and
+<font> Libra <$$font> 30. degrees from <font> Libra <$$font> ,
+BLUNDEV-1597-E2-P2,59V.94
+
+so should it haue been in the first point of <font> Virgo <$$font> ,
+BLUNDEV-1597-E2-P2,59V.95
+
+but if the right ascention had beene more then 180. the place of the
+Sunne should be betwixt <font> Libra <$$font> and <font> Capricorne
+<$$font> , BLUNDEV-1597-E2-P2,59V.96
+
+that is in the beginning of <font> Scorpio <$$font> ,
+BLUNDEV-1597-E2-P2,59V.97
+
+but being more then 270. the place of the Sun should be betwixt <font>
+Capricorne <$$font> and <font> Aries <$$font> ,
+BLUNDEV-1597-E2-P2,59V.98
+
+that is in the beginning of <font> Pisces <$$font> .
+BLUNDEV-1597-E2-P2,59V.99
+
+<P_60R>
+
+<heading>
+
+6 To find out the ascentionall difference of the Sunne or any starre in
+the firmament , knowing the declination thereof , and also the Latitude
+of your Region . BLUNDEV-1597-E2-P2,60R.102
+
+<$$heading>
+
+Multiply the Tangent of the declination of the sunne or star by the
+Tangent of the Latitude of the place , BLUNDEV-1597-E2-P2,60R.104
+
+and deuide the product by the totall sine : the sine of the quotient is
+the signe of the ascentionall difference , the arch whereof is the
+desired ascentional difference . BLUNDEV-1597-E2-P2,60R.105
+
+For example let the declination of the Sunne starre or other point in
+the firmament be 10. degrees 3@ @'. and suppose the latitude to be 52.
+degrees , the Tangent of 10. degrees 3. is 1772268. the Tangent of
+52. degrees is 12799416. which being multiplyed together , the product
+will be 2267$$4995$$395488. which being deuided by 10000000. the
+totall sine , the quotient is 2267499. for which number I looke amongst
+the sines , BLUNDEV-1597-E2-P2,60R.106
+
+the arch answering thereunto is 13. degrees 6@ @' . which is the
+ascentionall difference desired . BLUNDEV-1597-E2-P2,60R.107
+
+<heading>
+
+7 To find out the oblique ascention of the Sunne .
+BLUNDEV-1597-E2-P2,60R.109
+
+<$$heading>
+
+Knowing the place of the Sunne , find out the right ascention of the
+same by the third proposition , BLUNDEV-1597-E2-P2,60R.111
+
+and find also the ascentional difference of the same point ,
+BLUNDEV-1597-E2-P2,60R.112
+
+then if the declination of the Sun be North , subduct the ascentional
+difference out of the right ascention , the remainder is the oblique
+ascention . BLUNDEV-1597-E2-P2,60R.113
+
+For example , suppose the Sunne to be in the beginning of <font> Taurus
+<$$font> , BLUNDEV-1597-E2-P2,60R.114
+
+now to finde the oblique ascention thereof in the Latitude of 52.
+degrees , first by the third proposition I find out the right ascention
+of the beginning of <font> Taurus <$$font> , which I find to be 27.
+degrees 5 ' 4. <paren> for that the declination is North <$$paren> the
+right ascention BLUNDEV-1597-E2-P2,60R.115
+
+the remainder is 12. degrees 5 ' 0. BLUNDEV-1597-E2-P2,60R.116
+
+& so much is the oblique ascention for the latitude of 52. degrees .
+BLUNDEV-1597-E2-P2,60R.117
+
+But if the Sunne be in any of the Southern sines and that the
+declination be South , then the ascentionall difference is to be added
+vnto the right ascention before giuen . BLUNDEV-1597-E2-P2,60R.118
+
+<P_60V>
+
+<heading>
+
+8 To finde out the oblique descention of the Sunne at any time .
+BLUNDEV-1597-E2-P2,60V.121
+
+<$$heading>
+
+First find out the right ascention of the Sunne by the third proposition
+, the same shall bee the right descention thereof ,
+BLUNDEV-1597-E2-P2,60V.123
+
+then finde the ascentionall difference by the sixt proposition ,
+BLUNDEV-1597-E2-P2,60V.124
+
+and if the Sun be in any of the Northerne signes , adde the ascentional
+difference vnto the right ascention , the summe shall be the oblique
+descention of the Sunne : BLUNDEV-1597-E2-P2,60V.125
+
+but if it be in any of the Southerne signes , subduct the ascentionall
+difference out of the right ascention , the remainder is the desired
+descention : BLUNDEV-1597-E2-P2,60V.126
+
+as for example the sunne being in the beginning of <font> Taurus
+<$$font> , the right ascention thereof by the third proposition is 27.
+degrees 5 ' 4. BLUNDEV-1597-E2-P2,60V.127
+
+the ascentionall difference thereof by the sixth proposition is 15.
+degrees 4@ @'. BLUNDEV-1597-E2-P2,60V.128
+
+for_as_much then as <font> Taurus <$$font> is a Northerne signe , I adde
+the ascentionall difference vnto the right ascention ,
+BLUNDEV-1597-E2-P2,60V.129
+
+the summe is 24. degrees 5 ' 8. BLUNDEV-1597-E2-P2,60V.130
+
+& so much is the oblique descention of the Sunne being in the beginning
+of <font> Taurus <$$font> . BLUNDEV-1597-E2-P2,60V.131
+
+<heading>
+
+9 To find out the length of the day or night .
+BLUNDEV-1597-E2-P2,60V.133
+
+<$$heading>
+
+Hauing found out the ascentionall difference by the sixth proposition ,
+adde the same vnto 90. if the sunne be in any of the Northerne signes ,
+BLUNDEV-1597-E2-P2,60V.135
+
+but if it be in any of the Southerne signes , subduct the ascentionall
+difference out of 90. BLUNDEV-1597-E2-P2,60V.136
+
+then diuide the summe of the addition or the remainder of the
+subtraction by 15. the quotient will shew the halfe length of the day
+in houres and minutes , which being doubled you shall haue the whole
+length of the artificiall day . BLUNDEV-1597-E2-P2,60V.137
+
+For example the Sunne being in the beginning of <font> Taurus <$$font> ,
+the ascentionall difference thereof is 15. degrees 4@ @'. which for
+the summe is 105. degrees 4@ @'. which being deuided by 15. the
+quotient is 7. houres 0@ @'. the halfe length of the day which being
+doubled will be 14. houres the whole length of the artificiall day in
+the Latitude of 52. degrees . BLUNDEV-1597-E2-P2,60V.138
+
+<heading>
+
+10 To finde the houre OF the Sunne his rising or setting in any Latitude
+assigned . BLUNDEV-1597-E2-P2,60V.140
+
+<$$heading>
+
+First find out the halfe length of the artificiall day by the 9.
+proposition , BLUNDEV-1597-E2-P2,60V.142
+
+and subtract the same from 12. houres , the remainder <P_61R> will shew
+the houre of the sunnes rising , BLUNDEV-1597-E2-P2,61R.143
+
+for example the Sun being in the beginning of <font> Taurus <$$font> to
+know the houre of his rising in the Latitude of 52. degrees , by the
+ninth proposition , the halfe length of the artificiall day I finde to
+bee 7. houres , which I subtract from 12. houres
+BLUNDEV-1597-E2-P2,61R.144
+
+the remainder is 5. which sheweth that the Sun riseth at 5. of the
+clocke in the Morning BLUNDEV-1597-E2-P2,61R.145
+
+but the halfe length of the day it selfe is the houre of the Sunnes
+setting . BLUNDEV-1597-E2-P2,61R.146
+
+<heading>
+
+11 To find out the length of the planetarie houres and to find what
+Planet raigneth at any houre of the day . BLUNDEV-1597-E2-P2,61R.148
+
+<$$heading>
+
+First find out the length of the artificiall day by the ninth
+proposition , BLUNDEV-1597-E2-P2,61R.150
+
+and diuide the same by 12. the quotient is the length of one planetarie
+houre : BLUNDEV-1597-E2-P2,61R.151
+
+or thus , BLUNDEV-1597-E2-P2,61R.152
+
+hauing an houre of the artificial day giuen , looke what houre the same
+is from the Sunne rysing , BLUNDEV-1597-E2-P2,61R.153
+
+and multiply the same by 12. BLUNDEV-1597-E2-P2,61R.154
+
+diuide the product by the length of the artificiall day , the quotient
+is the number of the Planetarie houre . BLUNDEV-1597-E2-P2,61R.155
+
+For example the sunne being in the beginning of <font> Taurus <$$font> ,
+and our Latitude being 52. degrees , the length of the artificial day
+by the ninth proposition is 14. houres : BLUNDEV-1597-E2-P2,61R.156
+
+then doe I deuide 14. by 12. BLUNDEV-1597-E2-P2,61R.157
+
+the quotient is 1$$1$$4. BLUNDEV-1597-E2-P2,61R.158
+
+that is 1. houre 1 ' 0. the length of one Planetarie houre .
+BLUNDEV-1597-E2-P2,61R.159
+
+But if an houre of the artificiall day be giuen as that I would know
+what Planetarie houre it is at 9. of the clocke the Sunne being in the
+first of <font> Taurus <$$font> in the Latitude of 52. degrees , hauing
+found that the Sunne riseth at fiue of the clocke by the tenth
+proposition , I see that 4. houres of the artificiall day are gone at
+nine of the clocke , BLUNDEV-1597-E2-P2,61R.160
+
+I therefore multiply 12. by 4. BLUNDEV-1597-E2-P2,61R.161
+
+the product is 48. which I diuide by 14. the length of the artificiall
+day , BLUNDEV-1597-E2-P2,61R.162
+
+the quotient is 3$$1$$7. which is the Planetarie houre at the time set
+downe : BLUNDEV-1597-E2-P2,61R.163
+
+likewise shall you find the Planetarie houre of the night , finding the
+length thereof , BLUNDEV-1597-E2-P2,61R.164
+
+and then worke with it as was shewed before for the day .
+BLUNDEV-1597-E2-P2,61R.165
+
+Now to know what Planet raigneth at any houre of the day or night is
+plainely set downe in the 52. Chapter which is the last Chapter of my
+second booke of the Spheare . BLUNDEV-1597-E2-P2,61R.166
+
+<P_61V>
+
+<heading>
+
+12 To finde the arch of the Equinoctiall , comprehended betwixt the
+Meridian and any Circle of position according vnto Campanus and Gazula .
+BLUNDEV-1597-E2-P2,61V.169
+
+<$$heading>
+
+Multiply the Sine of the complement of your Latitude by the Tangent of
+the distance of the giuen Circle of position from the Zenith ,
+BLUNDEV-1597-E2-P2,61V.171
+
+& diuide the product by the totall Sine , the quotient is the Tangent of
+the arch of the Equinoctial , which is comprehended betwixt the giuen
+Circle of position , and the Meridian . BLUNDEV-1597-E2-P2,61V.172
+
+For example in the Latitude of 52. I would knowe what part of the
+Equinoctiall is comprehended betwixt the Meridian and that Circle of
+position , which is 30. degrees from the Zenith :
+BLUNDEV-1597-E2-P2,61V.173
+
+the Latitude being 52. degrees , the complement thereof is 38. degrees
+, the Sine whereof is 6156615 , BLUNDEV-1597-E2-P2,61V.174
+
+and the Tangent of 30. degrees , <paren> for that 30. is the distance
+betwixt the giuen Circle of position and the Zenith <$$paren> is
+5773502. which being multiplyed by 6156615. the product is
+35545229015730. which being diuided by 10000000. the totall Sine , the
+quotient is 3554522. for which I seeke among the Tangents ,
+BLUNDEV-1597-E2-P2,61V.175
+
+and I finde the Arke aunswering thereunto . to be 19. degrees 3 ' 4.
+the Arch of the Equinoctiall , betwixt the Meridian and the giuen Circle
+of position . BLUNDEV-1597-E2-P2,61V.176
+
+<heading>
+
+13 Knowing the Latitude of your Region , and also the Eleuation of the
+Pole aboue any Circle of position , how to finde the inclination of the
+said Circle of position vnto the Meridian , and so consequently the Arch
+of the Equinoctiall , which is betwixt the said Circle of position and
+the Meridian . BLUNDEV-1597-E2-P2,61V.178
+
+<$$heading>
+
+Multiply the Secant of the complement of the eleuation of the Pole aboue
+the Circle of position by the Sine of your Latitude ,
+BLUNDEV-1597-E2-P2,61V.180
+
+and diuide the product by the total Sine , the quotient is the Secant of
+the complement of the inclination of the circle of position vnto the
+Meridian , BLUNDEV-1597-E2-P2,61V.181
+
+and that is the distance betwixt the Circle of Position and the Zenith ,
+by helpe whereof you shall find the Arch of the Equinoctiall , betwixt
+the Circle of Position and the Meridian , as in the former proposition .
+BLUNDEV-1597-E2-P2,61V.182
+
+As for example , suppose the eleuation of the Pole aboue the Circle of
+position , in our Latitude of 52. to be 23. degrees 1 ' 2.
+BLUNDEV-1597-E2-P2,61V.183
+
+Now to find out the Inclination <P_62R> of that Circle of Position vnto
+the Meridian , first I multiply 25384445. the Secant of 66. degrees 4
+' 8. <paren> for that is the complement of 23. degrees 1 ' 2. the
+eleuation of the Pole aboue the Circle of position <$$paren> by 7880108
+the Sine of 52. the Latitude of our Region , BLUNDEV-1597-E2-P2,62R.184
+
+the product is 200032168120060. which being diuided by 10000000. the
+quotient is 20003216. for which I looke in the Table of Secants ,
+BLUNDEV-1597-E2-P2,62R.185
+
+and the Arch thereof is 60. degrees 0@ @' . the complement whereof is
+30. degrees 0@ @'. which is the Inclination of the Circle of position
+vnto the Meridian , or the distance of the Zenith from the said Circle ,
+BLUNDEV-1597-E2-P2,62R.186
+
+then to finde the Arch of the Equinoctiall betwixt the said Circle of
+Position and the Meridian , repeate the worke of the former proposition
+. BLUNDEV-1597-E2-P2,62R.187
+
+<heading>
+
+14 To find out the Eleuation of the Pole aboue any assigned Circle of
+Position in any giuen Latitude . BLUNDEV-1597-E2-P2,62R.189
+
+<$$heading>
+
+Knowing the Inclination of the assigned Circle of Position vnto the
+Meridian , Multiply the Secant of the complement thereof by the totall
+Sine , BLUNDEV-1597-E2-P2,62R.191
+
+and diuide the product by the Sine of your Latitude , the quotient is
+the Secant of the complement of the Eleuation of the Pole aboue the
+giuen Circle of Position : BLUNDEV-1597-E2-P2,62R.192
+
+as for example , suppose the inclination of a Circle of position to bee
+30. degrees 0@ @'. BLUNDEV-1597-E2-P2,62R.193
+
+Now to finde the eleuation of the Pole aboue the same for the Latitude
+of 52. degrees 0@ @'. First take the complement of 30. degrees 0@ @'.
+which is 60. degrees 0@ @'. the Secant whereof is 20000000. which
+being multiplyed by the totall Sine the product is 200000000000000.
+which being diuided by 7880108. the Sine of 52. the assigned Latitude
+the quotient is 25$$80362. for which I seeke in the Table of Secants ,
+BLUNDEV-1597-E2-P2,62R.194
+
+and the Arch answering thereunto I find to be 66. degrees 4 ' 8. the
+complement whereof is , 23. degrees 1 ' 2. BLUNDEV-1597-E2-P2,62R.195
+
+and so much is the Eleuation of the Pole aboue the assigned Circle of
+Position in your Latitude . BLUNDEV-1597-E2-P2,62R.196
+
+Thus much touching the vse of the Tables of Sines , Tangents and Secants
+, BLUNDEV-1597-E2-P2,62R.197
+
+now here followeth the three Tables , first the Table of Sines ,
+secondly the Table of Tangents , and thirdly the Table of Secants .
+BLUNDEV-1597-E2-P2,62R.198
+
+Finis . BLUNDEV-1597-E2-P2,62R.199
+
+<P_150V>
+
+<heading>
+
+Of the two Colures , and why they are so named , and whereto they serue
+: also of the foure Cardinall points , that is , of the two Equinoctiall
+, and the two Solstitiall points , and of the entrance of the Sunne into
+any of those points or into any other signe .
+BLUNDEV-1597-E2-P2,150V.202
+
+Cap. 16 . BLUNDEV-1597-E2-P2,150V.203
+
+<$$heading>
+
+<heading>
+
+<font> What be Colures ? <$$font> BLUNDEV-1597-E2-P2,150V.206
+
+<$$heading>
+
+They bee great mooueable circles passing through both the Poles of the
+world , which the Astronomers do otherwise call Circles of declination ,
+whereof they make 180. which are halfe so many as there bee {SIC:vee}
+degrees in the Equinoctiall , applying them to diuers vses not needfull
+here to be rehearsed , BLUNDEV-1597-E2-P2,150V.208
+
+for sith that there are but 2. Colures accustomably set down in the
+Spheare , without the which a materiall Spheare can@ @not be made , I
+minde heere therefore onely to treate of them .
+BLUNDEV-1597-E2-P2,150V.209
+
+<font> Shew first what this name Colure signifieth . <$$font>
+BLUNDEV-1597-E2-P2,150V.210
+
+This word Colure beeing compounded of <font> Colos <$$font> and <font>
+Oura <$$font> , <P_151R> is as much to say as vnperfect or maymed , the
+taile being cut off , because none of these Circles are euer seene whole
+aboue our Horizon , but parte thereof , BLUNDEV-1597-E2-P2,151R.211
+
+for some part is alwayes seene , BLUNDEV-1597-E2-P2,151R.212
+
+and some part is alwaies hidden , as that part which is aboue the
+Horizon , and nigh vnto the Pole , is alwaies seene , because it neuer
+goeth downe under the Horizon : BLUNDEV-1597-E2-P2,151R.213
+
+likewise that which is nigh vnto the South pole is alwaies hidden from
+vs , because it neuer riseth aboue our Horizon , as by turning the
+Spheare about , you may easilie perceiue the same .
+BLUNDEV-1597-E2-P2,151R.214
+
+<heading>
+
+<font> Which be those Colures that are commonly set downe in the Spheare
+, BLUNDEV-1597-E2-P2,151R.216
+
+and how are they named ? <$$font> BLUNDEV-1597-E2-P2,151R.217
+
+<$$heading>
+
+They are two great mooueable circles , passing through the Poles of the
+world , crossing one another in the said Poles with right Sphearicall
+angles , by meanes whereof they deuide the whole Spheare into foure
+equall partes , of which two Colures the one is called the Colure of the
+Equinoxes , and the other the Colure of Solstices .
+BLUNDEV-1597-E2-P2,151R.219
+
+<font> Describe these two Circles , BLUNDEV-1597-E2-P2,151R.220
+
+& shew why they are so named ? <$$font> BLUNDEV-1597-E2-P2,151R.221
+
+The Colure of the Equinoxes is so called because it cutteth the Zodiaque
+in the beginning of <font> Aries <$$font> , which is called the vernal
+Equinoxe : and also in the beginning of <font> Libra <$$font> , which is
+called the Autumnall Equinoxe , at which two times the daies and nightes
+be equall , as hath been said before when we did speake of the
+Equinoctiall circle , BLUNDEV-1597-E2-P2,151R.222
+
+and this circle deuideth the Ecliptique into two halfes , the one <font>
+Septentrionall <$$font> , and the other <font> Meridionall <$$font>
+BLUNDEV-1597-E2-P2,151R.223
+
+and thereby sheweth the signes wherein the Sunne maketh the dayes longer
+and shorter than the nights , BLUNDEV-1597-E2-P2,151R.224
+
+for whilest he is in the 6. Northern signes , he maketh the daies with
+vs longer then the nights , BLUNDEV-1597-E2-P2,151R.225
+
+and when he is in the 6. Southern signes he maketh the nightes longer
+then the daies : BLUNDEV-1597-E2-P2,151R.226
+
+now you haue to vnderstand that the Colure of the Solstice , is so
+called because it cutteth the Zodiaque in the two Solstitiall points ,
+BLUNDEV-1597-E2-P2,151R.227
+
+that is to say , in the beginning of <font> Cancer <$$font> , and the
+beginning of <font> Capricorne <$$font> , as you may see in beholding
+and turning the Spheare about with your hand .
+BLUNDEV-1597-E2-P2,151R.228
+
+<heading>
+
+<font> Why are these two points called Solstitiall ? <$$font>
+BLUNDEV-1597-E2-P2,151R.230
+
+<$$heading>
+
+They take their name of these two Latine words <font> Sol <$$font> and
+<font> statio <$$font> , BLUNDEV-1597-E2-P2,151R.232
+
+that is to say , the Sun and standing , BLUNDEV-1597-E2-P2,151R.233
+
+for when the Sunne is in any of the two points , hee seemeth to stand
+still , BLUNDEV-1597-E2-P2,151R.234
+
+or at the least <P_151V> mooueth so little , as his proper moouing from
+West to East can@ @not be easily perceiued , during the space of twelue
+dayes . BLUNDEV-1597-E2-P2,151V.235
+
+And you haue to note , that when the Sunne entereth into the first
+degree of <font> Cancer <$$font> , which is about the 22. of Iune ,
+then hee is at the highest , and the dayes be at the longest ,
+BLUNDEV-1597-E2-P2,151V.236
+
+and therefore , it is called the Summer Solstice .
+BLUNDEV-1597-E2-P2,151V.237
+
+Againe , when hee entereth into the first degree of <font> Capricorne
+<$$font> , which is about the 12. of December , then the Sunne is at
+the lowest , BLUNDEV-1597-E2-P2,151V.238
+
+and the nights are at the longest , BLUNDEV-1597-E2-P2,151V.239
+
+& therefore it is called the Winter Solstice .
+BLUNDEV-1597-E2-P2,151V.240
+
+And in this Colure there are set downe the two Poles of the Ecliptique
+line being distant from the Poles of the world 23. degrees and 2 ' 8.
+BLUNDEV-1597-E2-P2,151V.241
+
+Moreouer on this Colure is measured the greatest declination of y=e= Sun
+, which is alwayes equall to the distaunce of the Pole of the Ecliptique
+, from the Pole of the world , as hath been said before .
+BLUNDEV-1597-E2-P2,151V.242
+
+And you haue to note that the 4. former points , that is to say , the
+2. Equinoxes , and the 2. Solstices , are commonly called the foure
+cardinall or principall pointes , BLUNDEV-1597-E2-P2,151V.243
+
+and of some they are called , the foure pointes of Change , signifying
+the 4. beginnings of the foure diuers seasons of the yeare :
+BLUNDEV-1597-E2-P2,151V.244
+
+for betwixt the beginning of <font> Aries <$$font> and beginning of
+<font> Cancer <$$font> , is contained the Spring time ,
+BLUNDEV-1597-E2-P2,151V.245
+
+and betwixt the beginning of <font> Cancer <$$font> and the beginning of
+<font> Libra <$$font> , is the summer time : BLUNDEV-1597-E2-P2,151V.246
+
+and from the beginning of <font> Libra <$$font> to the beginning of
+<font> Capricorne <$$font> is the time called Autumne , or fall of the
+leafe : BLUNDEV-1597-E2-P2,151V.247
+
+and from the beginning of <font> Capriconre <$$font> to the beginning of
+<font> Aries <$$font> is contayned the winter season , albeit the Sunne
+entreth not into any of these signes alwayes at one selfe day or time of
+the yeare , BLUNDEV-1597-E2-P2,151V.248
+
+for at Christ his incarnation , the Sunne entred into <font> Aries
+<$$font> the 25. of March , and into <font> Cancer <$$font> the 24. of
+Iune , and into <font> Libra <$$font> the 27. of September , and into
+<font> Capricorne <$$font> the 25. of December , which was then the
+shortest day in the yeare , and the beginning of Winter ,
+BLUNDEV-1597-E2-P2,151V.249
+
+and therefore is called of the Latines , <font> dies brumalis <$$font> ,
+on which day Christ our Sauiour was borne , so as from the time of his
+birth vnto this present yeare , there are runne almost 13. dayes ,
+wherefore , vnlesse the Kalenders bee reformed as well heere in <font>
+England <$$font> as elsewhere <paren> for the Romane reformation is not
+so exactly true as it might bee <$$paren> wee shall haue in processe of
+time , the Spring in Winter , and the Winter in Autumne .
+BLUNDEV-1597-E2-P2,151V.250
+
+<P_152R>
+
+<heading>
+
+<font> How shall I know this present year , or any yeare to come
+hereafter , at what day and houre the Sunne entereth into any of the 12.
+Signes ? <$$font> BLUNDEV-1597-E2-P2,152R.253
+
+<$$heading>
+
+First you must learne by some good Ephemerides , or other Table , the
+true entrance of the Sun into euery signe in any yeare passed before ,
+BLUNDEV-1597-E2-P2,152R.255
+
+then from the time of the entrance of the Sunne into the signe which you
+desire to know , consider how many yeares are betwixt , and how many
+leape_yeares are in the same contained , BLUNDEV-1597-E2-P2,152R.256
+
+and substract for so many times as there be leape_yeares , 4 ' 4 , of an
+houre , BLUNDEV-1597-E2-P2,152R.257
+
+and ad to the houres remaining , so many times fiue houres , and 4 ' 9.
+as there bee yeares remaining ouer and besides the leape_yeares , and
+that summe shall shew you the day , houre , & minutes of the true
+entrance of the Sunne into that signe in the same yeare that you desire
+to know . BLUNDEV-1597-E2-P2,152R.258
+
+<P_158V_misnumbered_as_157V>
+
+<heading>
+
+Cap. 21 . BLUNDEV-1597-E2-P2,158V_misnumbered_as_157V.261
+
+<$$heading>
+
+Hauing briefely described all the Circles as well greater as lesser that
+are imagined to be in the 8. heauen , I thinke it good now to speake
+somewhat of the starres and celestiall bodies placed in the saide heauen
+, BLUNDEV-1597-E2-P2,158V_misnumbered_as_157V.263
+
+And first of their substance ,
+BLUNDEV-1597-E2-P2,158V_misnumbered_as_157V.264
+
+and then of their moouing , figure , shape , number , magnitude or
+greatnes , also of their Longitude , <P_159R_misnumbered_as_158R>
+Latitude , declination , ascention , descention both right and oblique ,
+and of the ascentionall difference , and finally of the threefold
+Poeticall rising and going downe of the starres ,
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.265
+
+but first of their substance .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.266
+
+<heading>
+
+<font> Of what substance are the starres . <$$font>
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.268
+
+<$$heading>
+
+The stars be of the same substance that the heauens are wherein they are
+placed , differing onely from the same in thicknes ,
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.270
+
+and therefore some defining a starre doe say , that it is a bright and
+shining body , and the thickest part of his heauen , apt both to receiue
+and to reteine the light of the Sunne ,
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.271
+
+and therby is visible and obiect to the sight :
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.272
+
+for the heauen it selfe being most pure , thinne , transparent , and
+without colour is not visible ,
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.273
+
+and for this cause the milke-white impression in heauen like vnto a
+white way called of the Astronomers <font> Galaxia <$$font> , and of the
+common people our Ladies way , is visible to the eye , by reason that it
+is thicker then anie other part of the heauen .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.274
+
+<heading>
+
+<font> Why are not the starres seene as well in the day , as in the
+night . <$$font> BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.276
+
+<$$heading>
+
+Because they are darkened by the excellent brightnesse of the Sunne from
+whome they borowe their chiefest light .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.278
+
+<heading>
+
+Of the moouing and shape of the starres .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.280
+
+Cap. 22 . BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.281
+
+<$$heading>
+
+<heading>
+
+<font> What moouing haue the starres ? <$$font>
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.284
+
+<$$heading>
+
+The selfe_same moouing that the heauen hath wherein they are placed .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.286
+
+<heading>
+
+<font> Whereby are the heauens mooued ? <$$font>
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.288
+
+<$$heading>
+
+Some say that the first mooueable is turned by God himselfe , and all
+the rest of the heauens euery one by his proper intelligence , which
+though it turneth his heauen about , yet it giueth neither life , sense
+, nor vnderstanding thereunto , as some haue vntruely holden , affirming
+the heauens to be liuing and intelligible bodies .
+BLUNDEV-1597-E2-P2,159R_misnumbered_as_158R.290
+
+<P_159V_misnumbered_as_158V>
+
+<heading>
+
+<font> If the starres haue no moouing of themselues , whereof commeth it
+then , that some seem to our sight sometime nigher & sometime further
+off . <$$font> BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.293
+
+<$$heading>
+
+All the fixed starres of the firmament are alwayes of like distance ,
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.295
+
+notwithstanding by reason of the manyfold moouing of the firmament ,
+wherein they are placed , they seeme to change their places , and
+sometimes to bee more towardes the East or West , North or South .
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.296
+
+And whereas the vii. Planets called the wandring starres , doe change
+their places now here now there , that chanceth not by their owne
+moouing , but by the moouing of the heauens wherin they are placed :
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.297
+
+for a starre being round of shape hath no members meete to walke from
+one place to another , BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.298
+
+but onely changeth his place through the motion of his Spheare or heauen
+wherein such Planet is fixed .
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.299
+
+<font> Of the number of the stars , and of their magnitude or greatnesse
+, and into how many Images they are deuided , and how many starres euery
+Image containeth . BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.300
+
+<heading>
+
+Cap. 23 . BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.302
+
+<$$heading>
+
+<heading>
+
+<font> May the starres be numbred by man ? <$$font>
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.305
+
+<$$heading>
+
+No , for as <font> Dauid <$$font> saith , that belongeth onely to God ,
+who as hee created them , so hee can number them and call them all by
+their names , BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.307
+
+notwithstanding the Astronomers by their industrie and diligent
+obseruacion , haue attained to the knowledge of manie : as first they
+know the seuen Planetes , otherwise called the wandringe starres , and
+haue made manifest demonstrations of their motions , and by continuall
+obseruation haue found out the manifolde vertues , powers and influences
+of the same , BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.308
+
+but of the fixed starres they could neuer finde more then 1022 ,
+BLUNDEV-1597-E2-P2,159V_misnumbered_as_158V.309
+
+and because the starres are not equall in greatnes or bignesse , they
+make sixe differences of greatnesse , appointing to the first difference
+15. starres , which are bigger then all the rest , whereof euerie one
+containeth the earth 207. times , to the seconde difference 45.
+starres , whereof <P_160R_misnumbered_as_157R> euery one containeth the
+earth 90. times . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.310
+
+To y=e= third they appoint 208. starres , whereof euery one containeth
+the earth 72. times . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.311
+
+To the fourth difference they appoint 474. starres , whereof euery one
+containeth the earth 54. times .
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.312
+
+To the fift they assigne 217. starres , whereof euery one containeth
+the earth 57. times . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.313
+
+To the sixt or last greatnesse they appoint 49. small starres , whereof
+euery one containeth the earth 18. times ,
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.314
+
+and some say 20. times .
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.315
+
+Besides these there be 14 others , whereof 5. be called clowdy and the
+other darke , because they are not to be seene but of a very quicke and
+sharpe sight . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.316
+
+And you haue to note that the auncient Astronomers do deuide all the
+fixed stars to them known into 48. images , wherof they liken some to
+liuing things as to men , women , beasts , monsters , foules , fishes ,
+and creeping wormes , and some to things without life , hauing some
+artificiall shape , of which 48. images , they appoint 12. to the
+Zodiaque , commonly called the 12. signes , as <font> Aries , Taurus ,
+Gemini , Cancer , Leo , Virgo , Libra , Scorpio , Sagittarius ,
+Capricornus , Aquarius <$$font> and <font> Pisces <$$font> .
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.317
+
+Againe they place in the North part of the firmament 21. images , and
+in the South part thereof 15. images , which make in all 48. The
+description of all which images , together with their names hereafter
+followeth : BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.318
+
+and first I will describe vnto you the twelue Images contained in the
+Zodiaque . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.319
+
+<heading>
+
+Of the xii. Images or signes of the Zodiaque .
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.321
+
+Cap. 24 . BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.322
+
+<$$heading>
+
+The twelue signes <paren> as some affirm <$$paren> doe containe of the
+foresaide number of fixed stars 273.
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.324
+
+for the first signe called <font> Aries <$$font> , that is to say , the
+Ramme , containeth 13. starres , which Image or signe being placed in
+the coniunction of the Zodiaque with the Equinoctiall , hath his backe
+turned towardes the North , and his head towardes the East , and riseth
+with his head , and goeth downe with his feete .
+BLUNDEV-1597-E2-P2,160R_misnumbered_as_157R.325
+
+The second figure called <font> Taurus <$$font> , that is to say , the
+Bull , containeth 33. starres , whereof there is one bright starre of
+the <P_160V_misnumbered_as_157V> first bignesse called <font> Oculus
+Tauri <$$font> , that is to say , the Bulles eye , who hath his head
+enclyned towards the West as though he looked towards the earth , and
+riseth and goeth downe with his heeles vpwarde .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.326
+
+The thirde Signe called <font> Gemini <$$font> , that is to saye the
+twinnes , doe containe 18. starres , their heads looking towards the
+North , BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.327
+
+and their backes being ioyned together doe embrace one another ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.328
+
+doe rise lying , BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.329
+
+and doe goe downe with their feete .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.330
+
+The fourth Signe called <font> Cancer <$$font> , that is to saye , the
+Crabbe contayneth nine starres , extending his feete towardes both the
+Poles , and looking towards <font> Leo <$$font> ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.331
+
+hath his bellie turned towards the earth ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.332
+
+and hee riseth and falleth with his hinder part or backe part of his
+bodye . BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.333
+
+The fifth Signe called <font> Leo <$$font> , that is to saye the Lyon ,
+contayneth ten starres , whereof there be two bright starres of the
+first bignesse , the one in his breast called <font> Cor Leonis <$$font>
+, and <font> Regulus <$$font> , that is to say the Lyons heart , and the
+other in his tayle called <font> Cauda Leonis <$$font> , that is to saye
+, the Lyons tayle , who looketh towardes <font> Cancer <$$font> ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.334
+
+and hauing his backe turned towardes the North , hee riseth and goeth
+downe with his head . BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.335
+
+The sixt Signe called <font> Virgo <$$font> , that is to saye , the
+Virgine , whose head is behinde the Lyon and toucheth the Equinoctiall
+line with her left hande , holding in the same hande an eare of Corne ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.336
+
+shee both ryseth and goeth downe with her head :
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.337
+
+this Image containeth sixe_and_twentie starres , whereof there is one
+bright starre of the first bignesse called <font> Spica Virginis
+<$$font> , that is to saye , an eare of Corne .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.338
+
+The seuenth Signe called <font> Libra <$$font> , that is to saye the
+Ballance , contayning eight starres hath two skales , whereof one
+hangeth towardes the North , and the other towardes the South .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.339
+
+The eight Signe called <font> Scorpios <$$font> , that is to saye the
+Scorpion , contayneth one_and_twentie starres , who looketh towardes
+<font> Virgo <$$font> , and extendeth his feete towardes both the Poles
+, BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.340
+
+hee boweth his tayle towardes the North , hauing his bellie turned
+towardes the Earth , BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.341
+
+and hee ryseth and goeth downe bowing .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.342
+
+The ninth Signe called <font> Sagittarius <$$font> , that is to saye the
+Archer , contayning one_and_thirtie starres , hath his heade towardes
+the North , BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.343
+
+and looketh towardes the <font> Scorpion <$$font> , hauing a bowe and
+shaft , whereof the bowe toucheth his left hande and left foote ,
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.344
+
+hee riseth right vppe BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.345
+
+and goeth downe headlong .
+BLUNDEV-1597-E2-P2,160V_misnumbered_as_157V.346
+
+The tenth signe called <font> Capricornus <$$font> , that is to saye ,
+the Goate contayning eight_and_twentie starres ,
+<P_161R_misnumbered_as_158R> hath his backe turned towardes the North ,
+and his head towards the Archer ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.347
+
+and turning himselfe towardes <font> Aquarius <$$font> , hee ryseth
+right vp , BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.348
+
+and goeth downe headlong .
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.349
+
+The eleauenth Signe called <font> Aquarius <$$font> , that is to saye ,
+the water bearer contayning two_and_fourtie starres , hath his heade
+towards the North , extending his left hande vppon the backe of <font>
+Capricorne <$$font> , BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.350
+
+and with his right hande powreth out water out of his potte , which
+bendeth towards the East , runneth euen to <font> Pisces <$$font> ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.351
+
+hee ryseth and goeth downe with his heade before anye other of his
+members . BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.352
+
+The twelueth Signe called <font> Pisces <$$font> , that is to saye , two
+Fishes , doe contayne foure_and_thirtie starres , wherof the backe of
+the first is towards the North , and the backe of the seconde towardes
+the West arme of <font> Andromeda <$$font> ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.353
+
+and one of the Fishes looketh towardes <font> Aquarius <$$font> , and
+the other towardes the North ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.354
+
+and betwixt these two Fishes is a certaine little line wherewith their
+tayles are bounde together as it were with a bond , the lower part of
+which Fishes , doth alwaies both ryse and goe downe , and not the vpper
+part : BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.355
+
+And though the 12. Signes of the Zodiaque are said to bee equall both
+in length and breadth , that is to saye , hauing thirtie degrees in
+length , and twelue degrees in breadth , as hath beene sayde before ,
+yet these Images are not equall ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.356
+
+for some doe extende , further then the Zodiaque in breadth , and some
+are more then 30. degrees in length , As the Tables of <font> Alphonsus
+<$$font> doe manifestly shewe , who sayeth there that the twelue Signes
+doe contayne three_hundred_and_fiftie starres ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.357
+
+for he appointeth to <font> Aries <$$font> eighteene , to <font> Taurus
+<$$font> fourtie_foure , to <font> Gemini <$$font> twentie_fiue , to
+<font> Cancer <$$font> thirteene , to <font> Leo <$$font> thirtie_fiue ,
+to <font> Virgo <$$font> thirtie_two , to <font> Libra <$$font>
+seuenteene , to <font> Scorpio <$$font> twentie_foure , to <font>
+Sagittarius <$$font> thirtie_and_one , to <font> Capricornus <$$font>
+twentie_eight , to <font> Aquarius <$$font> fourtie_fiue , to <font>
+Pisces <$$font> thirtie_eight , which make in all
+three_hundred_and_fiftie , in which Tables are also set downe the
+Longitude , Latitude , and Magnitude of the saide starres ,
+BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.358
+
+but the Longitude of the saide stars , is farre altered from that
+Longitude which they had in his time , whereof we shall speake hereafter
+more at large . BLUNDEV-1597-E2-P2,161R_misnumbered_as_158R.359
+

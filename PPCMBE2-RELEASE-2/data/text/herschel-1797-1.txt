@@ -1,0 +1,2064 @@
+<BEGIN_herschel-1797-1>
+
+<P_3>
+
+<heading>
+
+On the Discovery , <font> &c Read before the <$$font> Royal Society ,
+<font> December 14 , 1797 . <$$font> HERSCHEL-1797-1,3.4
+
+<$$heading>
+
+Having been lately much engaged in improving my tables for calculating
+the places of the Georgian satellites , I found it necessary to
+recompute all my observations of them . HERSCHEL-1797-1,3.6
+
+In looking over the whole series , from the year of the first discovery
+of the satellites in 1787 to the present time , I found these
+observations so extensive , especially with regard to a miscellaneous
+branch of them , that I resolved to make this latter part the subject of
+a strict examination . HERSCHEL-1797-1,3.7
+
+The observations I allude to relate to the discovery of four additional
+satellites : to surmises of a large and a small ring , at rectangles to
+each other : to the light and size of the satellites : and to their
+disappearance at certain distances from the planet .
+HERSCHEL-1797-1,3.8
+
+In this undertaking , I was much assisted by a set of short and easy
+theorems I had laid down for calculating all the particulars respecting
+the motions of satellites ; such as , finding the longitude of the
+satellite from the angle of position , or the position from the
+longitude : the inclination of the orbit from the angle of position and
+longitude : the apogee : the greatest <P_4> elongation : and other
+particulars . HERSCHEL-1797-1,4.9
+
+Having moreover calculated tables for reduction : for the position of
+the point of greatest elongation : and for the distance of the apogee ,
+or opening of the ellipsis : and also contrived an expeditious
+application of the globe for checking computations of this sort , I
+found many former intricacies vanish . HERSCHEL-1797-1,4.10
+
+By the help of these tables and theorems , I could examine the
+miscellaneous observations relating to additional satellites , on a
+supposition that their orbits were in the same plane with the two
+already known , and that the direction of their motion was also the same
+with that of the latter . HERSCHEL-1797-1,4.11
+
+And here I take an opportunity to announce , that the motion of the
+Georgian satellites is retrograde . HERSCHEL-1797-1,4.12
+
+This seems to be a remarkable instance of the great variety that takes
+place among the movements of the heavenly bodies . HERSCHEL-1797-1,4.13
+
+Hitherto , all the planets and satellites of the solar system have been
+found to direct their course according to the order of the signs : even
+the diurnal or rotatory motions , not only of the primary planets , but
+also of the sun , HERSCHEL-1797-1,4.14
+
+and six of their secondaries or satellites , now are known to follow the
+same direction ; HERSCHEL-1797-1,4.15
+
+but here we have two considerable celestial bodies completing their
+revolutions in a retrograde order . HERSCHEL-1797-1,4.16
+
+I return to the examination of the miscellaneous observations , the
+result of which has been of considerable importance , and will be
+contained in this paper . HERSCHEL-1797-1,4.17
+
+The existence of four additional satellites of our new planet will be
+proved . HERSCHEL-1797-1,4.18
+
+The observations which tend to ascertain the existence of rings not
+appearing to be satisfactorily supported , it will be proper that
+surmises of them should either be given up , as ill founded , or at
+least reserved till superior instruments can be provided , to <P_5>
+throw more light upon the subject . HERSCHEL-1797-1,5.19
+
+A remarkable phenomenon , of the vanishing of the satellites , will be
+shewn to take place , and its cause animadverted upon .
+HERSCHEL-1797-1,5.20
+
+I shall now , in the first place , relate the observations on which
+these conclusions must rest for support , and afterwards join some short
+arguments , to shew that my results are fairly deduced from them .
+HERSCHEL-1797-1,5.21
+
+For the sake of perspicuity , I shall arrange the observations under
+three different heads ; and begin with those which relate to the
+discovery of additional satellites . HERSCHEL-1797-1,5.22
+
+A great number of observations on supposed satellites , that were
+afterwards found to be stars , or of which it could not be ascertained
+whether they were stars or satellites , for want of clear weather , will
+only be related . HERSCHEL-1797-1,5.23
+
+For , to enter into the particular manner of recording these supposed
+satellites , or to give the figures which were delineated to point them
+out , would take up too much time , and be of no considerable service to
+our present argument . HERSCHEL-1797-1,5.24
+
+It ought however to be mentioned , that nearly the same precaution was
+taken with all the related observations as , it will be found , was used
+in those that are given in the words of the journals that contain them .
+HERSCHEL-1797-1,5.25
+
+The former will be distinguished under the head <font> Reports <$$font>
+, the latter under that of <font> Observations . <$$font>
+HERSCHEL-1797-1,5.26
+
+<heading>
+
+<font> Investigation of additional Satellites . HERSCHEL-1797-1,5.28
+
+Reports . <$$font> HERSCHEL-1797-1,5.29
+
+<$$heading>
+
+Feb. 6 , 1782 . HERSCHEL-1797-1,5.31
+
+A very faint star was pointed out as probably a satellite ,
+HERSCHEL-1797-1,5.32
+
+but Feb. 7 and 8 was found remaining in its former situation .
+HERSCHEL-1797-1,5.33
+
+March 4 , 1783 . HERSCHEL-1797-1,5.34
+
+A satellite was suspected , HERSCHEL-1797-1,5.35
+
+but March 8 was found to be a star . HERSCHEL-1797-1,5.36
+
+<P_6>
+
+April 5 , 1783 . HERSCHEL-1797-1,6.38
+
+A suspected satellite was delineated , HERSCHEL-1797-1,6.39
+
+but the 6th it was seen remaining in its former place .
+HERSCHEL-1797-1,6.40
+
+Nov. 19 , 1783 . HERSCHEL-1797-1,6.41
+
+A supposed satellite was marked down , HERSCHEL-1797-1,6.42
+
+but no opportunity could be had to account for it afterwards .
+HERSCHEL-1797-1,6.43
+
+Nov. 16 , 1784 . HERSCHEL-1797-1,6.44
+
+Supposed 1st and 2d satellites were pointed out , but not accounted for
+afterwards . HERSCHEL-1797-1,6.45
+
+Many other fruitless endeavours for the discovery of satellites were
+made ; HERSCHEL-1797-1,6.46
+
+but , finding my instrument , in the Newtonian form , not adequate to
+the undertaking , the pursuit was partly relinquished .
+HERSCHEL-1797-1,6.47
+
+The additional light however which I gained , by introducing the
+Front-view in my telescope , soon after gave me an opportunity of
+resuming it with more success . HERSCHEL-1797-1,6.48
+
+Jan. 11 , 1787 . HERSCHEL-1797-1,6.49
+
+Three supposed satellites were observed : a first , a second , and a
+third . HERSCHEL-1797-1,6.50
+
+Jan. 12 , the 1st and 2d were gone from the places in which I had
+marked them , HERSCHEL-1797-1,6.51
+
+but the 3d was remaining , HERSCHEL-1797-1,6.52
+
+and therefore was a fixed star . HERSCHEL-1797-1,6.53
+
+Jan. 14 . HERSCHEL-1797-1,6.54
+
+A supposed 3d satellite was delineated , HERSCHEL-1797-1,6.55
+
+but on the 17th it was found to be a star . HERSCHEL-1797-1,6.56
+
+Jan. 17 . HERSCHEL-1797-1,6.57
+
+Supposed 3d , 4th , and 5th satellites were marked ,
+HERSCHEL-1797-1,6.58
+
+but were found remaining in their former places on the 18th .
+HERSCHEL-1797-1,6.59
+
+Jan. 24 . HERSCHEL-1797-1,6.60
+
+Supposed 3d and 4th satellites were noted , HERSCHEL-1797-1,6.61
+
+but the weather proving bad on the succeeding nights , till February 4 ,
+they were lost in uncertainty . HERSCHEL-1797-1,6.62
+
+Feb. 4 . HERSCHEL-1797-1,6.63
+
+A 3d satellite was marked , HERSCHEL-1797-1,6.64
+
+but not being afterwards accounted for remains lost .
+HERSCHEL-1797-1,6.65
+
+Feb. 7 . HERSCHEL-1797-1,6.66
+
+A supposed 3d satellite was proved to be a star the 9th .
+HERSCHEL-1797-1,6.67
+
+Feb. 10 . HERSCHEL-1797-1,6.68
+
+Supposed 3d and 4th satellites have not been afterwards accounted for .
+HERSCHEL-1797-1,6.69
+
+<P_7>
+
+Feb. 13 . HERSCHEL-1797-1,7.71
+
+Supposed 3d , 4th , and 5th satellites proved stars the 16th .
+HERSCHEL-1797-1,7.72
+
+Feb. 16 . HERSCHEL-1797-1,7.73
+
+A 3d satellite proved a star the 17th . HERSCHEL-1797-1,7.74
+
+Feb. 19 . HERSCHEL-1797-1,7.75
+
+Supposed 3d and 4th satellites were proved to be stars the same evening
+, by being left in their places , while the planet was moving on .
+HERSCHEL-1797-1,7.76
+
+Feb. 22 . HERSCHEL-1797-1,7.77
+
+The supposed 3d and 4th of the 19th were seen remaining in their former
+places ; HERSCHEL-1797-1,7.78
+
+and new 3d , 4th , and 5th satellites were marked ; HERSCHEL-1797-1,7.79
+
+but these were lost through bad weather , which lasted till March 4 .
+HERSCHEL-1797-1,7.80
+
+March 5 . HERSCHEL-1797-1,7.81
+
+A supposed 3d satellite proved to be a star the 7th .
+HERSCHEL-1797-1,7.82
+
+March 7 . HERSCHEL-1797-1,7.83
+
+The position of a 3d was taken , and a 4th also marked ;
+HERSCHEL-1797-1,7.84
+
+but March 8 they were both proved to be fixed stars .
+HERSCHEL-1797-1,7.85
+
+October 20 . HERSCHEL-1797-1,7.86
+
+A very small star was seen near the planet , but lost , for want of
+opportunity to account for it . HERSCHEL-1797-1,7.87
+
+March 13 , 1789 . HERSCHEL-1797-1,7.88
+
+The positions of 3d and 4th satellites were taken , HERSCHEL-1797-1,7.89
+
+but the 14th they were found to be stars . HERSCHEL-1797-1,7.90
+
+March 16 . HERSCHEL-1797-1,7.91
+
+Supposed 3d and 4th satellites were well laid down ,
+HERSCHEL-1797-1,7.92
+
+but March 20 were found to be stars . HERSCHEL-1797-1,7.93
+
+March 26 . HERSCHEL-1797-1,7.94
+
+The places of supposed 3d and 4th satellites were ascertained ,
+HERSCHEL-1797-1,7.95
+
+but no opportunity could be had of deciding whether they were stars or
+satellites . HERSCHEL-1797-1,7.96
+
+Dec. 15 . HERSCHEL-1797-1,7.97
+
+A supposed 3d satellite was accurately delineated , HERSCHEL-1797-1,7.98
+
+but proved to be a star the 16th . HERSCHEL-1797-1,7.99
+
+<heading>
+
+<font> Observations . <$$font> HERSCHEL-1797-1,7.101
+
+<$$heading>
+
+" Jan. 18 , 1790 . HERSCHEL-1797-1,7.103
+
+6@ @=h= 51 ' . HERSCHEL-1797-1,7.104
+
+A supposed 3d satellite is about <P_8> 2 diameters of the planet
+following ; excessively faint , and only seen by glimpses .
+HERSCHEL-1797-1,8.105
+
+7@ @=h= 57 ' . HERSCHEL-1797-1,8.106
+
+I can@ @not perceive the 3d . " HERSCHEL-1797-1,8.107
+
+<heading>
+
+<font> Reports . <$$font> HERSCHEL-1797-1,8.109
+
+<$$heading>
+
+Jan. 18 , 1790 . HERSCHEL-1797-1,8.111
+
+A supposed 4th satellite was described , HERSCHEL-1797-1,8.112
+
+but was found to be a star the 19th . HERSCHEL-1797-1,8.113
+
+Jan. 20 . HERSCHEL-1797-1,8.114
+
+A 3d satellite was perceived , and its angle of position ascertained ;
+HERSCHEL-1797-1,8.115
+
+but was afterwards lost , for want of opportunity to examine its place
+again . HERSCHEL-1797-1,8.116
+
+<heading>
+
+<font> Observations . <$$font> HERSCHEL-1797-1,8.118
+
+<$$heading>
+
+" Feb. 9 , 1790 . HERSCHEL-1797-1,8.120
+
+6@ @=h= 28 ' . HERSCHEL-1797-1,8.121
+
+There is a supposed 3d satellite , in a line with the planet and the 2d
+satellite . HERSCHEL-1797-1,8.122
+
+6@ @=h= 40 ' . HERSCHEL-1797-1,8.123
+
+Configuration of the Georgian planet and satellites .
+HERSCHEL-1797-1,8.124
+
+See Tab. II. fig. 1 . HERSCHEL-1797-1,8.125
+
+Clouds prevent further observations . HERSCHEL-1797-1,8.126
+
+Feb. 11 . HERSCHEL-1797-1,8.127
+
+The supposed 3d satellite of the 9th of February I believe is wanting :
+HERSCHEL-1797-1,8.128
+
+at least I can@ @not see it , though the weather is very clear , but
+windy . HERSCHEL-1797-1,8.129
+
+Feb. 12 . HERSCHEL-1797-1,8.130
+
+The supposed 3d satellite of the 9th is not in the place where I saw it
+that night . " HERSCHEL-1797-1,8.131
+
+<heading>
+
+<font> Reports . <$$font> HERSCHEL-1797-1,8.133
+
+<$$heading>
+
+Feb. 11 , 1790 . HERSCHEL-1797-1,8.135
+
+Supposed 3d and 4th satellites were laid down , HERSCHEL-1797-1,8.136
+
+but on the 12th they were both found remaining in their former places .
+HERSCHEL-1797-1,8.137
+
+Feb. 16 . HERSCHEL-1797-1,8.138
+
+A 3d satellite was delineated , HERSCHEL-1797-1,8.139
+
+but on the 17th it proved to be a star . HERSCHEL-1797-1,8.140
+
+<P_9>
+
+March 5 . HERSCHEL-1797-1,9.142
+
+Supposed 3d and 4th satellites were laid down , HERSCHEL-1797-1,9.143
+
+but on the 8th were seen remaining in their places .
+HERSCHEL-1797-1,9.144
+
+Feb. 4 , 1791 . HERSCHEL-1797-1,9.145
+
+A 3d satellite was marked , HERSCHEL-1797-1,9.146
+
+but has not been accounted for afterwards . HERSCHEL-1797-1,9.147
+
+Feb. 5 . HERSCHEL-1797-1,9.148
+
+Supposed 3d , 4th , and 5th satellites were delineated ,
+HERSCHEL-1797-1,9.149
+
+but no opportunity could afterwards be found to ascertain their
+existence . HERSCHEL-1797-1,9.150
+
+March 5 . HERSCHEL-1797-1,9.151
+
+Supposed 3d , 4th , and 5th satellites were put down .
+HERSCHEL-1797-1,9.152
+
+They could not be seen March 6 , HERSCHEL-1797-1,9.153
+
+but were proved to be small stars the 7th . HERSCHEL-1797-1,9.154
+
+Feb. 12 , 1792 . HERSCHEL-1797-1,9.155
+
+A third satellite was delineated , HERSCHEL-1797-1,9.156
+
+but was left behind by the planet the same evening , and also seen in
+its former place the next night . HERSCHEL-1797-1,9.157
+
+Feb. 13 . HERSCHEL-1797-1,9.158
+
+A 3d satellite was put down , HERSCHEL-1797-1,9.159
+
+but proved to be a star the 14th . HERSCHEL-1797-1,9.160
+
+Feb. 20 . HERSCHEL-1797-1,9.161
+
+The position of a 3d satellite was taken , HERSCHEL-1797-1,9.162
+
+but 4 hours after was found to be left behind by the planet .
+HERSCHEL-1797-1,9.163
+
+It was also seen in its former place Feb. 21 . HERSCHEL-1797-1,9.164
+
+Feb. 26 . HERSCHEL-1797-1,9.165
+
+A 3d satellite , between the planet and 2d , was observed ; which , 3@
+@=h= 37 ' afterwards , was thought to be left behind ,
+HERSCHEL-1797-1,9.166
+
+but was so faint as hardly to be perceivable . HERSCHEL-1797-1,9.167
+
+A fourth was also put down . HERSCHEL-1797-1,9.168
+
+Neither of them have been accounted for afterwards .
+HERSCHEL-1797-1,9.169
+
+March 8 , 1793 . HERSCHEL-1797-1,9.170
+
+The position of a supposed 3d satellite was taken ,
+HERSCHEL-1797-1,9.171
+
+but the next day it was found to be a star . HERSCHEL-1797-1,9.172
+
+March 9 . HERSCHEL-1797-1,9.173
+
+A supposed 3d satellite was observed , at 5 or 6 times the distance of
+the 1st , HERSCHEL-1797-1,9.174
+
+but was not accounted for afterwards . HERSCHEL-1797-1,9.175
+
+March 14 . HERSCHEL-1797-1,9.176
+
+Supposed 3d and 4th satellites were observed , HERSCHEL-1797-1,9.177
+
+but no opportunity could be had afterwards to see them again .
+HERSCHEL-1797-1,9.178
+
+<P_10>
+
+<heading>
+
+<font> Observations . <$$font> HERSCHEL-1797-1,10.181
+
+<$$heading>
+
+" Feb. 25 , 1794 . HERSCHEL-1797-1,10.183
+
+With 320 , there is a small star <font> a <$$font> , fig. 2 . about 15
+degrees north preceding the planet ; and another <font> b <$$font> ,
+about 30 degrees north preceding : also one <font> c <$$font> , directly
+preceding . HERSCHEL-1797-1,10.184
+
+There is a very small fourth star <font> d <$$font> , making a trapezium
+with the other three : HERSCHEL-1797-1,10.185
+
+and two more <font> e f <$$font> , preceding this 4th star , are in a
+line with it . HERSCHEL-1797-1,10.186
+
+Feb. 26 . HERSCHEL-1797-1,10.187
+
+The stars , in figure 2 , marked <font> f e d a <$$font> , are in a line
+. HERSCHEL-1797-1,10.188
+
+There is a star <font> g <$$font> , at rectangles to <font> f e d a :
+<$$font> HERSCHEL-1797-1,10.189
+
+the perpendicular falls upon <font> d : <$$font> HERSCHEL-1797-1,10.190
+
+it is towards the south . HERSCHEL-1797-1,10.191
+
+There is also a star <font> h <$$font> , north of <font> f e d a :
+<$$font> HERSCHEL-1797-1,10.192
+
+but it is too faint to admit of a determination of its place :
+HERSCHEL-1797-1,10.193
+
+I can only see it now and then by imperfect glimpses .
+HERSCHEL-1797-1,10.194
+
+Feb. 28 . HERSCHEL-1797-1,10.195
+
+6@ @=h= 40 ' . HERSCHEL-1797-1,10.196
+
+The stars <font> f e d a <$$font> of the 26th are in their places .
+HERSCHEL-1797-1,10.197
+
+<font> c <$$font> is in the place where I have marked it .
+HERSCHEL-1797-1,10.198
+
+The star <font> g <$$font> is in the place where I marked it .
+HERSCHEL-1797-1,10.199
+
+I see also the very small star <font> b <$$font> .
+HERSCHEL-1797-1,10.200
+
+6@ @=h= 50 ' . HERSCHEL-1797-1,10.201
+
+There is a very small star <font> k <$$font> , but not so small as
+<font> b <$$font> , very near to , and north following <font> f <$$font>
+, which I did not see on the 26th . HERSCHEL-1797-1,10.202
+
+It is not quite half way between <font> f <$$font> and <font> e <$$font>
+, but nearer to <font> f <$$font> than to <font> e . <$$font>
+HERSCHEL-1797-1,10.203
+
+It makes an obtuse triangle with <font> f <$$font> and <font> e <$$font>
+. HERSCHEL-1797-1,10.204
+
+9@ @=h= 43 ' . HERSCHEL-1797-1,10.205
+
+The motion of the planet this evening , since the first observation , is
+very visible . HERSCHEL-1797-1,10.206
+
+10@ @=h= 7 ' . HERSCHEL-1797-1,10.207
+
+I can@ @not perceive the star <font> k <$$font> .
+HERSCHEL-1797-1,10.208
+
+The weather is not so clear as it was . HERSCHEL-1797-1,10.209
+
+10@ @=h= 21 ' . HERSCHEL-1797-1,10.210
+
+I can@ @not perceive the star <font> k <$$font> in the place where it
+was 6@ @=h= 50 ' . HERSCHEL-1797-1,10.211
+
+March 4 , 1794 . HERSCHEL-1797-1,10.212
+
+Power 320 . HERSCHEL-1797-1,10.213
+
+6@ @=h= 46 ' . HERSCHEL-1797-1,10.214
+
+The stars <font> a b c d e f g <$$font> <P_11> of Feb. 28 , fig. 3.
+are in their places , HERSCHEL-1797-1,11.215
+
+but I can@ @not see the small star <font> k . <$$font>
+HERSCHEL-1797-1,11.216
+
+The evening is not very clear . HERSCHEL-1797-1,11.217
+
+9@ @=h= 51 ' . HERSCHEL-1797-1,11.218
+
+I can@ @not see the star <font> k <$$font> . HERSCHEL-1797-1,11.219
+
+10@ @=h= 25 ' . HERSCHEL-1797-1,11.220
+
+I suppose <font> a <$$font> , in figure 4 , to be the star towards which
+the planet is moving . HERSCHEL-1797-1,11.221
+
+<font> c a b <$$font> are in a crooked line . HERSCHEL-1797-1,11.222
+
+<font> c e f <$$font> are nearly in a line ; HERSCHEL-1797-1,11.223
+
+<font> f <$$font> is a little preceding . HERSCHEL-1797-1,11.224
+
+<font> c d e <$$font> form a triangle . HERSCHEL-1797-1,11.225
+
+There is a small star <font> h <$$font> , preceding <font> d. <$$font>
+HERSCHEL-1797-1,11.226
+
+There is an exceeding small star <font> k <$$font> , in the line <font>
+b k g <$$font> , but a little preceding and nearer <font> b . <$$font>
+HERSCHEL-1797-1,11.227
+
+<font> a b c <$$font> are large stars . HERSCHEL-1797-1,11.228
+
+<font> d e g <$$font> are also pretty large . HERSCHEL-1797-1,11.229
+
+<font> f <$$font> and <font> h <$$font> are small .
+HERSCHEL-1797-1,11.230
+
+Power 157 . HERSCHEL-1797-1,11.231
+
+With 320 , there is also a very small star <font> l <$$font> , near
+<font> d <$$font> , forming an isosceles triangle <font> h d l <$$font>
+, on the preceding side . HERSCHEL-1797-1,11.232
+
+March 5 . HERSCHEL-1797-1,11.233
+
+7@ @=h= 39 ' . HERSCHEL-1797-1,11.234
+
+Power 320 . HERSCHEL-1797-1,11.235
+
+The stars <font> a b c d e f g h k l <$$font> are in the places where
+they were marked last night . HERSCHEL-1797-1,11.236
+
+9@ @=h= 37 ' . HERSCHEL-1797-1,11.237
+
+There is a very small star <font> n <$$font> , south of <font> g ;
+<$$font> another <font> m <$$font> , preceding <font> g ; <$$font> and a
+third <font> o <$$font> , south following g . HERSCHEL-1797-1,11.238
+
+10@ @=h= 19 ' . HERSCHEL-1797-1,11.239
+
+I suspect a very small star , south following the planet , at one-third
+of the distance of the 1st satellite ; HERSCHEL-1797-1,11.240
+
+but can@ @not verify it with 480 . HERSCHEL-1797-1,11.241
+
+With 600 , the same suspicion continues . HERSCHEL-1797-1,11.242
+
+March 7 . HERSCHEL-1797-1,11.243
+
+9@ @=h= 48 ' . HERSCHEL-1797-1,11.244
+
+The stars <font> a b c d e f g h k l <$$font> are in their places .
+HERSCHEL-1797-1,11.245
+
+<font> n m o <$$font> are in their places . HERSCHEL-1797-1,11.246
+
+The planet has passed between the stars <font> e f <$$font> , pretty
+near to <font> f . <$$font> " HERSCHEL-1797-1,11.247
+
+<P_12>
+
+<heading>
+
+<font> Reports . <$$font> HERSCHEL-1797-1,12.250
+
+<$$heading>
+
+March 21 . 1794 . HERSCHEL-1797-1,12.252
+
+Power 320 . HERSCHEL-1797-1,12.253
+
+A small star was suspected south of the planet , or about 85@ @=o= south
+following . HERSCHEL-1797-1,12.254
+
+It could not be verified with 480 , nor with 600 :
+HERSCHEL-1797-1,12.255
+
+and was even supposed to have been a deception ; HERSCHEL-1797-1,12.256
+
+but the 22d was found remaining in the place where the planet had left
+it . HERSCHEL-1797-1,12.257
+
+<font> Observations . <$$font> HERSCHEL-1797-1,12.258
+
+" March 26 , 1794 . HERSCHEL-1797-1,12.259
+
+9@ @=h= 35 ' . HERSCHEL-1797-1,12.260
+
+With 480 , I see the 1st satellite much better than with 320 .
+HERSCHEL-1797-1,12.261
+
+I suspected , with 320 , a 3d satellite , directly north of the planet ,
+a little farther off than the 1st , HERSCHEL-1797-1,12.262
+
+and this power almost verifies the suspicion . HERSCHEL-1797-1,12.263
+
+See figure 5 . <paren> Tab. III . <$$paren> HERSCHEL-1797-1,12.264
+
+9@ @=h= 44 ' . HERSCHEL-1797-1,12.265
+
+With 600 , I still suspect the same , HERSCHEL-1797-1,12.266
+
+but can@ @not satisfy myself of the reality . HERSCHEL-1797-1,12.267
+
+11@ @=h= 32 ' . HERSCHEL-1797-1,12.268
+
+I see the supposed 3d satellite perfectly well now .
+HERSCHEL-1797-1,12.269
+
+It is much smaller than the 1st , and in a line with the planet and the
+1st : so that probably it is a fixed star ; since it preceded the 1st ,
+when I saw it before , I think more than the quicker motion of the 1st
+satellite would account for . HERSCHEL-1797-1,12.270
+
+If it be a fixed star , it makes almost a rectangular triangle with
+<font> q r <$$font> , the shorter leg being 3d <font> r ; <$$font>
+HERSCHEL-1797-1,12.271
+
+or it is almost in a line with <font> q <$$font> and <font> n .
+<$$font> HERSCHEL-1797-1,12.272
+
+<font> N.B. <$$font> The lines in the description are truer than in the
+figure , as the latter is only intended to point out the stars in
+question . HERSCHEL-1797-1,12.273
+
+March 27 . HERSCHEL-1797-1,12.274
+
+8@ @=h= 37 ' . HERSCHEL-1797-1,12.275
+
+Power 320 . HERSCHEL-1797-1,12.276
+
+The same small star , observed last night at 11@ @=h= 32 ' , is gone
+from the place where I saw it . HERSCHEL-1797-1,12.277
+
+From its light last night , compared to <font> r <$$font> , which <P_13>
+to-night is very near the planet , and scarcely visible , I am certain
+that it must be bright enough to be perceived immediately , if it were
+in the place pointed out by my description . HERSCHEL-1797-1,13.278
+
+10@ @=h= 20 ' . HERSCHEL-1797-1,13.279
+
+The planet is considerably removed from the star <font> r . <$$font>
+HERSCHEL-1797-1,13.280
+
+11@ @=h= 41 ' . HERSCHEL-1797-1,13.281
+
+I had many glimpses of small stars or supposed satellites :
+HERSCHEL-1797-1,13.282
+
+one of them in a place agreeing with the 3d satellite of last night ,
+<paren> supposing it to have moved with the planet ; <$$paren> that is ,
+a little farther off , and after the 1st . HERSCHEL-1797-1,13.283
+
+Another preceding the 1st , but nearer . HERSCHEL-1797-1,13.284
+
+Some others south , at a good distance ; HERSCHEL-1797-1,13.285
+
+but not one of them could I see for any constancy .
+HERSCHEL-1797-1,13.286
+
+They were only lucid glimpses . " HERSCHEL-1797-1,13.287
+
+<heading>
+
+<font> Reports . <$$font> HERSCHEL-1797-1,13.289
+
+<$$heading>
+
+March 27 , 1794 . HERSCHEL-1797-1,13.291
+
+A supposed 4th satellite was delineated , HERSCHEL-1797-1,13.292
+
+but proved to be a star the 28th . HERSCHEL-1797-1,13.293
+
+<heading>
+
+<font> Observations . <$$font> HERSCHEL-1797-1,13.295
+
+<$$heading>
+
+" March 4 , 1796 . HERSCHEL-1797-1,13.297
+
+Configuration of the Georgian planet and fixed stars for 10@ @=h= 3 ' .
+HERSCHEL-1797-1,13.298
+
+See fig. 6 . HERSCHEL-1797-1,13.299
+
+March 5 . HERSCHEL-1797-1,13.300
+
+9@ @=h= 50 ' . HERSCHEL-1797-1,13.301
+
+I suspected a very small star between <font> c <$$font> and <font> h
+<$$font> , which was not there last night . HERSCHEL-1797-1,13.302
+
+I had a pretty certain glimpse of it . HERSCHEL-1797-1,13.303
+
+It is in a line from the planet towards <font> f: <$$font> power 320 .
+HERSCHEL-1797-1,13.304
+
+With 600 , I see the satellite better than before ;
+HERSCHEL-1797-1,13.305
+
+but can@ @not perceive the suspected small star .
+HERSCHEL-1797-1,13.306
+
+10@ @=h= 17 ' . HERSCHEL-1797-1,13.307
+
+The air is remarkably clear at present , HERSCHEL-1797-1,13.308
+
+but I can@ @not perceive the suspected star . HERSCHEL-1797-1,13.309
+
+March 9 . HERSCHEL-1797-1,13.310
+
+11@ @=h= 23 ' . HERSCHEL-1797-1,13.311
+
+As the probability of other satellites is , that they revolve in the
+same plane with the 1st and 2d , I <P_14> chiefly look for them in the
+direction of their orbits , which is now nearly a straight line .
+HERSCHEL-1797-1,14.312
+
+April 5 , 1796 . HERSCHEL-1797-1,14.313
+
+There is no star in the line of the transverse , that can be taken for a
+satellite : HERSCHEL-1797-1,14.314
+
+the evening is very beautiful , HERSCHEL-1797-1,14.315
+
+and I examined that line with 300 , at a distance ; and with 600 ,
+within the orbits of the two satellites . HERSCHEL-1797-1,14.316
+
+March 23 , 1797 . HERSCHEL-1797-1,14.317
+
+Three very small stars O P Q , are in the path of the planet ;
+HERSCHEL-1797-1,14.318
+
+they form an obtuse triangle . HERSCHEL-1797-1,14.319
+
+March 25 . HERSCHEL-1797-1,14.320
+
+11@ @=h= 4 ' . HERSCHEL-1797-1,14.321
+
+A very bright star S , at almost the distance of the field of view , is
+a little south of the path of the planet . HERSCHEL-1797-1,14.322
+
+It has a small north preceding star T , which points to two more V W ,
+towards the north . HERSCHEL-1797-1,14.323
+
+Between the triangle of March 23d and the four last mentioned stars , is
+a very small star X . HERSCHEL-1797-1,14.324
+
+March 28 . HERSCHEL-1797-1,14.325
+
+10@ @=h= 52 ' . HERSCHEL-1797-1,14.326
+
+I see the stars S T V W X of March 25th . HERSCHEL-1797-1,14.327
+
+11@ @=h= 25 ' . HERSCHEL-1797-1,14.328
+
+From X towards the triangle O P Q of March 23d , is an exceeding small
+star Y , about four times the distance of the 2d satellite , and nearly
+in the line of the greatest elongation . HERSCHEL-1797-1,14.329
+
+I do not remember to have seen it the 25th . HERSCHEL-1797-1,14.330
+
+11@ @=h= 41 ' . HERSCHEL-1797-1,14.331
+
+The distance of Y from X is about 1$$4 of the distance of X from the
+triangle . HERSCHEL-1797-1,14.332
+
+It requires much attention to see it ; HERSCHEL-1797-1,14.333
+
+but I have a very complete view of it , by drawing the planet just out
+of the field , and the star X almost on the preceding side . "
+HERSCHEL-1797-1,14.334
+
+<heading>
+
+<font> Arguments upon the Reports and Observations . <$$font>
+HERSCHEL-1797-1,14.336
+
+<$$heading>
+
+From the reports of the great number of supposed satellites , compared
+with the select observations which are given at length , it must be
+evident that the method of looking for difficult <P_15> objects , and of
+marking them down by lines and angles , with every other possible
+advantage for finding them again , has been completely understood and
+put in practice . HERSCHEL-1797-1,15.338
+
+So guarded against deceptions , we can@ @not but allow , that even a
+single glimpse of a very small star is a considerable argument in favour
+of its existence . HERSCHEL-1797-1,15.339
+
+What I call verifying a suspicion , which is generally done with a
+higher power than that which caused the suspicion , is obtaining a
+steadier view of the existence of the object in question ;
+HERSCHEL-1797-1,15.340
+
+that is , to see it in such a manner as to be able to fix an eye upon it
+, and to compare it with other surrounding objects ; and thus to be able
+to ascertain its relative situation with those other objects , in a
+satisfactory manner . HERSCHEL-1797-1,15.341
+
+<heading>
+
+<font> An interior Satellite . <$$font> HERSCHEL-1797-1,15.343
+
+<$$heading>
+
+The observation of Jan. 18 , 1790 , says , " a supposed 3d satellite is
+about two diameters of the planet following . " HERSCHEL-1797-1,15.345
+
+There is not the least doubt expressed about the existence of the
+satellite , or object in question , which therefore must be looked upon
+as ascertained . HERSCHEL-1797-1,15.346
+
+Now , the angle of the greatest elongation of the Georgian satellites ,
+by my new tables , at the time of observation , was 81@ @=o= 33 ' N. F.
+HERSCHEL-1797-1,15.347
+
+Therefore , the angle of the apogee was 8@ @=o= 27 ' S. F. ;
+HERSCHEL-1797-1,15.348
+
+and since , by observation , the satellite was " following , " without
+any mention of degrees being made , we may admit it to have been not far
+from the parallel ; HERSCHEL-1797-1,15.349
+
+suppose 11 or 12 degrees S. F. HERSCHEL-1797-1,15.350
+
+In this case , the satellite would be in the apogee about the time of
+the 2d observation , at 7@ @=h= 57 ' ; which says , " I can@ @not
+perceive the satellite . " HERSCHEL-1797-1,15.351
+
+But it will be shewn hereafter , when I come to treat of the vanishing
+of the satellites , that it would become invisible in this situation .
+HERSCHEL-1797-1,15.352
+
+Indeed , without the supposition of <P_16> the satellite's coming to the
+apogee , it might easily happen that the least change in the clearness
+of the air , during a time of 1@ @=h= 5 ' , which elapsed between the
+first and second observation , might render an object invisible , which
+, as the first observation says , was " excessively faint , and could
+only be seen by glimpses . " HERSCHEL-1797-1,16.353
+
+From the observed distance , which is put at " 2 diameters of the planet
+, " we may conclude what would be the distance of its greatest
+elongation . HERSCHEL-1797-1,16.354
+
+For , 2 diameters from the disk of the planet give 2_1$$2 from the
+centre . HERSCHEL-1797-1,16.355
+
+Now , the distance of the apogee at this time , by my tables , was , 64
+, supposing that of the greatest elongation 1 ; HERSCHEL-1797-1,16.356
+
+therefore we have the radius of its orbit {COM:equation_omitted} .
+HERSCHEL-1797-1,16.357
+
+This calculation is not intended to determine precisely the distance of
+the satellite , but only to shew that its orbit is more contracted than
+that of the 1st , and that consequently it is an interior satellite .
+HERSCHEL-1797-1,16.358
+
+If any doubt should be entertained about the validity of this
+observation , we have a second , and very striking one , of March 5 ,
+1794 : where an interior satellite was suspected south following the
+planet , at one-third of the distance of the 1st .
+HERSCHEL-1797-1,16.359
+
+March 4 , when a description was made of the stars , as in figure 4 ,
+this satellite was not in the place where it was observed the 5th .
+HERSCHEL-1797-1,16.360
+
+And , by an examination of the same stars March 7 , it appears , that
+even the smallest stars <font> n m o <$$font> , of the 5th , were seen
+in their former places , but not the satellite . HERSCHEL-1797-1,16.361
+
+The observation therefore must be looked upon as decisive with regard to
+its existence . HERSCHEL-1797-1,16.362
+
+If any doubt should arise , on account of the suspicion not being
+verified with 480 , I must remark , that being used to such imperfect
+glimpses , it has generally <P_17> turned out , even when I have given
+up as improbable the existence of a supposed satellite seen in that
+manner , that it has afterwards nevertheless been discovered that a
+small star remained in the place where the satellite had been suspected
+to be situated . HERSCHEL-1797-1,17.363
+
+An instance of this may be seen in the report of the observations that
+were made March 21 and 22 , 1794 . HERSCHEL-1797-1,17.364
+
+Besides , in the present case , it is additionally mentioned , that the
+same object was examined with a power of 600 , which continued the
+suspicion . HERSCHEL-1797-1,17.365
+
+From the assigned place of this satellite , at 1$$3 of the distance of
+that of the first , it appears that this observation belongs to the
+interior satellite of Jan. 18 , 1790 , which has already been examined
+. HERSCHEL-1797-1,17.366
+
+The 1st satellite was this evening at its greatest elongation ,
+one-third of which is about 11 " . HERSCHEL-1797-1,17.367
+
+The apogee distance of a satellite whose greatest distance is 16 " , 1
+would have been 6 " , 1 on the day of our observation ;
+HERSCHEL-1797-1,17.368
+
+but , not being come to the apogee , by many degrees , it could not be
+so near the planet . HERSCHEL-1797-1,17.369
+
+For the sake of greater precision , let us admit that the satellite was
+exactly south following ; that is , 45 degrees from the parallel , and
+45 from the meridian ; then , by calculation , a satellite whose orbit
+is at 16 " , 1 from the planet , would , in the situation now admitted ,
+have been 7 " , 1 from its centre , which might coarsely be rated at
+1$$3 of the distance of the first . HERSCHEL-1797-1,17.370
+
+But the estimation of 11 " is probably more accurate than that in the
+1st observation , where 2 diameters are given . HERSCHEL-1797-1,17.371
+
+And , by calculating from this quantity , we find that the greatest
+elongation distance of the satellite is 25 " , 5 ;
+HERSCHEL-1797-1,17.372
+
+now , putting 2_1$$2 diameters in the first observation , instead of 2 ,
+the distance deduced from it will come out 19 " , 3 ; which is certainly
+an agreement <P_18> sufficiently near to admit both observations to
+belong to the same satellite . HERSCHEL-1797-1,18.373
+
+March 27 , 1794 . HERSCHEL-1797-1,18.374
+
+We find a third observation , which will assist in supporting the two
+former ones . HERSCHEL-1797-1,18.375
+
+A glimpse of a satellite is mentioned , which was preceding the 1st ,
+but nearer the planet . HERSCHEL-1797-1,18.376
+
+The position of the 1st satellite the same evening was , by measuring ,
+found to be 62@ @=o= , 1 N. F. which is still a considerable way from
+its greatest elongation ; HERSCHEL-1797-1,18.377
+
+but our new satellite preceded it , HERSCHEL-1797-1,18.378
+
+and was therefore more advanced in its orbit , or nearer its greatest
+distance : HERSCHEL-1797-1,18.379
+
+and yet the observation says , that it was not so far from the planet as
+the 1st ; notwithstanding this latter was in a more contracted part of
+its orbit . HERSCHEL-1797-1,18.380
+
+It follows therefore that this was also an interior satellite .
+HERSCHEL-1797-1,18.381
+
+Now , since we may allow these three observations to belong to the same
+, we ought not to make a distinction ; but admit , as sufficiently
+established , the existence of at least one interior satellite of our
+new planet . HERSCHEL-1797-1,18.382
+
+<heading>
+
+<font> An intermediate Satellite . <$$font> HERSCHEL-1797-1,18.384
+
+<$$heading>
+
+March 26 , 1794 . HERSCHEL-1797-1,18.386
+
+A satellite was suspected , directly north of the planet .
+HERSCHEL-1797-1,18.387
+
+At first it could not be verified , HERSCHEL-1797-1,18.388
+
+but was seen perfectly well afterwards . HERSCHEL-1797-1,18.389
+
+It was supposed that probably it might be a star ,
+HERSCHEL-1797-1,18.390
+
+but this was left undecided . HERSCHEL-1797-1,18.391
+
+The observation of March 27th however removes all doubt upon the subject
+; as it fully affirms that the small star observed the 26th , at 11@
+@=h= 32 ' , was gone from the place in which it was the day before .
+HERSCHEL-1797-1,18.392
+
+Such strong circumstances are mentioned in confirmation , that we can@
+@not hesitate placing this among the list of existing satellites .
+HERSCHEL-1797-1,18.393
+
+It was not the interior satellite of Jan. 18 , 1790 ;
+HERSCHEL-1797-1,18.394
+
+for both the <P_19> 1st and 2d known satellites were in full view March
+26th ; HERSCHEL-1797-1,19.395
+
+see figure 5 . HERSCHEL-1797-1,19.396
+
+and the observation places this new one in a line drawn from the planet
+continued through the 1st ; with the remark , that it was a little
+farther from the planet than the 1st . HERSCHEL-1797-1,19.397
+
+The 2d was then near its greatest southern elongation ,
+HERSCHEL-1797-1,19.398
+
+and we may see from the figure , as well as from the above description ,
+that the orbit of this new satellite is situated between the orbits of
+the other two . HERSCHEL-1797-1,19.399
+
+We have a second observation of the same satellite March 27 , 1794 ;
+where , among the glimpses of additional satellites at 11@ @=h= 41 ' ,
+is mentioned " one in a place probably agreeing with the new satellite
+of March 26th , " which , by its motion , must have been carried forward
+, so as to be where the observation of the 27th says it was , namely , "
+a little farther off and after the 1st ; " that is , at a little greater
+distance from the planet than the 1st , and not so far advanced in its
+orbit as that satellite . HERSCHEL-1797-1,19.400
+
+This amounts not only to an additional proof , HERSCHEL-1797-1,19.401
+
+but even announces the recognition of the satellite , and its motion in
+the course of one day . HERSCHEL-1797-1,19.402
+
+<heading>
+
+<font> An exterior Satellite . <$$font> HERSCHEL-1797-1,19.404
+
+<$$heading>
+
+Feb. 9 , 1790 . HERSCHEL-1797-1,19.406
+
+A new satellite was seen , in a line with the planet and the 2d
+satellite . HERSCHEL-1797-1,19.407
+
+See figure 1 . HERSCHEL-1797-1,19.408
+
+To convince us that this was not a fixed star , we have the observations
+of two other nights , the 11th and 12th of February , where the removal
+of it , from the place in which it was Feb. 9 , is clearly demonstrated
+. HERSCHEL-1797-1,19.409
+
+As it was in a line continued from the planet through the second
+satellite , its orbit must evidently be of a greater dimension than that
+of the 2d ; HERSCHEL-1797-1,19.410
+
+I shall therefore put it down as an exterior satellite .
+HERSCHEL-1797-1,19.411
+
+<P_20>
+
+Most likely this satellite also was seen among the supposed satellites
+south of the planet . March 27 , 1794 ; where we find mention made of "
+some others south , at a good distance . " HERSCHEL-1797-1,20.413
+
+In that case , this will make a second observation .
+HERSCHEL-1797-1,20.414
+
+We have a third observation of the same new satellite March 5 , 1796 :
+when a very small star was seen , in a place where the evening before
+there had been none : as appears by the configuration of the 5th of
+March . HERSCHEL-1797-1,20.415
+
+See figure 6 . HERSCHEL-1797-1,20.416
+
+At the time of the observation , the planet was come to the longitude of
+the place where the star was perceived to be ; which agrees with the
+idea of its having been brought to that situation by the planet .
+HERSCHEL-1797-1,20.417
+
+It may be objected , that the star could not be verified with a power of
+600 ; HERSCHEL-1797-1,20.418
+
+but here we have more than a bare suspicion of the satellite ,
+HERSCHEL-1797-1,20.419
+
+for the observation says , " I had a pretty <font> certain <$$font>
+glimpse of it : " HERSCHEL-1797-1,20.420
+
+and this appears also from the assigned place of the star at the
+intersection of two given lines . HERSCHEL-1797-1,20.421
+
+For , such a delineation could not have been made , without having
+perceived it with a considerable degree of steady vision .
+HERSCHEL-1797-1,20.422
+
+Its distance , to judge by the description , will agree sufficiently
+with the two foregoing observations of this new exterior satellite .
+HERSCHEL-1797-1,20.423
+
+<heading>
+
+<font> The most distant Satellite . <$$font> HERSCHEL-1797-1,20.425
+
+<$$heading>
+
+On Feb. 28 , 1794 , a star was perceived where on the 26th there was
+none . HERSCHEL-1797-1,20.427
+
+This star was larger than a very small star which was observed the 26th
+, not far from the place of the new supposed satellite :
+HERSCHEL-1797-1,20.428
+
+and a configuration having been made expressly , by way of ascertaining
+what stars might afterwards come into a situation where they could be
+mistaken for satellites , our new star or satellite would not have been
+omitted , <P_21> when a smaller one very near it was scrupulously
+recorded . HERSCHEL-1797-1,21.429
+
+The motion of the planet , in 3 hours and 3 minutes , is mentioned as
+very visible . HERSCHEL-1797-1,21.430
+
+The place of the star , which was a new visitor this evening , was very
+particularly delineated , at 6@ @=h= 50 ' . HERSCHEL-1797-1,21.431
+
+From its situation , it is evident the motion of the planet must have
+carried this star , if it was one of its satellites , towards the large
+star <font> f <$$font> , figure 3 ; in the light of which a dim
+satellite would be lost . HERSCHEL-1797-1,21.432
+
+This accordingly happened ; HERSCHEL-1797-1,21.433
+
+for at 10@ @=h= 7 ' and 10@ @=h= 21 ' it was no longer visible .
+HERSCHEL-1797-1,21.434
+
+The direction of the planet's motion is plainly pointed out , by the
+place of the planet March 2d . HERSCHEL-1797-1,21.435
+
+With respect to the orbit of this satellite , it appears , from its
+situation near the apogee , where it was seen , that its distance was to
+that of the second satellite , which was then near its greatest
+elongation , as 8 to 5 . HERSCHEL-1797-1,21.436
+
+And , since the apogee distance , on the day of observation , was only ,
+{COM:sic} 37 , we have its greatest elongation as 8 , 37 {COM:sic} to 5
+; HERSCHEL-1797-1,21.437
+
+that is , as 21 , 6 to 5 , or above 4 to 1 . From which we may conclude
+, that its orbit must lie considerably without the before mentioned
+exterior satellite of Feb. 9 , 1790 . HERSCHEL-1797-1,21.438
+
+We have a second observation of it March 27 , 1794 ; which , though not
+very strong , yet adds confirmation to the former .
+HERSCHEL-1797-1,21.439
+
+For that evening , which was uncommonly fine , other satellites , south
+, at a good distance , were perceived . HERSCHEL-1797-1,21.440
+
+This must relate principally to our present satellite , which may
+certainly be said to be at a good distance from the planet , and which ,
+by that time , was probably in the southern part of its orbit , and near
+its greatest elongation . HERSCHEL-1797-1,21.441
+
+There is a third observation , March 28 , 1797 , which probably also
+belongs to this satellite . HERSCHEL-1797-1,21.442
+
+For the exceedingly small star Y , <P_22> which is mentioned as not
+having been seen the 25th , when the delineation of the stars was made ,
+will agree very well with the two former observations ;
+HERSCHEL-1797-1,22.443
+
+and , being near the greatest elongation , the distance of this
+satellite is well pointed out , HERSCHEL-1797-1,22.444
+
+and agrees remarkably well with the calculation of the first observation
+of it . HERSCHEL-1797-1,22.445
+
+It remains now only to be mentioned , that in such delicate observations
+as these of the additional satellites , there may possibly arise some
+doubts with those who are very scrupulous ; HERSCHEL-1797-1,22.446
+
+but , as I have been much in the habit of seeing very small and dim
+objects , I have not been detained from publishing these observations
+sooner , on account of the least uncertainty about the existence of
+these satellites , but merely because I was in hopes of being able soon
+to give a better account of them , with regard to their periodical
+revolutions . HERSCHEL-1797-1,22.447
+
+It did not appear satisfactory to me to announce a satellite , unless I
+could , at the same time , have pointed out more precisely the place
+where it might be found by other astronomers . HERSCHEL-1797-1,22.448
+
+But , as more time is now already elapsed than I had allowed myself for
+a completion of the theory of these satellites , I thought it better not
+to defer the communication any longer . HERSCHEL-1797-1,22.449
+
+The arrangement of the four new and the two old satellites together will
+be thus : HERSCHEL-1797-1,22.450
+
+First satellite , the interior one of Jan. 18 , 1790 .
+HERSCHEL-1797-1,22.451
+
+Second satellite , the nearest old one of Jan. 11 , 1787 .
+HERSCHEL-1797-1,22.452
+
+Third satellite , the intermediate one of March 26 , 1794 .
+HERSCHEL-1797-1,22.453
+
+Fourth satellite , the farthest old one of Jan. 11 , 1787 .
+HERSCHEL-1797-1,22.454
+
+Fifth satellite , the exterior one of Feb. 9 , 1790 .
+HERSCHEL-1797-1,22.455
+
+Sixth satellite , the most distant one of Feb. 28 , 1794 .
+HERSCHEL-1797-1,22.456
+
+<P_23>
+
+<font> Observations and Reports tending to the Discovery of one or more
+Rings of the Georgian Planet , and the flattening of its polar Regions .
+<$$font> HERSCHEL-1797-1,23.458
+
+" Nov. 13 , 1782 . HERSCHEL-1797-1,23.459
+
+7-@ @feet reflector , power 460 . HERSCHEL-1797-1,23.460
+
+I perceive no flattening of the polar regions . HERSCHEL-1797-1,23.461
+
+April 8 , 1783 . HERSCHEL-1797-1,23.462
+
+I surmise a polar flattening . HERSCHEL-1797-1,23.463
+
+Feb. 4 , 1787 . HERSCHEL-1797-1,23.464
+
+20-@ @feet reflector , power 300 . HERSCHEL-1797-1,23.465
+
+Well defined ; HERSCHEL-1797-1,23.466
+
+no appearance of any ring ; HERSCHEL-1797-1,23.467
+
+much daylight . HERSCHEL-1797-1,23.468
+
+March 4 . HERSCHEL-1797-1,23.469
+
+I begin to entertain again a suspicion that the planet is not round .
+HERSCHEL-1797-1,23.470
+
+When I see it most distinctly , it appears to have double , opposite
+points . HERSCHEL-1797-1,23.471
+
+See figure 7 . HERSCHEL-1797-1,23.472
+
+Perhaps a double ring ; that is , two rings , at rectangles to each
+other . HERSCHEL-1797-1,23.473
+
+March 5 . HERSCHEL-1797-1,23.474
+
+The Georgian Sidus not being round , the telescope was turned to Jupiter
+. HERSCHEL-1797-1,23.475
+
+I viewed that planet with 157 , 300 , and 480 , which shewed it
+perfectly well defined . HERSCHEL-1797-1,23.476
+
+Returning to the Georgian planet , it was again seen affected with
+projecting points . Two opposite ones , that were large and blunt ,
+from preceding to following ; and two others , that were small and less
+blunt , from north to south . HERSCHEL-1797-1,23.477
+
+See figure 7 . HERSCHEL-1797-1,23.478
+
+March 7 . HERSCHEL-1797-1,23.479
+
+Position of the great ring R , from 70@ @=o= S. P. to 70@ @=o= N. F.
+HERSCHEL-1797-1,23.480
+
+Small ring <font> r <$$font> , from 20@ @=o= N. P. to 20@ @=o= N. F.
+HERSCHEL-1797-1,23.481
+
+600 shewed R and <font> r . <$$font> 800 R and <font> r . <$$font>
+1200 R and <font> r . <$$font> HERSCHEL-1797-1,23.482
+
+March 8 . HERSCHEL-1797-1,23.483
+
+R and <font> r <$$font> are probably deceptions .
+HERSCHEL-1797-1,23.484
+
+Nov. 9 . HERSCHEL-1797-1,23.485
+
+The suspicion of a ring returns often when I adjust the focus by one of
+the satellites , HERSCHEL-1797-1,23.486
+
+but yet I think it has no foundation . HERSCHEL-1797-1,23.487
+
+Feb. 22 , 1789 . HERSCHEL-1797-1,23.488
+
+A ring was suspected . HERSCHEL-1797-1,23.489
+
+<P_24>
+
+March 16 . HERSCHEL-1797-1,24.491
+
+7@ @=h= 37 ' . HERSCHEL-1797-1,24.492
+
+I have turned my speculum 90@ @=o= round . HERSCHEL-1797-1,24.493
+
+A certain appearance , owing to a defect which it has contracted by
+exposure to the air since it was made , is gone with it :
+HERSCHEL-1797-1,24.494
+
+<paren> see fig. 9 and 10 ; <$$paren> HERSCHEL-1797-1,24.495
+
+but the suspected ring remains in the place where I saw it last .
+HERSCHEL-1797-1,24.496
+
+7@ @=h= 50 ' . HERSCHEL-1797-1,24.497
+
+Power 471 shews the same appearance rather stronger .
+HERSCHEL-1797-1,24.498
+
+Power 589 still shews the same . HERSCHEL-1797-1,24.499
+
+<font> Memorandum . <$$font> HERSCHEL-1797-1,24.500
+
+The ring is short , not like that of Saturn . HERSCHEL-1797-1,24.501
+
+It seems to be as in figure 8 ; HERSCHEL-1797-1,24.502
+
+and this may account for the great difficulty of verifying it .
+HERSCHEL-1797-1,24.503
+
+It is remarkable that the two <font> ansae <$$font> seem of a colour a
+little inclined to red . HERSCHEL-1797-1,24.504
+
+The blur occasioned by the fault of the speculum is , to-night , as
+represented in figure 9 . HERSCHEL-1797-1,24.505
+
+The other evening it was as in figure 10 ; HERSCHEL-1797-1,24.506
+
+and the ring is likewise as it was the same evening .
+HERSCHEL-1797-1,24.507
+
+March 20 . HERSCHEL-1797-1,24.508
+
+7@ @=h= 53 ' . HERSCHEL-1797-1,24.509
+
+When the satellites are best in focus , the suspicion of a ring is the
+strongest . HERSCHEL-1797-1,24.510
+
+Dec. 15 . HERSCHEL-1797-1,24.511
+
+The planet is not round , HERSCHEL-1797-1,24.512
+
+and I have not much doubt but that it has a ring .
+HERSCHEL-1797-1,24.513
+
+Feb. 26 , 1792 . HERSCHEL-1797-1,24.514
+
+6@ @=h= 34 ' . HERSCHEL-1797-1,24.515
+
+My telescope is extremely distinct ; HERSCHEL-1797-1,24.516
+
+and , when I adjust it upon a very minute double star , which is not far
+from the planet , I see a very faint ray , like a ring crossing the
+planet , over the centre . HERSCHEL-1797-1,24.517
+
+This appearance is of an equal length on both sides , so that I strongly
+suspect it to be a ring . HERSCHEL-1797-1,24.518
+
+There is , however , a possibility of its being an imperfection in the
+speculum , owing to some slight scratch : HERSCHEL-1797-1,24.519
+
+I shall take its position , and afterwards turn the speculum on its axis
+. HERSCHEL-1797-1,24.520
+
+8@ @=h= 39 ' . HERSCHEL-1797-1,24.521
+
+Position of the supposed ring 55@ @=o= , 6 from N. P. to S. F.
+HERSCHEL-1797-1,24.522
+
+9@ @=h= 56 ' . HERSCHEL-1797-1,24.523
+
+I have turned the speculum one quadrant round ; HERSCHEL-1797-1,24.524
+
+but the appearance of the very faint ray continues where it <P_25> was
+before , so that the defect is not in the speculum , nor is it in the
+eye-glass . HERSCHEL-1797-1,25.525
+
+But still it is now also pretty evident that it arises from some
+external cause ; HERSCHEL-1797-1,25.526
+
+for it is now in the same situation , with regard to the tube , in which
+it was 3_1$$2 hours ago : whereas , the parallel is differently situated
+, HERSCHEL-1797-1,25.527
+
+and the ring , of course , ought to be so too . HERSCHEL-1797-1,25.528
+
+March 5 , 1792 . HERSCHEL-1797-1,25.529
+
+I viewed the Georgian planet with a newly polished speculum , of an
+excellent figure . HERSCHEL-1797-1,25.530
+
+It shewed the planet very well defined , and without any suspicion of a
+ring . HERSCHEL-1797-1,25.531
+
+I viewed it successively with 240 , 300 , 480 , 600 , 800 , 1200 , and
+2400 ; all which powers my speculum bore with great distinctness .
+HERSCHEL-1797-1,25.532
+
+I am pretty well convinced that the disk is flattened .
+HERSCHEL-1797-1,25.533
+
+The moon was pretty near the planet . HERSCHEL-1797-1,25.534
+
+Dec. 4 , 1793 . HERSCHEL-1797-1,25.535
+
+7-@ @feet reflector , power 287 . HERSCHEL-1797-1,25.536
+
+The Georgian planet is not so well defined as , from the extraordinary
+distinctness of my present 7-@ @feet telescope , it ought to be .
+HERSCHEL-1797-1,25.537
+
+There is a suspicion of some apparatus about the planet .
+HERSCHEL-1797-1,25.538
+
+Feb. 26 , 1794 . HERSCHEL-1797-1,25.539
+
+20-@ @feet reflector , power 480 . HERSCHEL-1797-1,25.540
+
+The planet seems to be a little lengthened out , in the direction of the
+longer axis of the satellites' orbits . HERSCHEL-1797-1,25.541
+
+April 21 , 1795 . HERSCHEL-1797-1,25.542
+
+10-@ @feet reflector , power 400 . HERSCHEL-1797-1,25.543
+
+The telescope adjusted to a neighbouring star , so as to make it
+perfectly round . HERSCHEL-1797-1,25.544
+
+The disk of the planet seems to be a little elliptical .
+HERSCHEL-1797-1,25.545
+
+With 600 , also adjusted upon the neighbouring star , the disk still
+seems elliptical . " HERSCHEL-1797-1,25.546
+
+<heading>
+
+<font> Remarks upon the foregoing Observations . <$$font>
+HERSCHEL-1797-1,25.548
+
+<$$heading>
+
+With regard to the phenomena which gave rise to the suspicion of one or
+more rings , it must be noticed , that few specula or object-glasses are
+so very perfect as not to be affected <P_26> with some rays or
+inequalities , when high powers are used , and the object to be viewed
+is very minute . HERSCHEL-1797-1,26.550
+
+It seems , however , from the observations of March 16 , 1789 , and Feb.
+26 , 1792 , that the cause of deception , in this case , must be looked
+for elsewhere . HERSCHEL-1797-1,26.551
+
+It has often happened , that the situation of the eye-glass , being on
+one side of the tube , which brings the observer close to the mouth of
+it , has occasioned a visible defect in the view of a very minute object
+, when proper care has not been taken to keep out of the way :
+especially when the wind is in such a quarter as to come from the
+observer across the telescope . HERSCHEL-1797-1,26.552
+
+The direction of a current of air alone may also affect vision .
+HERSCHEL-1797-1,26.553
+
+Without , however , entering further into the discussion of a subject
+that must be attended with uncertainty , I will only add , that the
+observation of the 26th seems to be very decisive against the existence
+of a ring . HERSCHEL-1797-1,26.554
+
+When the surmises arose at first , I thought it proper to suppose , that
+a ring might be in such a situation as to render it almost invisible ;
+and that , consequently , observations should not be given up , till a
+sufficient time had elapsed to obtain a better view of such a supposed
+ring , by a removal of the planet from its node .
+HERSCHEL-1797-1,26.555
+
+This has now sufficiently been obtained in the course of ten years ;
+HERSCHEL-1797-1,26.556
+
+for , let the node of the ring have been in any situation whatsoever ,
+provided it kept to the same , we must by this time have had a pretty
+good view of the ring itself . HERSCHEL-1797-1,26.557
+
+Placing therefore great confidence on the observation of March 5 , 1792
+, supported by my late views of the planet , I venture to affirm , that
+it has no ring in the least resembling that , or rather those , of
+Saturn . HERSCHEL-1797-1,26.558
+
+The flattening of the poles of the planet seems to be sufficiently
+ascertained by many observations . HERSCHEL-1797-1,26.559
+
+The 7-@ @feet , the <P_27> 10-@ @feet , and the 20-@ @feet instruments ,
+equally confirm it ; HERSCHEL-1797-1,27.560
+
+and the direction pointed out Feb. 26 , 1794. seems to be conformable
+to the analogies that may be drawn from the situation of the equator of
+Saturn , and of Jupiter . HERSCHEL-1797-1,27.561
+
+This being admitted , we may without hesitation conclude , that the
+Georgian planet also has a rotation upon its axis , of a considerable
+degree of velocity . HERSCHEL-1797-1,27.562
+
+<font> Reports and Observations relating to the Light and Size of the
+Georgian Satellites , and to their vanishing at certain Distances from
+the Planet . <$$font> HERSCHEL-1797-1,27.563
+
+Jan. 14 , 1787 . HERSCHEL-1797-1,27.564
+
+A star was put down , as a supposed very faint satellite ;
+HERSCHEL-1797-1,27.565
+
+but , on the 17th , the planet being removed , it appeared nearly as
+bright as two considerable stars that had also been noted .
+HERSCHEL-1797-1,27.566
+
+" Jan. 17 . HERSCHEL-1797-1,27.567
+
+The 1st satellite is the smallest in appearance .
+HERSCHEL-1797-1,27.568
+
+Jan. 24 . HERSCHEL-1797-1,27.569
+
+The 2d satellite is brighter than the first . HERSCHEL-1797-1,27.570
+
+Feb. 9 , 1787 . HERSCHEL-1797-1,27.571
+
+The 1st satellite is larger than the second . " HERSCHEL-1797-1,27.572
+
+Feb. 10 . HERSCHEL-1797-1,27.573
+
+The planet was supposed to go to a triangle of pretty bright stars .
+HERSCHEL-1797-1,27.574
+
+The 11th it was between them , HERSCHEL-1797-1,27.575
+
+and the stars of the triangle were so dim , that , had they not been
+seen before , they might have been supposed to be satellites .
+HERSCHEL-1797-1,27.576
+
+" Sept. 19 , 1787 . HERSCHEL-1797-1,27.577
+
+4@ @=h= 24 ' . HERSCHEL-1797-1,27.578
+
+I can still see the satellites , though daylight is already very strong
+: HERSCHEL-1797-1,27.579
+
+they are fainter than the faintest of Saturn's satellites .
+HERSCHEL-1797-1,27.580
+
+Feb. 22 , 1791 . HERSCHEL-1797-1,27.581
+
+I can@ @not perceive the 1st satellite , probably owing to its nearness
+to the planet . HERSCHEL-1797-1,27.582
+
+March 2 , 1791 . HERSCHEL-1797-1,27.583
+
+The 1st satellite is hardly to be seen ; HERSCHEL-1797-1,27.584
+
+I <P_28> have however had several perfect glimpses of it .
+HERSCHEL-1797-1,28.585
+
+It seems to be about the most contracted part of its orbit . "
+HERSCHEL-1797-1,28.586
+
+March 6 . HERSCHEL-1797-1,28.587
+
+The supposed 3d and 4th satellites of March 5th were imagined to have
+been gone from their former places ; HERSCHEL-1797-1,28.588
+
+but were seen the 7th , with this memorandum . HERSCHEL-1797-1,28.589
+
+I mistook them last night for other stars , they being so large that I
+did not know them again . HERSCHEL-1797-1,28.590
+
+" March 9 . HERSCHEL-1797-1,28.591
+
+The 2d satellite is nearer the planet than the first ,
+HERSCHEL-1797-1,28.592
+
+and on that account appears smaller . HERSCHEL-1797-1,28.593
+
+Dec. 9 , 1791 . HERSCHEL-1797-1,28.594
+
+I do not perceive the 1st satellite . HERSCHEL-1797-1,28.595
+
+Feb. 13 , 1792 . HERSCHEL-1797-1,28.596
+
+6@ @=h= 16 ' . HERSCHEL-1797-1,28.597
+
+The 3d supposed satellite of last night is a considerable star : not
+much less than <font> b <$$font> . " HERSCHEL-1797-1,28.598
+
+When the supposed third was pointed out the night before , it is said to
+be smaller than the 1st and 2d satellites . HERSCHEL-1797-1,28.599
+
+By the figure , it did not exceed the distance of the 2d ;
+HERSCHEL-1797-1,28.600
+
+and <font> b <$$font> is called a pretty large star .
+HERSCHEL-1797-1,28.601
+
+Feb. 20 , 1792 . HERSCHEL-1797-1,28.602
+
+The 2d satellite , being at a great distance , was mistaken for a pretty
+large star , till about four hours after , when its motion along with
+the planet was perceived . HERSCHEL-1797-1,28.603
+
+" Feb. 21 , 1792 . HERSCHEL-1797-1,28.604
+
+7@ @=h= 36 ' . HERSCHEL-1797-1,28.605
+
+I can@ @not see the 2d satellite . HERSCHEL-1797-1,28.606
+
+By calculation , it should be about 8@ @=o= , 6 S. F.
+HERSCHEL-1797-1,28.607
+
+and I suspect it to be there , HERSCHEL-1797-1,28.608
+
+but can@ @not get the least assurance . HERSCHEL-1797-1,28.609
+
+March 15 , 1792 . HERSCHEL-1797-1,28.610
+
+I can@ @not see the 1st satellite with 300 ; nor with 480 ; nor with 600
+. HERSCHEL-1797-1,28.611
+
+March 19 . HERSCHEL-1797-1,28.612
+
+8@ @=h= 35 ' . HERSCHEL-1797-1,28.613
+
+I can@ @not see the 2d satellite with 300 . HERSCHEL-1797-1,28.614
+
+With 480 I see it very well . HERSCHEL-1797-1,28.615
+
+I see it also with 800 ; and very well with 1200 .
+HERSCHEL-1797-1,28.616
+
+With 2400 and 4800 the satellite can@ @not be seen ;
+HERSCHEL-1797-1,28.617
+
+but there seems to be a whitish haziness coming on . "
+HERSCHEL-1797-1,28.618
+
+March 4 , 1794 . HERSCHEL-1797-1,28.619
+
+The 1st satellite could not be seen . HERSCHEL-1797-1,28.620
+
+<P_29>
+
+March 7 . HERSCHEL-1797-1,29.622
+
+The 1st was invisible . HERSCHEL-1797-1,29.623
+
+March 17 . HERSCHEL-1797-1,29.624
+
+Both 1st and 2d were invisible . HERSCHEL-1797-1,29.625
+
+March 21 . HERSCHEL-1797-1,29.626
+
+The 1st was invisible , though looked for with all the powers of the
+instrument . HERSCHEL-1797-1,29.627
+
+March 22 . HERSCHEL-1797-1,29.628
+
+The 2d was hardly visible . HERSCHEL-1797-1,29.629
+
+March 23 . HERSCHEL-1797-1,29.630
+
+The 2d was not to be seen . HERSCHEL-1797-1,29.631
+
+March 26 . HERSCHEL-1797-1,29.632
+
+The 1st was but just visible . HERSCHEL-1797-1,29.633
+
+March 5 , 1796 . HERSCHEL-1797-1,29.634
+
+The 2d was invisible . HERSCHEL-1797-1,29.635
+
+April 4 , 1796 . HERSCHEL-1797-1,29.636
+
+The 1st was invisible . HERSCHEL-1797-1,29.637
+
+" March 17 , 1797 . HERSCHEL-1797-1,29.638
+
+Power 600 . HERSCHEL-1797-1,29.639
+
+Neither of the satellites are visible to-night ; HERSCHEL-1797-1,29.640
+
+with 300 I can@ @not see them . HERSCHEL-1797-1,29.641
+
+The night is very beautiful , HERSCHEL-1797-1,29.642
+
+and I have a field bar to hide the planet ; HERSCHEL-1797-1,29.643
+
+but , notwithstanding this , I can@ @not see either of the satellites .
+" HERSCHEL-1797-1,29.644
+
+March 21 . HERSCHEL-1797-1,29.645
+
+The 1st satellite was invisible . HERSCHEL-1797-1,29.646
+
+March 23 . HERSCHEL-1797-1,29.647
+
+The 2d was invisible . HERSCHEL-1797-1,29.648
+
+The 1st could not be seen immediately , HERSCHEL-1797-1,29.649
+
+but , having been informed where exactly to look for it , according to
+my calculation of its place , it was perceived ; and with 600 seen very
+well . HERSCHEL-1797-1,29.650
+
+March 25 . HERSCHEL-1797-1,29.651
+
+Both satellites were invisible . HERSCHEL-1797-1,29.652
+
+<heading>
+
+<font> Remarks on the foregoing Observations . <$$font>
+HERSCHEL-1797-1,29.654
+
+<$$heading>
+
+From the observations of Jan. 14 , Feb. 10 , March 6 , 1787 , and Feb.
+13 , 1792 , it appears , that all very small stars , when they come near
+the planet , lose much of their lustre . HERSCHEL-1797-1,29.656
+
+Indeed , every observation that has been recorded before , of supposed
+satellites that have been proved to be stars afterwards , has fully
+confirmed this circumstance ; HERSCHEL-1797-1,29.657
+
+for they were always found to be considerable stars ,
+HERSCHEL-1797-1,29.658
+
+and their being mistaken for satellites was owing to their loss of light
+when near the planet . HERSCHEL-1797-1,29.659
+
+This would hardly deserve notice , as it is well known that a superior
+light <P_30> will obstruct an inferior one : HERSCHEL-1797-1,30.660
+
+but some circumstances which attend the operation of the affections of
+light upon the eye , when objects are very faint , are so remarkable ,
+that they must not be passed over in silence . HERSCHEL-1797-1,30.661
+
+After having been used to follow up the satellites of Saturn and Jupiter
+, to the very margin of their planets , so as even to measure the
+apparent diameter of one of Jupiter's satellites by its entrance on the
+disk , I was in hopes that a similar opportunity would soon have offered
+with the Georgian satellites : not indeed to measure the satellites ,
+but to measure the planet itself , by means of the passage of the
+satellite over its disk . HERSCHEL-1797-1,30.662
+
+I expected also to have settled the epochs of the satellites , from
+their conjunctions and oppositions , with more accuracy than I have yet
+been able to do , from their various positions in other parts of their
+orbits . HERSCHEL-1797-1,30.663
+
+A disappointment of obtaining these capital advantages deserves to have
+its cause investigated ; HERSCHEL-1797-1,30.664
+
+but , first of all , let us cast a look upon the observations .
+HERSCHEL-1797-1,30.665
+
+The satellites , we may remark , become regularly invisible , when ,
+after their elongation , they arrive to certain distances from the
+planet . HERSCHEL-1797-1,30.666
+
+In order to find what these distances are , we will take the first
+observation of this kind , as an example . HERSCHEL-1797-1,30.667
+
+Feb. 22 , 1791 , the first satellite could not be seen .
+HERSCHEL-1797-1,30.668
+
+Now , by my lately constructed tables , its longitude from the apogee ,
+at the time of observation , was 204 , 5 degrees ; that is , 24 , 5
+degrees from the most contracted part of its orbit , on the side that is
+turned to us , which , as its opposite is called the apogee , I shall
+call the perigee . HERSCHEL-1797-1,30.669
+
+By my tables also for the same day , we have the distance of the apogee
+from the planet , which is , 60 ; supposing the greatest elongation
+distance to be 1 . HERSCHEL-1797-1,30.670
+
+This <P_31> being given , we may find an easy method of ascertaining the
+distance of the satellite , when it is near the apogee or perigee :
+HERSCHEL-1797-1,31.671
+
+for it will be sufficiently true for our purpose to use the following
+analogy . HERSCHEL-1797-1,31.672
+
+Cosine of the distance of the satellite from the apogee or perigee is to
+the apogee distance from the planet , as the greatest elongation is to
+the distance of the satellite from the planet . HERSCHEL-1797-1,31.673
+
+When the ellipsis is very open , this theorem will only hold good in
+moderate distances from the apogee or perigee ; HERSCHEL-1797-1,31.674
+
+but , when it is a good deal flattened , it will not be considerably out
+in more distant situations : HERSCHEL-1797-1,31.675
+
+and it will also be sufficiently accurate to take the natural cosine
+from the tables to two places of decimals only . HERSCHEL-1797-1,31.676
+
+When this is applied to our present instance , we have , 91 for the
+natural cosine of 24 , 5 degrees ; HERSCHEL-1797-1,31.677
+
+and the distance of the satellite from the planet will come out
+{COM:equation_omitted} . HERSCHEL-1797-1,31.678
+
+By this method , it appears that the satellite , when it could not be
+seen , was nearly 22 " from the planet . HERSCHEL-1797-1,31.679
+
+We must not however conclude , that this is the given distance at which
+it will always vanish . HERSCHEL-1797-1,31.680
+
+For instance , the same satellite , though hardly to be seen , was
+however not quite invisible March 2 , 1791 . HERSCHEL-1797-1,31.681
+
+Its distance from the planet , computed as before , was then only
+{COM:equation_omitted} . HERSCHEL-1797-1,31.682
+
+The clearness of the atmosphere , and other favourable circumstances ,
+must certainly have great influence in observations of very faint
+objects ; HERSCHEL-1797-1,31.683
+
+therefore , a computation of all the observations where the satellites
+were not seen , as well as a few others where they were seen , when
+pretty near the apogee or perigee , will be the surest way of settling
+the fact . HERSCHEL-1797-1,31.684
+
+The result of these computations is thus . HERSCHEL-1797-1,31.685
+
+<P_32>
+
+{COM:table_omitted}
+
+Thus , having the observations and calculated distances under our
+inspection , we find that both the satellites became always invisible
+when they were near the planet : that the 1st was generally lost when it
+came within 18 " of the planet , and the 2d at the distance of about 20
+" . HERSCHEL-1797-1,32.688
+
+In very uncommon and beautiful nights , the 1st has once been seen at 13
+" , 8 , and the 2d at 17 " , 3 ; HERSCHEL-1797-1,32.689
+
+but at no time have they been visible when nearer the planet .
+HERSCHEL-1797-1,32.690
+
+I shall now endeavour to investigate the cause which can <P_33> render
+small stars and satellites invisible at so great a distance as 18 or 20
+" . HERSCHEL-1797-1,33.691
+
+A dense atmosphere of the planet would account for the defalcation of
+light sufficiently , were it not proved that the satellites are equally
+lost , whether they are in the nearest half of their orbits , or in that
+which is farthest from us . HERSCHEL-1797-1,33.692
+
+But , as a satellite can@ @not be eclipsed by an atmosphere that is
+behind it , a surmise of this kind can@ @not be entertained .
+HERSCHEL-1797-1,33.693
+
+Let us then turn our view to light itself , and see whether certain
+affections between bright and very bright objects , contrasted with
+others that take place between faint and very faint ones , will not
+explain the phenomena of vanishing satellites . HERSCHEL-1797-1,33.694
+
+The light of Jupiter or Saturn , for instance , on account of its
+brilliancy , is diffused , almost equally , over a space of several
+minutes all around these planets . HERSCHEL-1797-1,33.695
+
+Their satellites also , having a great share of brightness , and moving
+in a sphere that is strongly illuminated , can@ @not be much affected by
+their various distances from the planets . HERSCHEL-1797-1,33.696
+
+The case then is , that they have much light to lose , and comparatively
+lose but little . HERSCHEL-1797-1,33.697
+
+The Georgian planet , on the contrary , is very faint ;
+HERSCHEL-1797-1,33.698
+
+and the influence of its feeble light can@ @not extend far , with any
+degree of equality . HERSCHEL-1797-1,33.699
+
+This enables us to see the faintest objects , even when they are only a
+minute or two removed from it . HERSCHEL-1797-1,33.700
+
+The satellites of this planet are very nearly the dimmest objects that
+can be seen in the heavens ; so that they can@ @not bear any
+considerable diminution of their light , by a contrast with a more
+luminous object , without becoming invisible . HERSCHEL-1797-1,33.701
+
+If then the sphere of illumination of our new planet be limited to 18 or
+20 " , we may fully account for the loss of the satellites when they
+come <P_34> within its reach ; HERSCHEL-1797-1,34.702
+
+for they have very little light to lose , HERSCHEL-1797-1,34.703
+
+and lose it pretty suddenly . HERSCHEL-1797-1,34.704
+
+This contrast , therefore , between the condition of the Georgian
+satellites and those of the brighter planets , seems to be sufficient to
+account for the phenomenon of their becoming invisible .
+HERSCHEL-1797-1,34.705
+
+We may avail ourselves of the observations that relate to the distances
+at which the satellites vanish , to determine their relative brightness
+. HERSCHEL-1797-1,34.706
+
+The 2d satellite appears generally brighter than the 1st ;
+HERSCHEL-1797-1,34.707
+
+but , as the former is usually lost farther from the planet than the
+latter , we may admit the 1st satellite to be rather brighter than the
+2d . HERSCHEL-1797-1,34.708
+
+This seems to be confirmed by the observation of March 9 , 1791 ; where
+the 2d appeared to be smaller than the 1st , though the latter was only
+25 " from the planet , while the other was 30 " , 8 .
+HERSCHEL-1797-1,34.709
+
+The first of the new satellites will hardly ever be seen otherwise than
+about its greatest elongations , HERSCHEL-1797-1,34.710
+
+but can@ @not be much inferior in brightness to the other two ;
+HERSCHEL-1797-1,34.711
+
+and , if any more interior satellites should exist , we shall probably
+not obtain a sight of them : for the same reason that the inhabitants of
+the Georgian planet perhaps never can discover the existence of our
+earth , Venus , and Mercury . HERSCHEL-1797-1,34.712
+
+The 2d new or intermediate satellite is considerably smaller than the
+1st and 2d old satellites . HERSCHEL-1797-1,34.713
+
+The two exterior , or 5th and 6th satellites , are the smallest of all ,
+HERSCHEL-1797-1,34.714
+
+and must chiefly be looked for in their greatest elongations .
+HERSCHEL-1797-1,34.715
+
+<heading>
+
+<font> Periodical Revolutions of the new Satellites . <$$font>
+HERSCHEL-1797-1,34.717
+
+<$$heading>
+
+It may be some satisfaction to know what time the four <P_35> additional
+satellites probably employ in revolving round their planet .
+HERSCHEL-1797-1,35.719
+
+Now , as this can only be ascertained with accuracy by many observations
+, we must of course remain in suspense , till a series of them can be
+properly instituted . HERSCHEL-1797-1,35.720
+
+But , in the mean time , we may admit the distance of the interior
+satellite to be 25 " , 5 , as our calculation of the estimation of March
+5 , 1794 , gives it ; HERSCHEL-1797-1,35.721
+
+and from this we compute that its periodical revolution will be 5 days ,
+21 hours , 25 minutes . HERSCHEL-1797-1,35.722
+
+If we place the intermediate satellite at an equal distance between the
+two old ones , or at 38 " , 57 , its period will be 10 days , 23 hours ,
+4 minutes . HERSCHEL-1797-1,35.723
+
+By the figure of Feb. 9 , 1790 , it seems that the nearest exterior
+satellite is about double the distance of the farthest old one ;
+HERSCHEL-1797-1,35.724
+
+hence , its periodical time is found to be 38 days , 1 hour , 49 minutes
+. HERSCHEL-1797-1,35.725
+
+The most distant satellite , according to the calculation of the
+observation of Feb. 28 , 1794 , is full four times as far from the
+planet as the old 2d satellite ; HERSCHEL-1797-1,35.726
+
+it will therefore take at least 107 days , 16 hours , 40 minutes , to
+complete one revolution . HERSCHEL-1797-1,35.727
+
+It will hardly be necessary to add , that the accuracy of these periods
+depends entirely upon the truth of the assumed distances ;
+HERSCHEL-1797-1,35.728
+
+some considerable difference , therefore , may be expected , when
+observations shall furnish us with proper <font> data <$$font> for more
+accurate determinations . HERSCHEL-1797-1,35.729
+
+<font> Slough <$$font> , near Windsor , HERSCHEL-1797-1,35.730
+
+September 1 , 1797 . HERSCHEL-1797-1,35.731
+

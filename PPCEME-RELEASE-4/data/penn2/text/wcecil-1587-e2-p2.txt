@@ -1,0 +1,144 @@
+<BEGIN_wcecil-1587-e2-p2>
+
+<P_1.3,3>
+
+<heading:edcomment:LETTER_CCXIX_LORD_BURGHLEY_TO_SIR_FRANCIS_WALSINGHAM,_UPON_THE_DIFFERENCE_OF_OPINION_AS_TO_WHERE_THE_QUEEN_OF_SCOTS_SHOULD_MD_BE_TRIED>
+
+{COM:editorial_material_omitted}
+
+<P_1.3,4>
+
+{COM:editorial_material_omitted}
+
+<P_1.3,5>
+
+Sir We ar occupyed with many offers to and fro in words ,
+WCECIL-1587-E2-P2,1.3,5.8
+
+but I can not certefy you what shall be determyned .
+WCECIL-1587-E2-P2,1.3,5.9
+
+Yesterday the Towre was flatly refused , WCECIL-1587-E2-P2,1.3,5.10
+
+and instead of Fothryngay , which we thought too far off , Hertford was
+named , and next to the Tower thought metest ; and so for a tyme both
+lyked and mislyked for nearnes to London . WCECIL-1587-E2-P2,1.3,5.11
+
+Nevertheless I hope it will be so concluded this daye .
+WCECIL-1587-E2-P2,1.3,5.12
+
+And so I will wryte to S=r= Walter Mildmay for to stey brewyng and
+provisions of coale , which by my last I required hym to provyde .
+WCECIL-1587-E2-P2,1.3,5.13
+
+The Queen hath agreed uppon nine Erles besid Counsellors , and uppon
+eight or nine Barons to heare the cause . WCECIL-1587-E2-P2,1.3,5.14
+
+Hertford shall be metar for such an assemble than Fothryngay can be .
+WCECIL-1587-E2-P2,1.3,5.15
+
+Grafton was also named , but unmete . WCECIL-1587-E2-P2,1.3,5.16
+
+We styck uppon Parlement , which hir Ma=ty= mislyketh to have
+WCECIL-1587-E2-P2,1.3,5.17
+
+but we all persist , to make the Borden better born and the world abrod
+better satisfyeed . WCECIL-1587-E2-P2,1.3,5.18
+
+Naw offred on Tewsday to have oppened much , WCECIL-1587-E2-P2,1.3,5.19
+
+and in stead therof , he hath only wrytten to have a pardon as yesterday
+because it was the Queen's byrth_day . WCECIL-1587-E2-P2,1.3,5.20
+
+I do send to Mr Mills to challeng hym , and to warn hym to be sent to
+the Tower if he do not otherwise acquit hymself of his promis .
+WCECIL-1587-E2-P2,1.3,5.21
+
+I thynk Curle will be more oppen , WCECIL-1587-E2-P2,1.3,5.22
+
+and yet Naw hath amply confessed by his hand wrytyng to have <P_1.3,6>
+wrytten by the Queen's endityng and hir own minut y=t= long lettre to
+Babyngton : WCECIL-1587-E2-P2,1.3,6.23
+
+but he wold quallefy his mastris fault in that Babyngton provoked hir
+therto , and Morgan prevaled hir to renew hir intelligence with
+Babyngton . WCECIL-1587-E2-P2,1.3,6.24
+
+Yours as. W. Burghley . WCECIL-1587-E2-P2,1.3,6.25
+
+8 Sept. 1586 . WCECIL-1587-E2-P2,1.3,6.26
+
+To the right honorable S=r= Francise Walsyngham Knight pr. Secretary to
+hir Ma=ty= . WCECIL-1587-E2-P2,1.3,6.27
+
+<P_1.3,12>
+
+<heading:edcomment:LETTER_CXXI_LORD_BURGHLEY_TO_SECRETARY_DAVISON,_UPON_THE_QUEEN_OF_SCOT'S_DEFENCE,_UPON_THE_DELAY_OF_PASSING_SENTENCE_UPON_HER>
+
+{COM:apostrophe_in_heading_sic}
+
+M=r= Secretary , yesternight , vppon recept of your lettre dated on
+Thursday , I wrote what was thought wold be this dayes work .
+WCECIL-1587-E2-P2,1.3,12.31
+
+This Queen of the Castell was content to appeare ageyn afor us in
+publyck to be hard , but , in truth , not to be hard for hir defence ,
+WCECIL-1587-E2-P2,1.3,12.32
+
+for she cold say nothyng but negatyvely , that the poynts of the lettres
+that concerned the practise against the Q. Ma=ts= person was never by
+hir wrytten , nor of her knolledg , WCECIL-1587-E2-P2,1.3,12.33
+
+the rest , for invasion , for scapyng by force , she sayd she wold
+nether deny nor affirm . WCECIL-1587-E2-P2,1.3,12.34
+
+But hir intention was , by long artificiall speches , to move pite , to
+laye all blame uppon the Queen's Majesty or rather uppon the Counsell ,
+that all the troobles past did insew , avowyng hir resonable offers and
+our refusalls ; WCECIL-1587-E2-P2,1.3,12.35
+
+and in this hir speches I did so encounter hir with reasons out
+<P_1.3,13> of my knolledg and experience , as she had not that avantage
+she looked for ; as I am assured the Auditory did fynd hir case not
+piteable , hir allegations untrew ; by which means gret debate fell
+yesternight very long , and this day renewed with gret stomakyng .
+WCECIL-1587-E2-P2,1.3,13.36
+
+But we had gret reason to prorog our session which is rone till the
+25=th= WCECIL-1587-E2-P2,1.3,13.37
+
+and so we of the Counsell will be at the Court the 22=th= .
+WCECIL-1587-E2-P2,1.3,13.38
+
+And we fynd all persons here in Commission fully satisfyed , as , by hir
+Ma=ts= order judgment will be gyven at our next metyng ,
+WCECIL-1587-E2-P2,1.3,13.39
+
+but the record will not be provided in v or vj. dayes ,
+WCECIL-1587-E2-P2,1.3,13.40
+
+and that was on {GLOSS:one} cause , why if we shuld have proceded to
+judgment we shuld have tarryed v or vj. dayes more ;
+WCECIL-1587-E2-P2,1.3,13.41
+
+and suerly the Country cold not beare it , by the wast of bread
+specially , our Company being then and within vj myle , above ij._M
+horssmen : WCECIL-1587-E2-P2,1.3,13.42
+
+but by reson of hir Ma=ts= lettre we of hir Counsell , that is the L.
+Chanc. M=r= Rich , M=r= Secr. and my self only , did procure this
+prorogation for the other ij. causes . WCECIL-1587-E2-P2,1.3,13.43
+
+And so knowyng that by my Lord of Cumberland hir Ma=ty= shall , soner
+than this lettre can come , understand the course of the procedyng , I
+will end . WCECIL-1587-E2-P2,1.3,13.44
+
+xv Octob. 1586 WCECIL-1587-E2-P2,1.3,13.45
+
+at Burghley WCECIL-1587-E2-P2,1.3,13.46
+
+Your assured lov. frend W. Burghley . WCECIL-1587-E2-P2,1.3,13.47
+
+To the right honorable my verie good frend Mr Secretarie Davison .
+WCECIL-1587-E2-P2,1.3,13.48
+

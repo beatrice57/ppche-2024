@@ -1,0 +1,1607 @@
+<BEGIN_strutt-1890-1>
+
+<P_3,318>
+
+<heading>
+
+164 . On bells . STRUTT-1890-1,3,318.4
+
+<$$heading>
+
+The theory of the vibrations of bells is of considerable difficulty .
+STRUTT-1890-1,3,318.6
+
+Even when the thickness of the shell may be treated as very small , as
+in the case of air-pump receivers , finger-bowls , claret glasses , &c.
+, the question has given rise to a difference of opinion .
+STRUTT-1890-1,3,318.7
+
+The more difficult problem presented by church bells , where the
+thickness of the metal in the region of the <font> sound-bow <$$font>
+<paren> where the clapper strikes <$$paren> is by no means small , has
+not yet been attacked . STRUTT-1890-1,3,318.8
+
+A complete theoretical investigation is indeed scarcely to be hoped for
+; STRUTT-1890-1,3,318.9
+
+but one of the principal objects of the present paper is to report the
+results of an experimental examination of several church bells , in the
+course of which some curious facts have disclosed themselves .
+STRUTT-1890-1,3,318.10
+
+In practice bells are designed to be symmetrical about an axis ,
+STRUTT-1890-1,3,318.11
+
+and we shall accordingly suppose that the figures are of revolution , or
+at least differ but little from such . STRUTT-1890-1,3,318.12
+
+Under these circumstances the possible vibrations divide themselves into
+classes , according to the number of times the motion repeats itself
+round the circumference . STRUTT-1890-1,3,318.13
+
+In the gravest mode , where the originally circular boundary becomes
+elliptical , the motion is once repeated , that is it occurs <font>
+twice . <$$font> STRUTT-1890-1,3,318.14
+
+The number of nodal meridians , determined by the points where the
+circle intersects the ellipse , is <font> four <$$font> , the meridians
+corresponding <paren> for example <$$paren> to longitudes 0@ @=o= and
+180@ @=o= being reckoned separately . STRUTT-1890-1,3,318.15
+
+In like manner we may have 6 , 8 , 10 . . . nodal meridians ,
+corresponding to 3 , 4 , 5 . . . cycles of motion .
+STRUTT-1890-1,3,318.16
+
+A class of vibrations is also possible which are symmetrical about the
+axis , the motion at any point being either in or perpendicular to the
+meridional plane . STRUTT-1890-1,3,318.17
+
+But these are of no acoustical importance . STRUTT-1890-1,3,318.18
+
+<P_3,319>
+
+The meaning here attached to the word <font> nodal <$$font> must be
+carefully observed . STRUTT-1890-1,3,319.20
+
+The meridians are not nodal in the sense that there is no motion , but
+only that there is no motion <font> normal to the surface . <$$font>
+STRUTT-1890-1,3,319.21
+
+This can be best illustrated by the simplest case , that of an
+infinitely long thin circular cylinder vibrating in two dimensions .
+STRUTT-1890-1,3,319.22
+
+The graver vibrations are here purely flexural , the circumference
+remaining everywhere unstretched during the motion .
+STRUTT-1890-1,3,319.23
+
+If we fix our attention upon one mode of vibration of <font> n <$$font>
+cycles , the motion at the surface is usually both radial and tangential
+. STRUTT-1890-1,3,319.24
+
+There are , however , 2 <font> n <$$font> points distributed at equal
+intervals where the motion is purely tangential , and other 2 <font> n
+<$$font> points , bisecting the intervals of the former , where the
+motion is purely radial . STRUTT-1890-1,3,319.25
+
+There are thus no places of complete rest ; STRUTT-1890-1,3,319.26
+
+but the first set of points , or the lines through them parallel to the
+axis , are called nodal , in the sense that there is at these places no
+normal motion . STRUTT-1890-1,3,319.27
+
+The two systems of points have important relations to the place where
+the vibrations are excited . STRUTT-1890-1,3,319.28
+
+" When a bell-shaped body is sounded by a blow , the point of
+application of the blow is a place of maximum normal motion of the
+resulting vibrations , STRUTT-1890-1,3,319.29
+
+and the same is true when the vibrations are excited by a violin-bow ,
+as generally in lecture-room experiments . STRUTT-1890-1,3,319.30
+
+Bells of glass , such as finger-glasses , are , however , more easily
+thrown into regular vibration by friction with the wetted finger carried
+round the circumference . STRUTT-1890-1,3,319.31
+
+The pitch of the resulting sound is the same as that elicited by a tap
+with the soft part of the finger ; STRUTT-1890-1,3,319.32
+
+but inasmuch as the tangential motion of a vibrating bell has been very
+generally ignored , the production of sound in this manner has been felt
+as a difficulty . STRUTT-1890-1,3,319.33
+
+It is now scarcely necessary to point out that the effect of the
+friction is in the first instance to excite tangential motion , and that
+the point of application of the friction is the place where the
+tangential motion is greatest , and therefore where the normal motion
+vanishes . " STRUTT-1890-1,3,319.34
+
+When the symmetry is complete , the system of nodal meridians has no
+fixed position , STRUTT-1890-1,3,319.35
+
+and may adapt itself so as to suit the place at which a normal blow is
+delivered . STRUTT-1890-1,3,319.36
+
+If the point of application of the blow be conceived to travel round a
+circle symmetrical with respect to the axis , <paren> say , for brevity
+, a circle of <font> latitude <$$font> <$$paren> the displacement will
+make no difference to the vibration considered as a whole ,
+STRUTT-1890-1,3,319.37
+
+but the effect upon an observer who retains a fixed position will vary .
+STRUTT-1890-1,3,319.38
+
+If the bell be situated in an open space , or if the ear of the observer
+be so close that reflexions are relatively unimportant , the sound
+disappears as nodes pass by him , swelling to a maximum when the part
+nearest to the ear is one of the places of maximum normal motion , which
+for brevity we will call <font> loops . <$$font> STRUTT-1890-1,3,319.39
+
+In listening to a particular note it would thus be <P_3,320> possible to
+determine the number of nodal meridians by watching the variations of
+intensity which occur as the place of the blow travels round a circle of
+latitude . STRUTT-1890-1,3,320.40
+
+In practice the symmetry is seldom so complete that this account of the
+matter is sufficient . STRUTT-1890-1,3,320.41
+
+Theoretically the slightest departure from symmetry will in general
+render determinate the positions of the nodal systems .
+STRUTT-1890-1,3,320.42
+
+For each number <font> n <$$font> of cycles , there is one determinate
+mode of vibration with 2 <font> n <$$font> nodes and 2 <font> n <$$font>
+intermediate loops , and a second determinate mode in which the nodes
+and loops of the first mode exchange functions . STRUTT-1890-1,3,320.43
+
+Moreover the frequencies of the vibrations in the two modes are slightly
+different . STRUTT-1890-1,3,320.44
+
+In accordance with the general theory , the vibrations of the two modes
+, as dependent upon the situation and magnitude of the initiating blow ,
+are to be considered separately . STRUTT-1890-1,3,320.45
+
+The vibrations of the first mode will be excited , unless the blow occur
+at a node of this system ; and in various degrees , reaching a maximum
+when the blow is delivered at a loop . STRUTT-1890-1,3,320.46
+
+The intensity , as appreciated by an observer , depends also upon the
+position of his ear , STRUTT-1890-1,3,320.47
+
+and will be greatest when a loop is immediately opposite .
+STRUTT-1890-1,3,320.48
+
+As regards the vibrations of the second mode , they reach a maximum when
+those of the first mode disappear , and conversely .
+STRUTT-1890-1,3,320.49
+
+Thus in the case of <font> n <$$font> cycles , there are 2 <font> n
+<$$font> places where the first vibration is not excited and 2 <font> n
+<$$font> places , midway between the former , where the second vibration
+is not excited . STRUTT-1890-1,3,320.50
+
+At all 4 <font> n <$$font> places the resulting sound is free from beats
+. STRUTT-1890-1,3,320.51
+
+In all other cases both kinds of vibration are excited ,
+STRUTT-1890-1,3,320.52
+
+and the sound will be affected by beats . STRUTT-1890-1,3,320.53
+
+But the prominence of the beats depends upon more than one circumstance
+. STRUTT-1890-1,3,320.54
+
+The intensities of the two vibrations will be equal when the place of
+the blow is midway between those which give no beats .
+STRUTT-1890-1,3,320.55
+
+But it does not follow that the audible beats are then most distinct .
+STRUTT-1890-1,3,320.56
+
+The condition to be satisfied is that the intensities shall be equal
+<font> as they reach the ear <$$font> , STRUTT-1890-1,3,320.57
+
+and this will depend upon the situation of the observer as well as upon
+the vigour of the vibrations themselves . STRUTT-1890-1,3,320.58
+
+Indeed , by suitably choosing the place of observation it would be
+theoretically possible to obtain beats with perfect silences , wherever
+<paren> in relation to the nodal system <$$paren> the blow may be
+delivered . STRUTT-1890-1,3,320.59
+
+There will now be no difficulty in understanding the procedure adopted
+in order to fix the number of cycles corresponding to a given tone .
+STRUTT-1890-1,3,320.60
+
+If , in consequence of a near approach to symmetry , beats are not
+audible , they are introduced by suitably loading the vibrating body .
+STRUTT-1890-1,3,320.61
+
+By tapping cautiously round a circle of latitude the places are then
+investigated where the beats disappear . STRUTT-1890-1,3,320.62
+
+But here a decision must not be made too hastily .
+STRUTT-1890-1,3,320.63
+
+The inaudibility of the beats may be favoured by an unsuitable position
+of the ear , or of the mouth of the resonator in connexion with the ear
+. STRUTT-1890-1,3,320.64
+
+By travelling <P_3,321> round a situation is soon found where the
+observation can be made with the best advantage .
+STRUTT-1890-1,3,321.65
+
+In the neighbourhood of the place where the blow is being tried there is
+a loop of the vibration which is most excited and a <paren> coincident
+<$$paren> node of the vibration which is least excited .
+STRUTT-1890-1,3,321.66
+
+When the ear is opposite to a node of the first vibration , and
+therefore to a loop of the second , the original inequality is redressed
+, STRUTT-1890-1,3,321.67
+
+and distinct beats may be heard even although the deviation of the blow
+from a nodal point may be very small . STRUTT-1890-1,3,321.68
+
+The accurate determination in this way of two consecutive places where
+no beats are generated is all that is absolutely necessary .
+STRUTT-1890-1,3,321.69
+
+The ratio of the entire circumference of the circle of latitude to the
+arc between the points represents 4 <font> n <$$font> , that is four
+times the number of cycles . STRUTT-1890-1,3,321.70
+
+Thus , if the arc between consecutive points proved to be 45@ @=o= , we
+should infer that we were dealing with a vibration of two cycles - the
+one in which the deformation is elliptical . STRUTT-1890-1,3,321.71
+
+As a greater security against error , it is advisable in practice to
+determine a larger number of points where no beats occur .
+STRUTT-1890-1,3,321.72
+
+Unless the deviation from symmetry be considerable , these points should
+be uniformly distributed along the circle of lattitude .
+STRUTT-1890-1,3,321.73
+
+In the above process for determining nodes we are supposed to hear
+distinctly the tone corresponding to the vibration under investigation .
+STRUTT-1890-1,3,321.74
+
+For this purpose the beats are of assistance in directing the attention
+; STRUTT-1890-1,3,321.75
+
+but with the more difficult subjects , such as church bells , it is
+advisable to have recourse to resonators . STRUTT-1890-1,3,321.76
+
+A set of Helmholtz's pattern , manufactured by Koenig , are very
+convenient . STRUTT-1890-1,3,321.77
+
+The one next higher in pitch to the tone under examination is chosen and
+tuned by advancing the finger across the aperture .
+STRUTT-1890-1,3,321.78
+
+Without the security afforded by resonators , the determination of the
+octave is in my experience very uncertain . STRUTT-1890-1,3,321.79
+
+Thus pure tones are often estimated by musicians an octave too low .
+STRUTT-1890-1,3,321.80
+
+Some years ago I made observations upon the tones of various glass bells
+, of which the walls were tolerably thin . STRUTT-1890-1,3,321.81
+
+A few examples may be given : - I. <font> c' <$$font> , <font> e''
+{COM:flat_symbol} , c''' <$$font> {COM:sharp_symbol} . II. <font> a
+<$$font> , <font> c'' <$$font> {COM:sharp_symbol} , <font> b'' <$$font>
+. III. <font> f' <$$font> {COM:sharp_symbol} , <font> b'' . <$$font>
+STRUTT-1890-1,3,321.82
+
+The value of <font> n <$$font> for the gravest tone is 2 , for the
+second 3 , and for the third 4 . STRUTT-1890-1,3,321.83
+
+On account of the irregular shape and thickness only a very rough
+comparison with theory is possible ; STRUTT-1890-1,3,321.84
+
+but it may be worth mention that for a thin uniform hemispherical bell
+the frequencies of the three slowest vibrations should be in the ratios
+1 : 2.8102 : 5.4316 ; <P_3,322> so that the tones might be <font> c
+<$$font> , <font> f' <$$font> {COM:sharp_symbol} , <font> f'' <$$font> ,
+approximately . STRUTT-1890-1,3,322.85
+
+More recently , through the kindness of Messrs. Mears and Stainbank , I
+have had an opportunity of examining a so-called hemispherical metal
+bell , weighing about 3 cwt. STRUTT-1890-1,3,322.86
+
+A section is shown in Fig. 1 . STRUTT-1890-1,3,322.87
+
+Four tones could be plainly heard , <font> e <$$font> {COM:flat_symbol}
+, <font> f' <$$font> {COM:sharp_symbol} , <font> e'' <$$font> , <font>
+b'' <$$font> , the pitch being taken from a harmonium .
+STRUTT-1890-1,3,322.88
+
+The gravest tone has a long duration . STRUTT-1890-1,3,322.89
+
+When the bell is struck by a hard body , the higher tones are
+{COM:figure_omitted} at first predominant , STRUTT-1890-1,3,322.90
+
+but after a time they die away , STRUTT-1890-1,3,322.91
+
+and leave <font> e <$$font> {COM:flat_symbol} in possession of the field
+. STRUTT-1890-1,3,322.92
+
+If the striking body be soft , the original preponderance of the higher
+elements is less marked . STRUTT-1890-1,3,322.93
+
+By the method above described there was no difficulty in showing that
+the four tones correspond respectively to <font> n <$$font> = 2 , 3 , 4
+, 5 . STRUTT-1890-1,3,322.94
+
+Thus for the gravest tone the vibration is elliptical with 4 nodal
+meridians , STRUTT-1890-1,3,322.95
+
+for the next tone there are 6 nodal meridians , and so on .
+STRUTT-1890-1,3,322.96
+
+Tapping along a meridian showed that the sounds became less clear as the
+edge was departed from , and this in a continuous manner with no
+suggestion of a nodal circle of latitude . STRUTT-1890-1,3,322.97
+
+A question , to which we shall recur in connexion with church bells ,
+here suggests itself . STRUTT-1890-1,3,322.98
+
+Which of the various co-existing tones characterizes the pitch of the
+bell as a whole ? STRUTT-1890-1,3,322.99
+
+It would appear to be the third in order , STRUTT-1890-1,3,322.100
+
+for the founders give the pitch as E nat {COM:sic} .
+STRUTT-1890-1,3,322.101
+
+My first attempts upon church bells were made in September 1879 , upon
+the second bell <paren> reckoned from the highest <$$paren> of the
+Terling peal ; STRUTT-1890-1,3,322.102
+
+and I was much puzzled to reconcile the pitch of the various tones ,
+determined by resonators , with the effective pitch of the bell , when
+heard from a distance in conjunction with the other bells of the peal .
+STRUTT-1890-1,3,322.103
+
+There was a general agreement that the five notes of the peal were
+<font> f <$$font> {COM:sharp_symbol} , <font> g <$$font>
+{COM:sharp_symbol} , <font> a <$$font> {COM:sharp_symbol} , <font> b
+<$$font> , <font> c <$$font> {COM:sharp_symbol} , according to harmonium
+pitch , so that the note of the second bell was <font> b . <$$font>
+STRUTT-1890-1,3,322.104
+
+A tone of pitch <font> a <$$font> {COM:sharp_symbol} could be heard ,
+but at that time nothing coincident with <font> b <$$font> or its
+octaves . STRUTT-1890-1,3,322.105
+
+Subsequently , in January 1880 , the <font> b <$$font> was found among
+the <P_3,323> tones of the bell , but at much higher pitch than had been
+expected . STRUTT-1890-1,3,323.106
+
+The five gravest tones were determined to be <font> d' <$$font> , <font>
+a' <$$font> {COM:sharp_symbol} , <font> d'' <$$font> , <font> g''
+<$$font> {COM:sharp_symbol} + , <font> b'' <$$font> ; so that the
+nominal note of the bell agreed with the fifth component tone , and with
+no graver one . STRUTT-1890-1,3,323.107
+
+The octaves are here indicated by dashes in the usual way , the <font>
+c' <$$font> immediately below the <font> d' <$$font> being the middle
+<font> c <$$font> of the musical scale . STRUTT-1890-1,3,323.108
+
+Attempts were then made to identify the modes of vibration corresponding
+to the various tones , but with only partial success .
+STRUTT-1890-1,3,323.109
+
+By tapping round the sound-bow it appeared that the minima of beats for
+<font> d' <$$font> occurred at intervals equal to 1$$8 of the
+circumference , indicating that the deformation in this mode was
+elliptical <paren> <font> n <$$font> = 2 <$$paren> , as had been
+expected . STRUTT-1890-1,3,323.110
+
+In like manner <font> g'' <$$font> {COM:sharp_symbol} gave <font> n
+<$$font> = 3 ; STRUTT-1890-1,3,323.111
+
+but on account of the difficulty of experimenting in the belfry , the
+results were not wholly satisfactory , STRUTT-1890-1,3,323.112
+
+and I was unable to determine the modes for the other tones .
+STRUTT-1890-1,3,323.113
+
+One observation , however , of importance could be made .
+STRUTT-1890-1,3,323.114
+
+All five tones were affected with beats , from which it was concluded
+that none of them could be due to symmetrical vibrations , as , till
+then , had been thought not unlikely . STRUTT-1890-1,3,323.115
+
+Nothing further worthy of record was effected until last year , when I
+obtained from Messrs Mears and Stainbank the loan of a 6-cwt. bell .
+STRUTT-1890-1,3,323.116
+
+Hung in the laboratory at a convenient height , and with freedom of
+access to all parts of the circumference , this bell afforded a more
+convenient subject for experiment , STRUTT-1890-1,3,323.117
+
+and I was able to make the observations by which before I had been
+baffled . STRUTT-1890-1,3,323.118
+
+Former experience having shown me the difficulty of estimating the pitch
+of an isolated bell , I was anxious to have the judgement of the
+founders expressed in a definite form , STRUTT-1890-1,3,323.119
+
+and they were good enough to supply me with a fork tuned to the pitch of
+the bell . STRUTT-1890-1,3,323.120
+
+By my harmonium the fork is <font> d'' <$$font> .
+STRUTT-1890-1,3,323.121
+
+By tapping the bell in various places with a hammer or mallet , and
+listening with resonators , it was not difficult to detect 6 tones .
+STRUTT-1890-1,3,323.122
+
+They were identified with the following notes of the harmonium <font> e'
+<$$font> <paren> 4 <$$paren> , <font> c'' <$$font> <paren> 4 <$$paren> ,
+<font> f'' <$$font> + <paren> 6 <$$paren> , <font> b'' {COM:flat_symbol}
+<$$font> <paren> 6 <$$paren> , <font> d''' <$$font> <paren> 8 <$$paren>
+, <font> f''' . <$$font> STRUTT-1890-1,3,323.123
+
+As in the former case , the nominal pitch is governed by the fifth
+component tone , whose pitch is , however , an octave higher than that
+of the representative fork . STRUTT-1890-1,3,323.124
+
+It is to be understood , of course , that each of the 6 tones in the
+above series is really double , and that in some cases the components of
+a pair differ sufficiently to give rise to somewhat rapid beats .
+STRUTT-1890-1,3,323.125
+
+<P_3,324>
+
+The sign + affixed to <font> f'' <$$font> indicates that the tone of the
+bell was decidedly sharp in comparison with the note of the instrument .
+STRUTT-1890-1,3,324.127
+
+I now proceeded to determine , as far as possible , the characters of
+the various modes of vibration by observations upon the dependence of
+the sounds upon the place of tapping in the manner already described .
+STRUTT-1890-1,3,324.128
+
+By tapping round a circle of latitude it was easy to prove that for
+<paren> each of the approximately coincident tones of <$$paren> <font>
+e' <$$font> there were 4 nodal meridians . STRUTT-1890-1,3,324.129
+
+Again , on tapping along a meridian to find whether there were any nodal
+circles of latitude , it became evident that there were none such .
+STRUTT-1890-1,3,324.130
+
+At the same time differences of intensity were observed .
+STRUTT-1890-1,3,324.131
+
+This tone is more fully developed when the blow is delivered about
+midway between the crown and rim of the bell than at other places .
+STRUTT-1890-1,3,324.132
+
+The next tone is <font> c'' . <$$font> STRUTT-1890-1,3,324.133
+
+Observation showed that for this vibration also there are four , and but
+four , nodal meridians . STRUTT-1890-1,3,324.134
+
+But now there is a well-defined nodal circle of latitude , situated
+about a quarter of the way up from the rim towards the crown .
+STRUTT-1890-1,3,324.135
+
+As heard with the resonator , this tone disappears when the blow is
+accurately delivered at some point of this circle ,
+STRUTT-1890-1,3,324.136
+
+but revives with a very small displacement on either side .
+STRUTT-1890-1,3,324.137
+
+The nodal circle and the four meridians divide the surface into segments
+, over each of which the normal motion is of one sign .
+STRUTT-1890-1,3,324.138
+
+To the tone <font> f'' <$$font> correspond 6 nodal meridians .
+STRUTT-1890-1,3,324.139
+
+There is no well-defined nodal circle . STRUTT-1890-1,3,324.140
+
+The sound is indeed very faint , when the tap is much removed from the
+sound-bow ; STRUTT-1890-1,3,324.141
+
+it was thought to fall to a minimum when the tap was about halfway up .
+STRUTT-1890-1,3,324.142
+
+The three graver tones are heard loudly from the sound-bow .
+STRUTT-1890-1,3,324.143
+
+But the next in order , <font> b'' <$$font> {COM:flat_symbol} , is there
+scarcely audible , unless the blow be delivered to the rim itself in a
+tangential direction . STRUTT-1890-1,3,324.144
+
+The maximum effect occurs at about halfway up . STRUTT-1890-1,3,324.145
+
+Tapping round the circle , we find that there are 6 nodal meridians .
+STRUTT-1890-1,3,324.146
+
+The fifth tone , <font> d''' <$$font> , is heard loudly from the
+sound-bow , STRUTT-1890-1,3,324.147
+
+but soon falls off when the locality of the blow is varied ,
+STRUTT-1890-1,3,324.148
+
+and in the upper three fourths of the bell it is very faint .
+STRUTT-1890-1,3,324.149
+
+No distinct circular node could be detected . STRUTT-1890-1,3,324.150
+
+Tapping round the circumference showed that there were here 8 nodal
+meridians . STRUTT-1890-1,3,324.151
+
+The highest tone recorded , <font> f''' <$$font> , was not easy of
+observation , STRUTT-1890-1,3,324.152
+
+and I did not succeed in satisfying myself as to the character of the
+vibration . STRUTT-1890-1,3,324.153
+
+The tone was perhaps best heard when the blow was delivered at a point a
+little below the crown . STRUTT-1890-1,3,324.154
+
+All the above tones , except <font> f'' <$$font> , were tolerably close
+in pitch to the corresponding notes of the harmonium .
+STRUTT-1890-1,3,324.155
+
+<P_3,325>
+
+Although the above results seemed perfectly unambiguous , I was glad to
+have an opportunity of confirming them by examination of another bell .
+STRUTT-1890-1,3,325.157
+
+This was afforded by a loan of a bell cast by Taylor , of Loughborough ,
+and destined for the church of Ampton , Suffolk , where it now hangs .
+STRUTT-1890-1,3,325.158
+
+Its weight is somewhat less than 4 cwt. , STRUTT-1890-1,3,325.159
+
+and the nominal pitch is <font> d <$$font> . STRUTT-1890-1,3,325.160
+
+The observations were entirely confirmatory of the results obtained from
+Messrs. Mears' bell . STRUTT-1890-1,3,325.161
+
+The tones were <font> e' <$$font> {COM:flat_symbol} - 2 <paren> 4
+<$$paren> , <font> d'' <$$font> - 6 <paren> 4 <$$paren> , <font> f''
+<$$font> + 4 <paren> 6 <$$paren> , <font> b'' <$$font> {COM:flat_symbol}
+- <font> b'' <$$font> <paren> 6 <$$paren> , <font> d''' <$$font> <paren>
+8 <$$paren> , <font> g''' <$$font> ; the correspondence between the
+order of the tone and the number of nodal meridians being as before .
+STRUTT-1890-1,3,325.162
+
+In the case of <font> d'' <$$font> there was the same well-defined nodal
+circle . STRUTT-1890-1,3,325.163
+
+The highest tone , <font> g''' <$$font> , was but imperfectly heard ,
+STRUTT-1890-1,3,325.164
+
+and no investigation could be made of the corresponding mode of
+vibration . STRUTT-1890-1,3,325.165
+
+In the specification of pitch the numerals following the note indicate
+by how much the frequency of the bell differed from that of the
+harmonium . STRUTT-1890-1,3,325.166
+
+Thus the gravest tone <font> e' <$$font> {COM:flat_symbol} gave 2 beats
+per second , STRUTT-1890-1,3,325.167
+
+and was flat . STRUTT-1890-1,3,325.168
+
+When the number exceeds 3 , it is the result of somewhat rough
+estimation STRUTT-1890-1,3,325.169
+
+and can@ @not be trusted to be quite accurate . STRUTT-1890-1,3,325.170
+
+Moreover , as has been explained , there are in strictness two
+frequencies under each head , STRUTT-1890-1,3,325.171
+
+and these often differ sensibly . STRUTT-1890-1,3,325.172
+
+In the case of the 4th tone , <font> b'' <$$font> {COM:flat_symbol} -
+<font> b'' <$$font> means that , as nearly as could be judged , the
+pitch of the bell was midway between the two specified notes of the
+harmonium . STRUTT-1890-1,3,325.173
+
+The sounds of bells may be elicited otherwise than by blows .
+STRUTT-1890-1,3,325.174
+
+Advantage may often be taken of the response to the notes of the
+harmonium , to the voice , or to organ-pipes sounded in the
+neighbourhood . STRUTT-1890-1,3,325.175
+
+In these cases the subsequent resonance of the bell has the character of
+a pure tone . STRUTT-1890-1,3,325.176
+
+Perhaps the most striking experiment is with a tuning-fork .
+STRUTT-1890-1,3,325.177
+
+A massive <font> e' <$$font> {COM:flat_symbol} <paren> <font> e <$$font>
+on the <font> c' <$$font> = 256 scale <$$paren> fork , tuned with wax ,
+and placed upon the waist of the Ampton bell , called forth a
+magnificent resonance , which lasted for some time after removal and
+damping of the fork . STRUTT-1890-1,3,325.178
+
+The sound is so utterly unlike that usually associated with bells that
+an air of mystery envelops the phenomenon . STRUTT-1890-1,3,325.179
+
+The fork may be excited either by a preliminary blow upon a pad <paren>
+in practice it was the bent knee of the observer <$$paren> , or by
+bowing when in contact with the bell . STRUTT-1890-1,3,325.180
+
+In either case the adjustment of pitch should be very precise ,
+STRUTT-1890-1,3,325.181
+
+and it is usually necessary to distinguish the two nearly coincident
+tones of the bell . STRUTT-1890-1,3,325.182
+
+One of these is to be chosen STRUTT-1890-1,3,325.183
+
+and the fork is to be held near a loop of the corresponding mode of
+vibration . STRUTT-1890-1,3,325.184
+
+In practice the simplest way to effect the tuning is to watch the course
+of things after the vibrating fork has been brought into contact with
+the bell . STRUTT-1890-1,3,325.185
+
+When the tuning is good the sound swells continuously .
+STRUTT-1890-1,3,325.186
+
+Any beats that are heard must be gradually slowed down by adjustment of
+wax , until they disappear . STRUTT-1890-1,3,325.187
+
+<P_3,326>
+
+{COM:table_omitted}
+
+<P_3,327>
+
+Observations upon the two bells in the laboratory having settled the
+modes of vibration corresponding to the five gravest tones , other bells
+of the church pattern can be sufficiently investigated by simple
+determinations of pitch . STRUTT-1890-1,3,327.191
+
+I give in tabular form results of this kind for a Belgian bell , kindly
+placed at my disposal by Mr. Haweis , and for the five bells of the
+Terling peal . STRUTT-1890-1,3,327.192
+
+For completeness' sake the Table includes also the corresponding results
+for the two bells already described . STRUTT-1890-1,3,327.193
+
+It will be seen that in every case where the test can be applied it is
+the fifth tone in order which agrees with the nominal pitch of the bell
+. STRUTT-1890-1,3,327.194
+
+The reader will not be more surprised at this conclusion than I was ,
+STRUTT-1890-1,3,327.195
+
+but there seems to be no escape from it . STRUTT-1890-1,3,327.196
+
+Even apart from estimates of pitch , an examination of the tones of the
+bells of the Terling peal proves that it is only from the third and
+fifth tones that a tolerable diatonic scale can be constructed .
+STRUTT-1890-1,3,327.197
+
+Observations in the neighbourhood of bells do not suggest any special
+predominance of the fifth tone , STRUTT-1890-1,3,327.198
+
+but the effect is a good deal modified by distance .
+STRUTT-1890-1,3,327.199
+
+It has been suggested , I think by Helmholtz , that the aim of the
+original designers of bells may have been to bring into harmonic
+relations tones which might otherwise cause a disagreeable effect .
+STRUTT-1890-1,3,327.200
+
+If this be so , the result can@ @not be considered very successful .
+STRUTT-1890-1,3,327.201
+
+A glance at the Table shows that in almost every case there occur
+intervals which would usually be counted intolerable , such as the false
+octave . STRUTT-1890-1,3,327.202
+
+Terling <paren> 5 <$$paren> is the only bell which avoids this false
+interval between the two first tones ; STRUTT-1890-1,3,327.203
+
+but the improvement here shown in this respect still leaves much to be
+desired , when we consider the relation of these two tones to the fifth
+tone , and the nominal pitch of the bell . STRUTT-1890-1,3,327.204
+
+Upon the assumption that the nominal pitch is governed by that of the
+fifth tone , I have exhibited in the second part of the above Table the
+relationship in each case of the various tones to this one .
+STRUTT-1890-1,3,327.205
+
+One of my objects in this investigation having been to find out , if
+possible , wherein lay the difference between good and bad bells , I was
+anxious to interpret in accordance with my results the observations of
+Mr. Haweis , who has given so much attention to the subject .
+STRUTT-1890-1,3,327.206
+
+The comparison is , however , not free from difficulty .
+STRUTT-1890-1,3,327.207
+
+Mr. Haweis says : - " The true Belgian bell when struck a little above
+the rim gives the dominant note of the bell ; STRUTT-1890-1,3,327.208
+
+when struck two-thirds up it gives the third ; and near the top the
+fifth ; STRUTT-1890-1,3,327.209
+
+and the ' true ' bell is that in which the third and fifth <paren> to
+leave out a multitude of other partials <$$paren> are heard in right
+relative subordination to the dominant note . " STRUTT-1890-1,3,327.210
+
+If I am right in respect of the dominant note , the <font> third
+<$$font> spoken of by Mr. Haweis must be the minor third <paren> or
+rather , major sixth <$$paren> presented by <P_3,328> the tone third in
+order , which it so happens is nearly the same interval in all cases .
+STRUTT-1890-1,3,328.211
+
+The only <font> fifth <$$font> which occurs is that of the tone fourth
+in order . STRUTT-1890-1,3,328.212
+
+Thus , according to Mr. Haweis's views , the best bell in the series
+would be Terling <paren> 1 <$$paren> , for which the minor chord of the
+last three tones is nearly true . STRUTT-1890-1,3,328.213
+
+It must be remarked , however , that the tone fourth in order is
+scarcely heard in the normal use of the bell , so that its pitch can
+hardly be of importance directly , although it may afford a useful
+criterion of the character of the bell as a whole .
+STRUTT-1890-1,3,328.214
+
+It is evident that the first and second tones of Terling <paren> 1
+<$$paren> are quite out of relation with the higher ones .
+STRUTT-1890-1,3,328.215
+
+If the first could be depressed a semitone and the second raised a whole
+tone , harmonic relations would prevail throughout .
+STRUTT-1890-1,3,328.216
+
+Judging from the variety presented in the Table , it would seem not a
+hopeless task so to construct a bell that all the important tones should
+be brought into harmonic relation ; STRUTT-1890-1,3,328.217
+
+but it would require so much tentative work that it could only be
+undertaken advantageously by one in connexion with a foundry .
+STRUTT-1890-1,3,328.218
+
+As to what advantage would be gained in the event of success , I find it
+difficult to form an opinion . STRUTT-1890-1,3,328.219
+
+All I can say is that the dissonant effect of the inharmonious intervals
+actually met with is less than one would have expected from a musical
+point of view ; although the fact is to a great extent explained by
+Helmholtz's theory of dissonance . STRUTT-1890-1,3,328.220
+
+One other point I will touch upon , though with great diffidence .
+STRUTT-1890-1,3,328.221
+
+If there is anything well established in theoretical acoustics it is
+that the frequencies of vibration of similar bodies formed of similar
+material are inversely as the linear dimensions - a law which extends to
+<font> all <$$font> the possible modes of vibration .
+STRUTT-1890-1,3,328.222
+
+Hence , if the dimensions are halved , all the tones should rise in
+pitch by an exact octave . STRUTT-1890-1,3,328.223
+
+I have been given to understand , however , that bells are not designed
+upon this principle of similarity , and that the attempt to do so would
+result in failure . STRUTT-1890-1,3,328.224
+
+It is just possible that differences in cooling may influence the
+hardness , and so interfere with the similarity of corresponding parts ,
+in spite of uniformity in the chemical composition of the metal ;
+STRUTT-1890-1,3,328.225
+
+but this explanation does not appear adequate . STRUTT-1890-1,3,328.226
+
+Can it be that when the scale of a bell is altered it is desirable at
+the same time to modify the relative intensities , or even the relative
+frequencies , of the various partials ? STRUTT-1890-1,3,328.227
+
+Observations conducted about ten years ago upon the manner of bending of
+bell-shaped bodies - waste-paper baskets and various structures of
+flexible material - led me to think that these shapes were especially
+stiff as regards the principal mode of bending <paren> with four nodal
+meridians <$$paren> to forces applied normally and near the rim , and
+that possibly one of the objects of the particular form adopted for
+bells might be to diminish the preponderance of the gravest tone .
+STRUTT-1890-1,3,328.228
+
+To illustrate this I made calculations , according to the theory of the
+paper already alluded to , of the deformation by pure bending of thin
+shells in the form of hyperboloids of revolution , and in certain
+<P_3,329> composite forms built up of cylinders and cones so as to
+represent approximately the actual shape of bells .
+STRUTT-1890-1,3,329.229
+
+In the case of the hyperboloid of one sheet <paren> Fig. 2 <$$paren> ,
+completed by a crown in the form of a circular disk through the centre ,
+and extending across the aperture , it appeared that there was no nodal
+circle for <font> n <$$font> = 2 . STRUTT-1890-1,3,329.230
+
+The investigation is appended to this paper . STRUTT-1890-1,3,329.231
+
+The composite forms , Figs. 4 and 5 , represent the actual bell <paren>
+Fig. 3 <$$paren> as nearly as may be . STRUTT-1890-1,3,329.232
+
+At the top is a circular disk , STRUTT-1890-1,3,329.233
+
+and to this is attached {COM:figure_omitted} a cylindrical segment .
+STRUTT-1890-1,3,329.234
+
+The expanding part of the bell is represented by one <paren> Fig. 4
+<$$paren> , or with better approximation by two <paren> Fig. 5
+<$$paren> , segments of cones . STRUTT-1890-1,3,329.235
+
+The calculations are too tedious to be reproduced here ,
+STRUTT-1890-1,3,329.236
+
+but the results are shown upon the figures . STRUTT-1890-1,3,329.237
+
+In both cases there is a circular node <font> N <$$font> for <font> n
+<$$font> = 2 , not far removed from the rim , and in Fig. 5 very nearly
+at the place which represents the sound-bow of an actual bell .
+STRUTT-1890-1,3,329.238
+
+In the latter case there is a node <font> N' <$$font> for <font> n
+<$$font> = 3 near the middle of the intermediate conical segment .
+STRUTT-1890-1,3,329.239
+
+The nodal circle for <font> n <$$font> = 2 has been verified
+experimentally upon a bell constructed of thin sheet zinc in the form of
+Fig. 5 . STRUTT-1890-1,3,329.240
+
+The gravest note , G {COM:sharp_symbol} , and the corresponding mode of
+vibration , could be investigated exactly in the {COM:figure_omitted}
+manner already described . STRUTT-1890-1,3,329.241
+
+In each mode of this kind there were four nodal meridians , and a very
+well defined nodal circle . STRUTT-1890-1,3,329.242
+
+The situation of this circle was not quite so low as according to
+calculation ; STRUTT-1890-1,3,329.243
+
+it was almost exactly in the middle of the lower conical segment .
+STRUTT-1890-1,3,329.244
+
+By merely handling the model it was <P_3,330> easy to recognize that it
+was stiff to forces applied at <font> N <$$font> , but flexible higher
+up , in the neighbourhood of <font> N' <$$font> .
+STRUTT-1890-1,3,330.245
+
+It is clear that the actual behaviour of a church bell differs widely
+from that of a bell infinitely thin ; STRUTT-1890-1,3,330.246
+
+and that this should be the case need not surprise us when we consider
+the actual ratio of the thickness at the sound-bow to the interval
+between consecutive nodal meridians . STRUTT-1890-1,3,330.247
+
+I think , however , that the form of the bell does really tend to render
+the gravest tone less prominent . STRUTT-1890-1,3,330.248
+
+{COM:appendix_omitted}
+
+<P_3,351>
+
+<heading>
+
+Foam . STRUTT-1890-1,3,351.252
+
+<$$heading>
+
+When I was turning over in my mind the subject for this evening , it
+occurred to me to take as the title of the lecture , " Froth . "
+STRUTT-1890-1,3,351.254
+
+But I was told that a much more poetical title would be " Foam , " as it
+would so easily lend itself to appropriate quotations .
+STRUTT-1890-1,3,351.255
+
+I am afraid , however , that I shall not be able to keep up the poetical
+aspect of the subject very long ; STRUTT-1890-1,3,351.256
+
+for one of the things that I shall have most to insist upon is that
+foaming liquids are essentially impure , contaminated - in fact , dirty
+. STRUTT-1890-1,3,351.257
+
+Pure liquids will not foam . STRUTT-1890-1,3,351.258
+
+If I take a bottle of water and shake it up , I get no appreciable foam
+. STRUTT-1890-1,3,351.259
+
+If , again , I take pure alcohol , I get no foam .
+STRUTT-1890-1,3,351.260
+
+But if I take a mixture of water with 5 per_cent. of alcohol there is a
+much greater tendency . STRUTT-1890-1,3,351.261
+
+Some of the liquids we are most familiar with as foaming , such as beer
+or ginger-beer , owe the conspicuousness of the property to the
+development of gas in the interior , enabling the foaming property to
+manifest itself ; STRUTT-1890-1,3,351.262
+
+but of course the two things are quite distinct .
+STRUTT-1890-1,3,351.263
+
+Dr Gladstone proved this many years ago by showing that beer from which
+all the carbonic acid had been extracted <font> in vacuo <$$font> still
+foamed on shaking up . STRUTT-1890-1,3,351.264
+
+I now take another not quite pure but strong liquid , acetic acid ,
+STRUTT-1890-1,3,351.265
+
+and from it we shall get no more foam than we did from the alcohol or
+the water . STRUTT-1890-1,3,351.266
+
+The bubbles , as you see , break up instantaneously .
+STRUTT-1890-1,3,351.267
+
+But if I take a weaker acid , the ordinary acid of commerce , there is
+more , though still not much , tendency to foam .
+STRUTT-1890-1,3,351.268
+
+But with a liquid which for many purposes may be said to contain
+practically no acetic acid at all , seeing that it consists of water
+with but one-thousandth part of acid , the tendency is far stronger ;
+STRUTT-1890-1,3,351.269
+
+and we get a very perceptible amount of foam . STRUTT-1890-1,3,351.270
+
+These tests with the alcohol and acetic acid are sufficient to
+illustrate the principle that the property of foaming depends on
+contamination . STRUTT-1890-1,3,351.271
+
+In pure ether we have a liquid from which the bubbles break even more
+quickly than from alcohol or water . STRUTT-1890-1,3,351.272
+
+They are gone in a moment . STRUTT-1890-1,3,351.273
+
+In some experiments I made at home I found that water containing a small
+proportion of ether <P_3,352> foamed freely ; STRUTT-1890-1,3,352.274
+
+but on attempting two or three days ago to repeat the experiment , I was
+surprised to find a result very different . STRUTT-1890-1,3,352.275
+
+I have here some water containing a very small fraction of ether , about
+1$$240th part . STRUTT-1890-1,3,352.276
+
+If I shake it up , it scarcely foams at all ; STRUTT-1890-1,3,352.277
+
+but another mixture made in the same proportion from another sample
+shows more tendency to foam . STRUTT-1890-1,3,352.278
+
+This is rather curious , because both ethers were supposed to be of the
+same quality ; STRUTT-1890-1,3,352.279
+
+but one had been in the laboratory longer than the other ,
+STRUTT-1890-1,3,352.280
+
+and perhaps contained more greasy matter in solution .
+STRUTT-1890-1,3,352.281
+
+Another liquid which foams freely is water impregnated with camphor .
+STRUTT-1890-1,3,352.282
+
+Camphor dissolves sparingly ; STRUTT-1890-1,3,352.283
+
+but a minute quantity of it quite alters the characteristics of water in
+this respect . STRUTT-1890-1,3,352.284
+
+Another substance , very minute quantities of which communicate the
+foaming property to water , is glue or gelatine .
+STRUTT-1890-1,3,352.285
+
+This liquid contains only 3 parts in 100,000 of gelatine ,
+STRUTT-1890-1,3,352.286
+
+but it gives a froth entirely different from that of pure water .
+STRUTT-1890-1,3,352.287
+
+Not only are there more bubbles , STRUTT-1890-1,3,352.288
+
+but the duration of the larger bubbles is quite out of proportion .
+STRUTT-1890-1,3,352.289
+
+This sample contains 5 parts in 100,000 , nearly double as much ;
+STRUTT-1890-1,3,352.290
+
+but even with but 1 part in 100,000 , the foaming property is so evident
+as to suggest that it might in certain cases prove valuable for
+indicating the presence of minute quantities of impurities .
+STRUTT-1890-1,3,352.291
+
+I have been speaking hitherto of those things which foam slightly .
+STRUTT-1890-1,3,352.292
+
+They are not to be compared with , say , a solution of soap in water ,
+which , as is well known to everybody , froths very vigorously .
+STRUTT-1890-1,3,352.293
+
+Another thing comparable to soap , but not so well known , is saponine .
+STRUTT-1890-1,3,352.294
+
+It may be prepared from horse chestnuts by simply cutting them in small
+slices and making an infusion with water . STRUTT-1890-1,3,352.295
+
+A small quantity of this infusion added to water makes it foam strongly
+. STRUTT-1890-1,3,352.296
+
+The quantity required to do this is even less than in the case of soap ;
+STRUTT-1890-1,3,352.297
+
+so the test is more delicate . STRUTT-1890-1,3,352.298
+
+It is well known that rivers often foam freely .
+STRUTT-1890-1,3,352.299
+
+That is no doubt due to the effect of saponine or some analogous
+substance . STRUTT-1890-1,3,352.300
+
+Sea-water foams , but not , I believe , on account of the saline matter
+it contains ; STRUTT-1890-1,3,352.301
+
+for I have found that even a strong solution of pure salt does not foam
+much . STRUTT-1890-1,3,352.302
+
+I believe it has been shown that the foaming of sea-water , often so
+conspicuous , is due to something extracted from seaweeds during the
+concussion which takes place under the action of breakers .
+STRUTT-1890-1,3,352.303
+
+Now let us consider for a moment what is the meaning of foaming .
+STRUTT-1890-1,3,352.304
+
+A liquid foams when its films have a certain durability .
+STRUTT-1890-1,3,352.305
+
+Even in the case of pure water , alcohol , and ether , these films exist
+. STRUTT-1890-1,3,352.306
+
+If a bubble rises , it is covered for a moment by a thin film of the
+liquid . STRUTT-1890-1,3,352.307
+
+This leads us to consider the properties of liquid films in general .
+STRUTT-1890-1,3,352.308
+
+One of their most important and striking properties is their tendency to
+contract . STRUTT-1890-1,3,352.309
+
+Such surfaces may be regarded as being in the condition of a stretched
+membrane , as of india-rubber , - only with this difference , that the
+tendency to contract never ceases . STRUTT-1890-1,3,352.310
+
+<P_3,353>
+
+We may show that by blowing a small soap bubble , and then removing the
+mouth . STRUTT-1890-1,3,353.312
+
+The air is forced back again by the pressure exerted on the bubble by
+the tension of the liquid . STRUTT-1890-1,3,353.313
+
+This ancient experiment suffices to prove conclusively that liquid films
+exercise tension . STRUTT-1890-1,3,353.314
+
+A prettier form of the same experiment is due to Van der Mensbrugghe ,
+who illustrated liquid tension by means of a film in which he allowed to
+float a loop of fine silk , tied in a knot . STRUTT-1890-1,3,353.315
+
+As long as the interior of the loop , as well as the exterior , is
+occupied by the liquid film , it shows no tendency to take any
+particular shape : STRUTT-1890-1,3,353.316
+
+but if , by insertion of , say , a bit of blotting paper , the film
+within the loop be ruptured , then the tension of the exterior film is
+free to act , STRUTT-1890-1,3,353.317
+
+and the thread flies instantaneously into the form of a circle , in
+consequence of the tendency of the exterior surface to become as small
+as possible . STRUTT-1890-1,3,353.318
+
+The exterior part is now occupied by the soap film ,
+STRUTT-1890-1,3,353.319
+
+and the interior is empty <bracket> shown <$$bracket> .
+STRUTT-1890-1,3,353.320
+
+Many other illustrations of this property of liquids might be given ,
+STRUTT-1890-1,3,353.321
+
+but time does not permit . STRUTT-1890-1,3,353.322
+
+In the soap film , as in the films which constitute ordinary foam , each
+thin layer of liquid has two surfaces ; STRUTT-1890-1,3,353.323
+
+each tends to contract ; STRUTT-1890-1,3,353.324
+
+but in many cases we have only one such surface to consider , as when a
+drop of rain falls through the air . STRUTT-1890-1,3,353.325
+
+Again , suppose that we have three materials in contact with one another
+, - water , oil , and air . STRUTT-1890-1,3,353.326
+
+There are three kinds of surfaces separating the three materials , one
+separating water and oil , another oil and air , and a third surface
+separating the water from the air . STRUTT-1890-1,3,353.327
+
+These three surfaces all exert a tension , STRUTT-1890-1,3,353.328
+
+and the shape of the mass of oil depends upon the relative magnitudes of
+the tensions . STRUTT-1890-1,3,353.329
+
+As I have drawn it here <paren> Fig. 1 <$$paren> , it is implied that
+the tension of the water-air surface is less than the sum of the other
+two tensions - those of the water-oil surface and the air-oil surface ;
+because the two latter acting obliquely balance the former .
+STRUTT-1890-1,3,353.330
+
+It is only under such conditions that the equilibrium of the three
+materials as there drawn in contact with one another is possible .
+STRUTT-1890-1,3,353.331
+
+If the tension of the surface separating water and air exceeded the sum
+of the other two , then the equilibrium as depicted would be impossible
+. STRUTT-1890-1,3,353.332
+
+The water-air tension , being greater , would assert its superiority by
+drawing out the edge of the lens , STRUTT-1890-1,3,353.333
+
+and the oil would tend to spread itself more and more over the surface .
+{COM:figure_omitted} STRUTT-1890-1,3,353.334
+
+And that is what really happens . STRUTT-1890-1,3,353.335
+
+Accurate measurements , made by Quincke and others , show that the
+surface tension separating water and air is really greater than the sum
+of the two others . STRUTT-1890-1,3,353.336
+
+So oil does tend to spread upon a surface of water and air .
+STRUTT-1890-1,3,353.337
+
+That this is the fact , we can prove by <P_3,354> a simple experiment .
+STRUTT-1890-1,3,354.338
+
+At the feet of our chairman is a large dish , containing water which at
+present is tolerably clean . STRUTT-1890-1,3,354.339
+
+In order to see what may happen to the surface of the water , it is
+dusted over with fine sulphur powder , and illuminated with the electric
+light . STRUTT-1890-1,3,354.340
+
+If I place on the surface a drop of water , no effect ensues ;
+STRUTT-1890-1,3,354.341
+
+but if I take a little oil , or better still a drop of saponine , or of
+soap-water , and allow that to be deposited upon the middle of the
+surface , we shall see a great difference . STRUTT-1890-1,3,354.342
+
+The surface suddenly becomes dark , the whole of the dust being swept
+away to the boundary . STRUTT-1890-1,3,354.343
+
+That is the result of the spread of the film , due to the presence of
+the oil . STRUTT-1890-1,3,354.344
+
+How then is it possible that we should get a lens-shaped mass of oil ,
+as we often do , floating upon the surface of water ?
+STRUTT-1890-1,3,354.345
+
+Seeing that the general tendency of oil is to spread over the surface of
+water , why does it not do so in this case ? STRUTT-1890-1,3,354.346
+
+The answer is that it has already spread , and that this surface is not
+really a pure water surface at all , but one contaminated with oil .
+STRUTT-1890-1,3,354.347
+
+It is in fact only after such contamination that an equilibrium of this
+kind is possible . STRUTT-1890-1,3,354.348
+
+The volume of oil necessary to contaminate the surface of the water is
+very small , as we shall see presently ; STRUTT-1890-1,3,354.349
+
+but I want to emphasise the point that , so far as we know , the
+equilibrium of the three surfaces in contact with one another is not
+possible under any other conditions . STRUTT-1890-1,3,354.350
+
+That is a fact not generally recognised . STRUTT-1890-1,3,354.351
+
+In many books you will find descriptions of three bodies in contact ,
+and a statement of the law of the angles at which they meet ; that the
+sides of a triangle , drawn parallel to the three intersecting surfaces
+, must be in proportion to the three tensions . STRUTT-1890-1,3,354.352
+
+No such equilibrium , and no such triangle , is possible if the
+materials are pure ; STRUTT-1890-1,3,354.353
+
+when it occurs , it can only be due to the contamination of one of the
+surfaces . STRUTT-1890-1,3,354.354
+
+These very thin films , which spread on water , and , with less freedom
+, on solids also , are of extreme tenuity ; STRUTT-1890-1,3,354.355
+
+and their existence , alongside of the lens , proves that the water
+prefers the thin film of oil to one of greater thickness .
+STRUTT-1890-1,3,354.356
+
+If the oil were spread out thickly , it would tend to gather itself back
+into drops , leaving over the surface of the water a film of less
+thickness than the molecular range . STRUTT-1890-1,3,354.357
+
+One experiment by which we may illustrate some of these effects I owe to
+my colleague , Professor Dewar . STRUTT-1890-1,3,354.358
+
+It shows the variation in the surface tension of water , due to the
+presence on it of small quantities of ether . STRUTT-1890-1,3,354.359
+
+I hold in my hand masses of charcoal , which can be impregnated with
+ether . STRUTT-1890-1,3,354.360
+
+The greater part of the surface of the charcoal is covered with paraffin
+wax , STRUTT-1890-1,3,354.361
+
+and , in consequence , the ether which has already penetrated the
+charcoal can only escape from it again on one side .
+STRUTT-1890-1,3,354.362
+
+The result is that the water in the rear of this boat of charcoal will
+be more impregnated with ether than the part in front ,
+STRUTT-1890-1,3,354.363
+
+so the mass of charcoal will enter into motion , STRUTT-1890-1,3,354.364
+
+and the motion will extend over a considerable interval of time .
+STRUTT-1890-1,3,354.365
+
+As long as the ether remains in sufficient quantity to contaminate the
+water in the rear , so long is there a tendency to movement of the mass
+. STRUTT-1890-1,3,354.366
+
+The water covered with the film of ether has less tension than the pure
+water in front , STRUTT-1890-1,3,354.367
+
+and the balance of tensions <P_3,355> being upset , the mass is put in
+motion . STRUTT-1890-1,3,355.368
+
+If the nature of the case is such that the whole surface surrounding the
+solid body is contaminated , then there is no tendency to movement , the
+same balance in fact obtaining as if the water were pure .
+STRUTT-1890-1,3,355.369
+
+Another body which we may use for this purpose is camphor .
+STRUTT-1890-1,3,355.370
+
+If we spread some camphor scrapings on a surface of pure water , they
+will , if the surface is quite clean , enter into vigorous movement , as
+you now see . STRUTT-1890-1,3,355.371
+
+This is because the dissolved camphor diminishes the surface tension of
+the water . STRUTT-1890-1,3,355.372
+
+But if I now contaminate the water with the least possible quantity of
+grease , the movements of the camphor will be stopped .
+STRUTT-1890-1,3,355.373
+
+I merely put my finger in , STRUTT-1890-1,3,355.374
+
+and you observe the effect . STRUTT-1890-1,3,355.375
+
+There is not much poetry about that ! STRUTT-1890-1,3,355.376
+
+A very slight film , perfectly invisible by ordinary means , is
+sufficient so to contaminate the water that the effect of the dissolved
+camphor is no longer visible . STRUTT-1890-1,3,355.377
+
+I was very desirous to ascertain , if possible , the actual thickness of
+oil necessary to produce this effect , because all data relating to
+molecules are , in the present state of science , of great interest .
+STRUTT-1890-1,3,355.378
+
+From what I have already said , you may imagine that the quantity of oil
+required is very small , and that its determination may be difficult .
+STRUTT-1890-1,3,355.379
+
+In my experiments , I used the surface of water contained in a large
+sponge bath three feet in diameter . STRUTT-1890-1,3,355.380
+
+By this extension of the surface , I was able to bring the quantity of
+oil required within the range of a sensitive balance .
+STRUTT-1890-1,3,355.381
+
+In Diagram 2 <bracket> see Vol. III. p. 349 <$$bracket> , I have
+given a number of results obtained at various dates , showing the
+quantity of oil required to produce the effects recorded in the fourth
+column . STRUTT-1890-1,3,355.382
+
+Knowing the weight of the oil deposit , and the area of the water
+surface upon which it was uniformly spread , it was easy to calculate
+the thickness of the film . STRUTT-1890-1,3,355.383
+
+It is seen that a film of oil about 1_1$$2_millionth of a millimetre
+thick is able to produce this change . STRUTT-1890-1,3,355.384
+
+I know that large numbers are not readily appreciated ,
+STRUTT-1890-1,3,355.385
+
+and I will therefore put the matter differently .
+STRUTT-1890-1,3,355.386
+
+The thickness of the oil film thus determined as sufficient to stop the
+motions of the camphor is 1$$400 of the wave-length of yellow light .
+STRUTT-1890-1,3,355.387
+
+Another way of saying the same thing is that this thickness of oil bears
+to one inch the same ratio that one second of time bears to half a year
+. STRUTT-1890-1,3,355.388
+
+When the movement of the camphor has been stopped by the addition of a
+minute quantity of oil , it is possible , by extending the water surface
+enclosed within the boundary , without increasing the quantity of oil ,
+to revive the movements of the camphor ; or , again , by contraction ,
+to stop them . STRUTT-1890-1,3,355.389
+
+I can do this with the aid of a flexible boundary of thin sheet brass ;
+STRUTT-1890-1,3,355.390
+
+and you see that the camphor recovers its activity , though a moment ago
+it was quite dead . STRUTT-1890-1,3,355.391
+
+It would be an interesting subject for investigation to determine what
+is the actual tension of an oily surface contaminated to an <P_3,356>
+extent just sufficient to stop the camphor movements ;
+STRUTT-1890-1,3,356.392
+
+but it is not an easy problem . STRUTT-1890-1,3,356.393
+
+Usually we determine surface tensions by the height to which the liquids
+will rise in very fine tubes . STRUTT-1890-1,3,356.394
+
+Here , however , that method is not available , because if we introduce
+a tube into such a surface , there is no proof that the contamination of
+the inner surface in the tube is the same as that prevailing outside .
+STRUTT-1890-1,3,356.395
+
+Another method , however , may be employed which is less open to the
+above objection , STRUTT-1890-1,3,356.396
+
+and that is to substitute for the very fine or capillary tube , a
+combination of two parallel plates open at their edges .
+STRUTT-1890-1,3,356.397
+
+We have here two such plates of glass , kept from absolutely closing by
+four pieces of thin metal inserted at the corners , the plates being
+held close against these distance-pieces by suitable clamps .
+STRUTT-1890-1,3,356.398
+
+If such a combination be inserted in water , the liquid will rise above
+the external level , STRUTT-1890-1,3,356.399
+
+and the amount of the rise is a measure of the surface tension of the
+water . STRUTT-1890-1,3,356.400
+
+You see now the image on the screen . STRUTT-1890-1,3,356.401
+
+<font> A <$$font> is the external water surface ;
+STRUTT-1890-1,3,356.402
+
+<font> B <$$font> is the height of the liquid contained between the
+glass plates , so that the tension may be said to be measured by the
+distance <font> AB . <$$font> STRUTT-1890-1,3,356.403
+
+If a little oil be now deposited upon the surface , it will find its way
+between the plates . STRUTT-1890-1,3,356.404
+
+The fall which you now see shows that the surface tension has been
+diminished by the oil which has found its way in .
+STRUTT-1890-1,3,356.405
+
+A very minute quantity will give a great effect .
+STRUTT-1890-1,3,356.406
+
+When the height of the pure water was measured by 62 , a small quantity
+of oil changed the 62 into 48 , STRUTT-1890-1,3,356.407
+
+and subsequent large additions of oil could only lower it to 38 .
+STRUTT-1890-1,3,356.408
+
+But after oil has done its worst , a further effect may be produced by
+the addition of soap . STRUTT-1890-1,3,356.409
+
+If Mr Gordon now adds some soap , we shall find that there is a still
+further fall in the level , showing that the whole tension now in
+operation is not much more than one-third of what it was at first .
+STRUTT-1890-1,3,356.410
+
+This is an important point , because it is sometimes supposed that the
+effect of soap in diminishing the tension of water is due merely to the
+formation upon the surface of a layer of oil by decomposition of the
+soap . STRUTT-1890-1,3,356.411
+
+This experiment proves the contrary , because we find that soap can do
+so much more than oil . STRUTT-1890-1,3,356.412
+
+There is , indeed , something more or less corresponding to the
+decomposition of the soap and the formation of a superficial layer of
+oil . STRUTT-1890-1,3,356.413
+
+But the decomposition takes place in a very peculiar manner , and under
+such conditions that there is a gradual transition from the soapy liquid
+in the interior to the oily layer at the top , and not , as when we
+float a layer of oil on water , two sudden transitions , first from
+water to oil , and secondly from oil to air . STRUTT-1890-1,3,356.414
+
+The difference is important , because , as I showed some years ago
+<bracket> Vol. I. p. 234 <$$bracket> , capillary tension depends on
+the suddenness of change . STRUTT-1890-1,3,356.415
+
+If we suppose that the change from one liquid to another takes place by
+slow stages , though the final change may be as before , the capillary
+tension would absolutely disappear . STRUTT-1890-1,3,356.416
+
+There is another very interesting class of phenomena due to oil films ,
+which I hope to illustrate , though I am conscious of the difficulty of
+the task , - namely , the action of oil in preventing the formation of
+waves . STRUTT-1890-1,3,356.417
+
+From <P_3,357> the earliest times we have records of the effect of oil
+in stilling waves , STRUTT-1890-1,3,357.418
+
+and all through the Middle Ages the effect was recognised , though
+connected with magic and fanciful explanations .
+STRUTT-1890-1,3,357.419
+
+Franklin , than whom , I suppose , no soberer inquirer ever existed ,
+made the thing almost a hobby . STRUTT-1890-1,3,357.420
+
+His attention was called to it accidentally on board ship from noticing
+the effect on the waves caused by the greasy debris of a dinner .
+STRUTT-1890-1,3,357.421
+
+The captain assured him that it was due to the oil spread on the water ,
+STRUTT-1890-1,3,357.422
+
+and for some time afterwards Franklin used to carry oil about with him ,
+so as never to miss a chance of trying an experiment .
+STRUTT-1890-1,3,357.423
+
+A pond is necessary to illustrate the phenomena properly ,
+STRUTT-1890-1,3,357.424
+
+but we shall get an idea of it by means of this trough six feet long ,
+containing water . STRUTT-1890-1,3,357.425
+
+Along the surface of the water we shall make an artificial wind by means
+of a fan , driven by an electro-motor . STRUTT-1890-1,3,357.426
+
+In my first experiments I used wind from an organ bellows , which is not
+here available . STRUTT-1890-1,3,357.427
+
+Presently we shall get up a ripple , STRUTT-1890-1,3,357.428
+
+and then we will try the effect of a drop of oil put on to windward .
+STRUTT-1890-1,3,357.429
+
+I have now put on the drop , STRUTT-1890-1,3,357.430
+
+and you see a smooth place advancing along . STRUTT-1890-1,3,357.431
+
+As soon as the waves come up again , I will repeat the experiment .
+STRUTT-1890-1,3,357.432
+
+While the wind is driving the oil away , I may mention that this matter
+has been tested at Peterhead . STRUTT-1890-1,3,357.433
+
+Experiments were there made on a large scale to demonstrate the effect
+of oil in facilitating the entrance of ships into harbour in rough
+weather . STRUTT-1890-1,3,357.434
+
+Much advantage was gained . STRUTT-1890-1,3,357.435
+
+But here a distinction must be observed . STRUTT-1890-1,3,357.436
+
+It is not that the large swell of the ocean is damped down .
+STRUTT-1890-1,3,357.437
+
+That would be impossible . STRUTT-1890-1,3,357.438
+
+The action in the first instance is upon the comparatively small ripples
+. STRUTT-1890-1,3,357.439
+
+The large waves are not directly affected by the oil ;
+STRUTT-1890-1,3,357.440
+
+but it seems as if the power of the wind to excite and maintain them is
+due to the small ripples which form on their backs , and give the wind ,
+as it were , a better hold of them . STRUTT-1890-1,3,357.441
+
+It is only in that way that large waves can be affected .
+STRUTT-1890-1,3,357.442
+
+The immediate effect is on the small waves which conduce to that
+breaking of the large waves which from the sailor's point of view is the
+worst danger . STRUTT-1890-1,3,357.443
+
+It is the breaking waters which do the mischief ,
+STRUTT-1890-1,3,357.444
+
+and these are quieted by the action of the oil .
+STRUTT-1890-1,3,357.445
+
+I want to show also , though it can only be seen by those near , the
+return of the oil when the wind is stopped . STRUTT-1890-1,3,357.446
+
+The oil is at present driven to one end of the trough ;
+STRUTT-1890-1,3,357.447
+
+when the wind stops , it will come back , because the oil film tends to
+spread itself uniformly over the surface . STRUTT-1890-1,3,357.448
+
+As it comes back , there will be an advancing wave of oil ;
+STRUTT-1890-1,3,357.449
+
+and as we light the surface very obliquely by the electric lamp , there
+is visible on the bottom of the trough a white line , showing its
+progress . STRUTT-1890-1,3,357.450
+
+<P_3,358>
+
+Now , as to the explanation . STRUTT-1890-1,3,358.452
+
+The first attempt on the right lines was made by the Italian physicist ,
+Marangoni . STRUTT-1890-1,3,358.453
+
+He drew attention to the importance of contamination upon the surface of
+the water , and to its tendency to spread itself uniformly ,
+STRUTT-1890-1,3,358.454
+
+but for some reason which I can@ @not understand , he applied the
+explanation wrongly . STRUTT-1890-1,3,358.455
+
+More recently Reynolds and Aitken have applied the same considerations
+with better success . STRUTT-1890-1,3,358.456
+
+The state of the case seems to be this : - STRUTT-1890-1,3,358.457
+
+Let us consider small waves as propagated over the surface of clean
+water . STRUTT-1890-1,3,358.458
+
+As the waves advance , the surface of the water has to submit to
+periodic extensions and contractions . STRUTT-1890-1,3,358.459
+
+At the crest of a wave the surface is compressed , while at the trough
+it is extended . STRUTT-1890-1,3,358.460
+
+As long as the water is pure there is no force to oppose that ,
+STRUTT-1890-1,3,358.461
+
+and the wave can be propagated without difficulty ;
+STRUTT-1890-1,3,358.462
+
+but if the surface be contaminated , the contimination strongly resists
+the alternate stretching and contraction . STRUTT-1890-1,3,358.463
+
+It tends always , on the contrary , to spread itself uniformly ;
+STRUTT-1890-1,3,358.464
+
+and the result is that the water refuses to lend itself to the motion
+which is required of it . STRUTT-1890-1,3,358.465
+
+The film of oil may be compared to an inextensible membrane floating on
+the surface of the water , and hampering its motion ;
+STRUTT-1890-1,3,358.466
+
+and under these conditions it is not possible for the waves to be
+generated , unless the forces are very much greater than usual .
+STRUTT-1890-1,3,358.467
+
+That is the explanation of the effect of oil in preventing the formation
+of waves . STRUTT-1890-1,3,358.468
+

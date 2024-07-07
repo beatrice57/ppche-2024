@@ -1,0 +1,2006 @@
+<BEGIN_doyle-1905-2>
+
+<P_26>
+
+<heading>
+
+<font> The Norwood Builder <$$font> DOYLE-1905-2,26.4
+
+<$$heading>
+
+' From the point of view of the criminal expert , ' said Mr Sherlock
+Holmes , ' London has become a singularly uninteresting city since the
+death of the late lamented Professor Moriarty . ' DOYLE-1905-2,26.6
+
+' I can hardly think that you would find many decent citizens to agree
+with you , ' I answered . DOYLE-1905-2,26.7
+
+' Well , well , I must not be selfish , ' said he , with a smile , as he
+pushed back his chair from the breakfast-table . DOYLE-1905-2,26.8
+
+' The community is certainly the gainer , and no one the loser , save
+the poor out-of-work specialist , whose occupation has gone .
+DOYLE-1905-2,26.9
+
+With that man in the field one's morning paper presented infinite
+possibilities . DOYLE-1905-2,26.10
+
+Often it was only the smallest trace , Watson , the faintest indication
+, DOYLE-1905-2,26.11
+
+and yet it was enough to tell me that the great malignant brain was
+there , as the gentlest tremors of the edges of the web remind one of
+the foul spider which lurks in the centre . DOYLE-1905-2,26.12
+
+Petty thefts , wanton assaults , purposeless outrage - to the man who
+held the clue all could be worked into one connected whole .
+DOYLE-1905-2,26.13
+
+To the scientific student of the higher criminal world no capital in
+Europe offered the advantages which London then possessed .
+DOYLE-1905-2,26.14
+
+But now - ' DOYLE-1905-2,26.15
+
+He shrugged his shoulders in humorous deprecation of the state of things
+which he had himself done so much to produce . DOYLE-1905-2,26.16
+
+At the time of which I speak , Holmes had been back for some months ,
+DOYLE-1905-2,26.17
+
+and I , at his request , had sold my practice and returned to share the
+old quarters in Baker Street . DOYLE-1905-2,26.18
+
+A young doctor , named Verner , had purchased my small Kensington
+practice , and given with astonishingly little demur the highest price
+that I ventured to ask - an incident which only explained itself some
+years later , when I found that Verner was a distant relation of
+Holmes's , and that it was my friend who had really found the money .
+DOYLE-1905-2,26.19
+
+<P_27>
+
+Our months of partnership had not been so uneventful as he had stated ,
+DOYLE-1905-2,27.21
+
+for I find , on looking over my notes , that this period includes the
+case of the papers of ex-President Murillo , and also the shocking
+affair of the Dutch steamship <font> Friesland <$$font> , which so
+nearly cost us both our lives . DOYLE-1905-2,27.22
+
+His cold and proud nature was always averse , however , to anything in
+the shape of public applause , DOYLE-1905-2,27.23
+
+and he bound me in the most stringent terms to say no further word of
+himself , his methods , or his successes - a prohibition which , as I
+have explained , has only now been removed . DOYLE-1905-2,27.24
+
+Mr Sherlock Holmes was leaning back in his chair after his whimsical
+protest , DOYLE-1905-2,27.25
+
+and was unfolding his morning paper in a leisurely fashion , when our
+attention was arrested by a tremendous ring at the bell , followed
+immediately by a hollow drumming sound , as if someone were beating on
+the outer door with his fist . DOYLE-1905-2,27.26
+
+As it opened there came a tumultuous rush into the hall ,
+DOYLE-1905-2,27.27
+
+rapid feet clattered up the stair , DOYLE-1905-2,27.28
+
+and an instant later a wild-eyed and frantic young man , pale ,
+dishevelled , and palpitating , burst into the room .
+DOYLE-1905-2,27.29
+
+He looked from one to the other of us , DOYLE-1905-2,27.30
+
+and under our gaze of inquiry he became conscious that some apology was
+needed for this unceremonious entry . DOYLE-1905-2,27.31
+
+' I@ @'m sorry , Mr Holmes , ' he cried . DOYLE-1905-2,27.32
+
+' You must@ @n't blame me . DOYLE-1905-2,27.33
+
+I am nearly mad . DOYLE-1905-2,27.34
+
+Mr Holmes , I am the unhappy John Hector McFarlane . '
+DOYLE-1905-2,27.35
+
+He made the announcement as if the name alone would explain both his
+visit and its manner , DOYLE-1905-2,27.36
+
+but I could see by my companion's unresponsive face that it meant no
+more to him than to me . DOYLE-1905-2,27.37
+
+' Have a cigarette , Mr McFarlane , ' said he , pushing his case across
+. DOYLE-1905-2,27.38
+
+' I am sure that with your symptoms my friend Dr Watson here would
+prescribe a sedative . DOYLE-1905-2,27.39
+
+The weather has been so very warm these last few days .
+DOYLE-1905-2,27.40
+
+Now , if you feel a little more composed , I should be glad if you would
+sit down in that chair and tell us very slowly and quietly who you are
+and what it is that you want . DOYLE-1905-2,27.41
+
+You mentioned your name as if I should recognize it , DOYLE-1905-2,27.42
+
+but I assure you that , beyond the {TEXT:missing_"the"} obvious facts
+that you are a bachelor , a solicitor , a <P_28> Freemason , and an
+asthmatic , I know nothing whatever about you . ' DOYLE-1905-2,28.43
+
+Familiar as I was with my friend's methods , it was not difficult for me
+to follow his deductions , and to observe the untidiness of attire , the
+sheaf of legal papers , the watch-charm , and the breathing which had
+prompted them . DOYLE-1905-2,28.44
+
+Our client , however , stared in amazement . DOYLE-1905-2,28.45
+
+' Yes , I am all that , Mr Holmes , DOYLE-1905-2,28.46
+
+and in addition I am the most unfortunate man at this moment in London .
+DOYLE-1905-2,28.47
+
+For God's sake do@ @n't abandon me , Mr Holmes ! DOYLE-1905-2,28.48
+
+If they come to arrest me before I have finished my story , make them
+give me time , so that I may tell you the whole truth .
+DOYLE-1905-2,28.49
+
+I could go to gaol happy if I knew that you were working for me outside
+. ' DOYLE-1905-2,28.50
+
+' Arrest you ! ' said Holmes . DOYLE-1905-2,28.51
+
+' This is really most grati- most interesting . DOYLE-1905-2,28.52
+
+On what charge do you expect to be arrested ? ' DOYLE-1905-2,28.53
+
+' Upon the charge of murdering Mr Jonas Oldacre , of Lower Norwood . '
+DOYLE-1905-2,28.54
+
+My companion's expressive face showed a sympathy which was not , I am
+afraid , entirely unmixed with satisfaction . DOYLE-1905-2,28.55
+
+' Dear me ! ' said he ; DOYLE-1905-2,28.56
+
+' it was only this moment at breakfast that I was saying to my friend ,
+Dr Watson , that sensational cases had disappeared out of our papers .
+' DOYLE-1905-2,28.57
+
+Our visitor stretched forward a quivering hand DOYLE-1905-2,28.58
+
+and picked up the <font> Daily Telegraph , <$$font> which still lay upon
+Holmes's knee . DOYLE-1905-2,28.59
+
+' If you had looked at it , sir , you would have seen at a glance what
+the errand is on which I have come to you this morning .
+DOYLE-1905-2,28.60
+
+I feel as if my name and my misfortune must be in every man's mouth . '
+DOYLE-1905-2,28.61
+
+He turned it over to expose the central page . DOYLE-1905-2,28.62
+
+' Here it is , DOYLE-1905-2,28.63
+
+and with your permission I will read it to you . DOYLE-1905-2,28.64
+
+Listen to this , Mr Holmes . DOYLE-1905-2,28.65
+
+The headlines are : Mysterious Affair at Lower Norwood . Disappearance
+of a Well-known Builder . Suspicion of Murder and Arson . A Clue to
+the Criminal . DOYLE-1905-2,28.66
+
+That is the clue which they are already following , Mr Holmes ,
+DOYLE-1905-2,28.67
+
+and I know that it leads infallibly to me . DOYLE-1905-2,28.68
+
+I have been followed from London Bridge Station , DOYLE-1905-2,28.69
+
+and I am sure that they are only waiting for the warrant to arrest me .
+DOYLE-1905-2,28.70
+
+It will break my mother's heart - DOYLE-1905-2,28.71
+
+it will break her heart ! ' DOYLE-1905-2,28.72
+
+He <P_29> wrung his hands in an agony of apprehension ,
+DOYLE-1905-2,29.73
+
+and swayed backwards and forwards in his chair . DOYLE-1905-2,29.74
+
+I looked with interest upon this man , who was accused of being the
+perpetrator of a crime of violence . DOYLE-1905-2,29.75
+
+He was flaxen-haired and handsome in a washed-out , negative fashion ,
+with frightened blue eyes and a clean-shaven face , with a weak ,
+sensitive mouth . DOYLE-1905-2,29.76
+
+His age may have been about twenty-seven ; his dress and bearing , that
+of a gentleman . DOYLE-1905-2,29.77
+
+From the pocket of his light summer overcoat protruded the bundle of
+endorsed papers which proclaimed his profession . DOYLE-1905-2,29.78
+
+' We must use what time we have , ' said Holmes . DOYLE-1905-2,29.79
+
+' Watson , would you have the kindness to take the paper and to read me
+the paragraph in question ? ' DOYLE-1905-2,29.80
+
+Underneath the vigorous headlines which our client had quoted I read the
+following suggestive narrative : DOYLE-1905-2,29.81
+
+' Late last night , or early this morning , an incident occurred at
+Lower Norwood which points , it is feared , to a serious crime .
+DOYLE-1905-2,29.82
+
+Mr Jonas Oldacre is a well-known resident of that suburb , where he has
+carried on his business as a builder for many years .
+DOYLE-1905-2,29.83
+
+Mr Oldacre is a bachelor , fifty-two years of age , DOYLE-1905-2,29.84
+
+and lives in Deep Dene House , at the Sydenham end of the road of that
+name . DOYLE-1905-2,29.85
+
+He has had the reputation of being a man of eccentric habits , secretive
+and retiring . DOYLE-1905-2,29.86
+
+For some years he has practically withdrawn from the business , in which
+he is said to have amassed considerable wealth . DOYLE-1905-2,29.87
+
+A small timber-yard still exists , however , at the back of the house ,
+DOYLE-1905-2,29.88
+
+and last night , about twelve o'clock , an alarm was given that one of
+the stacks was on fire . DOYLE-1905-2,29.89
+
+The engines were soon upon the spot , DOYLE-1905-2,29.90
+
+but the dry wood burned with great fury , DOYLE-1905-2,29.91
+
+and it was impossible to arrest the conflagration until the stack had
+been entirely consumed . DOYLE-1905-2,29.92
+
+Up to this point the incident bore the appearance of an ordinary
+accident , DOYLE-1905-2,29.93
+
+but fresh indications seem to point to serious crime .
+DOYLE-1905-2,29.94
+
+Surprise was expressed at the absence of the master of the establishment
+from the scene of the fire , DOYLE-1905-2,29.95
+
+and an inquiry followed , which showed that he had disappeared from the
+house . DOYLE-1905-2,29.96
+
+An examination of his room revealed that <P_30> the bed had not been
+slept in , that a safe which stood in it was open , that a number of
+important papers were scattered about the room , and , finally , that
+there were signs of a murderous struggle , slight traces of blood being
+found within the room , and an oaken walking-stick which also showed
+stains of blood upon the handle . DOYLE-1905-2,30.97
+
+It is known that Mr Jonas Oldacre had received a late visitor in his
+bedroom upon that night , DOYLE-1905-2,30.98
+
+and the stick found has been identified as the property of this person ,
+who is a young London solicitor named John Hector McFarlane , junior
+partner of Graham & McFarlane , of 426 Gresham Buildings , EC
+DOYLE-1905-2,30.99
+
+The police believe that they have evidence in their possession which
+supplies a very convincing motive for the crime , DOYLE-1905-2,30.100
+
+and altogether it can@ @not be doubted that sensational developments
+will follow . ' DOYLE-1905-2,30.101
+
+LATER - DOYLE-1905-2,30.102
+
+It is rumoured as we go to press that Mr John Hector McFarlane has
+actually been arrested on the charge of the murder of Mr Jonas Oldacre .
+DOYLE-1905-2,30.103
+
+It is at least certain that a warrant has been issued .
+DOYLE-1905-2,30.104
+
+There have been further and sinister developments in the investigation
+at Norwood . DOYLE-1905-2,30.105
+
+Besides the signs of a struggle in the room of the unfortunate builder ,
+it is now known that the French windows of his bedroom <paren> which is
+on the ground floor <$$paren> were found to be open , that there were
+marks as if some bulky object had been dragged across to the wood-pile ,
+DOYLE-1905-2,30.106
+
+and , finally , it is asserted that charred remains have been found
+among the charcoal ashes of the fire . DOYLE-1905-2,30.107
+
+The police theory is that a most sensational crime has been committed ,
+that the victim was clubbed to death in his own bedroom , his papers
+rifled , and his dead body dragged across to the wood-stack , which was
+then ignited so as to hide all traces of the crime .
+DOYLE-1905-2,30.108
+
+The conduct of the criminal investigation has been left in the
+experienced hands of Inspector Lestrade , of Scotland Yard , who is
+following up the clues with his accustomed energy and sagacity . '
+DOYLE-1905-2,30.109
+
+Sherlock Holmes listened with closed eyes and finger-tips together to
+this remarkable account . DOYLE-1905-2,30.110
+
+<P_31>
+
+' The case has certainly some points of interest , ' said he , in his
+languid fashion . DOYLE-1905-2,31.112
+
+' May I ask , in the first place , Mr McFarlane , how it is that you are
+still at liberty , since there appears to be enough evidence to justify
+your arrest ? ' DOYLE-1905-2,31.113
+
+' I live at Torrington Lodge , Blackheath , with my parents , Mr Holmes
+; DOYLE-1905-2,31.114
+
+but last night , having to do business very late with Mr Jonas Oldacre ,
+I stayed at an hotel in Norwood , DOYLE-1905-2,31.115
+
+and came to my business from there . DOYLE-1905-2,31.116
+
+I knew nothing of this affair until I was in the train , when I read
+what you have just heard . DOYLE-1905-2,31.117
+
+I at once saw the horrible danger of my position , DOYLE-1905-2,31.118
+
+and I hurried to put the case into your hands . DOYLE-1905-2,31.119
+
+I have no doubt that I should have been arrested either at my City
+office or at my home . DOYLE-1905-2,31.120
+
+A man followed me from London Bridge Station , DOYLE-1905-2,31.121
+
+and I have no doubt - DOYLE-1905-2,31.122
+
+Great heaven , what is that ? ' DOYLE-1905-2,31.123
+
+It was a clang of the bell , followed instantly by heavy steps upon the
+stair . DOYLE-1905-2,31.124
+
+A moment later our old friend Lestrade appeared in the doorway .
+DOYLE-1905-2,31.125
+
+Over his shoulder I caught a glimpse of one or two uniformed policemen
+outside . DOYLE-1905-2,31.126
+
+' Mr John Hector McFarlane , ' said Lestrade . DOYLE-1905-2,31.127
+
+Our unfortunate client rose with a ghastly face . DOYLE-1905-2,31.128
+
+' I arrest you for the wilful murder of Mr Jonas Oldacre of Lower
+Norwood . ' DOYLE-1905-2,31.129
+
+McFarlane turned to us with a gesture of despair , DOYLE-1905-2,31.130
+
+and sank into his chair once more like one who is crushed .
+DOYLE-1905-2,31.131
+
+' One moment , Lestrade , ' said Holmes . DOYLE-1905-2,31.132
+
+' Half an hour more or less can make no difference to you ,
+DOYLE-1905-2,31.133
+
+and the gentleman was about to give us an account of this very
+interesting affair , which might aid us in clearing it up . '
+DOYLE-1905-2,31.134
+
+' I think there will be no difficulty in clearing it up , ' said
+Lestrade grimly . DOYLE-1905-2,31.135
+
+' None the less , with your permission , I should be much interested to
+hear his account . ' DOYLE-1905-2,31.136
+
+' Well , Mr Holmes , it is difficult for me to refuse you anything ,
+DOYLE-1905-2,31.137
+
+for you have been of use to the Force once or twice in the past ,
+DOYLE-1905-2,31.138
+
+and we owe you a good turn at Scotland Yard , ' said Lestrade .
+DOYLE-1905-2,31.139
+
+' At the same time , I must remain with my prisoner ,
+DOYLE-1905-2,31.140
+
+and I am bound to warn him that anything he may say will appear in
+evidence against him . ' DOYLE-1905-2,31.141
+
+<P_32>
+
+' I wish nothing better , ' said our client . DOYLE-1905-2,32.143
+
+' All I ask is that you should hear and recognize the absolute truth .
+' DOYLE-1905-2,32.144
+
+Lestrade looked at his watch . DOYLE-1905-2,32.145
+
+' I@ @'ll give you half an hour , ' said he . DOYLE-1905-2,32.146
+
+' I must explain first , ' said McFarlane , ' that I knew nothing of Mr
+Jonas Oldacre . DOYLE-1905-2,32.147
+
+His name was familiar to me ; DOYLE-1905-2,32.148
+
+for many years ago my parents were acquainted with him ,
+DOYLE-1905-2,32.149
+
+but they drifted apart . DOYLE-1905-2,32.150
+
+I was very much surprised , therefore , when yesterday , about three
+o'clock in the afternoon , he walked into my office in the City .
+DOYLE-1905-2,32.151
+
+But I was still more astonished when he told me the object of his visit
+. DOYLE-1905-2,32.152
+
+He had in his hand several sheets of a note-book , covered with
+scribbled writing - DOYLE-1905-2,32.153
+
+here they are - DOYLE-1905-2,32.154
+
+and he laid them on my table . ' DOYLE-1905-2,32.155
+
+" Here is my will , " said he . DOYLE-1905-2,32.156
+
+" I want you , Mr McFarlane , to cast it into proper legal shape .
+DOYLE-1905-2,32.157
+
+I will sit here while you do so . " DOYLE-1905-2,32.158
+
+' I set myself to copy it , DOYLE-1905-2,32.159
+
+and you can imagine my astonishment when I found that , with some
+reservations , he had left all his property to me . DOYLE-1905-2,32.160
+
+He was a strange , little , ferret-like man , with white eyelashes ,
+DOYLE-1905-2,32.161
+
+and when I looked up at him I found his keen grey eyes fixed upon me
+with an amused expression . DOYLE-1905-2,32.162
+
+I could hardly believe my own senses as I read the terms of the will ;
+DOYLE-1905-2,32.163
+
+but he explained that he was a bachelor with hardly any living relation
+, that he had known my parents in his youth , and that he had always
+heard of me as a very deserving young man , and was assured that his
+money would be in worthy hands . DOYLE-1905-2,32.164
+
+Of course , I could only stammer out my thanks . DOYLE-1905-2,32.165
+
+The will was duly finished , signed , and witnessed by my clerk .
+DOYLE-1905-2,32.166
+
+This is it on the blue paper , DOYLE-1905-2,32.167
+
+and these slips , as I have explained , are the rough draft .
+DOYLE-1905-2,32.168
+
+Mr Jonas Oldacre then informed me that there were a number of documents
+- building leases , title-deeds , mortgages , scrip , and so forth -
+which it was necessary that I should see and understand .
+DOYLE-1905-2,32.169
+
+He said that his mind would not be easy until the whole thing was
+settled , DOYLE-1905-2,32.170
+
+and he begged me to come out to his house at Norwood that night ,
+bringing the will with me , and to arrange matters .
+DOYLE-1905-2,32.171
+
+" Remember , <P_33> my boy , not one word to your parents about the
+affair until everything is settled . DOYLE-1905-2,33.172
+
+We will keep it as a little surprise for them . " DOYLE-1905-2,33.173
+
+He was very insistent upon this point , DOYLE-1905-2,33.174
+
+and made me promise it faithfully . DOYLE-1905-2,33.175
+
+' You can imagine , Mr Holmes , that I was not in a humour to refuse him
+anything that he might ask . DOYLE-1905-2,33.176
+
+He was my benefactor , DOYLE-1905-2,33.177
+
+and all my desire was to carry out his wishes in every particular .
+DOYLE-1905-2,33.178
+
+I sent a telegram home , therefore , to say that I had important
+business on hand , and that it was impossible for me to say how late I
+might be . DOYLE-1905-2,33.179
+
+Mr Oldacre had told me that he would like me to have supper with him at
+nine , as he might not be home before that hour . DOYLE-1905-2,33.180
+
+I had some difficulty in finding his house , however ,
+DOYLE-1905-2,33.181
+
+and it was nearly half-@ @past before I reached it .
+DOYLE-1905-2,33.182
+
+I found him - ' DOYLE-1905-2,33.183
+
+' One moment ! ' said Holmes . DOYLE-1905-2,33.184
+
+' Who opened the door ? ' DOYLE-1905-2,33.185
+
+' A middle-aged woman , who was , I suppose , his house-keeper . '
+DOYLE-1905-2,33.186
+
+' And it was she , I presume , who mentioned your name ? '
+DOYLE-1905-2,33.187
+
+' Exactly , ' said McFarlane . DOYLE-1905-2,33.188
+
+' Pray proceed . ' DOYLE-1905-2,33.189
+
+Mr McFarlane wiped his damp brow , DOYLE-1905-2,33.190
+
+and then continued his narrative : DOYLE-1905-2,33.191
+
+' I was shown by this woman into a sitting-room , where a frugal supper
+was laid out . DOYLE-1905-2,33.192
+
+Afterwards Mr Jonas Oldacre led me into his bedroom , in which there
+stood a heavy safe . DOYLE-1905-2,33.193
+
+This he opened DOYLE-1905-2,33.194
+
+and took out a mass of documents , which we went over together .
+DOYLE-1905-2,33.195
+
+It was between eleven and twelve when we finished . DOYLE-1905-2,33.196
+
+He remarked that we must not disturb the housekeeper .
+DOYLE-1905-2,33.197
+
+He showed me out through his own French window , which had been open all
+this time . ' DOYLE-1905-2,33.198
+
+' Was the blind down ? ' asked Holmes . DOYLE-1905-2,33.199
+
+' I will not be sure , DOYLE-1905-2,33.200
+
+but I believe that it was only half down . DOYLE-1905-2,33.201
+
+Yes , I remember how he pulled it up in order to swing open the window .
+DOYLE-1905-2,33.202
+
+I could not find my stick , DOYLE-1905-2,33.203
+
+and he said , " Never mind , my boy ; DOYLE-1905-2,33.204
+
+I shall see a good deal of you now , I hope , DOYLE-1905-2,33.205
+
+and I will keep your stick until you come back to claim it . "
+DOYLE-1905-2,33.206
+
+I left him there , the safe open , and the papers made up in packets
+upon the table . DOYLE-1905-2,33.207
+
+It was so late that I could not get <P_34> back to Blackheath ,
+DOYLE-1905-2,34.208
+
+so I spent the night at the Anerley Arms , DOYLE-1905-2,34.209
+
+and I knew nothing more until I read of this horrible affair in the
+morning . ' DOYLE-1905-2,34.210
+
+' Anything more that you would like to ask , Mr Holmes ? ' said
+Lestrade , whose eyebrows had gone up once or twice during this
+remarkable explanation . DOYLE-1905-2,34.211
+
+' Not until I have been to Blackheath . ' DOYLE-1905-2,34.212
+
+' You mean to Norwood , ' said Lestrade . DOYLE-1905-2,34.213
+
+' Oh , yes ; no doubt that is what I must have meant , ' said Holmes ,
+with his enigmatical smile . DOYLE-1905-2,34.214
+
+Lestrade had learned by more experiences than he would care to
+acknowledge that that razor-like brain could cut through that which was
+impenetrable to him . DOYLE-1905-2,34.215
+
+I saw him look curiously at my companion . DOYLE-1905-2,34.216
+
+' I think I should like to have a word with you presently , Mr Sherlock
+Holmes , ' said he . DOYLE-1905-2,34.217
+
+' Now , Mr McFarlane , two of my constables are at the door ,
+DOYLE-1905-2,34.218
+
+and there is a four-wheeler waiting . ' DOYLE-1905-2,34.219
+
+The wretched young man arose , DOYLE-1905-2,34.220
+
+and with a last beseeching glance at us he walked from the room .
+DOYLE-1905-2,34.221
+
+The officers conducted him to the cab , DOYLE-1905-2,34.222
+
+but Lestrade remained . DOYLE-1905-2,34.223
+
+Holmes had picked up the pages which formed the rough draft of the will
+, DOYLE-1905-2,34.224
+
+and was looking at them with the keenest interest upon his face .
+DOYLE-1905-2,34.225
+
+' There are some points about that document , Lestrade , are there not ?
+' said he , pushing them over DOYLE-1905-2,34.226
+
+. The official looked at them with a puzzled expression .
+DOYLE-1905-2,34.227
+
+' I can read the first few lines , and these in the middle of the second
+page , and one or two at the end . DOYLE-1905-2,34.228
+
+Those are as clear as print , ' said he ; DOYLE-1905-2,34.229
+
+' but the writing in between is very bad , DOYLE-1905-2,34.230
+
+and there are three places where I can@ @not read it at all . '
+DOYLE-1905-2,34.231
+
+' What do you make of that ? ' said Holmes . DOYLE-1905-2,34.232
+
+' Well , what do <font> you <$$font> make of it ? ' DOYLE-1905-2,34.233
+
+' That it was written in a train ; DOYLE-1905-2,34.234
+
+the good writing represents stations , the bad writing , movement , and
+the very bad writing , passing over points . DOYLE-1905-2,34.235
+
+A scientific expert would pronounce at once that this was drawn up on a
+suburban line , since nowhere save in the immediate vicinity of a great
+city <P_35> could there be so quick a succession of points .
+DOYLE-1905-2,35.236
+
+Granting that his whole journey was occupied in drawing up the will ,
+then the train was an express , only stopping once between Norwood and
+London Bridge . ' DOYLE-1905-2,35.237
+
+Lestrade began to laugh . DOYLE-1905-2,35.238
+
+' You are too many for me when you begin to get on your theories , Mr
+Holmes , ' said he . DOYLE-1905-2,35.239
+
+' How does this bear on the case ? ' DOYLE-1905-2,35.240
+
+' Well , it corroborates the young man's story to the extent that the
+will was drawn up by Jonas Oldacre in his journey yesterday .
+DOYLE-1905-2,35.241
+
+It is curious - is it not ? - that a man should draw up so important a
+document in so haphazard a fashion . DOYLE-1905-2,35.242
+
+It suggests that he did not think it was going to be of much practical
+importance . DOYLE-1905-2,35.243
+
+If a man drew up a will which he did not intend ever to be effective he
+might do it so . ' DOYLE-1905-2,35.244
+
+' Well , he drew up his own death-warrant at the same time , ' said
+Lestrade . DOYLE-1905-2,35.245
+
+' Oh , you think so ? ' DOYLE-1905-2,35.246
+
+' Do@ @n't you ? ' DOYLE-1905-2,35.247
+
+' Well , it is quite possible ; DOYLE-1905-2,35.248
+
+but the case is not clear to me yet . ' DOYLE-1905-2,35.249
+
+' Not clear ? DOYLE-1905-2,35.250
+
+Well , if that is@ @n't clear , what <font> could <$$font> be clearer ?
+DOYLE-1905-2,35.251
+
+Here is a young man who learns suddenly that if a certain older man dies
+he will succeed to a fortune . DOYLE-1905-2,35.252
+
+What does he do ? DOYLE-1905-2,35.253
+
+He says nothing to anyone , DOYLE-1905-2,35.254
+
+but he arranges that he shall go out on some pretext to see his client
+that night ; DOYLE-1905-2,35.255
+
+he waits until the only other person in the house is in bed ,
+DOYLE-1905-2,35.256
+
+and then in the solitude of the man's room he murders him ,
+DOYLE-1905-2,35.257
+
+burns his body in the wood-pile , DOYLE-1905-2,35.258
+
+and departs to a neighbouring hotel . DOYLE-1905-2,35.259
+
+The blood-stains in the room and also on the stick are very slight .
+DOYLE-1905-2,35.260
+
+It is probable that he imagined his crime to be a bloodless one , and
+hoped that if the body were consumed it would hide all traces of the
+method of his death - traces which for some reason must have pointed to
+him . DOYLE-1905-2,35.261
+
+Is all this not obvious ? ' DOYLE-1905-2,35.262
+
+' It strikes me , my good Lestrade , as being just a trifle too obvious
+, ' said Holmes . DOYLE-1905-2,35.263
+
+' You do not add imagination to your other great qualities ;
+DOYLE-1905-2,35.264
+
+but if you could for one moment put <P_36> yourself in the place of this
+young man , would you choose the very night after the will had been made
+to commit your crime ? DOYLE-1905-2,36.265
+
+Would it not seem dangerous to you to make so very close a relation
+between the two incidents ? DOYLE-1905-2,36.266
+
+Again , would you choose an occasion when you are known to be in the
+house , when a servant has let you in ? DOYLE-1905-2,36.267
+
+And , finally , would you take the great pains to conceal the body and
+yet leave your own stick as a sign that you were the criminal ?
+DOYLE-1905-2,36.268
+
+Confess , Lestrade , that all this is very unlikely '
+DOYLE-1905-2,36.269
+
+' As to the stick , Mr Holmes , you know as well as I do that a criminal
+is often flurried and does things which a cool man would avoid .
+DOYLE-1905-2,36.270
+
+He was very likely afraid to go back to the room . DOYLE-1905-2,36.271
+
+Give me another theory that would fit the facts . ' DOYLE-1905-2,36.272
+
+' I could very easily give you half_a_dozen , ' said Holmes .
+DOYLE-1905-2,36.273
+
+' Here , for example , is a very possible and even probable one .
+DOYLE-1905-2,36.274
+
+I make you a free present of it . DOYLE-1905-2,36.275
+
+The older man is showing documents which are of evident value .
+DOYLE-1905-2,36.276
+
+A passing tramp sees them through the window , the blind of which is
+only half down . DOYLE-1905-2,36.277
+
+Exit the solicitor . DOYLE-1905-2,36.278
+
+Enter the tramp ! DOYLE-1905-2,36.279
+
+He seizes a stick , which he observes there , DOYLE-1905-2,36.280
+
+kills Oldacre , DOYLE-1905-2,36.281
+
+and departs after burning the body . ' DOYLE-1905-2,36.282
+
+' Why should the tramp burn the body ? ' DOYLE-1905-2,36.283
+
+' For the matter of that , why should McFarlane ? ' DOYLE-1905-2,36.284
+
+' To hide some evidence . DOYLE-1905-2,36.285
+
+' Possibly the tramp wanted to hide that any murder at all had been
+committed . ' DOYLE-1905-2,36.286
+
+' And why did the tramp take nothing ? ' DOYLE-1905-2,36.287
+
+' Because they were papers that he could not negotiate . '
+DOYLE-1905-2,36.288
+
+Lestrade shook his head , though it seemed to me that his manner was
+less absolutely assured than before . DOYLE-1905-2,36.289
+
+' Well , Mr Sherlock Holmes , you may look for your tramp ,
+DOYLE-1905-2,36.290
+
+and while you are finding him we will hold on to our man .
+DOYLE-1905-2,36.291
+
+The future will show which is right . DOYLE-1905-2,36.292
+
+Just notice this point , Mr Holmes - that so far as we know none of the
+papers were removed , and that the prisoner is the one man in the world
+who had no reason for removing them since he was heir-at-law and would
+come into them in any case . ' DOYLE-1905-2,36.293
+
+My friend seemed struck by this remark . DOYLE-1905-2,36.294
+
+<P_37>
+
+' I do@ @n't mean to deny that the evidence is in some ways very
+strongly in favour of your theory , ' said he . DOYLE-1905-2,37.296
+
+' I only wish to point out that there are other theories possible .
+DOYLE-1905-2,37.297
+
+As you say , the future will decide . DOYLE-1905-2,37.298
+
+Good morning ! DOYLE-1905-2,37.299
+
+I dare say that in the course of the day I shall drop in at Norwood and
+see how you are getting on . ' DOYLE-1905-2,37.300
+
+When the detective departed my friend rose DOYLE-1905-2,37.301
+
+and made his preparations for the day's work with the alert air of a man
+who has a congenial task before him . DOYLE-1905-2,37.302
+
+' My first movement , Watson , ' said he , as he bustled into his
+frock-coat , ' must , as I said , be in the direction of Blackheath . '
+DOYLE-1905-2,37.303
+
+' And why not Norwood ? ' DOYLE-1905-2,37.304
+
+' Because we have in this case one singular incident coming close to the
+heels of another singular incident . DOYLE-1905-2,37.305
+
+The police are making the mistake of concentrating their attention upon
+the second because it happens to be the one which is actually criminal .
+DOYLE-1905-2,37.306
+
+But it is evident to me that the logical way to approach the case is to
+begin by trying to throw some light upon the first incident - the
+curious will , so suddenly made , and to so unexpected an heir .
+DOYLE-1905-2,37.307
+
+It may do something to simplify what followed . DOYLE-1905-2,37.308
+
+No , my dear fellow , I do@ @n't think you can help me .
+DOYLE-1905-2,37.309
+
+There is no prospect of danger , DOYLE-1905-2,37.310
+
+or I should not dream of stirring out without you . DOYLE-1905-2,37.311
+
+I trust that when I see you in the evening I will be able to report that
+I have been able to do something for this unfortunate youngster who has
+thrown himself upon my protection . ' DOYLE-1905-2,37.312
+
+It was late when my friend returned , DOYLE-1905-2,37.313
+
+and I could see by a glance at his haggard and anxious face that the
+high hopes with which he had started had not been fulfilled .
+DOYLE-1905-2,37.314
+
+For an hour he droned away upon his violin , endeavouring to soothe his
+own ruffled spirits . DOYLE-1905-2,37.315
+
+At last he flung down the instrument DOYLE-1905-2,37.316
+
+and plunged into a detailed account of his misadventures .
+DOYLE-1905-2,37.317
+
+' It@ @'s all going wrong , Watson - all as wrong as it can go .
+DOYLE-1905-2,37.318
+
+I kept a bold face before Lestrade , DOYLE-1905-2,37.319
+
+but , upon my soul , I believe that for once the fellow is on the right
+track and we <P_38> are on the wrong . DOYLE-1905-2,38.320
+
+All my instincts are one way , DOYLE-1905-2,38.321
+
+and all the facts are the other , DOYLE-1905-2,38.322
+
+and I much fear that British juries have not yet attained that pitch of
+intelligence when they will give the preference to my theories over
+Lestrade's facts . ' DOYLE-1905-2,38.323
+
+' Did you go to Blackheath ? ' DOYLE-1905-2,38.324
+
+' Yes , Watson , I went there , DOYLE-1905-2,38.325
+
+and I found very quickly that the late lamented Oldacre was a pretty
+considerable blackguard . DOYLE-1905-2,38.326
+
+The father was away in search of his son . DOYLE-1905-2,38.327
+
+The mother was at home - a little , fluffy , blue-eyed person , in a
+tremor of fear and indignation . DOYLE-1905-2,38.328
+
+Of course , she would not admit even the possibility of his guilt .
+DOYLE-1905-2,38.329
+
+But she would not express either surprise or regret over the fate of
+Oldacre . DOYLE-1905-2,38.330
+
+On the contrary , she spoke of him with such bitterness that she was
+unconsciously considerably strengthening the case of the police ;
+DOYLE-1905-2,38.331
+
+for , of course , if the son had heard her speak of the man in that
+fashion it would predispose him towards hatred and violence .
+DOYLE-1905-2,38.332
+
+" He was more like a malignant and cunning ape than a human being , "
+said she , DOYLE-1905-2,38.333
+
+" and he always was , ever since he was a young man . "
+DOYLE-1905-2,38.334
+
+' " You knew him at the time ? " said I . ' DOYLE-1905-2,38.335
+
+" Yes , I knew him well ; DOYLE-1905-2,38.336
+
+in fact , he was an old suitor of mine . DOYLE-1905-2,38.337
+
+Thank God that I had the sense to turn away from him and to marry a
+better , if a poorer , man . DOYLE-1905-2,38.338
+
+I was engaged to him , Mr Holmes , when I heard a shocking story of how
+he had turned a cat loose in an aviary , DOYLE-1905-2,38.339
+
+and I was so horrified at his brutal cruelty that I would have nothing
+more to do with him . " DOYLE-1905-2,38.340
+
+She rummaged in a bureau , DOYLE-1905-2,38.341
+
+and presently she produced a photograph of a woman , shamefully defaced
+and mutilated with a knife . DOYLE-1905-2,38.342
+
+" That is my own photograph , " said she . DOYLE-1905-2,38.343
+
+" He sent it to me in that state , with his curse , upon my wedding
+morning . " DOYLE-1905-2,38.344
+
+' " Well , " said I , " at least he has forgiven you now , since he has
+left all his property to your son . " DOYLE-1905-2,38.345
+
+' " Neither my son nor I want anything from Jonas Old-acre , dead or
+alive , " she cried , with a proper spirit . DOYLE-1905-2,38.346
+
+" There is a God in heaven , Mr Holmes , DOYLE-1905-2,38.347
+
+and that same God who has punished that wicked man will show in His own
+good time that my son's hands are guiltless of his blood . "
+DOYLE-1905-2,38.348
+
+<P_39>
+
+' Well , I tried one or two leads , DOYLE-1905-2,39.350
+
+but could get at nothing which would help our hypothesis , and several
+points which would make against it . DOYLE-1905-2,39.351
+
+I gave it up at last , DOYLE-1905-2,39.352
+
+and off I went to Norwood . DOYLE-1905-2,39.353
+
+' This place , Deep Dene House , is a big modern villa of staring brick
+, standing back in its own grounds , with a laurel-clumped lawn in front
+of it . DOYLE-1905-2,39.354
+
+To the right and some distance back from the road was the timber-yard
+which had been the scene of the fire . DOYLE-1905-2,39.355
+
+Here@ @'s a rough plan on a leaf of my note-book . DOYLE-1905-2,39.356
+
+This window on the left is the one which opens into Oldacre's room .
+DOYLE-1905-2,39.357
+
+You can look into it from the road , you see . DOYLE-1905-2,39.358
+
+That is about the only bit of consolation I have had to-day .
+DOYLE-1905-2,39.359
+
+Lestrade was not there , DOYLE-1905-2,39.360
+
+but his head constable did the honours . DOYLE-1905-2,39.361
+
+They had just made a great treasure-trove . DOYLE-1905-2,39.362
+
+They had spent the morning raking among the ashes of the burned
+wood-pile DOYLE-1905-2,39.363
+
+and besides the charred organic remains they had secured several
+discoloured metal discs . DOYLE-1905-2,39.364
+
+I examined them with care , DOYLE-1905-2,39.365
+
+and there was no doubt that they were trouser buttons .
+DOYLE-1905-2,39.366
+
+I even distinguished that one of them was marked with the name of "
+Hyams " , who was Oldacre's tailor . DOYLE-1905-2,39.367
+
+I then worked the lawn very carefully for signs and traces ,
+DOYLE-1905-2,39.368
+
+but this drought has made everything as hard as iron .
+DOYLE-1905-2,39.369
+
+Nothing was to be seen save that somebody or a bundle had been dragged
+through a low privet hedge which is in a line with the wood-pile .
+DOYLE-1905-2,39.370
+
+All that , of course , fits in with the official theory .
+DOYLE-1905-2,39.371
+
+I crawled about the lawn with an August sun on my back .
+DOYLE-1905-2,39.372
+
+But I got up at the end of an hour no wiser than before .
+DOYLE-1905-2,39.373
+
+' Well , after this fiasco I went into the bedroom DOYLE-1905-2,39.374
+
+and examined that also . DOYLE-1905-2,39.375
+
+The blood-stains were very slight , mere smears and discolorations , but
+undoubtedly fresh . DOYLE-1905-2,39.376
+
+The stick had been removed , DOYLE-1905-2,39.377
+
+but there also the marks were slight . DOYLE-1905-2,39.378
+
+There is no doubt about the stick belonging to our client .
+DOYLE-1905-2,39.379
+
+He admits it . DOYLE-1905-2,39.380
+
+Footmarks of both men could be made out on the carpet , but none of any
+third person , which again is a trick for the other side .
+DOYLE-1905-2,39.381
+
+They were piling up their score all the time , DOYLE-1905-2,39.382
+
+and we were at a standstill . DOYLE-1905-2,39.383
+
+' Only one little gleam of hope did I get - DOYLE-1905-2,39.384
+
+and yet it amounted to nothing . DOYLE-1905-2,39.385
+
+I examined the contents of the safe , <P_40> most of which had been
+taken out and left on the table . DOYLE-1905-2,40.386
+
+The papers had been made up into sealed envelopes , one or two of which
+had been opened by the police . DOYLE-1905-2,40.387
+
+They were not , so far as I could judge , of any great value ,
+DOYLE-1905-2,40.388
+
+nor did the bankbook show that Mr Oldacre was in such very affluent
+circumstances . DOYLE-1905-2,40.389
+
+But it seemed to me that all the papers were not there .
+DOYLE-1905-2,40.390
+
+There were allusions to some deeds - possibly the more valuable - which
+I could not find . DOYLE-1905-2,40.391
+
+This , of course , if we could definitely prove it , would turn
+Lestrade's argument against himself , DOYLE-1905-2,40.392
+
+for who would steal a thing if he knew that he would shortly inherit it
+? DOYLE-1905-2,40.393
+
+' Finally , having drawn every other cover and picked up no scent , I
+tried my luck with the housekeeper . DOYLE-1905-2,40.394
+
+Mrs Lexington is her name , a little , dark , silent person , with
+suspicious and sidelong eyes . DOYLE-1905-2,40.395
+
+She could tell us something if she would - DOYLE-1905-2,40.396
+
+I am convinced of it . DOYLE-1905-2,40.397
+
+But she was as close as wax . DOYLE-1905-2,40.398
+
+Yes , she had let Mr McFarlane in at half-@ @past nine .
+DOYLE-1905-2,40.399
+
+She wished her hand had withered before she had done so .
+DOYLE-1905-2,40.400
+
+She had gone to bed at half-@ @past ten . DOYLE-1905-2,40.401
+
+Her room was at the other end of the house , DOYLE-1905-2,40.402
+
+and she could hear nothing of what passed . DOYLE-1905-2,40.403
+
+Mr McFarlane had left his hat , and to the best of her belief his stick
+, in the hall . DOYLE-1905-2,40.404
+
+She had been awakened by the alarm of fire . DOYLE-1905-2,40.405
+
+Her poor , dear master had certainly been murdered .
+DOYLE-1905-2,40.406
+
+Had he any enemies ? DOYLE-1905-2,40.407
+
+Well , every man had enemies , DOYLE-1905-2,40.408
+
+but Mr Oldacre kept himself very much to himself , DOYLE-1905-2,40.409
+
+and only met people in the way of business . DOYLE-1905-2,40.410
+
+She had seen the buttons , DOYLE-1905-2,40.411
+
+and was sure that they belonged to the clothes which he had worn last
+night . DOYLE-1905-2,40.412
+
+The wood-pile was very dry , DOYLE-1905-2,40.413
+
+for it had not rained for a month . DOYLE-1905-2,40.414
+
+It burned like a tinder , DOYLE-1905-2,40.415
+
+and by the time she reached the spot nothing could be seen but flames .
+DOYLE-1905-2,40.416
+
+She and all the firemen smelled the burned flesh from inside it .
+DOYLE-1905-2,40.417
+
+She knew nothing of the papers , nor of Mr Oldacre's private affairs .
+DOYLE-1905-2,40.418
+
+' So , my dear Watson , there@ @'s my report of a failure .
+DOYLE-1905-2,40.419
+
+And yet - and yet ' - he clenched his thin hands in a paroxysm of
+conviction - ' I <font> know <$$font> it@ @'s all wrong .
+DOYLE-1905-2,40.420
+
+I feel it in my bones . DOYLE-1905-2,40.421
+
+There is something that has not come out , DOYLE-1905-2,40.422
+
+and that housekeeper knows it . DOYLE-1905-2,40.423
+
+There was a sort of sulky defiance in her <P_41> eyes which only goes
+with guilty knowledge . DOYLE-1905-2,41.424
+
+However , there@ @'s no good talking any more about it , Watson ;
+DOYLE-1905-2,41.425
+
+but unless some lucky chance comes our way I fear that the Norwood
+Disappearance Case will not figure in that chronicle of our successes
+which I foresee that a patient public will sooner or later have to
+endure ' DOYLE-1905-2,41.426
+
+' Surely , ' said I , ' the man's appearance would go far with any jury
+? ' DOYLE-1905-2,41.427
+
+' That is a dangerous argument , my dear Watson . DOYLE-1905-2,41.428
+
+You remember that terrible murderer , Bert Stevens , who wanted us to
+get him off in '87 ? DOYLE-1905-2,41.429
+
+Was there ever a more mild-mannered , Sunday-school young man ? '
+DOYLE-1905-2,41.430
+
+' It is true . ' DOYLE-1905-2,41.431
+
+' Unless we succeed in establishing an alternative theory , this man is
+lost . DOYLE-1905-2,41.432
+
+You can hardly find a flaw in the case which can now be presented
+against him , DOYLE-1905-2,41.433
+
+and all further investigation has served to strengthen it .
+DOYLE-1905-2,41.434
+
+By the way , there is one curious little point about those papers which
+may serve us as the starting-point for an inquiry . DOYLE-1905-2,41.435
+
+On looking over the bank book I found that the low state of the balance
+was principally due to large cheques which have been made out during the
+last year to Mr Cornelius . DOYLE-1905-2,41.436
+
+I confess that I should be interested to know who this Mr Cornelius may
+be with whom a retired builder has such very large transactions .
+DOYLE-1905-2,41.437
+
+Is it possible that he has had a hand in the affair ?
+DOYLE-1905-2,41.438
+
+Cornelius might be a broker , DOYLE-1905-2,41.439
+
+but we have found no scrip to correspond with these large payments .
+DOYLE-1905-2,41.440
+
+Failing any other indication , my researches must now take the direction
+of an inquiry at the bank for the gentleman who has cashed these cheques
+. DOYLE-1905-2,41.441
+
+But I fear , my dear fellow , that our case will end ingloriously by
+Lestrade hanging our client , which will certainly be a triumph for
+Scotland Yard . ' DOYLE-1905-2,41.442
+
+I do not know how far Sherlock Holmes took any sleep that night ,
+DOYLE-1905-2,41.443
+
+but when I came down to breakfast I found him pale and harassed , his
+bright eyes the brighter for the dark shadows round them .
+DOYLE-1905-2,41.444
+
+The carpet round his chair was littered with cigarette ends and with the
+early editions of the morning papers . DOYLE-1905-2,41.445
+
+An open telegram lay upon the table . DOYLE-1905-2,41.446
+
+<P_42>
+
+' What do you think of this , Watson ? ' he asked , tossing it across .
+DOYLE-1905-2,42.448
+
+It was from Norwood , DOYLE-1905-2,42.449
+
+and ran as follows : DOYLE-1905-2,42.450
+
+IMPORTANT FRESH EVIDENCE TO HAND . DOYLE-1905-2,42.451
+
+MCFARLANE'S GUILT DEFINITELY ESTABLISHED . DOYLE-1905-2,42.452
+
+ADVISE YOU TO ABANDON CASE . DOYLE-1905-2,42.453
+
+LESTRADE DOYLE-1905-2,42.454
+
+' This sounds serious , ' said I . DOYLE-1905-2,42.455
+
+' It is Lestrade's little cock-a-doodle of victory , ' Holmes answered ,
+with a bitter smile . DOYLE-1905-2,42.456
+
+' And yet it may be premature to abandon the case . DOYLE-1905-2,42.457
+
+After all , important fresh evidence is a two-edged thing ,
+DOYLE-1905-2,42.458
+
+and may possibly cut in a very different direction to that which
+Lestrade imagines . DOYLE-1905-2,42.459
+
+Take your breakfast , Watson , DOYLE-1905-2,42.460
+
+and we will go out together and see what we can do .
+DOYLE-1905-2,42.461
+
+I feel as if I shall need your company and your moral support to-day .
+' DOYLE-1905-2,42.462
+
+My friend had no breakfast himself , DOYLE-1905-2,42.463
+
+for it was one of his peculiarities that in his more intense moments he
+would permit himself no food , DOYLE-1905-2,42.464
+
+and I have known him presume upon his iron strength until he has fainted
+from pure inanition . DOYLE-1905-2,42.465
+
+' At present I can@ @not spare energy and nerve force for digestion , '
+he would say , in answer to my medical remonstrances .
+DOYLE-1905-2,42.466
+
+I was not surprised , therefore , when this morning he left his
+untouched meal behind him and started with me for Norwood .
+DOYLE-1905-2,42.467
+
+A crowd of morbid sightseers were still gathered round Deep Dene House ,
+which was just such a suburban villa as I had pictured .
+DOYLE-1905-2,42.468
+
+Within the gates Lestrade met us , his face flushed with victory , his
+manner grossly triumphant . DOYLE-1905-2,42.469
+
+' Well , Mr Holmes , have you proved us to be wrong yet ?
+DOYLE-1905-2,42.470
+
+Have you found your tramp ? ' he cried . DOYLE-1905-2,42.471
+
+' I have formed no conclusion whatever , ' my companion answered .
+DOYLE-1905-2,42.472
+
+' But we formed ours yesterday , DOYLE-1905-2,42.473
+
+and now it proves to be correct ; DOYLE-1905-2,42.474
+
+so you must acknowledge that we have been a little in front of you this
+time , Mr Holmes . ' DOYLE-1905-2,42.475
+
+' You certainly have the air of something unusual having occurred , '
+said Holmes . DOYLE-1905-2,42.476
+
+<P_43>
+
+Lestrade laughed loudly . DOYLE-1905-2,43.478
+
+' You do@ @n't like being beaten any more than the rest of us do , '
+said he . DOYLE-1905-2,43.479
+
+' A man ca@ @n't expect always to have it his own way - can he , Dr
+Watson ? DOYLE-1905-2,43.480
+
+Step this way , if you please , gentlemen , DOYLE-1905-2,43.481
+
+and I think I can convince you once for all that it was John McFarlane
+who did this crime . ' DOYLE-1905-2,43.482
+
+He led us through the passage and out into a dark hall beyond .
+DOYLE-1905-2,43.483
+
+' This is where young McFarlane must have come out to get his hat after
+the crime was done , ' said he . DOYLE-1905-2,43.484
+
+' Now look at this . ' DOYLE-1905-2,43.485
+
+With dramatic suddenness he struck a match , DOYLE-1905-2,43.486
+
+and by its light exposed a stain of blood upon the whitewashed wall .
+DOYLE-1905-2,43.487
+
+As he held the match nearer I saw that it was more than a stain .
+DOYLE-1905-2,43.488
+
+It was the well-marked print of a thumb . DOYLE-1905-2,43.489
+
+' Look at that with your magnifying glass , Mr Holmes . '
+DOYLE-1905-2,43.490
+
+' Yes , I am doing so . ' DOYLE-1905-2,43.491
+
+' You are aware that no two thumb-marks are alike ? '
+DOYLE-1905-2,43.492
+
+' I have heard something of the kind . ' DOYLE-1905-2,43.493
+
+' Well , then , will you please compare that print with this wax
+impression of young McFarlane's right thumb , taken by my orders this
+morning ? ' DOYLE-1905-2,43.494
+
+As he held the waxen print close to the blood-stain it did not take a
+magnifying glass to see that the two were undoubtedly from the same
+thumb . DOYLE-1905-2,43.495
+
+It was evident to me that our unfortunate client was lost .
+DOYLE-1905-2,43.496
+
+' That is final , ' said Lestrade . DOYLE-1905-2,43.497
+
+' Yes , that is final , ' I involuntarily echoed . DOYLE-1905-2,43.498
+
+' It is final , ' said Holmes . DOYLE-1905-2,43.499
+
+Something in his tone caught my ear , DOYLE-1905-2,43.500
+
+and I turned to look at him . DOYLE-1905-2,43.501
+
+An extraordinary change had come over his face . DOYLE-1905-2,43.502
+
+It was writhing with inward merriment . DOYLE-1905-2,43.503
+
+His two eyes were shining like stars . DOYLE-1905-2,43.504
+
+It seemed to me that he was making desperate efforts to restrain a
+convulsive attack of laughter . DOYLE-1905-2,43.505
+
+' Dear me ! Dear me ! ' he said at last . DOYLE-1905-2,43.506
+
+' Well , now , who would have thought it ? DOYLE-1905-2,43.507
+
+And how deceptive appearances may be , to be sure ! DOYLE-1905-2,43.508
+
+Such a nice young man to look at ! DOYLE-1905-2,43.509
+
+It is a lesson to us not to trust our own judgement - is it not ,
+Lestrade ? ' DOYLE-1905-2,43.510
+
+<P_44>
+
+' Yes , some of us are a little too much inclined to be cock-sure , Mr
+Holmes , ' said Lestrade . DOYLE-1905-2,44.512
+
+The man's insolence was maddening , DOYLE-1905-2,44.513
+
+but we could not resent it . DOYLE-1905-2,44.514
+
+' What a providential thing that this young man should press his right
+thumb against the wall in taking his hat from the peg !
+DOYLE-1905-2,44.515
+
+Such a very natural action , too , if you come to think of it . '
+DOYLE-1905-2,44.516
+
+Holmes was outwardly calm , DOYLE-1905-2,44.517
+
+but his whole body gave a wriggle of suppressed excitement as he spoke .
+DOYLE-1905-2,44.518
+
+' By the way , Lestrade , who made this remarkable discovery ? '
+DOYLE-1905-2,44.519
+
+' It was the housekeeper , Mrs Lexington , who drew the night
+constable's attention to it . ' DOYLE-1905-2,44.520
+
+' Where was the night constable ? ' DOYLE-1905-2,44.521
+
+' He remained on guard in the bedroom where the crime was committed , so
+as to see that nothing was touched . ' DOYLE-1905-2,44.522
+
+' But why did@ @n't the police see this mark yesterday ? '
+DOYLE-1905-2,44.523
+
+' Well , we had no particular reason to make a careful examination of
+the hall . DOYLE-1905-2,44.524
+
+Besides , it@ @'s not in a very prominent place , as you see . '
+DOYLE-1905-2,44.525
+
+' No , no , of course not . DOYLE-1905-2,44.526
+
+I suppose there is no doubt that the mark was there yesterday ? '
+DOYLE-1905-2,44.527
+
+Lestrade looked at Holmes as if he thought he was going out of his mind
+. DOYLE-1905-2,44.528
+
+I confess that I was myself surprised both at his hilarious manner and
+at his rather wild observation . DOYLE-1905-2,44.529
+
+' I do@ @n't know whether you think that McFarlane came out of gaol in
+the dead of the night in order to strengthen the evidence against
+himself , ' said Lestrade . DOYLE-1905-2,44.530
+
+' I leave it to any expert in the world whether that is not the mark of
+his thumb . ' DOYLE-1905-2,44.531
+
+' It is unquestionably the mark of his thumb . ' DOYLE-1905-2,44.532
+
+' There , that@ @'s enough , ' said Lestrade . DOYLE-1905-2,44.533
+
+' I am a practical man , Mr Holmes , DOYLE-1905-2,44.534
+
+and when I have got my evidence I come to my conclusions .
+DOYLE-1905-2,44.535
+
+If you have anything to say you will find me writing my report in the
+sitting-room . ' DOYLE-1905-2,44.536
+
+Holmes had recovered his equanimity , though I still seemed to detect
+gleams of amusement in his expression . DOYLE-1905-2,44.537
+
+' Dear me , this is a very sad development , Watson , is it not ? '
+said he . DOYLE-1905-2,44.538
+
+' And yet there are singular points about it which hold out some hopes
+for our client . ' DOYLE-1905-2,44.539
+
+<P_45>
+
+' I am delighted to hear it , ' said I heartily . DOYLE-1905-2,45.541
+
+' I was afraid it was all up with him . ' DOYLE-1905-2,45.542
+
+' I would hardly go so far as to say that , my dear Watson .
+DOYLE-1905-2,45.543
+
+The fact is that there is one really serious flaw in this evidence to
+which our friend attaches so much importance . ' DOYLE-1905-2,45.544
+
+' Indeed , Holmes ! What is it ? ' DOYLE-1905-2,45.545
+
+' Only this - that I <font> know <$$font> that that mark was not there
+when I examined the hall yesterday . DOYLE-1905-2,45.546
+
+And now , Watson , let us have a little stroll round in the sunshine .
+' DOYLE-1905-2,45.547
+
+With a confused brain , but with a heart into which some warmth of hope
+was returning , I accompanied my friend in a walk round the garden .
+DOYLE-1905-2,45.548
+
+Holmes took each face of the house in turn DOYLE-1905-2,45.549
+
+and examined it with great interest . DOYLE-1905-2,45.550
+
+He then led the way inside , DOYLE-1905-2,45.551
+
+and went over the whole building from basement to attics .
+DOYLE-1905-2,45.552
+
+Most of the rooms were unfurnished , DOYLE-1905-2,45.553
+
+but none the less Holmes inspected them all minutely .
+DOYLE-1905-2,45.554
+
+Finally , on the top corridor , which ran outside three untenanted
+bedrooms , he again was seized with a spasm of merriment .
+DOYLE-1905-2,45.555
+
+' There are really some very unique features about this case , Watson ,
+' said he . DOYLE-1905-2,45.556
+
+' I think it is time now that we took our friend Lestrade into our
+confidence . DOYLE-1905-2,45.557
+
+He has had his little smile at our expense , DOYLE-1905-2,45.558
+
+and perhaps we may do as much by him if my reading of this problem
+proves to be correct . DOYLE-1905-2,45.559
+
+Yes , yes ; I think I see how we should approach it . '
+DOYLE-1905-2,45.560
+
+The Scotland Yard inspector was still writing in the parlour when Holmes
+interrupted him . DOYLE-1905-2,45.561
+
+' I understood that you were writing a report of this case , ' said he .
+DOYLE-1905-2,45.562
+
+' So I am . ' DOYLE-1905-2,45.563
+
+' Do@ @n't you think it may be a little premature ? DOYLE-1905-2,45.564
+
+I ca@ @n't help thinking that your evidence is not complete . '
+DOYLE-1905-2,45.565
+
+Lestrade knew my friend too well to disregard his words .
+DOYLE-1905-2,45.566
+
+He laid down his pen DOYLE-1905-2,45.567
+
+and looked curiously at him . DOYLE-1905-2,45.568
+
+' What do you mean , Mr Holmes ? ' DOYLE-1905-2,45.569
+
+' Only that there is an important witness whom you have not seen . '
+DOYLE-1905-2,45.570
+
+' Can you produce him ? ' DOYLE-1905-2,45.571
+
+<P_46>
+
+' I think I can . ' DOYLE-1905-2,46.573
+
+' Then do so . ' DOYLE-1905-2,46.574
+
+' I will do my best . DOYLE-1905-2,46.575
+
+How many constables have you ? ' DOYLE-1905-2,46.576
+
+' There are three within call . ' DOYLE-1905-2,46.577
+
+' Excellent ! ' said Holmes . DOYLE-1905-2,46.578
+
+' May I ask if they are all large , able-bodied men with powerful voices
+? ' DOYLE-1905-2,46.579
+
+' I have no doubt they are , though I fail to see what their voices have
+to do with it . ' DOYLE-1905-2,46.580
+
+' Perhaps I can help you to see that , and one or two other things as
+well , ' said Holmes . DOYLE-1905-2,46.581
+
+' Kindly summon your men , DOYLE-1905-2,46.582
+
+and I will try . ' DOYLE-1905-2,46.583
+
+Five minutes later three policemen had assembled in the hall .
+DOYLE-1905-2,46.584
+
+' In the outhouse you will find a considerable quantity of straw , '
+said Holmes . DOYLE-1905-2,46.585
+
+' I will ask you to carry in two bundles of it . DOYLE-1905-2,46.586
+
+I think it will be of the greatest assistance in producing the witness
+whom I require . DOYLE-1905-2,46.587
+
+Thank you very much . DOYLE-1905-2,46.588
+
+I believe you have some matches in your pocket , Watson .
+DOYLE-1905-2,46.589
+
+Now , Mr Lestrade , I will ask you all to accompany me to the top
+landing . ' DOYLE-1905-2,46.590
+
+As I have said , there was a broad corridor there , which ran outside
+three empty bedrooms . DOYLE-1905-2,46.591
+
+At one end of the corridor we were all marshalled by Sherlock Holmes ,
+the constables grinning , and Lestrade staring at my friend with
+amazement , expectation , and derision chasing each other across his
+features . DOYLE-1905-2,46.592
+
+Holmes stood before us with an air of a conjurer who is performing a
+trick . DOYLE-1905-2,46.593
+
+' Would you kindly send one of your constables for two buckets of water
+? DOYLE-1905-2,46.594
+
+Put the straw on the floor here , free from the wall on either side .
+DOYLE-1905-2,46.595
+
+Now I think that we are all ready . ' DOYLE-1905-2,46.596
+
+Lestrade's face had begun to grow red and angry . DOYLE-1905-2,46.597
+
+' I do@ @n't know whether you are playing a game with us , Mr Sherlock
+Holmes , ' said he . DOYLE-1905-2,46.598
+
+' If you know anything , you can surely say it without all this
+tomfoolery . ' DOYLE-1905-2,46.599
+
+' I assure you , my good Lestrade , that I have an excellent reason for
+everything that I do . DOYLE-1905-2,46.600
+
+You may possibly remember that you chaffed me a little some hours ago ,
+when the sun <P_47> seemed on your side of the hedge ,
+DOYLE-1905-2,47.601
+
+so you must not grudge me a little pomp and ceremony now .
+DOYLE-1905-2,47.602
+
+Might I ask you , Watson , to open that window , and then to put a match
+to the edge of the straw ? ' DOYLE-1905-2,47.603
+
+I did so , DOYLE-1905-2,47.604
+
+and , driven by the draught , a coil of grey smoke swirled down the
+corridor , while the dry straw crackled and flamed .
+DOYLE-1905-2,47.605
+
+' Now we must see if we can find this witness for you , Lestrade .
+DOYLE-1905-2,47.606
+
+Might I ask you all to join in the cry of " Fire " ?
+DOYLE-1905-2,47.607
+
+Now , then : one , two , three - ' DOYLE-1905-2,47.608
+
+' Fire ! ' we all yelled . DOYLE-1905-2,47.609
+
+' Thank you . DOYLE-1905-2,47.610
+
+I will trouble you once again . ' DOYLE-1905-2,47.611
+
+' Fire ! ' DOYLE-1905-2,47.612
+
+' Just once more , gentlemen , and all together . ' DOYLE-1905-2,47.613
+
+' Fire ! ' DOYLE-1905-2,47.614
+
+The shout must have rung over Norwood . DOYLE-1905-2,47.615
+
+It had hardly died away when an amazing thing happened .
+DOYLE-1905-2,47.616
+
+A door suddenly flew open out of what appeared to be solid wall at the
+end of the corridor , DOYLE-1905-2,47.617
+
+and a little wizened man darted out of it , like a rabbit out of its
+burrow . DOYLE-1905-2,47.618
+
+' Capital ! ' said Holmes calmly . DOYLE-1905-2,47.619
+
+' Watson , a bucket of water over the straw . DOYLE-1905-2,47.620
+
+That will do ! DOYLE-1905-2,47.621
+
+Lestrade , allow me to present you with your principal missing witness ,
+Mr Jonas Oldacre . ' DOYLE-1905-2,47.622
+
+The detective stared at the newcomer with blank amazement .
+DOYLE-1905-2,47.623
+
+The latter was blinking in the bright light of the corridor , and
+peering at us and at the smouldering fire . DOYLE-1905-2,47.624
+
+It was an odious face - crafty , vicious , malignant , with shifty ,
+light-grey eyes and white eyelashes . DOYLE-1905-2,47.625
+
+' What@ @'s this , then ? ' said Lestrade at last .
+DOYLE-1905-2,47.626
+
+' What have you been doing all this time , eh ? ' DOYLE-1905-2,47.627
+
+Oldacre gave an uneasy laugh , shrinking back from the furious red face
+of the angry detective . DOYLE-1905-2,47.628
+
+I have done no harm . DOYLE-1905-2,47.629
+
+' No harm ? DOYLE-1905-2,47.630
+
+You have done your best to get an innocent man hanged .
+DOYLE-1905-2,47.631
+
+If it was@ @n't for this gentleman here , I am not sure that you would
+not have succeeded . ' DOYLE-1905-2,47.632
+
+The wretched creature began to whimper . DOYLE-1905-2,47.633
+
+' I am sure , sir , it was only my practical joke . '
+DOYLE-1905-2,47.634
+
+<P_48>
+
+' Oh ! a joke , was it ? DOYLE-1905-2,48.636
+
+You wo@ @n't find the laugh on your side , I promise you .
+DOYLE-1905-2,48.637
+
+Take him down DOYLE-1905-2,48.638
+
+and keep him in the sitting-room until I come . DOYLE-1905-2,48.639
+
+Mr Holmes , ' he continued , when they had gone , ' I could not speak
+before the constables , DOYLE-1905-2,48.640
+
+but I do@ @n't mind saying , in the presence of Dr Watson , that this is
+the brightest thing that you have done yet , though it is a mystery to
+me how you did it . DOYLE-1905-2,48.641
+
+You have saved an innocent man's life , DOYLE-1905-2,48.642
+
+and you have prevented a very grave scandal , which would have ruined my
+reputation in the Force . ' DOYLE-1905-2,48.643
+
+Holmes smiled DOYLE-1905-2,48.644
+
+and clapped Lestrade upon the shoulder . DOYLE-1905-2,48.645
+
+' Instead of being ruined , my good sir , you will find that your
+reputation has been enormously enhanced . DOYLE-1905-2,48.646
+
+Just make a few alterations in that report which you were writing ,
+DOYLE-1905-2,48.647
+
+and they will understand how hard it is to throw dust in the eyes of
+Inspector Lestrade . ' DOYLE-1905-2,48.648
+
+' And you do@ @n't want your name to appear ? ' DOYLE-1905-2,48.649
+
+' Not at all . DOYLE-1905-2,48.650
+
+The work is its own reward . DOYLE-1905-2,48.651
+
+Perhaps I shall get the credit also at some distant day when I permit my
+zealous historian to lay out his foolscap once more - eh , Watson ?
+DOYLE-1905-2,48.652
+
+Well , now , let us see where this rat has been lurking . '
+DOYLE-1905-2,48.653
+
+A lath-and-plaster partition had been run across the passage six feet
+from the end , with a door cunningly concealed in it .
+DOYLE-1905-2,48.654
+
+It was lit within by slits under the eaves . DOYLE-1905-2,48.655
+
+A few articles of furniture and a supply of food and water were within ,
+together with a number of books and papers . DOYLE-1905-2,48.656
+
+' There@ @'s the advantage of being a builder , ' said Holmes as we came
+out . DOYLE-1905-2,48.657
+
+' He was able to fix up his own little hiding-place without any
+confederate - save , of course , that precious housekeeper of his , whom
+I should lose no time in adding to your bag , Lestrade . '
+DOYLE-1905-2,48.658
+
+' I will take your advice . DOYLE-1905-2,48.659
+
+But how did you know of this place , Mr Holmes ? ' DOYLE-1905-2,48.660
+
+' I made up my mind that the fellow was in hiding in the house .
+DOYLE-1905-2,48.661
+
+When I paced one corridor and found it six feet shorter than the
+corresponding one below , it was pretty clear where he was .
+DOYLE-1905-2,48.662
+
+I thought he had not the nerve to lie <P_49> quiet before an alarm of
+fire . DOYLE-1905-2,49.663
+
+We could , of course , have gone in and taken him , DOYLE-1905-2,49.664
+
+but it amused me to make him reveal himself ; DOYLE-1905-2,49.665
+
+besides , I owed you a little mystification , Lestrade , for your chaff
+in the morning . ' DOYLE-1905-2,49.666
+
+' Well , sir , you certainly got equal with me on that .
+DOYLE-1905-2,49.667
+
+But how in the world did you know that he was in the house at all ? '
+DOYLE-1905-2,49.668
+
+' The thumb-mark , Lestrade . DOYLE-1905-2,49.669
+
+You said it was final ; DOYLE-1905-2,49.670
+
+and so it was , in a very different sense . DOYLE-1905-2,49.671
+
+I knew it had not been there the day before . DOYLE-1905-2,49.672
+
+I pay a good deal of attention to matters of detail , as you may have
+observed , DOYLE-1905-2,49.673
+
+and I had examined the hall , DOYLE-1905-2,49.674
+
+and was sure that the wall was clear . DOYLE-1905-2,49.675
+
+Therefore , it had been put on during the night . ' DOYLE-1905-2,49.676
+
+' But how ? ' DOYLE-1905-2,49.677
+
+' Very simply . DOYLE-1905-2,49.678
+
+When those packets were sealed up , Jonas Oldacre got McFarlane to
+secure one of the seals by putting his thumb upon the soft wax .
+DOYLE-1905-2,49.679
+
+It would be done so quickly and so naturally that I dare say the young
+man himself has no recollection of it . DOYLE-1905-2,49.680
+
+Very likely it just so happened , DOYLE-1905-2,49.681
+
+and Oldacre had himself no notion of the use he would put it to .
+DOYLE-1905-2,49.682
+
+Brooding over the case in that den of his , it suddenly struck him what
+absolutely damning evidence he could make against McFarlane by using
+that thumb-mark . DOYLE-1905-2,49.683
+
+It was the simplest thing in the world for him to take a wax impression
+from the seal , to moisten it in as much blood as he could get from a
+pin-prick , and to put the mark upon the wall during the night , either
+with his own hand or with that of his housekeeper . DOYLE-1905-2,49.684
+
+If you examine among these documents which he took with him into his
+retreat , I will lay you a wager that you find the seal with the
+thumb-mark upon it . ' DOYLE-1905-2,49.685
+
+' Wonderful ! ' said Lestrade . DOYLE-1905-2,49.686
+
+' Wonderful ! DOYLE-1905-2,49.687
+
+It@ @'s all as clear as crystal , as you put it . DOYLE-1905-2,49.688
+
+But what is the object of this deep deception , Mr Holmes ? '
+DOYLE-1905-2,49.689
+
+It was amusing to me to see how the detective's overbearing manner had
+changed suddenly to that of a child asking questions of its teacher .
+DOYLE-1905-2,49.690
+
+' Well , I do@ @n't think that is very hard to explain .
+DOYLE-1905-2,49.691
+
+A very deep , malicious , vindictive person is the gentleman who is
+<P_50> now awaiting us downstairs . DOYLE-1905-2,50.692
+
+You know that he was once refused by McFarlane's mother ?
+DOYLE-1905-2,50.693
+
+You do@ @n't ! DOYLE-1905-2,50.694
+
+I told you that you should go to Blackheath first and Norwood afterwards
+. DOYLE-1905-2,50.695
+
+Well , this injury , as he would consider it , has rankled in his wicked
+, scheming brain , DOYLE-1905-2,50.696
+
+and all his life he has longed for vengeance , but never seen his chance
+. DOYLE-1905-2,50.697
+
+During the last year or two things have gone against him - secret
+speculation , I think - DOYLE-1905-2,50.698
+
+and he finds himself in a bad way . DOYLE-1905-2,50.699
+
+He determines to swindle his creditors , DOYLE-1905-2,50.700
+
+and for this purpose he pays large cheques to a certain Mr Cornelius ,
+who is , I imagine , himself under another name . DOYLE-1905-2,50.701
+
+I have not traced these cheques yet , DOYLE-1905-2,50.702
+
+but I have no doubt that they were banked under that name at some
+provincial town where Oldacre from time to time led a double existence .
+DOYLE-1905-2,50.703
+
+He intended to change his name altogether , draw this money , and vanish
+, starting life again elsewhere . ' DOYLE-1905-2,50.704
+
+' Well , that@ @'s likely enough . ' DOYLE-1905-2,50.705
+
+' It would strike him that in disappearing he might throw all pursuit
+off his track , and at the same time have an ample and crushing revenge
+upon his old sweetheart , if he could give the impression that he had
+been murdered by her only child . DOYLE-1905-2,50.706
+
+It was a masterpiece of villainy , DOYLE-1905-2,50.707
+
+and he carried it out like a master . DOYLE-1905-2,50.708
+
+The idea of the will , which would give an obvious motive for the crime
+, the secret visit unknown to his own parents , the retention of the
+stick , the blood , and the animal remains and buttons in the wood-pile
+, all were admirable . DOYLE-1905-2,50.709
+
+It was a net from which it seemed to me a few hours ago that there was
+no possible escape . DOYLE-1905-2,50.710
+
+But he had not that supreme gift of the artist , the knowledge of when
+to stop . DOYLE-1905-2,50.711
+
+He wished to improve that which was already perfect - to draw the rope
+tighter yet round the neck of his unfortunate victim -
+DOYLE-1905-2,50.712
+
+and so he ruined all . DOYLE-1905-2,50.713
+
+Let us descend , Lestrade . DOYLE-1905-2,50.714
+
+There are just one or two questions that I would ask him . '
+DOYLE-1905-2,50.715
+
+The malignant creature was seated in his own parlour with a policeman
+upon each side of him . DOYLE-1905-2,50.716
+
+' It was a joke , my good sir ; a practical joke , nothing more , ' he
+whined incessantly . DOYLE-1905-2,50.717
+
+' I assure you , sir , that I simply <P_51> concealed myself in order to
+see the effect of my disappearance , DOYLE-1905-2,51.718
+
+and I am sure that you would not be so unjust as to imagine that I would
+have allowed any harm to befall poor young Mr McFarlane . '
+DOYLE-1905-2,51.719
+
+' That@ @'s for the jury to decide , ' said Lestrade .
+DOYLE-1905-2,51.720
+
+' Anyhow , we shall have you on a charge of conspiracy , if not for
+attempted murder . ' DOYLE-1905-2,51.721
+
+' And you@ @'ll probably find that your creditors will impound the
+banking account of Mr Cornelius , ' said Holmes . DOYLE-1905-2,51.722
+
+The little man started DOYLE-1905-2,51.723
+
+and turned his malignant eyes upon my friend . DOYLE-1905-2,51.724
+
+' I have to thank you for a good deal , ' said he . DOYLE-1905-2,51.725
+
+' Perhaps I@ @'ll pay my debt some day . ' DOYLE-1905-2,51.726
+
+Holmes smiled indulgently . DOYLE-1905-2,51.727
+
+' I fancy that for some few years you will find your time very fully
+occupied , ' said he . DOYLE-1905-2,51.728
+
+' By the way , what was it you put into the wood-pile besides your old
+trousers ? DOYLE-1905-2,51.729
+
+A dead dog , or rabbits , or what ? DOYLE-1905-2,51.730
+
+You wo@ @n't tell ? DOYLE-1905-2,51.731
+
+Dear me , how very unkind of you ! DOYLE-1905-2,51.732
+
+Well , well , I dare say that a couple of rabbits would account both for
+the blood and for the charred ashes . DOYLE-1905-2,51.733
+
+If ever you write an account , Watson , you can make rabbits serve your
+turn . ' DOYLE-1905-2,51.734
+

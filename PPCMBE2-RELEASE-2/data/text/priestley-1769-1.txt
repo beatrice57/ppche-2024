@@ -1,0 +1,1322 @@
+<BEGIN_priestley-1769-1>
+
+<P_151>
+
+<heading>
+
+Period IX . PRIESTLEY-1769-1,151.4
+
+The experiments and discoveries of Dr. Franklin .
+PRIESTLEY-1769-1,151.5
+
+Section I . PRIESTLEY-1769-1,151.6
+
+Dr. Franklin's discoveries concerning the Leyden phial , and others
+connected with them . PRIESTLEY-1769-1,151.7
+
+<$$heading>
+
+We have hitherto seen what had been done in electricity by the English
+philosophers , and those on the continent of Europe , till about the
+year 1750 ; PRIESTLEY-1769-1,151.9
+
+but our attention is now strongly called to what was doing on the
+continent of America ; where Dr. Franklin and his friends were as
+assiduous in trying experiments , and as successful in making
+discoveries , as any of their brethren in Europe .
+PRIESTLEY-1769-1,151.10
+
+For this purpose , we must look back a few years .
+PRIESTLEY-1769-1,151.11
+
+As Dr. Franklin's discoveries were made intirely independent of any in
+Europe , I was unwilling to interrupt the former general account , by
+introducing them in their proper year . PRIESTLEY-1769-1,151.12
+
+For the same reason , I imagine it will be generally more agreeable ,
+<P_152> to see , at one view , what was done in America for some
+considerable space of time , without interrupting this account with what
+was doing , in the mean time , in Europe . PRIESTLEY-1769-1,152.13
+
+I shall , therefore , digest , in the best manner I can , the three
+first publications of Dr. Franklin , entitled <font> New Experiments
+and Observations on Electricity , made at Philadelphia in America
+<$$font> , communicated in several letters to Peter Collinson Esq. of
+London , fellow of the Royal Society ; the first of which is dated July
+28th . 1747 , and the last April 18th . 1754 .
+PRIESTLEY-1769-1,152.14
+
+Nothing was ever written upon the subject of electricity which was more
+generally read , and admired in all parts of Europe than these letters .
+PRIESTLEY-1769-1,152.15
+
+There is hardly any European language into which they have not been
+translated ; PRIESTLEY-1769-1,152.16
+
+and , as if this were not sufficient to make them properly known , a
+translation of them has lately been made into Latin .
+PRIESTLEY-1769-1,152.17
+
+It is not easy to say , whether we are most pleased with the simplicity
+and perspicuity with which these letters are written , the modesty with
+which the author proposes every hypothesis of his own , or the noble
+frankness with which he relates his mistakes , when they were corrected
+by subsequent experiments . PRIESTLEY-1769-1,152.18
+
+Though the English have not been backward in acknowledging the great
+merit of this philosopher , he has had the singular good fortune to be ,
+perhaps , even more celebrated abroad than at home ; so that to form a
+just idea of the great and deserved reputation of Dr. Franklin , we
+must read the foreign publications on the subject of electricity ; in
+many of which the terms <font> Franklinism <$$font> , <font> Franklinist
+<$$font> , and the <font> Franklinian system <$$font> occur in almost
+every page . PRIESTLEY-1769-1,152.19
+
+In consequence of this , Dr. Franklin's principles bid fair to be
+handed down to posterity , as equally expressive of the true principles
+of electricity , as the Newtonian philosophy is of the true system of
+nature in general . PRIESTLEY-1769-1,152.20
+
+<P_153>
+
+The zeal of Dr. Franklin's Friends , and his reputation , were
+considerably increased by the opposition which the Abbé Nollet made to
+his theory . PRIESTLEY-1769-1,153.22
+
+The Abbé , however , never had any considerable seconds in the
+controversy , PRIESTLEY-1769-1,153.23
+
+and those he had , I am informed , have all deserted him .
+PRIESTLEY-1769-1,153.24
+
+The rise of Dr. Franklin's fame in France was first occasioned by a bad
+translation of his letters falling into the hands of Mr. Buffon ,
+intendant of the French King's gardens , and author of the Natural
+History for which he is famous . PRIESTLEY-1769-1,153.25
+
+This gentleman , having successfully repeated Dr. Franklin's
+experiments , engaged a friend of his , Mr. Dallibard , to revise the
+translation ; which was afterwards published , with a short history of
+electricity prefixed to it , and met with a very favourable reception
+from all ranks of people . PRIESTLEY-1769-1,153.26
+
+What contributed not a little to the success of this publication , and
+to bring Dr. Franklin's principles into vogue in France , was a friend
+of Mr. Dallibard's exhibiting Dr. Franklin's experiments for money .
+PRIESTLEY-1769-1,153.27
+
+All the world , in a manner , flocked to see these new experiments ,
+PRIESTLEY-1769-1,153.28
+
+and all returned full of admiration for the inventor of them .
+PRIESTLEY-1769-1,153.29
+
+Dr. Franklin had discovered , as well as Dr. Watson , that the
+electric matter was not created , but collected by friction , from the
+neighbouring non-electric bodies . PRIESTLEY-1769-1,153.30
+
+He had observed , that it was impossible for a man to electrify himself
+, though he stood upon glass or wax ; for that the tube could
+communicate to him no more electricity than it had received from him in
+the act of excitation . PRIESTLEY-1769-1,153.31
+
+He had observed , that if two persons stood upon wax , one of which
+rubbed the tube , and the other took the fire from it , they would both
+appear to be electrified ; that if they touched one another after that
+operation , a <P_154> stronger spark would be perceived between them ,
+than when any other person touched either of them ; and that such a
+spark would take away the electricity of both . PRIESTLEY-1769-1,154.32
+
+These experiments led the Doctor to think , that the electric fluid was
+conveyed from the person who rubbed the tube to him who touched it ;
+which introduced some terms in electricity that had not been used before
+, but have continued in use ever since . PRIESTLEY-1769-1,154.33
+
+The person who touched the tube was said , by Dr. Franklin , to be
+electrified <font> positively <$$font> , or <font> plus <$$font> ; being
+supposed to receive an additional quantity of electric fire : whereas
+the person who rubbed the tube was said to be electrified <font>
+negatively <$$font> , or <font> minus <$$font> ; being supposed to have
+lost a part of his natural quantity of the electric fluid .
+PRIESTLEY-1769-1,154.34
+
+This observation was necessary to explain the capital discovery which
+Dr. Franklin made with respect to the manner of charging the Leyden
+phial ; which is , that when one side of the glass was electrified
+positively or <font> plus <$$font> , the other side was electrified
+negatively or <font> minus <$$font> ; so that whatever quantity of fire
+is thrown upon one side of the glass , the same is thrown out of the
+other ; and that there is really no more electric fire in the phial
+after it is charged than before ; all that can be done by charging ,
+being to take from one side , and convey to the other .
+PRIESTLEY-1769-1,154.35
+
+Dr. Franklin also observed , that glass was impervious to electricity ,
+and that , therefore , since the equilibrium could not be restored to
+the charged phial , by any internal communication , it must be done by
+conductors , externally , joining the inside and the outside .
+PRIESTLEY-1769-1,154.36
+
+These capital discoveries he made by observing , that when a phial was
+charged , a cork ball suspended on silk would be attracted <P_155> by
+the outside coating , when it was repelled by a wire communicating with
+the inside ; and that it would be repelled by the outside , when it was
+attracted by the inside . PRIESTLEY-1769-1,155.37
+
+But the truth of this maxim appeared more evident when he brought the
+knob of the wire communicating with the outside coating within a few
+inches of the wire communicating with the inside coating , and suspended
+a cork ball between them ; PRIESTLEY-1769-1,155.38
+
+for , in that case , the ball was attracted by them alternately , till
+the phial was discharged . PRIESTLEY-1769-1,155.39
+
+The European electricians had observed , that a phial could not be
+charged unless some conductor was in contact with the outside ;
+PRIESTLEY-1769-1,155.40
+
+but Dr. Franklin made the observation more general ,
+PRIESTLEY-1769-1,155.41
+
+and also was able , by the principle above-mentioned , to give a better
+account of it . PRIESTLEY-1769-1,155.42
+
+As no more electric fire , he says , can be thrown into the inside of a
+phial when all is driven from the outside ; so , in a phial not yet
+charged , none can be thrown into the inside when none can be got from
+the outside . PRIESTLEY-1769-1,155.43
+
+He also showed , by a beautiful experiment , that , when the phial was
+charged , one side lost exactly as much as the other gained , in
+restoring the equilibrium . PRIESTLEY-1769-1,155.44
+
+Hanging a small linen thread near the coating of an electrified phial ,
+he observed , that , every time he brought his finger near the wire ,
+the thread was attracted by the coating . PRIESTLEY-1769-1,155.45
+
+For as the fire was taken from the inside by touching the wire , the
+outside drew in an equal quantity by the thread .
+PRIESTLEY-1769-1,155.46
+
+He proved that , in discharging the phial , the giving from one side was
+exactly equal to the receiving by the other , by placing a person upon
+electrics , and making him discharge the phial through his body ; when
+he observed , that no electricity remained <P_156> in him after the
+discharge . PRIESTLEY-1769-1,156.47
+
+He also hung cork balls upon an insulated conductor at the time of the
+discharge of a phial hanging to it ; PRIESTLEY-1769-1,156.48
+
+and observed , that if they did not repel before the explosion , they
+did not repel at the time , nor after . PRIESTLEY-1769-1,156.49
+
+But the experiment which most completely {TEXT:compleatly} proved , that
+the coating on one side received just as much as was emitted from the
+discharge of the other , was the following . PRIESTLEY-1769-1,156.50
+
+He insulated his rubber , PRIESTLEY-1769-1,156.51
+
+then , hanging a phial to his conductor , he found it could not be
+charged , even though his hand was held constantly to it ; because ,
+though the electric fire might leave the outside of the phial , there
+was none collected by the rubber to be conveyed into the inside .
+PRIESTLEY-1769-1,156.52
+
+He then took away his hand from the phial , PRIESTLEY-1769-1,156.53
+
+and forming a communication , by a wire from the outside coating to the
+insulated rubber , he found that it was charged with ease .
+PRIESTLEY-1769-1,156.54
+
+In this case , it was plain , that the very same fire which left the
+outside coating was conveyed by the way of the rubber , the globe , the
+conductor , and the wire of the phial , into the inside .
+PRIESTLEY-1769-1,156.55
+
+Dr. Franklin's new theory of charging the Leyden phial led him to
+observe a greater variety of facts , relating both to charging and
+discharging it , than other philosophers had attended to .
+PRIESTLEY-1769-1,156.56
+
+He found that the phial would be electrified as strongly if it were held
+by the hook , and the coating applied to the globe or tube , as if it
+were held by the coating , and the hook applied ; and , consequently ,
+that there would be the same explosion , and shock , if the electrified
+phial were held in one hand by the hook , and the coating touched with
+the other , as when held by the coating , and touched at the hook .
+PRIESTLEY-1769-1,156.57
+
+To take the charged phial <P_157> by the hook with safety , and not
+diminish its force , he observes , that it must first be set down upon
+electrics per_se . PRIESTLEY-1769-1,157.58
+
+Dr. Franklin observed , that if a man held in his hand two phials , the
+one fully electrified , and the other not at all , and brought their
+hooks together , he would have but half a shock :
+PRIESTLEY-1769-1,157.59
+
+for the phials would both remain only half electrified , the one being
+half charged , and the other half discharged . PRIESTLEY-1769-1,157.60
+
+If two phials were charged both through their hooks , a cork ball
+suspended on silk , and hanging between them , would first be attracted
+, and then repelled by both ; PRIESTLEY-1769-1,157.61
+
+but if they were electrified , the one through the wire , and the other
+through the coating , the ball would play vigorously between them both ,
+till they were nearly discharged . PRIESTLEY-1769-1,157.62
+
+The Doctor did not , at that time , take notice , that if the phials
+were both charged through their coatings <paren> by which both the hooks
+would have been electrified minus <$$paren> the ball would be repelled
+by them both , as when they were electrified plus .
+PRIESTLEY-1769-1,157.63
+
+And when he , afterwards , observed that two bodies electrified minus
+repelled one another , he seems to have been surprised at the appearance
+, PRIESTLEY-1769-1,157.64
+
+and acknowledged that he could not satisfactorily account for it .
+PRIESTLEY-1769-1,157.65
+
+It was known to every electrician , that a globe or tube wet on the
+inside would afford little or no fire ; PRIESTLEY-1769-1,157.66
+
+but no good reason was given for it , before Dr. Franklin attempted its
+explanation by the help of his general maxim . PRIESTLEY-1769-1,157.67
+
+He says , that when a tube lined with any non-electric is rubbed , what
+is collected from the hand by the downward stroke enters the pores of
+the glass , driving an equal quantity out of the inner surface , into
+the non-electric lining ; and that the hand , in passing up to take a
+second stroke , takes out again what had been thrown into the outward
+<P_158> surface , the inner surface at the same time receiving back
+again what it had given to the non-electric lining ; so that the
+particles of the electric fluid went in and out of their pores , upon
+every stroke given to the tube . PRIESTLEY-1769-1,158.68
+
+If , in these circumstances , a wire was put into the tube , he observed
+, that , if one person touched the wire , while another was rubbing the
+tube , and took care to withdraw his finger as soon as he had taken the
+spark , which had been made to fly from the inside , it would be charged
+. PRIESTLEY-1769-1,158.69
+
+If the tube was exhausted of air , he observes , that a non-electric
+lining in contact with the wire was not necessary ; for that , in vacuo
+, the electric fire would fly freely from the inner surface , without a
+non-electric conductor . PRIESTLEY-1769-1,158.70
+
+Upon the same principle he accounts for the effects of an excited
+electric being perceived through the glass in the vacuum beyond it .
+PRIESTLEY-1769-1,158.71
+
+The tube and its excited atmosphere , being brought near a glass vessel
+, repels the electric fluid from the inner surface , of the glass ;
+PRIESTLEY-1769-1,158.72
+
+and this fluid , issuing from the inner surface acts upon light bodies
+in the vacuum , both in its passage from the glass , and likewise in its
+return to it , when the excited electric on the outside is withdrawn .
+PRIESTLEY-1769-1,158.73
+
+This maxim , that whatever the phial takes in at one surface it loses at
+the other , led Dr. Franklin to think of charging several phials
+together with the same trouble , by connecting the outside of one with
+the inside of another ; whereby the fluid that was driven out by the
+first would be received by the second , and what was driven out of the
+second would be received by the third , &c. PRIESTLEY-1769-1,158.74
+
+By this means he found , that a great number of bottles might be charged
+with the same labour as one only ; and that they might be charged
+equally high , were it not that every bottle <P_159> receives the new
+fire , and loses its old with some reluctance , or rather gives some
+small resistance to the charging . PRIESTLEY-1769-1,159.75
+
+This circumstance , he says , in a number of bottles , becomes more
+equal to the charging power , PRIESTLEY-1769-1,159.76
+
+and so repels the fire back again on the globe sooner than a single
+bottle would do . PRIESTLEY-1769-1,159.77
+
+Upon this principle Dr. Franklin constructed an <font> electrical
+battery <$$font> , consisting of eleven panes of large sash glass ,
+coated on each side , and so connected , that charging one of them would
+charge them all . PRIESTLEY-1769-1,159.78
+
+Then having a contrivance to bring the giving sides in contact with one
+wire , and all the receiving sides with another , he united the force of
+all the plates , PRIESTLEY-1769-1,159.79
+
+and discharged them all at once . PRIESTLEY-1769-1,159.80
+
+When Dr. Franklin first began his experiments upon the Leyden phial ,
+he imagined that the electric fire was all crowded into the substance of
+the non-electric in contact with the glass ; PRIESTLEY-1769-1,159.81
+
+but he afterwards found , that its power of giving a shock lay in the
+glass itself , and not in the coating , by the following ingenious
+analysis of the bottle . PRIESTLEY-1769-1,159.82
+
+In order to find where the strength of the charged bottle lay , he
+placed it upon glass ; PRIESTLEY-1769-1,159.83
+
+then first took out the cork and the wire , PRIESTLEY-1769-1,159.84
+
+and finding the virtue was not in them ; he touched the outside coating
+with one hand , PRIESTLEY-1769-1,159.85
+
+and put the finger of the other into the mouth of the bottle ; when the
+shock was felt quite as strong as if the cork and wire had been in it .
+PRIESTLEY-1769-1,159.86
+
+He then charged the phial again , PRIESTLEY-1769-1,159.87
+
+and pouring out the water into an empty bottle insulated , expected that
+if the force resided in the water it would give the shock ,
+PRIESTLEY-1769-1,159.88
+
+but he found it gave none . PRIESTLEY-1769-1,159.89
+
+He then judged that the electric fire must either have been lost in
+decanting , or must remain in the bottle , PRIESTLEY-1769-1,159.90
+
+and the latter he found to be true ; PRIESTLEY-1769-1,159.91
+
+<P_160>
+
+for , filling the charged bottle with fresh water , he found the shock ,
+PRIESTLEY-1769-1,160.93
+
+and was satisfied that the power of giving it resided in the glass
+itself . PRIESTLEY-1769-1,160.94
+
+The Doctor made the same experiment with panes of glass , laying the
+coating on lightly , and changing it , as he had before changed the
+water in the bottle , PRIESTLEY-1769-1,160.95
+
+and the result was the same in both . PRIESTLEY-1769-1,160.96
+
+This experiment is more satisfactory than the former ; because , when
+the water is poured out of the phial , there still remains a thin
+coating of the fluid , which might be thought to contain the power of
+giving a shock . PRIESTLEY-1769-1,160.97
+
+That the electric fire resided in the glass , was also further evident
+from this consideration , that when glass was gilt , the discharging of
+it would make a round hole , tearing off a part of the gilding , which ,
+the Doctor thought , could only have been done by the fire coming out of
+the glass through the gilding . PRIESTLEY-1769-1,160.98
+
+He also says , that when the gilding was varnished even with turpentine
+, this varnish , though dry and hard , would be burnt by the spark
+driven through it , yielding a strong smell , and a visible smoke
+{TEXT:smoak} . Also , that when a spark was driven through paper , it
+would be blackened by the smoke , which sometimes penetrated several of
+the leaves , and that part of the gilding which had been torn off was
+found forcibly driven into the hole made in the paper by the stroke .
+PRIESTLEY-1769-1,160.99
+
+He also observed , that when a thin bottle was broken by a charge , the
+glass was broken inwards , at the same time that the gilding was broken
+outwards . PRIESTLEY-1769-1,160.100
+
+Lastly , Dr. Franklin discovered , that several substances . which
+would conduct electricity in general , would not conduct the shock of a
+charged phial . PRIESTLEY-1769-1,160.101
+
+A wet packthread , for instance , <P_161> though it transmitted
+electricity very well , sometimes failed to conduct a shock ; as also
+did a cake of ice . PRIESTLEY-1769-1,161.102
+
+Dry earth too rammed into a glass tube intirely failed to conduct a
+shock , PRIESTLEY-1769-1,161.103
+
+and indeed would convey electricity but very imperfectly .
+PRIESTLEY-1769-1,161.104
+
+<P_162>
+
+<heading>
+
+Section II . PRIESTLEY-1769-1,162.107
+
+Dr. Franklin's discoveries concerning the similarity of lightning and
+electricity . PRIESTLEY-1769-1,162.108
+
+<$$heading>
+
+The greatest discovery which Dr. Franklin made concerning electricity ,
+and which has been of the greatest practical use to mankind , was that
+of the perfect similarity between electricity and lightning .
+PRIESTLEY-1769-1,162.110
+
+The analogy between these two powers had not been wholly unobserved by
+philosophers , and especially by electricians , before the publication
+of Dr. Franklin's discovery . PRIESTLEY-1769-1,162.111
+
+It was so obvious , that it had struck several persons .
+PRIESTLEY-1769-1,162.112
+
+I shall give one instance , in the sagacious Abbé Nollet .
+PRIESTLEY-1769-1,162.113
+
+The Abbé says , " If any one should take upon him to prove , from a well
+connected comparison of phenomena , that thunder is , in the hands of
+nature , what electricity is in ours , that the wonders which we now
+exhibit at our pleasure are little imitations of those great effects
+which frighten us , and that the whole depends upon the same mechanism ;
+if it is to be demonstrated , that a cloud , prepared by the action of
+the winds , by heat , by a mixture of exhalations , &c. is opposite
+<P_163> to a terrestrial object ; that this is the electrized body , and
+, at a certain proximity from that which is not ; I avow that this idea
+, if it was well supported , would give me a great deal of pleasure ;
+PRIESTLEY-1769-1,163.114
+
+and in support of it , how many specious reasons present themselves to a
+man who is well acquainted with electricity . PRIESTLEY-1769-1,163.115
+
+The universality of the electric matter , the readiness of its action ,
+its inflammability , and its activity in giving fire to other bodies ,
+its property of striking bodies externally and internally , even to
+their smallest parts , the remarkable example we have of this effect in
+the experiment of Leyden , the idea which we might truly adopt in
+supposing a greater degree of electric power , &c. all these points of
+analogy , which I have been some time meditating , begin to make me
+believe , that one might , by taking electricity for the model , form to
+one's {TEXT:ones} self , in relation to thunder and lightning , more
+perfect and more probable ideas than what have been offered hitherto ,
+&c. " PRIESTLEY-1769-1,163.116
+
+Mr. Winckler also enumerated many particulars , in which electricity
+and lightning resemble one another . PRIESTLEY-1769-1,163.117
+
+But though the Abbé , and others , had been struck with the obvious
+analogy between lightning and electricity , they went no farther than
+these arguments <font> a priori . <$$font> PRIESTLEY-1769-1,163.118
+
+It was Dr. Franklin who first proposed a method of verifying this
+hypothesis , entertaining the bold thought , as the Abbé Nollet
+expresses it , of bringing lightning from the heavens , of thinking that
+pointed iron rods , fixed in the air , when the atmosphere was loaded
+with lightning , might draw from it the matter of the thunderbolt , and
+discharge it without noise or danger into the immense body of the earth
+, where it would remain as it were absorbed . PRIESTLEY-1769-1,163.119
+
+<P_164>
+
+Moreover , though Dr. Franklin's directions were first begun to be put
+in execution {TEXT:excution} in France , he himself compleated the
+demonstration of his own problem , before he heard of what had been done
+elsewhere : PRIESTLEY-1769-1,164.121
+
+and he extended his experiments so far as actually to imitate all the
+known effects of lightning by electricity , and to perform every
+electrical experiment by lightning . PRIESTLEY-1769-1,164.122
+
+But before I relate any of Dr. Franklin's experiments concerning
+lightning , I must take notice of what he observed concerning the power
+of pointed bodies , by means of which he was enabled to carry his great
+designs into execution . PRIESTLEY-1769-1,164.123
+
+He was properly the first who observed the intire and wonderful effect
+of pointed bodies , both in drawing , and throwing off the electric fire
+. PRIESTLEY-1769-1,164.124
+
+It was a small step towards discovering the effect of pointed bodies ,
+that Carolus Augustus Van Bergen , professor of medicine at Frankfort on
+the Oder , observed that sparks taken from a polished body were stronger
+than those from a rough one . PRIESTLEY-1769-1,164.125
+
+He could fire spirit easily with a polished conductor , but with
+difficulty by means of one not polished . PRIESTLEY-1769-1,164.126
+
+Mr. Jallabert was perhaps the first who observed that a body , pointed
+at one end , and round at another , produced different appearances upon
+the same body , according as the pointed , or round end was presented to
+it . PRIESTLEY-1769-1,164.127
+
+But as Mr. Nollet , in whose presence he made the experiment , says ,
+the effect was not constant , PRIESTLEY-1769-1,164.128
+
+and nothing was inferred from it . PRIESTLEY-1769-1,164.129
+
+And the Abbé acknowledges , that Dr. Franklin was the first who showed
+the property of pointed bodies , in drawing off electricity more
+effectually , and at greater distances than other bodies could do it .
+PRIESTLEY-1769-1,164.130
+
+He electrified an iron shot , three or four inches in diameter ,
+PRIESTLEY-1769-1,164.131
+
+and observed , that it would not attract a thread , when the point
+<P_165> of a needle was presented to it ; but that this was not the case
+, unless the pointed body had a communication with the earth ;
+PRIESTLEY-1769-1,165.132
+
+for , presenting the same pointed body , stuck on a piece of sealing_wax
+, it had not that effect ; though the moment the pointed body was
+touched with his finger , the electricity of the ball to which it was
+suspended was discharged . PRIESTLEY-1769-1,165.133
+
+The converse of this he proved , by finding it impossible to electrify
+the iron shot when a sharp needle lay upon it .
+PRIESTLEY-1769-1,165.134
+
+By observing points of different degrees of acuteness , Dr. Franklin
+corrected the observation of Mr. Ellicott , and other English
+electricians , that a pointed body , as a piece of leaf gold , would
+always be suspended nearer to the plate which was unelectrified than
+that which was electrified , if it were put between them .
+PRIESTLEY-1769-1,165.135
+
+For the Doctor observed , that it always removed farthest from that
+plate to which its sharpest point was presented , whether it was
+electrified or not ; PRIESTLEY-1769-1,165.136
+
+and if one of the points was very blunt , and the other very sharp , it
+would be suspended in the air by its blunt end , near the electrified
+body , without any unelectrified plate being held below it at all .
+PRIESTLEY-1769-1,165.137
+
+Dr. Franklin endeavoured to account for this effect of pointed bodies ,
+by supposing that the base on which the electric fluid at the point of
+an electrified body rested , being small , the attraction by which the
+fluid was held to the body was slight ; and that , for the same reason ,
+the resistance to the entrance of the fluid was proportionably weaker in
+that place than where the surface was flat . PRIESTLEY-1769-1,165.138
+
+But he himself candidly owns , that he was not quite satisfied with this
+hypothesis . PRIESTLEY-1769-1,165.139
+
+Whatever we think of Dr. Franklin's theory of the influence of pointed
+conductors in drawing <P_166> and throwing off the electric fluid , the
+world is greatly indebted to him for the practical use he made of this
+doctrine . PRIESTLEY-1769-1,166.140
+
+Dr. Franklin begins his account of the similarity of the electric fluid
+and lightning by cautioning his readers not to be staggered at the great
+difference of the effects in point of degree ; since that was no
+argument of any disparity in their nature . PRIESTLEY-1769-1,166.141
+
+It is no wonder , says he , if the effects of the one should be so much
+greater than those of the other . PRIESTLEY-1769-1,166.142
+
+For if two gun barrels electrified will strike at two inches distance ,
+and make a loud report , at how great a distance will 10,000 acres of
+electrified cloud strike , and give its fire , PRIESTLEY-1769-1,166.143
+
+and how loud must be that crack ! PRIESTLEY-1769-1,166.144
+
+I shall digest all Dr. Franklin's observations concerning lightning
+under the several points of resemblance which he observed between it and
+electricity , mentioning these points of similarity in the order in
+which he himself remarked them ; only bringing into one place the
+observations which may happen to lie in different parts of his letters ,
+when they relate to the same subject . PRIESTLEY-1769-1,166.145
+
+1. Flashes of lightning , he begins with observing , are generally seen
+crooked , and waving in the air . PRIESTLEY-1769-1,166.146
+
+The same , says he , is the electric spark always , when it is drawn
+from an irregular body at some distance . PRIESTLEY-1769-1,166.147
+
+He might have added , when it is drawn by an irregular body , or through
+a space in which the best conductors are disposed in an irregular manner
+, which is always the case in the heterogeneous {TEXT:heterogenious}
+atmosphere of our globe . PRIESTLEY-1769-1,166.148
+
+2. Lightning strikes the highest and most pointed objects in its way
+preferably to others , as high hills , and trees , towers , spires ,
+masts of ships , points of spears , &c. PRIESTLEY-1769-1,166.149
+
+In like manner , all <P_167> pointed conductors receive or throw off the
+electric fluid more readily than those which are terminated by flat
+surfaces . PRIESTLEY-1769-1,167.150
+
+3. Lightning is observed to take the readiest and best conductor .
+PRIESTLEY-1769-1,167.151
+
+So does electricity in the discharge of the Leyden phial .
+PRIESTLEY-1769-1,167.152
+
+For this reason , the Doctor supposes that it would be safer , during a
+thunder storm , to have one's {TEXT:ones} cloaths wet than dry , as the
+lightning might then , in a great measure , be transmitted to the ground
+, by the water , on the outside of the body . PRIESTLEY-1769-1,167.153
+
+It is found , says he , that a wet rat can@ @not be killed by the
+explosion of the electrical bottle , but that a dry rat may .
+PRIESTLEY-1769-1,167.154
+
+4. Lightning burns . PRIESTLEY-1769-1,167.155
+
+So does electricity . PRIESTLEY-1769-1,167.156
+
+Dr. Franklin says , that he could kindle with it hard dry rosin ,
+spirits unwarmed , and even wood . PRIESTLEY-1769-1,167.157
+
+He says , that he fired gunpowder , by only ramming it hard in a
+cartridge , into each end of which pointed wires were introduced , and
+brought within half an inch of one another , and discharging a shock
+through them . PRIESTLEY-1769-1,167.158
+
+5. Lightning sometimes dissolves metals . PRIESTLEY-1769-1,167.159
+
+So does electricity , though the Doctor was mistaken when he imagined it
+was by a cold fusion , as will appear in its proper place .
+PRIESTLEY-1769-1,167.160
+
+The method in which Dr. Franklin made electricity melt metals was by
+putting thin pieces of them between two panes of glass bound fast
+together , and sending an electric shock through them .
+PRIESTLEY-1769-1,167.161
+
+Some times the piece of glass , by which they were confined , would be
+shattered to pieces by the discharge , and be broken into a kind of
+coarse sand , which once happened with pieces of thick looking glass ;
+PRIESTLEY-1769-1,167.162
+
+but if they remained whole , the piece of metal would be missing in
+several places where it had lain between them , PRIESTLEY-1769-1,167.163
+
+and instead of it , a metallic stain would be seen on both <P_168> the
+glasses , the stains on the under and upper glass being exactly similar
+in the minutest stroke . PRIESTLEY-1769-1,168.164
+
+A piece of leaf gold used in this manner appeared not only to have been
+melted , but , as the Doctor thought , even vitrified , or otherwise so
+driven into the pores of the glass , as to be protected by it from the
+action of the strongest aquaregis . PRIESTLEY-1769-1,168.165
+
+Sometimes he observed that the metallic stains would spread a little
+wider than the breadth of the thin pieces of metal .
+PRIESTLEY-1769-1,168.166
+
+True gold , he observed , made a darker stain , somewhat reddish , and
+silver a greenish stain . PRIESTLEY-1769-1,168.167
+
+Mr. Wilson supposes that , in this experiment , the gold was not driven
+into the pores of the glass , but only into so near a contact with the
+surface of the glass , as to be held there by an exceeding great force ;
+such an one , he says , as is exerted at the surface of all bodies
+whatever . PRIESTLEY-1769-1,168.168
+
+6. Lightning rends some bodies . PRIESTLEY-1769-1,168.169
+
+The same does electricity . PRIESTLEY-1769-1,168.170
+
+The Doctor observes , that the electric spark would strike a hole
+through a quire of paper . PRIESTLEY-1769-1,168.171
+
+When wood , bricks , stone , &c. are rent by lightning , he takes
+notice , that the splinters will fly off on that side where there is the
+least resistance . PRIESTLEY-1769-1,168.172
+
+In like manner , he says , when a hole is struck through a piece of
+pasteboard by an electrified jar , if the surfaces of the pasteboard are
+not confined and compressed , there will be a bur raised all round the
+hole on both sides of the pasteboard ; but that if one side be confined
+, so that the bur can@ @not be raised on that side , it will all be
+raised on the other side , which way soever the fluid was directed .
+PRIESTLEY-1769-1,168.173
+
+For the bur round the outside of the hole is the effect <P_169> of the
+explosion , which is made every way from the center of the electric
+stream , and not an effect of its direction . PRIESTLEY-1769-1,169.174
+
+7. Lightning has often been known to strike people blind .
+PRIESTLEY-1769-1,169.175
+
+And a pigeon , after a violent shock of electricity , by which the
+Doctor intended to have killed it , was observed to have been struck
+blind likewise . PRIESTLEY-1769-1,169.176
+
+8. In a thunder storm at Stretham , described by Dr. Miles , the
+lightning stripped off some paint which had covered a gilded molding of
+a pannel of wainscot , without hurting the rest of the paint .
+PRIESTLEY-1769-1,169.177
+
+Dr. Franklin imitated this , by pasting a slip of paper over the
+filleting of gold on the cover of a book , and sending an electric flash
+through it . PRIESTLEY-1769-1,169.178
+
+The paper was torn off from end to end , with such force , that it was
+broken in several places ; PRIESTLEY-1769-1,169.179
+
+and in others there was brought away part of the grain of the Turkey
+leather in which the book was bound . PRIESTLEY-1769-1,169.180
+
+This convinced the Doctor , that if it had been paint , it would have
+been stripped off in the same manner with that on the wainscot at
+Stretham . PRIESTLEY-1769-1,169.181
+
+9. Lightning destroys animal life . PRIESTLEY-1769-1,169.182
+
+Animals have likewise been killed by the shock of electricity .
+PRIESTLEY-1769-1,169.183
+
+The largest animals which Dr. Franklin and his friends had been able to
+kill were a hen , and a turkey which weighed about ten pounds .
+PRIESTLEY-1769-1,169.184
+
+10. Magnets have been observed to lose their virtue , or to have their
+poles reversed by lightning . PRIESTLEY-1769-1,169.185
+
+The same did Dr. Franklin by electricity . PRIESTLEY-1769-1,169.186
+
+By electricity he frequently gave polarity to needles ,
+PRIESTLEY-1769-1,169.187
+
+and reversed them at pleasure . PRIESTLEY-1769-1,169.188
+
+A shock from four large jars , sent through a fine sewing needle , he
+says , gave it polarity , so that it would traverse when laid on water .
+PRIESTLEY-1769-1,169.189
+
+What is most remarkable <P_170> in these electrical experiments upon
+magnets is , that if the needle , when it was struck , lay East and West
+, the end which was entered by the electric blast pointed North , but
+that if it lay North and South , the end which lay towards the North ,
+would continue to point North , whether the fire entered at that end or
+the contrary ; though he imagined , that a stronger stroke would have
+reversed the poles even in that situation , an effect which had been
+known to have been produced by lightning . PRIESTLEY-1769-1,170.190
+
+He also observed , that the polarity was strongest when the needle was
+struck lying North and South , and weakest when it lay East and West .
+PRIESTLEY-1769-1,170.191
+
+He takes notice that , in these experiments , the needle , in some cases
+, would be finely blued , like the spring of a watch , by the electric
+flame ; in which case the colour given by a flash from two jars only
+might be wiped off , but that a flash from four jars fixed it , and
+frequently melted the needles . PRIESTLEY-1769-1,170.192
+
+The jars which the Doctor used held seven or eight gallons ,
+PRIESTLEY-1769-1,170.193
+
+and were coated and lined with tinfoil . PRIESTLEY-1769-1,170.194
+
+To demonstrate , in the compleatest manner possible , the sameness of
+the electric fluid with the matter of lightning , Dr. Franklin ,
+astonishing as it must have appeared , contrived actually to bring
+lightning from the heavens , by means of an electrical kite , which he
+raised when a storm of thunder was perceived to be coming on .
+PRIESTLEY-1769-1,170.195
+
+This kite had a pointed wire fixed upon it , by which it drew the
+lightning from the clouds . PRIESTLEY-1769-1,170.196
+
+This lightning descended by the hempen string , PRIESTLEY-1769-1,170.197
+
+and was received by a key tied to the extremity of it ; that part of the
+string which was held in the hand being of silk , that the electric
+virtue might stop when it came to the key . PRIESTLEY-1769-1,170.198
+
+He found that the string would conduct electricity even when nearly dry
+, but that when it was <P_171> wet , it would conduct it quite freely ;
+so that it would stream out plentifully from the key , at the approach
+of a person's finger . PRIESTLEY-1769-1,171.199
+
+At this key he charged phials , PRIESTLEY-1769-1,171.200
+
+and from electric fire thus obtained , he kindled spirits ,
+PRIESTLEY-1769-1,171.201
+
+and performed all other electrical experiments which are usually
+exhibited by an excited globe or tube . PRIESTLEY-1769-1,171.202
+
+As every circumstance relating to so capital a discovery as this <paren>
+the greatest , perhaps , that has been made in the whole compass of
+philosophy , since the time of Sir Isaac Newton <$$paren> can@ @not but
+give pleasure to all my readers , I shall endeavour to gratify them with
+the communication of a few particulars which I have from the best
+authority . PRIESTLEY-1769-1,171.203
+
+The Doctor , after having published his method of verifying his
+hypothesis concerning the sameness of electricity with the matter of
+lightning , was waiting for the erection of a spire in Philadelphia to
+carry his views into execution ; not imagining that a pointed rod , of a
+moderate height , could answer the purpose ; when it occurred to him ,
+that , by means of a common kite , he could have a readier and better
+access to the regions of thunder than by any spire whatever .
+PRIESTLEY-1769-1,171.204
+
+Preparing , therefore , a large silk handkerchief , and two cross sticks
+, of a proper length , on which to extend {TEXT:extended} it ; he took
+the opportunity of the first approaching thunder storm to take a walk
+into a field , in which there was a shed convenient for his purpose .
+PRIESTLEY-1769-1,171.205
+
+But dreading the ridicule which too commonly attends unsuccessful
+attempts in science , he communicated his intended experiment to no body
+but his son , who assisted him in raising the kite .
+PRIESTLEY-1769-1,171.206
+
+The kite being raised , a considerable time elapsed before there <P_172>
+was any appearance of its being electrified . PRIESTLEY-1769-1,172.207
+
+One very promising cloud had passed over it without any effect ; when ,
+at length , just as he was beginning to despair of his contrivance , he
+observed some loose {TEXT:lose} threads of the hempen string to stand
+erect , and to avoid one another , just as if they had been suspended on
+a common conductor . PRIESTLEY-1769-1,172.208
+
+Struck with this promising appearance , he immediately presented his
+knuckle {TEXT:knucle} to the key , PRIESTLEY-1769-1,172.209
+
+and <paren> let the reader judge of the exquisite pleasure he must have
+felt at that moment <$$paren> the discovery was complete .
+PRIESTLEY-1769-1,172.210
+
+He perceived a very evident electric spark . PRIESTLEY-1769-1,172.211
+
+Others succeeded , even before the string was wet , so as to put the
+matter past all dispute , PRIESTLEY-1769-1,172.212
+
+and when the rain had wet the string , he collected electric fire very
+copiously . PRIESTLEY-1769-1,172.213
+
+This happened in June 1752 , a month after the electricians in France
+had verified the same theory , but before he heard of any thing they had
+done . PRIESTLEY-1769-1,172.214
+
+Besides this kite , Dr. Franklin had afterwards an insulated iron rod
+to draw the lightning into his house , in order to make experiments
+whenever there should be a considerable quantity of it in the atmosphere
+; PRIESTLEY-1769-1,172.215
+
+and that he might not lose any opportunity of that nature , he connected
+two bells with this apparatus , which gave him notice , by their ringing
+, whenever his rod was electrified . PRIESTLEY-1769-1,172.216
+
+The Doctor being able , in this manner , to draw the lightning into his
+house , and make experiments with it at his leisure ; and being certain
+that it was in all respects of the same nature with electricity , he was
+desirous to know if it was of the positive or negative kind .
+PRIESTLEY-1769-1,172.217
+
+The first time he succeeded in making an experiment for this purpose was
+the 12th of April 1753 , when it appeared that the lightning was
+negative . PRIESTLEY-1769-1,172.218
+
+Having found that <P_173> the clouds electrified negatively in eight
+successive thunder gusts , he concluded they were always electrified
+negatively , PRIESTLEY-1769-1,173.219
+
+and formed a theory to account for it . PRIESTLEY-1769-1,173.220
+
+But he afterwards found he had concluded too soon .
+PRIESTLEY-1769-1,173.221
+
+For , on the sixth of June following , he met with one cloud which was
+electrified positively ; upon which he corrected his former theory ,
+PRIESTLEY-1769-1,173.222
+
+but did not seem able perfectly to satisfy himself with any other .
+PRIESTLEY-1769-1,173.223
+
+The Doctor sometimes found the clouds would change from positive to
+negative electricity several times in the course of one thunder gust ,
+PRIESTLEY-1769-1,173.224
+
+and he once observed the air to be strongly electrified during a fall of
+snow , when there was no thunder at all . PRIESTLEY-1769-1,173.225
+
+But the grand practical use which Dr. Franklin made of his discovery of
+the sameness of electricity and lightning , was to secure buildings from
+being damaged by lightning , a thing of vast consequence in all parts of
+the world , but more especially in several parts of North America ,
+where thunder storms are more frequent , and their effects , in that dry
+air , more dreadful , than they are ever known to be with us .
+PRIESTLEY-1769-1,173.226
+
+This great end Dr. Franklin accomplished by so easy method , and by so
+cheap , and seemingly trifling apparatus , as fixing a pointed metalline
+rod higher than any part of the building , and communicating with the
+ground , or rather the nearest water . PRIESTLEY-1769-1,173.227
+
+This wire the lightning was sure to seize upon , preferable to any other
+part of the building ; whereby this dangerous power would be safely
+conducted to the earth , and dissipated , without doing any harm to the
+building . PRIESTLEY-1769-1,173.228
+
+Dr. Franklin was of opinion , that a wire of a quarter of an inch of
+thickness would be sufficient to conduct a greater quantity of lightning
+than was ever actually discharged from the clouds <P_174> in one stroke
+. PRIESTLEY-1769-1,174.229
+
+He found , that the gilding of a book was sufficient to conduct the
+charge of five large jars , PRIESTLEY-1769-1,174.230
+
+and thought that it would probably have conducted the charge of many
+more . PRIESTLEY-1769-1,174.231
+
+He also found by experiment , that if a wire was destroyed by an
+explosion , it was yet sufficient to conduct that particular stroke ,
+though it was thereby rendered incapable of conducting another .
+PRIESTLEY-1769-1,174.232
+
+The Doctor also supposed , that pointed rods erected on edifices might
+likewise often prevent a stroke of lightning in the following manner .
+PRIESTLEY-1769-1,174.233
+
+He says , that an eye so situated as to view horizontally the underside
+of a thunder cloud , will see it very ragged , with a number of separate
+fragments , or petty clouds , one under another , the lowest sometimes
+not far from the earth . PRIESTLEY-1769-1,174.234
+
+These , as so many stepping stones , assist in conducting a stroke
+between a cloud and a building . PRIESTLEY-1769-1,174.235
+
+To represent these by an experiment , he directs us to take two or three
+locks of fine loose cotton and connect one of them with the prime
+conductor , by a fine thread of two inches <paren> which may be spun out
+of the same lock <$$paren> another to that , and a third to the second ,
+by like threads . PRIESTLEY-1769-1,174.236
+
+He then bids us to turn the globe ; PRIESTLEY-1769-1,174.237
+
+and says we shall see these locks extending themselves towards the table
+<paren> as the lower small clouds do towards the earth <$$paren> but ,
+that , on presenting a sharp point , erect under the lowest , it will
+shrink up to the second , the second to the first , and all together to
+the prime conductor , where they will continue as long as the point
+continues under them . PRIESTLEY-1769-1,174.238
+
+A most ingenious and beautiful experiment ! PRIESTLEY-1769-1,174.239
+
+May not , he adds , in like manner , the small electrified clouds ,
+whose equilibrium {TEXT:equilibrum} with the earth is soon restored by
+the point , rise up to the main body , and by that <P_175> means
+occasion so large a vacancy , as that the grand cloud can@ @not strike
+in that place . PRIESTLEY-1769-1,175.240
+
+Mr. Wilcke , in his remarks on Dr. Franklin's letters , says , that on
+the 20th of August 1758 , he saw this supposition verified ; as he was
+viewing a large fringed cloud , strongly electrified , passing over a
+forest of tall fir trees . PRIESTLEY-1769-1,175.241
+
+The ragged and depending parts of the large cloud were first attracted
+lower , PRIESTLEY-1769-1,175.242
+
+and then suddenly rose higher , PRIESTLEY-1769-1,175.243
+
+and joined the large cloud . PRIESTLEY-1769-1,175.244
+
+He was also an eye witness of two clouds lying one over the other ,
+approaching , and flashing into one another . PRIESTLEY-1769-1,175.245
+
+The lightning spread itself over all the parts of the blacker cloud ,
+which was negative , and which immediately began to dissolve in rain .
+PRIESTLEY-1769-1,175.246
+
+<P_176>
+
+<heading>
+
+Section III . PRIESTLEY-1769-1,176.249
+
+Miscellaneous discoveries of Dr. Franklin and his friends in America
+during the same period . PRIESTLEY-1769-1,176.250
+
+<$$heading>
+
+Dr. Franklin , retaining the common opinion , that electrified bodies
+have real atmospheres of the electric fluid <paren> consisting of
+particles at some distance from the surface of the body , but always
+going along with it <$$paren> observed that these atmospheres and the
+air did not seem to exclude one another ; though , he says , this be
+difficult to conceive , considering that they are generally supposed to
+repel one another . PRIESTLEY-1769-1,176.252
+
+An electric atmosphere , he says , raised round a thick wire , inserted
+into a phial , drives out none of the air it contained ;
+PRIESTLEY-1769-1,176.253
+
+nor on withdrawing that atmosphere , will any air rush in , as he found
+by a very curious experiment , accurately made ; whence he also
+concluded , that the elasticity of the air was not affected by it .
+PRIESTLEY-1769-1,176.254
+
+The experiment , as the Doctor informs me , was made with a small glass
+syphon , one leg passing through the cork into the bottle .
+PRIESTLEY-1769-1,176.255
+
+The other leg had in it a drop of red ink , which readily <P_177> moved
+on the least change of heat or cold in the air contained in the phial ;
+but not at all on the air's being electrified .
+PRIESTLEY-1769-1,177.256
+
+He also made an experiment which would seem to prove the immobility , as
+we may say , of these atmospheres by any external force , if they have
+any existence at all ; PRIESTLEY-1769-1,177.257
+
+but others may think it is rather an argument against their existence .
+PRIESTLEY-1769-1,177.258
+
+He electrified a large cork ball fastened to the end of a silk string
+three feet long ; PRIESTLEY-1769-1,177.259
+
+and , taking the other end in his hand , he whirled it round , like a
+sling , a_hundred times in the open air , with the swiftest motion he
+could possibly give it ; PRIESTLEY-1769-1,177.260
+
+and observed , that it still retained its electric atmosphere , though
+it must have passed through eight_hundred yards of air .
+PRIESTLEY-1769-1,177.261
+
+To show that a body , in different circumstances of dilatation and
+contraction , is capable of receiving , or retaining more or less of the
+electric fluid on its surface , he made the following curious experiment
+. PRIESTLEY-1769-1,177.262
+
+He electrified a silver can , in which was about three yards of brass
+chain , one end of which he could raise to what height he pleased , by
+means of a pulley {TEXT:pully} and a silk cord .
+PRIESTLEY-1769-1,177.263
+
+He suspended a lock of cotton by a silk string from the ceiling of the
+room , making it to hang near the cup ; PRIESTLEY-1769-1,177.264
+
+and observed , that every time he drew up the chain , the cotton
+approached nearer to the cup , and as constantly receded from it when
+the chain was let down . PRIESTLEY-1769-1,177.265
+
+From this experiment it was evident , he says , that the atmosphere
+about the cup was diminished by raising the chain , and increased by
+lowering it ; and that the atmosphere of the chain must have been drawn
+from that of the cup when it was raised , and have returned to it again
+when it was let down . PRIESTLEY-1769-1,177.266
+
+To make electric atmospheres in some measure visible , the <P_178>
+Doctor used to drop rosin on hot iron plates held under bodies
+electrified ; PRIESTLEY-1769-1,178.267
+
+and , in a still room , the smoke would ascend , and form visible
+atmospheres round the bodies , making them look very beautiful .
+PRIESTLEY-1769-1,178.268
+
+In trying in what circumstances , the repellency between an electrified
+iron ball , and a small cork ball would be altered , he observed , that
+the smoke of rosin did not destroy their repellency , but was attracted
+both by the iron and the cork . PRIESTLEY-1769-1,178.269
+
+The Doctor observed , that silver exposed to the electric spark would
+acquire a blue stain , that iron would seem corroded by it ;
+PRIESTLEY-1769-1,178.270
+
+but he could never perceive any impression made on gold , brass , or tin
+. PRIESTLEY-1769-1,178.271
+
+The spots on the silver or iron were always the same , whether they
+received the spark from lead , brass , gold , or silver ;
+PRIESTLEY-1769-1,178.272
+
+and the smell of the electric fire was the same , through whatever
+bodies it was conveyed . PRIESTLEY-1769-1,178.273
+
+While we are attending to what was done by Dr. Franklin at Philadelphia
+, we must by no means overlook what was done by Mr. Kinnersley , the
+Doctor's friend , while at Boston in New_England .
+PRIESTLEY-1769-1,178.274
+
+Some of his observations , of which an account is given in the Doctor's
+letters , are very curious ; PRIESTLEY-1769-1,178.275
+
+and some later accounts , which he himself has transmitted to England ,
+seem to promise , that , if he continue his electrical inquiries , his
+name , after that of his friend , will be second to few in the history
+of electricity . PRIESTLEY-1769-1,178.276
+
+He first distinguished himself by re-discovering Mr. Du Faye's two
+contrary electricities of glass and sulphur , with which both he and Dr.
+Franklin were at that time wholly unacquainted .
+PRIESTLEY-1769-1,178.277
+
+But Mr. Kinnersley had a great advantage over Mr. Du Faye ;
+PRIESTLEY-1769-1,178.278
+
+for , making his experiments in a more advanced state of the <P_179>
+science , he saw immediately , that the two contrary electricities of
+glass and sulphur were the very same positive and negative electricities
+, which had just been discovered by Dr. Watson and Dr. Franklin .
+PRIESTLEY-1769-1,179.279
+
+He observed , that a cork ball , electrified by a conductor from excited
+glass , would be attracted by excited amber and sulphur , and repelled
+by excited glass and china ; that electrifying the ball with the wire of
+a charged phial , it would be repelled by excited glass , but attracted
+by excited sulphur ; and that when he electrified it by sulphur or amber
+, till it became repelled by them , it would be attracted by the wire of
+the phial , and repelled by its coating . PRIESTLEY-1769-1,179.280
+
+These experiments surprized him very much , PRIESTLEY-1769-1,179.281
+
+but by analogy he was led to infer , <font> a priori <$$font> , the
+following paradoxes , as he calls them , which were afterwards verified
+by Dr. Franklin at his request . PRIESTLEY-1769-1,179.282
+
+1. " If a glass globe be placed at one end of a prime conductor , and a
+sulphur one at the other , both being equally in good order , and in
+equal motion , not a spark of fire can be obtained from the conductor ,
+PRIESTLEY-1769-1,179.283
+
+but one globe will draw out as fast as the other gives in .
+PRIESTLEY-1769-1,179.284
+
+2. If a phial be suspended on the conductor with a chain from its
+coating to the table , and only one of the globes be made use of at a
+time , twenty turns of the wheel , for instance , will charge it ; after
+which , as many turns of the other wheel will discharge it ; and as many
+more will charge it again . PRIESTLEY-1769-1,179.285
+
+3. The globes being both in motion , each having a separate conductor ,
+with a phial suspended on one of them , and the chain fastened to the
+other ; the phial will become charged , one globe charging positively ,
+and the other negatively . PRIESTLEY-1769-1,179.286
+
+4. The phial being thus charged , hang it in like manner , <P_180> on
+the other conductor . PRIESTLEY-1769-1,180.287
+
+Set both wheels a going again , and the same number of turns that
+charged it before will now discharge it , PRIESTLEY-1769-1,180.288
+
+and the same number repeated will charge it again .
+PRIESTLEY-1769-1,180.289
+
+5. When each globe communicates with the same prime conductor , having
+a chain hanging from it to the table , one of them , when in motion
+<paren> but which I can@ @not say <$$paren> will draw fire up through
+the cushion , and discharge it , through the chain ;
+PRIESTLEY-1769-1,180.290
+
+and the other will draw it up through the chain , and discharge it
+through the cushion . " PRIESTLEY-1769-1,180.291
+
+When Mr. Kinnersley was advising his friend to try the experiments with
+the sulphur globe , he cautions him not to make use of chalk on the
+cushion , telling him that some fine powdered sulphur would do better .
+PRIESTLEY-1769-1,180.292
+
+And he expresses his hope that if the Doctor should find the two globes
+to charge the prime conductor differently , he would be able to discover
+some method of determining which it was that charged positively .
+PRIESTLEY-1769-1,180.293
+
+Dr. Franklin , when these experiments and conjectures were proposed to
+him , had no idea of their having any real foundation ;
+PRIESTLEY-1769-1,180.294
+
+but imagined , that the different attractions and repulsions observed by
+Mr. Kinnersley proceeded rather from the greater or smaller quantities
+of the electric fire , obtained from different bodies , than from its
+being either of a different kind , or having a different direction .
+PRIESTLEY-1769-1,180.295
+
+But finding , upon trial , that the principal of Mr. Kinnersley's
+suppositions were verified by fact , he had no doubt of the rest .
+PRIESTLEY-1769-1,180.296
+
+In answer to the doubt of Mr. Kinnersley , whether the glass , or the
+sulphur electrified positively , the Doctor gave it as his opinion ,
+<P_181> that the glass globe charged positively , and the sulphur
+negatively , for the following reasons . 1. Because , though the
+sulphur globe seemed to work equally well with the glass one , yet it
+could never occasion so large , and so distant a spark between his
+finger and conductor as when the glass globe was used .
+PRIESTLEY-1769-1,181.297
+
+But what he adds to confirm this proof does not seem to be satisfactory
+. PRIESTLEY-1769-1,181.298
+
+He supposes that bodies of a certain bigness can@ @not so easily part
+with the quantity of electric fluid which they have , and hold attracted
+within their substance , as they can receive an additional quantity upon
+their surface , by way of atmosphere ; and that therefore so much could
+not be drawn out of the conductor , as might be thrown on it .
+PRIESTLEY-1769-1,181.299
+
+2. He observed that the stream or brush of fire , appearing at the end
+of the wire connected with the conductor , was long , large , and much
+diverging when the glass globe was used , and made a snapping or
+rattling noise ; but that when the sulphur globe was used , it was short
+, small , and made a hissing noise . PRIESTLEY-1769-1,181.300
+
+He also observed , that just the reverse of both these cases happened
+when he held the same wire in his hand , and the globes were worked
+alternately . PRIESTLEY-1769-1,181.301
+
+The brush was large , long , diverging , and snapping or rattling , when
+the sulphur globe was turned ; but short , small , and hissing , when
+the glass globe was turned . PRIESTLEY-1769-1,181.302
+
+When the brush was long , large , and much diverging , it seemed to the
+Doctor , that the body to which it joined was throwing the fire out ,
+PRIESTLEY-1769-1,181.303
+
+and when the contrary appeared , it seemed to be drinking in .
+PRIESTLEY-1769-1,181.304
+
+3. He observed , that when he held his knuckle before the sulphur globe
+, while it was turning , the stream of fire between <P_182> his knuckle
+and the globe seemed to spread on its surface , as if it flowed from the
+finger , PRIESTLEY-1769-1,182.305
+
+but before the glass globe it was otherwise . PRIESTLEY-1769-1,182.306
+
+3. He observed that the cool wind <paren> or what was called so
+<$$paren> which is felt as coming from an electrified point , was much
+more sensible when the glass globe , than when the sulphur one was used
+. PRIESTLEY-1769-1,182.307
+
+But these , though the best arguments which the senses can furnish , of
+the course of the electric fluid , the Doctor acknowledges were but
+hasty thoughts . PRIESTLEY-1769-1,182.308
+
+Indeed , considering that the velocity of the electric fluid has been
+found , by experiment , to be , nearly , {COM:sic} instantaneous in a
+circuit of many miles , it can@ @not be supposed that the eye should be
+able to distinguish which way it goes in the space of one or two inches
+. PRIESTLEY-1769-1,182.309
+
+I shall conclude this article with observing that the experiments ,
+which the Doctor made with globes of glass and sulphur , are much more
+easily exhibited by the conductor and insulated rubber of either of them
+, all the effects being the reverse of each other .
+PRIESTLEY-1769-1,182.310
+
+I must now , for the present , take leave of this ingenious writer and
+his friends , after having brought the history of their labours to the
+year 1754 , PRIESTLEY-1769-1,182.311
+
+and must return to see what was doing on the continent of Europe for two
+or three years preceding this date , while we left it to go over to
+America . PRIESTLEY-1769-1,182.312
+
+<P_183>
+
+Period X . PRIESTLEY-1769-1,183.314
+
+The history of electricity , from the time that Dr. Franklin made his
+experiments in America , till the year 1766 . PRIESTLEY-1769-1,183.315
+
+We are now entering upon the last period into which the history of
+electricity divides itself , in which the great variety of matter
+presented to our view must oblige an historian to have recourse to the
+strictest method ; PRIESTLEY-1769-1,183.316
+
+for , otherwise , the narration would be extremely perplexed and
+disgusting . PRIESTLEY-1769-1,183.317
+
+As this period contains the events of a larger space of time than most
+of the others , yet without any convenient resting place ; as the
+business of electricity has been considerably multiplied in it , and a
+greater number of labourers have been employed in gathering in the
+harvest of discoveries , the seeds of which were sown by Dr. Watson ,
+Dr. Franklin , and others , in the preceding periods ; I am obliged to
+subdivide this into more distinct parts , PRIESTLEY-1769-1,183.318
+
+but I hope they will not be found to be more than were necessary , in
+order to prevent confusion . PRIESTLEY-1769-1,183.319
+

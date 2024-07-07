@@ -1,0 +1,288 @@
+<BEGIN_montague-1680-e3-p2>
+
+<P_1,174.21>
+
+<heading:edcomment:THE_COUNTESS_OF_MANCHESTER_TO_LADY_HATTON>
+
+11 Feb. 1679 {COM:preceding_word_"1679"_emended}
+
+I am very much concernd to heare of the loss of your little girl .
+MONTAGUE-1680-E3-P2,1,174.21.5
+
+I thought it had bine grown very stronge ,
+MONTAGUE-1680-E3-P2,1,174.21.6
+
+but I suppose it twas {COM:sic} <P_1,175> somethinge concerninge the
+teeth . MONTAGUE-1680-E3-P2,1,175.7
+
+I hope God will soone make it up by sendinge you a son .
+MONTAGUE-1680-E3-P2,1,175.8
+
+I give you a_thousand thankes for your kindnes to y=e= girls .
+MONTAGUE-1680-E3-P2,1,175.9
+
+Kattes illness was a feaver , MONTAGUE-1680-E3-P2,1,175.10
+
+and left her soe weake and fante that she will be some time before she
+can stirr any wither . MONTAGUE-1680-E3-P2,1,175.11
+
+I hope to see you aganest the parlim=t= in towne , w=ch= will now bee
+very quickly . MONTAGUE-1680-E3-P2,1,175.12
+
+I suppose you have all the news from your brother
+{COM:preceding_word_"brother"_emended} , who is a great man amongest the
+ladyes . MONTAGUE-1680-E3-P2,1,175.13
+
+He comes sometimes to us ; MONTAGUE-1680-E3-P2,1,175.14
+
+and I am forced to putt him out of doores att night ,
+MONTAGUE-1680-E3-P2,1,175.15
+
+he is such an etternall sitter up att nights .
+MONTAGUE-1680-E3-P2,1,175.16
+
+I am just now come from takeing y=e= oathes and subscribing y=e= Test in
+y=e= Court of Chanserie , as all the Queen's servants are to doe .
+MONTAGUE-1680-E3-P2,1,175.17
+
+Yesterday the 3 men acussed by Prance was condemned , att w=ch= the
+people made y=e= grattest {COM:preceding_word_"grattest"_emended} show
+of satisfaction imaginable . MONTAGUE-1680-E3-P2,1,175.18
+
+My Lady Gerard was in the Citty taken <paren> in a chaire <$$paren> to
+bee y=e= Dutchess of Portsmouth , and called the French whore ;
+MONTAGUE-1680-E3-P2,1,175.19
+
+and soe many gott about the chaire as much frighted her
+{COM:preceding_word_"her"_emended} . MONTAGUE-1680-E3-P2,1,175.20
+
+But some w=th= her told who she was . MONTAGUE-1680-E3-P2,1,175.21
+
+S=r= Jhos: Williamson was told by the Kinge one Sunday morninge he was
+noe longer fitt for y=t= employm=t= as the Kinges afferes att this time
+was , and y=e= secretarie's plaice given to my L=d= Sunderland .
+MONTAGUE-1680-E3-P2,1,175.22
+
+He is promised to have y=e= 6,000@ @=ll= given him he payed for it ,
+together w=th= 2,000@ @=ll= S=r= Floyde is to pay for his plaice .
+MONTAGUE-1680-E3-P2,1,175.23
+
+He was much surprised , not in y=e= least expecting it .
+MONTAGUE-1680-E3-P2,1,175.24
+
+T@ @is said y=e= orther will bee removed to .
+MONTAGUE-1680-E3-P2,1,175.25
+
+I begg my servous to your Lord , MONTAGUE-1680-E3-P2,1,175.26
+
+and remaine Your most affectionat aunt and servant , A. Manchester .
+MONTAGUE-1680-E3-P2,1,175.27
+
+<P_1,193>
+
+<heading:edcomment:THE_COUNTESS_OF_MANCHESTER_TO_LADY_HATTON>
+
+Sept. 8=th= , 1679 {COM:preceding_word_"1679"_emended}
+
+I was two dayes att Windsor , MONTAGUE-1680-E3-P2,1,193.31
+
+and had the fortune to bee ther when the Duke first come .
+MONTAGUE-1680-E3-P2,1,193.32
+
+It was a great surprise , if not to all , to y=e= greater number , the
+Kinge having sent before to him not to come .
+MONTAGUE-1680-E3-P2,1,193.33
+
+But he did noe question expect to finde him much worse then he found him
+, MONTAGUE-1680-E3-P2,1,193.34
+
+for y=t= daye he begane to walke about the hous .
+MONTAGUE-1680-E3-P2,1,193.35
+
+Ther are severall oppinions wether he will goe back or noe ;
+MONTAGUE-1680-E3-P2,1,193.36
+
+and , till the Kinge remooves from Windsor , I suppose he will not stir
+. MONTAGUE-1680-E3-P2,1,193.37
+
+About the 15 or 16 of this moneth the Kinge speakes of Newmarkett .
+MONTAGUE-1680-E3-P2,1,193.38
+
+The docterrs are much against it , MONTAGUE-1680-E3-P2,1,193.39
+
+and , if he goeth not thither , I beleeve will stay y=e= longer att
+Windsor . MONTAGUE-1680-E3-P2,1,193.40
+
+My Lady Montrose is going to_morrow for Ireland .
+MONTAGUE-1680-E3-P2,1,193.41
+
+She seems much pleased and willing to goe .
+MONTAGUE-1680-E3-P2,1,193.42
+
+Her sister goeth w=th= her . MONTAGUE-1680-E3-P2,1,193.43
+
+My L=d= of E. was not kinde to her , MONTAGUE-1680-E3-P2,1,193.44
+
+made y=m= pay for ther board , MONTAGUE-1680-E3-P2,1,193.45
+
+and went the next morning after she was married away into y=e= country ,
+MONTAGUE-1680-E3-P2,1,193.46
+
+and left her husband to gett her a dyner as he could .
+MONTAGUE-1680-E3-P2,1,193.47
+
+I wonder how people can doe such thinges . MONTAGUE-1680-E3-P2,1,193.48
+
+My L=d= Halifax is become soe great a courtier as never is from y=e=
+Kinges elbow . MONTAGUE-1680-E3-P2,1,193.49
+
+Thus you see how men change their mindes upon ocasions .
+MONTAGUE-1680-E3-P2,1,193.50
+
+The D. refused S=r= Tho. Armstrong to kiss his hand ,
+MONTAGUE-1680-E3-P2,1,193.51
+
+and , 't@ @is said , is very coole to y=e= D. of Monmouth .
+MONTAGUE-1680-E3-P2,1,193.52
+
+Thus I have told you all the news I know , MONTAGUE-1680-E3-P2,1,193.53
+
+and only begg my service to your Lord , MONTAGUE-1680-E3-P2,1,193.54
+
+and remaine , Your affectionat Aunt and servant , A. Manchester .
+MONTAGUE-1680-E3-P2,1,193.55
+
+<P_1,217>
+
+<heading:edcomment:THE_COUNTESS_OF_MANCHESTER>
+
+Whitehall , MONTAGUE-1680-E3-P2,1,217.58
+
+Jan. 23=th= 1680 {COM:preceding_word_"1680"_emended}
+MONTAGUE-1680-E3-P2,1,217.59
+
+My Lord , I received both your letters att Leez , and soe neare my
+comeing back that made mee defere till now wrighten .
+MONTAGUE-1680-E3-P2,1,217.60
+
+M=r= Riggby hath bine w=th= us this Christmass att Leez , wher my Lord
+hath concluded w=th= him to travell w=th= my son and to goe about next
+Michelmass . MONTAGUE-1680-E3-P2,1,217.61
+
+I suppose he designes he shall stay abroad till he bee neare of agge ,
+w=ch= will bee four yeare att least , if nothinge should ocasion a more
+sudden returne then yet wee can foresee . MONTAGUE-1680-E3-P2,1,217.62
+
+As to w=t= your L=dsp= saith concerning him , he was gone that morning
+towards London when I received your letter ,
+MONTAGUE-1680-E3-P2,1,217.63
+
+and that made me defere wrighten till I had acquainted him w=th= it ,
+w=ch= I did yesterday . MONTAGUE-1680-E3-P2,1,217.64
+
+I suppose he will returne himselfe his acknowledgm=ts= to you for your
+thoughts of him , MONTAGUE-1680-E3-P2,1,217.65
+
+but I guess by his discours that he will bee unwilling to take any
+liveing of noe greater value . MONTAGUE-1680-E3-P2,1,217.66
+
+He , I suppose , was informed that Willbee was at least 120@ @=ll= a
+yeare , MONTAGUE-1680-E3-P2,1,217.67
+
+and the nebourhood of Kerby was y=e= greattes temptation ;
+MONTAGUE-1680-E3-P2,1,217.68
+
+besides , beeing to bee abroad soe long w=th= Charles , att his returne
+I hope my L=d= may have it in his <P_1,218> power to doe as well for him
+, he haveing a great many very good liveings in his gifft ;
+MONTAGUE-1680-E3-P2,1,218.69
+
+and truely I find his preaching , w=ch= I never heard till this time at
+Leez , and his conversation , may very reasonably deserve a good one ,
+espeshallie if he performes his dutty to my son abroad , w=ch= I hope he
+will . MONTAGUE-1680-E3-P2,1,218.70
+
+As to w=t= neues this plaice afords , tho I suppose you have it from
+better hands , yet I will tell you how much pleased wee are here att
+Court w=th= the citty , and that the pettition
+{COM:preceding_word_"pettition"_emended} was not received att the Comon
+Councell , tho it was by a very few voices carried against .
+MONTAGUE-1680-E3-P2,1,218.71
+
+They first declared it twas {COM:sic} legall and the right of every
+{COM:preceding_word_"every"_emended} man to adress that way to the Kinge
+, and that a parlim=t= was very needefull to those purposes , but that ,
+believing it_t@ @would {COM:sic} procure a more certane sattisfaction
+w=th=out , and more ready way to have ther desiers granted .
+MONTAGUE-1680-E3-P2,1,218.72
+
+Wee are told here that the Dutch have absolutly refuted the French
+league and will agree wth us , into w=ch= league the greattes part of
+christendome are willingle to entter , to humble the Kinge of France ,
+if they can , att least that he might not greatten his conquest , w=ch=
+is expected he will doe next summer . MONTAGUE-1680-E3-P2,1,218.73
+
+'T@ @is thought the Kinge may have given the Dutch some privat assurance
+of assistance , w=ch= makes it hop'd wee may not bee long w=th=out a
+parlim=t= . MONTAGUE-1680-E3-P2,1,218.74
+
+Next Munday , beeing y=e= day for the prorogation , is impatiently
+expected , to see y=e= event of peoples hopes .
+MONTAGUE-1680-E3-P2,1,218.75
+
+Here is strange neues from France . MONTAGUE-1680-E3-P2,1,218.76
+
+A great many people of the best quality accused for poisoning
+{COM:preceding_word_"poisoning"_emended} . MONTAGUE-1680-E3-P2,1,218.77
+
+Madame de Sowison <P_1,219> <paren> Madame Mazerine sister <$$paren>
+hath made her escape . MONTAGUE-1680-E3-P2,1,219.78
+
+She is said to have bine the death of her husband .
+MONTAGUE-1680-E3-P2,1,219.79
+
+Severall more w=ch= was ingaged in that first murder , to secure her
+owne saffety , she hath sent after him . MONTAGUE-1680-E3-P2,1,219.80
+
+Madam de Bullion , another sister , is secured , and a great many more .
+MONTAGUE-1680-E3-P2,1,219.81
+
+The Marechall de Luxsomberge is in y=e= Bastill , a paper under his owne
+hand being found , a contract made to the divell upon three accounts :
+one , never to loose the Kinge's favour ; to bee allwayes victouris and
+never hurt in battall ; and allways prosperous in his love .
+MONTAGUE-1680-E3-P2,1,219.82
+
+Sesak that was here , y=e= great gamester , he hath done y=e= same thing
+, that he may winn allwayes att play . MONTAGUE-1680-E3-P2,1,219.83
+
+It makes as much discours in France as our plott doth here ,
+MONTAGUE-1680-E3-P2,1,219.84
+
+and y=e= Kinge is much concern'd ther about it .
+MONTAGUE-1680-E3-P2,1,219.85
+
+I begg your L=dsp= pardon for y=e= length of this trouble ,
+MONTAGUE-1680-E3-P2,1,219.86
+
+and remaine , Your most humble servant , A. Manchester .
+MONTAGUE-1680-E3-P2,1,219.87
+
+Since I writte , this day , about noone , M=r= Thinn , S=r= Walter St.
+John , and S=r= Edward Hungerford , w=th= two or 3 orther gentlemen ,
+presented the pettitione {COM:preceding_word_"pettitione"_emended} from
+Wiltshiere . MONTAGUE-1680-E3-P2,1,219.88
+
+Y=e= K. received y=m= but ruffly , MONTAGUE-1680-E3-P2,1,219.89
+
+asked y=m= from whens it came . MONTAGUE-1680-E3-P2,1,219.90
+
+Beeing told , he said that , nether the grand jury nor justices hands
+being to it , he wonderd gentlemen would owne anything from a rabble ;
+that it twas {COM:sic} his right to call parlim=ts= when he thought it
+conveniant {COM:preceding_word_"conveniant"_emended} , and was y=e=
+judge of it , and should not doe it y=e= sooner for this way ;
+MONTAGUE-1680-E3-P2,1,219.91
+
+and soe left y=m= . MONTAGUE-1680-E3-P2,1,219.92
+

@@ -1,0 +1,1847 @@
+<BEGIN_farquhar-1707-e3-h>
+
+<P_1>
+
+<heading>
+
+ACT I . FARQUHAR-1707-E3-H,1.4
+
+SCENE I . FARQUHAR-1707-E3-H,1.5
+
+SCENE , AN INN . FARQUHAR-1707-E3-H,1.6
+
+<$$heading>
+
+<font> Enter <$$font> Bonniface <font> running <$$font> .
+FARQUHAR-1707-E3-H,1.8
+
+<font> Bon. <$$font> Chamberlain , Maid , <font> Cherry <$$font> ,
+Daughter <font> Cherry <$$font> , all asleep , all dead ?
+FARQUHAR-1707-E3-H,1.9
+
+<font> Enter <$$font> Cherry <font> running <$$font> .
+FARQUHAR-1707-E3-H,1.10
+
+<font> Cherry , <$$font> Here , here , Why d'@ @ye baul so , Father ?
+FARQUHAR-1707-E3-H,1.11
+
+d'@ @ye think we have no Ears ? FARQUHAR-1707-E3-H,1.12
+
+<font> Bon. <$$font> You deserve to have none , you young Minx ; -
+FARQUHAR-1707-E3-H,1.13
+
+The Company of the <font> Warrington <$$font> Coach has stood in the
+Hall this Hour , FARQUHAR-1707-E3-H,1.14
+
+and no Body to shew them to their Chambers . FARQUHAR-1707-E3-H,1.15
+
+<font> Cher. <$$font> And let 'em wait farther ;
+FARQUHAR-1707-E3-H,1.16
+
+there@ @'s neither Red-Coat in the Coach , nor Footman behind it .
+FARQUHAR-1707-E3-H,1.17
+
+<font> Bon. <$$font> But they threaten to go to another Inn to_Night .
+FARQUHAR-1707-E3-H,1.18
+
+<font> Cher. <$$font> That they dare not , for fear the Coachman should
+overturn them to_Morrow - FARQUHAR-1707-E3-H,1.19
+
+Coming , coming : FARQUHAR-1707-E3-H,1.20
+
+Here@ @'s the <font> London <$$font> Coach arriv'd .
+FARQUHAR-1707-E3-H,1.21
+
+<font> Enter several People with Trunks , Band-boxes , and other Luggage
+, FARQUHAR-1707-E3-H,1.22
+
+and cross the Stage . <$$font> FARQUHAR-1707-E3-H,1.23
+
+<font> Bon. <$$font> Welcome , Ladies . FARQUHAR-1707-E3-H,1.24
+
+<font> Cher. <$$font> Very welcome , Gentlemen -
+FARQUHAR-1707-E3-H,1.25
+
+Chamberlain , shew the <font> Lyon <$$font> and the <font> Rose <$$font>
+. FARQUHAR-1707-E3-H,1.26
+
+<font> Exit with the Company . <$$font> FARQUHAR-1707-E3-H,1.27
+
+<font> Enter <$$font> Aimwell <font> in riding Habit <$$font> , Archer
+<font> as Footman carrying a Portmantle <$$font> .
+FARQUHAR-1707-E3-H,1.28
+
+<font> Bon. <$$font> This way , this way , Gentlemen .
+FARQUHAR-1707-E3-H,1.29
+
+<font> Aim. <$$font> Set down the things , FARQUHAR-1707-E3-H,1.30
+
+go to the Stable , FARQUHAR-1707-E3-H,1.31
+
+and see my Horses well rubb'd . FARQUHAR-1707-E3-H,1.32
+
+<font> Arch. <$$font> I shall , Sir . FARQUHAR-1707-E3-H,1.33
+
+<font> Exit . <$$font> FARQUHAR-1707-E3-H,1.34
+
+<P_2>
+
+<font> Aim. <$$font> You@ @'re my Landlord , I suppose ?
+FARQUHAR-1707-E3-H,2.36
+
+<font> Bon. <$$font> Yes , Sir , FARQUHAR-1707-E3-H,2.37
+
+I@ @'m old <font> Will. Bonniface <$$font> , pretty well known upon
+this Road , as the saying is . FARQUHAR-1707-E3-H,2.38
+
+<font> Aim. <$$font> O Mr. <font> Bonniface <$$font> , your Servant .
+FARQUHAR-1707-E3-H,2.39
+
+<font> Bon. <$$font> O Sir - What will your Honour please to drink , as
+the saying is ? FARQUHAR-1707-E3-H,2.40
+
+<font> Aim. <$$font> I have heard your Town of <font> Litchfield
+<$$font> much fam'd for Ale , FARQUHAR-1707-E3-H,2.41
+
+I think I@ @'ll taste that . FARQUHAR-1707-E3-H,2.42
+
+<font> Bon. <$$font> Sir , I have now in my Cellar Ten Tun of the best
+Ale in <font> Staffordshire <$$font> ; FARQUHAR-1707-E3-H,2.43
+
+'t@ @is smooth as Oil , sweet as Milk , clear as Amber , and strong as
+Brandy ; FARQUHAR-1707-E3-H,2.44
+
+and will be just Fourteen Year old the Fifth Day of next <font> March
+<$$font> old Stile . FARQUHAR-1707-E3-H,2.45
+
+<font> Aim. <$$font> You@ @'re very exact , I find , in the Age of your
+Ale . FARQUHAR-1707-E3-H,2.46
+
+<font> Bon. <$$font> As punctual , Sir , as I am in the Age of my
+Children : FARQUHAR-1707-E3-H,2.47
+
+I@ @'ll shew you such Ale - FARQUHAR-1707-E3-H,2.48
+
+Here , Tapster , broach Number 1706 . as the saying is ; -
+FARQUHAR-1707-E3-H,2.49
+
+Sir , you shall taste my Anno Domini ; - FARQUHAR-1707-E3-H,2.50
+
+I have liv'd in <font> Litchfield <$$font> Man and Boy above
+Eight_and_fifty Years , FARQUHAR-1707-E3-H,2.51
+
+and I believe have not consum'd Eight_and_fifty Ounces of Meat .
+FARQUHAR-1707-E3-H,2.52
+
+<font> Aim. <$$font> At a Meal , you mean , if one may guess your Sense
+by your Bulk . FARQUHAR-1707-E3-H,2.53
+
+<font> Bon. <$$font> Not in my Life , Sir , FARQUHAR-1707-E3-H,2.54
+
+I have fed purely upon Ale ; FARQUHAR-1707-E3-H,2.55
+
+I have eat my Ale , drank my Ale , FARQUHAR-1707-E3-H,2.56
+
+and I always sleep upon Ale . FARQUHAR-1707-E3-H,2.57
+
+<font> Enter Tapster with a Bottle and Glass . <$$font>
+FARQUHAR-1707-E3-H,2.58
+
+Now , Sir , you shall see FARQUHAR-1707-E3-H,2.59
+
+<paren> <font> filling it out <$$font> <$$paren> your Worship's Health ;
+FARQUHAR-1707-E3-H,2.60
+
+ha ! delicious , delicious , - FARQUHAR-1707-E3-H,2.61
+
+fancy it <font> Burgundy <$$font> , FARQUHAR-1707-E3-H,2.62
+
+only fancy it , FARQUHAR-1707-E3-H,2.63
+
+and 't@ @is worth Ten Shillings a Quart . FARQUHAR-1707-E3-H,2.64
+
+<font> Aim. <$$font> <paren> <font> Drinks . <$$font> <$$paren>
+FARQUHAR-1707-E3-H,2.65
+
+'T@ @is confounded strong . FARQUHAR-1707-E3-H,2.66
+
+<font> Bon. <$$font> Strong ! FARQUHAR-1707-E3-H,2.67
+
+It must be so , FARQUHAR-1707-E3-H,2.68
+
+or how should we be strong that drink it ? FARQUHAR-1707-E3-H,2.69
+
+<font> Aim. <$$font> And have you liv'd so long upon this Ale ,
+Landlord ? FARQUHAR-1707-E3-H,2.70
+
+<font> Bon. <$$font> Eight_and_fifty Years , upon my Credit , Sir ;
+FARQUHAR-1707-E3-H,2.71
+
+but it kill'd my Wife , poor Woman , as the saying is .
+FARQUHAR-1707-E3-H,2.72
+
+<font> Aim. <$$font> How came that to pass ? FARQUHAR-1707-E3-H,2.73
+
+<font> Bon. <$$font> I do@ @n't know how , Sir ;
+FARQUHAR-1707-E3-H,2.74
+
+she would not let the Ale take its natural Course , Sir ,
+FARQUHAR-1707-E3-H,2.75
+
+she was for qualifying it every now and then with a Dram , as the saying
+is ; FARQUHAR-1707-E3-H,2.76
+
+and an honest Gentleman that came this way from <font> Ireland <$$font>
+, made her a Present of a_dozen Bottles of Usquebaugh -
+FARQUHAR-1707-E3-H,2.77
+
+But the poor Woman was never well after : FARQUHAR-1707-E3-H,2.78
+
+But howe're , I was obliged to the Gentleman , you know .
+FARQUHAR-1707-E3-H,2.79
+
+<font> Aim. <$$font> Why , was it the Usquebaugh that kill'd her ?
+FARQUHAR-1707-E3-H,2.80
+
+<P_3>
+
+<font> Bon. <$$font> My Lady <font> Bountyful <$$font> said so , -
+FARQUHAR-1707-E3-H,3.82
+
+She , good Lady , did what could be done , FARQUHAR-1707-E3-H,3.83
+
+she cured her of Three Tympanies , FARQUHAR-1707-E3-H,3.84
+
+but the Fourth carry'd her off ; FARQUHAR-1707-E3-H,3.85
+
+but she@ @'s happy , FARQUHAR-1707-E3-H,3.86
+
+and I@ @'m contented , as the saying is . FARQUHAR-1707-E3-H,3.87
+
+<font> Aim. <$$font> Who@ @'s that Lady <font> Bountyful <$$font> , you
+mention'd ? FARQUHAR-1707-E3-H,3.88
+
+<font> Bon. <$$font> Ods my life , Sir , we@ @'ll drink her Health .
+FARQUHAR-1707-E3-H,3.89
+
+<paren> <font> Drinks <$$font> <$$paren> FARQUHAR-1707-E3-H,3.90
+
+My Lady <font> Bountyful <$$font> is one of the best of Women :
+FARQUHAR-1707-E3-H,3.91
+
+Her last Husband Sir <font> Charles Bountyful <$$font> left her worth
+a_Thousand Pound a Year ; FARQUHAR-1707-E3-H,3.92
+
+and I believe she lays out one half on@ @'t in charitable Uses for the
+Good of her Neighbours ; FARQUHAR-1707-E3-H,3.93
+
+she cures Rheumatisms , Ruptures , and broken Shins in Men , Green
+Sickness , Obstructions , and Fits of the Mother in Women ; - The
+Kings-Evil , Chin-Cough , and Chilblains in Children ;
+FARQUHAR-1707-E3-H,3.94
+
+in short , she has cured more People in and about <font> Litchfield
+<$$font> within Ten Years than the Doctors have kill'd in Twenty ;
+FARQUHAR-1707-E3-H,3.95
+
+and that@ @'s a bold Word . FARQUHAR-1707-E3-H,3.96
+
+<font> Aim. <$$font> Has the Lady been any other way useful in her
+Generation ? FARQUHAR-1707-E3-H,3.97
+
+<font> Bon. <$$font> Yes , Sir , She has a Daughter by Sir <font>
+Charles <$$font> , the finest Woman in all our Country , and the
+greatest Fortune . FARQUHAR-1707-E3-H,3.98
+
+She has a Son too by her first Husband Squire <font> Sullen <$$font> ,
+who marry'd a fine Lady from <font> London <$$font> t'@ @other day ;
+FARQUHAR-1707-E3-H,3.99
+
+if you please , Sir , we@ @'ll drink his Health ?
+FARQUHAR-1707-E3-H,3.100
+
+<font> Aim. <$$font> What sort of a Man is he ?
+FARQUHAR-1707-E3-H,3.101
+
+<font> Bon. <$$font> Why , Sir , the Man@ @'s well enough ;
+FARQUHAR-1707-E3-H,3.102
+
+says little , FARQUHAR-1707-E3-H,3.103
+
+thinks less , FARQUHAR-1707-E3-H,3.104
+
+and does - nothing at all , Faith : FARQUHAR-1707-E3-H,3.105
+
+But he@ @'s a Man of great Estate , FARQUHAR-1707-E3-H,3.106
+
+and values no Body . FARQUHAR-1707-E3-H,3.107
+
+<font> Aim. <$$font> A Sportsman , I suppose .
+FARQUHAR-1707-E3-H,3.108
+
+<font> Bon. <$$font> Yes , Sir , he@ @'s a Man of Pleasure ,
+FARQUHAR-1707-E3-H,3.109
+
+he plays at Whisk , FARQUHAR-1707-E3-H,3.110
+
+and smoaks his Pipe Eight_and_forty Hours together sometimes .
+FARQUHAR-1707-E3-H,3.111
+
+<font> Aim. <$$font> And marry'd , you say ? FARQUHAR-1707-E3-H,3.112
+
+<font> Bon. <$$font> Ay , and to a curious Woman , Sir , -
+FARQUHAR-1707-E3-H,3.113
+
+But he@ @'s a - FARQUHAR-1707-E3-H,3.114
+
+He wants it , here , Sir . FARQUHAR-1707-E3-H,3.115
+
+<font> Pointing to his Forehead . <$$font> FARQUHAR-1707-E3-H,3.116
+
+<font> Aim. <$$font> He has it there , you mean .
+FARQUHAR-1707-E3-H,3.117
+
+<font> Bon. <$$font> That@ @'s none of my Business ,
+FARQUHAR-1707-E3-H,3.118
+
+he@ @'s my Landlord , FARQUHAR-1707-E3-H,3.119
+
+and so a Man you know , wou'd not , - FARQUHAR-1707-E3-H,3.120
+
+But - I_cod , he@ @'s no better than - FARQUHAR-1707-E3-H,3.121
+
+Sir , my humble Service to you . FARQUHAR-1707-E3-H,3.122
+
+<paren> <font> Drinks . <$$font> <$$paren> FARQUHAR-1707-E3-H,3.123
+
+Tho' I value not a Farthing what he can do to me ; I pay him his Rent at
+Quarter day , FARQUHAR-1707-E3-H,3.124
+
+I have a good running Trade , FARQUHAR-1707-E3-H,3.125
+
+I have but one Daughter , FARQUHAR-1707-E3-H,3.126
+
+and I can give her - FARQUHAR-1707-E3-H,3.127
+
+But no matter for that . FARQUHAR-1707-E3-H,3.128
+
+<font> Aim. <$$font> You@ @'re very happy , Mr. <font> Bonniface
+<$$font> , FARQUHAR-1707-E3-H,3.129
+
+pray what other Company have you in Town ? FARQUHAR-1707-E3-H,3.130
+
+<P_4>
+
+<font> Bon. <$$font> A power of fine Ladies , FARQUHAR-1707-E3-H,4.132
+
+and then we have the <font> French <$$font> Officers .
+FARQUHAR-1707-E3-H,4.133
+
+<font> Aim. <$$font> O that@ @'s right , FARQUHAR-1707-E3-H,4.134
+
+you have a good many of those Gentlemen : FARQUHAR-1707-E3-H,4.135
+
+Pray how do you like their Company ? FARQUHAR-1707-E3-H,4.136
+
+<font> Bon. <$$font> So well , as the saying is , that I cou'd wish we
+had as many more of 'em , FARQUHAR-1707-E3-H,4.137
+
+they@ @'re full of Money , FARQUHAR-1707-E3-H,4.138
+
+and pay double for every thing they have ; FARQUHAR-1707-E3-H,4.139
+
+they know , Sir , that we pay'd good round Taxes for the taking of 'em ,
+FARQUHAR-1707-E3-H,4.140
+
+and so they are willing to reimburse us a little ;
+FARQUHAR-1707-E3-H,4.141
+
+one of 'em lodges in my House . FARQUHAR-1707-E3-H,4.142
+
+<font> Enter <$$font> Archer . FARQUHAR-1707-E3-H,4.143
+
+<font> Arch. <$$font> Landlord , there are some <font> French <$$font>
+Gentlemen below that ask for you . FARQUHAR-1707-E3-H,4.144
+
+<font> Bon. <$$font> I@ @'ll wait on 'em ; - FARQUHAR-1707-E3-H,4.145
+
+Does your Master stay long in Town , as the saying is ?
+FARQUHAR-1707-E3-H,4.146
+
+<font> To <$$font> Archer . FARQUHAR-1707-E3-H,4.147
+
+<font> Arch. <$$font> I ca@ @n't tell , as the saying is .
+FARQUHAR-1707-E3-H,4.148
+
+<font> Bon. <$$font> Come from <font> London <$$font> ?
+FARQUHAR-1707-E3-H,4.149
+
+<font> Arch. <$$font> No . FARQUHAR-1707-E3-H,4.150
+
+<font> Bon. <$$font> Going to <font> London <$$font> , may_hap ?
+FARQUHAR-1707-E3-H,4.151
+
+<font> Arch. <$$font> No . FARQUHAR-1707-E3-H,4.152
+
+<font> Bon. <$$font> An odd Fellow this . FARQUHAR-1707-E3-H,4.153
+
+I beg your Worship's Pardon , FARQUHAR-1707-E3-H,4.154
+
+I@ @'ll wait on you in half a Minute . FARQUHAR-1707-E3-H,4.155
+
+<font> Exit . <$$font> FARQUHAR-1707-E3-H,4.156
+
+<font> Aim. <$$font> The Coast@ @'s clear , I see , -
+FARQUHAR-1707-E3-H,4.157
+
+Now my dear <font> Archer <$$font> , welcome to <font> Litchfield
+<$$font> . FARQUHAR-1707-E3-H,4.158
+
+<font> Arch. <$$font> I thank thee , my dear Brother in Iniquity .
+FARQUHAR-1707-E3-H,4.159
+
+<font> Aim. <$$font> Iniquity ! FARQUHAR-1707-E3-H,4.160
+
+pri@ @thee leave Canting , FARQUHAR-1707-E3-H,4.161
+
+you need not change your Stile with your Dress .
+FARQUHAR-1707-E3-H,4.162
+
+<font> Arch. <$$font> Do@ @n't mistake me , <font> Aimwell <$$font> ,
+FARQUHAR-1707-E3-H,4.163
+
+for 't@ @is still my Maxim , that there is no Scandal like Rags , nor
+any Crime so shameful as Poverty . FARQUHAR-1707-E3-H,4.164
+
+<font> Aim. <$$font> The World confesses it every Day in its Practice ,
+tho' Men wo@ @n't own it for their Opinion : FARQUHAR-1707-E3-H,4.165
+
+Who did that worthy Lord , my Brother , single out of the Side-box to
+sup with him t'@ @other Night ? FARQUHAR-1707-E3-H,4.166
+
+<font> Arch. <$$font> <font> Jack Handycraft <$$font> , a handsom ,
+well dress'd , mannerly , sharping Rogue , who keeps the best Company in
+Town . FARQUHAR-1707-E3-H,4.167
+
+<font> Aim. <$$font> Right , FARQUHAR-1707-E3-H,4.168
+
+and pray who marry'd my Lady <font> Manslaughter <$$font> t'@ @other Day
+, the great Fortune ? FARQUHAR-1707-E3-H,4.169
+
+<font> Arch. <$$font> Why , <font> Nick Marrabone <$$font> , a
+profess'd Pick-pocket , and a good Bowler ; FARQUHAR-1707-E3-H,4.170
+
+but he makes a handsom Figure , FARQUHAR-1707-E3-H,4.171
+
+and rides in his Coach , that he formerly used to ride behind .
+FARQUHAR-1707-E3-H,4.172
+
+<P_5>
+
+<font> Aim. <$$font> But did you observe poor <font> Jack Generous
+<$$font> in the Park last Week ? FARQUHAR-1707-E3-H,5.174
+
+<font> Arch. <$$font> Yes , with his Autumnal Perriwig , shading his
+melancholly Face , his Coat older than any thing but its Fashion , with
+one Hand idle in his Pocket , and with the other picking his useless
+Teeth ; FARQUHAR-1707-E3-H,5.175
+
+and tho' the Mall was crowded with Company , yet was poor <font> Jack
+<$$font> as single and solitary as a Lyon in a Desart .
+FARQUHAR-1707-E3-H,5.176
+
+<font> Aim. <$$font> And as much avoided , for no Crime upon Earth but
+the want of Money . FARQUHAR-1707-E3-H,5.177
+
+<font> Arch. <$$font> And that@ @'s enough ; FARQUHAR-1707-E3-H,5.178
+
+Men must not be poor , FARQUHAR-1707-E3-H,5.179
+
+Idleness is the Root of all Evil ; FARQUHAR-1707-E3-H,5.180
+
+the World@ @'s wide enough , FARQUHAR-1707-E3-H,5.181
+
+let 'em bustle ; FARQUHAR-1707-E3-H,5.182
+
+Fortune has taken the weak under her Protection ,
+FARQUHAR-1707-E3-H,5.183
+
+but Men of Sense are left to their Industry . FARQUHAR-1707-E3-H,5.184
+
+<font> Aim. <$$font> Upon which Topick we proceed ,
+FARQUHAR-1707-E3-H,5.185
+
+and I think luckily hitherto : FARQUHAR-1707-E3-H,5.186
+
+Wou'd not any Man swear now that I am a Man of Quality , and you my
+Servant , when if our intrinsick Value were known -
+FARQUHAR-1707-E3-H,5.187
+
+<font> Arch. <$$font> Come , come , we are the Men of intrinsick Value
+, who can strike our Fortunes out of our selves , whose worth is
+independent of Accidents in Life , or Revolutions in Government ;
+FARQUHAR-1707-E3-H,5.188
+
+we have Heads to get Money , and Hearts to spend it .
+FARQUHAR-1707-E3-H,5.189
+
+<font> Aim. <$$font> As to our Hearts , I grant ye {SIC:grant'ye} ,
+they are as willing Tits as any within Twenty Degrees ;
+FARQUHAR-1707-E3-H,5.190
+
+but I can have no great opinion of our Heads from the Service they have
+done us hitherto , unless it be that they have brought us from <font>
+London <$$font> hither to <font> Litchfield <$$font> , made me a Lord ,
+and you my Servant . FARQUHAR-1707-E3-H,5.191
+
+<font> Arch. <$$font> That@ @'s more than you cou'd expect already .
+FARQUHAR-1707-E3-H,5.192
+
+But what Money have we left ? FARQUHAR-1707-E3-H,5.193
+
+<font> Aim. <$$font> But Two_hundred Pound . FARQUHAR-1707-E3-H,5.194
+
+<font> Arch. <$$font> And our Horses , Cloaths , Rings , &c.
+FARQUHAR-1707-E3-H,5.195
+
+why we have very good Fortunes now for moderate People ;
+FARQUHAR-1707-E3-H,5.196
+
+and let me tell you , besides Thousand , that this Two_hundred Pound ,
+with the experience that we are now Masters of , is a better Estate than
+the Ten we have spent . - FARQUHAR-1707-E3-H,5.197
+
+Our Friends indeed began to suspect that our Pockets were low ;
+FARQUHAR-1707-E3-H,5.198
+
+but we came off with flying Colours , FARQUHAR-1707-E3-H,5.199
+
+shew'd no signs of want either in Word or Deed .
+FARQUHAR-1707-E3-H,5.200
+
+<font> Aim. <$$font> Ay , FARQUHAR-1707-E3-H,5.201
+
+and our going to <font> Brussels <$$font> was a good Pretence enough for
+our sudden disappearing ; FARQUHAR-1707-E3-H,5.202
+
+and I warrant you , our Friends imagine that we are gone a volunteering
+. FARQUHAR-1707-E3-H,5.203
+
+<font> Arch. <$$font> Why Faith , if this Prospect fails , it must e'en
+come to <P_6> that , FARQUHAR-1707-E3-H,6.204
+
+I am for venturing one of the Hundreds if you will upon this
+Knight-Errantry ; FARQUHAR-1707-E3-H,6.205
+
+but in case it should fail , we@ @'ll reserve the t'@ @other to carry us
+to some Counterscarp , where we may die as we liv'd in a Blaze .
+FARQUHAR-1707-E3-H,6.206
+
+<font> Aim. <$$font> With all my Heart ; FARQUHAR-1707-E3-H,6.207
+
+and we have liv'd justly , <font> Archer <$$font> ,
+FARQUHAR-1707-E3-H,6.208
+
+we ca@ @n't say that we have spent our Fortunes , but that we have
+enjoy'd 'em . FARQUHAR-1707-E3-H,6.209
+
+<font> Arch. <$$font> Right , so much Pleasure for so much Money ,
+FARQUHAR-1707-E3-H,6.210
+
+we have had our Penyworths , FARQUHAR-1707-E3-H,6.211
+
+and had I Millions , I wou'd go to the same Market again .
+FARQUHAR-1707-E3-H,6.212
+
+O <font> London , London ! <$$font> FARQUHAR-1707-E3-H,6.213
+
+well , we have had our share , FARQUHAR-1707-E3-H,6.214
+
+and let us be thankful ; FARQUHAR-1707-E3-H,6.215
+
+Past Pleasures , for ought I know are best , such as we are sure of ,
+FARQUHAR-1707-E3-H,6.216
+
+those to come may disappoint us . FARQUHAR-1707-E3-H,6.217
+
+<font> Aim. <$$font> It has often griev'd the Heart of me , to see how
+some inhumane Wretches murther their kind Fortunes ; those that by
+sacrificing all to one Appetite , shall starve all the rest . -
+FARQUHAR-1707-E3-H,6.218
+
+You shall have some that live only in their Palates , and in their sense
+of tasting shall drown the other Four : FARQUHAR-1707-E3-H,6.219
+
+Others are only Epicures in Appearances , such who shall starve their
+Nights to make a Figure a Days , and famish their own to feed the Eyes
+of others : FARQUHAR-1707-E3-H,6.220
+
+A contrary Sort confine their Pleasure to the dark ,
+FARQUHAR-1707-E3-H,6.221
+
+and contract their spacious Acres to the Circuit of a Muff-string .
+FARQUHAR-1707-E3-H,6.222
+
+<font> Arch. <$$font> Right ; FARQUHAR-1707-E3-H,6.223
+
+but they find the <font> Indies <$$font> in that Spot where they consume
+'em , FARQUHAR-1707-E3-H,6.224
+
+and I think your kind Keepers have much the best on@ @'t ;
+FARQUHAR-1707-E3-H,6.225
+
+for they indulge the most Senses by one Expence ,
+FARQUHAR-1707-E3-H,6.226
+
+there@ @'s the Seeing , Hearing , and Feeling amply gratify'd ;
+FARQUHAR-1707-E3-H,6.227
+
+and some Philosophers will tell you , that from such a Commerce there
+arises a sixth Sense that gives infinitely more Pleasure than the other
+five put together . FARQUHAR-1707-E3-H,6.228
+
+<font> Aim. <$$font> And to pass to the other Extremity , of all
+Keepers , I think those the worst that keep their Money .
+FARQUHAR-1707-E3-H,6.229
+
+<font> Arch. <$$font> Those are the most miserable Wights in being ,
+FARQUHAR-1707-E3-H,6.230
+
+they destroy the Rights of Nature , FARQUHAR-1707-E3-H,6.231
+
+and disappoint the Blessings of Providence : FARQUHAR-1707-E3-H,6.232
+
+Give me a Man that keeps his Five Senses keen and bright as his Sword ,
+that has 'em always drawn out in their just order and strength , with
+his Reason as Commander at the Head of 'em , that detaches 'em by turns
+upon whatever Party of Pleasure agreeably offers , and commands 'em to
+retreat upon the least Appearance of Disadvantage or Danger : -
+FARQUHAR-1707-E3-H,6.233
+
+For my part I can stick to my Bottle , while my Wine , my Company , and
+my <P_7> Reason holds good ; FARQUHAR-1707-E3-H,7.234
+
+I can be charm'd with <font> Sappho's <$$font> singing without falling
+in Love with her Face ; FARQUHAR-1707-E3-H,7.235
+
+I love Hunting , FARQUHAR-1707-E3-H,7.236
+
+but wou'd not , like <font> Acteon <$$font> , be eaten up by my own Dogs
+; FARQUHAR-1707-E3-H,7.237
+
+I love a fine House , FARQUHAR-1707-E3-H,7.238
+
+but let another keep it ; FARQUHAR-1707-E3-H,7.239
+
+and just so I love a fine Woman . FARQUHAR-1707-E3-H,7.240
+
+<font> Aim. <$$font> In that last particular you have the better of me
+. FARQUHAR-1707-E3-H,7.241
+
+<font> Arch. <$$font> Ay , you@ @'re such an amorous Puppy , that I@
+@'m afraid you@ @'ll spoil our Sport ; FARQUHAR-1707-E3-H,7.242
+
+you ca@ @n't counterfeit the Passion without feeling it .
+FARQUHAR-1707-E3-H,7.243
+
+<font> Aim. <$$font> Tho' the whining part be out of doors in Town ,
+'t@ @is still in force with the Country Ladies ; -
+FARQUHAR-1707-E3-H,7.244
+
+And let me tell you <font> Frank <$$font> , the Fool in that Passion
+shall outdoe the Knave at any time . FARQUHAR-1707-E3-H,7.245
+
+<font> Arch. <$$font> Well , I wo@ @n't dispute it now ,
+FARQUHAR-1707-E3-H,7.246
+
+you Command for the Day , FARQUHAR-1707-E3-H,7.247
+
+and so I submit ; - FARQUHAR-1707-E3-H,7.248
+
+At <font> Nottingham <$$font> you know I am to be Master .
+FARQUHAR-1707-E3-H,7.249
+
+<font> Aim. <$$font> And at <font> Lincoln <$$font> I again .
+FARQUHAR-1707-E3-H,7.250
+
+<font> Arch. <$$font> Then at <font> Norwich <$$font> I mount , which ,
+I think , shall be our last Stage ; FARQUHAR-1707-E3-H,7.251
+
+for if we fail there , we@ @'ll imbark for <font> Holland <$$font> , bid
+adieu to <font> Venus <$$font> , and welcome <font> Mars <$$font> .
+FARQUHAR-1707-E3-H,7.252
+
+<font> Aim. <$$font> A Match ! FARQUHAR-1707-E3-H,7.253
+
+<paren> <font> Enter <$$font> Bonniface . <$$paren>
+FARQUHAR-1707-E3-H,7.254
+
+Mum . FARQUHAR-1707-E3-H,7.255
+
+<font> Bon. <$$font> What will your Worship please to have for Supper ?
+FARQUHAR-1707-E3-H,7.256
+
+<font> Aim. <$$font> What have you got ? FARQUHAR-1707-E3-H,7.257
+
+<font> Bon. <$$font> Sir , we have a delicate piece of Beef in the Pot
+, and a Pig at the Fire . FARQUHAR-1707-E3-H,7.258
+
+<font> Aim. <$$font> Good Supper-meat , I must confess , -
+FARQUHAR-1707-E3-H,7.259
+
+I ca@ @n't eat Beef , Landlord . FARQUHAR-1707-E3-H,7.260
+
+<font> Arch. <$$font> And I hate Pig . FARQUHAR-1707-E3-H,7.261
+
+<font> Aim. <$$font> Hold your prating , Sirrah ,
+FARQUHAR-1707-E3-H,7.262
+
+do you know who you are ? FARQUHAR-1707-E3-H,7.263
+
+<font> Bon. <$$font> Please to bespeak something else ,
+FARQUHAR-1707-E3-H,7.264
+
+I have every thing in the House . FARQUHAR-1707-E3-H,7.265
+
+<font> Aim. <$$font> Have you any Veal ? FARQUHAR-1707-E3-H,7.266
+
+<font> Bon. <$$font> Veal ! FARQUHAR-1707-E3-H,7.267
+
+Sir , we had a delicate Loin of Veal on <font> Wednesday <$$font> last .
+FARQUHAR-1707-E3-H,7.268
+
+<font> Aim. <$$font> Have you got any Fish or Wildfowl ?
+FARQUHAR-1707-E3-H,7.269
+
+<font> Bon. <$$font> As for Fish , truly Sir , we are an inland Town ,
+and indifferently provided with Fish , FARQUHAR-1707-E3-H,7.270
+
+that@ @'s the Truth on@ @t , FARQUHAR-1707-E3-H,7.271
+
+and then for Wildfowl , - We have a delicate Couple of Rabbets .
+FARQUHAR-1707-E3-H,7.272
+
+<font> Aim. <$$font> Get me the Rabbets fricasy'd .
+FARQUHAR-1707-E3-H,7.273
+
+<font> Bon. <$$font> Fricasy'd ! FARQUHAR-1707-E3-H,7.274
+
+Lard , Sir , they@ @'ll eat much better smother'd with Onions .
+FARQUHAR-1707-E3-H,7.275
+
+<P_8>
+
+<font> Arch. <$$font> Pshaw ! FARQUHAR-1707-E3-H,8.277
+
+damn your Onions . FARQUHAR-1707-E3-H,8.278
+
+<font> Aim. <$$font> Again , Sirrah ! - FARQUHAR-1707-E3-H,8.279
+
+Well , Landlord , what you please ; FARQUHAR-1707-E3-H,8.280
+
+but hold , FARQUHAR-1707-E3-H,8.281
+
+I have a small Charge of Money , FARQUHAR-1707-E3-H,8.282
+
+and your House is so full of Strangers , that I believe it may be safer
+in your Custody than mine ; FARQUHAR-1707-E3-H,8.283
+
+for when this Fellow of mine gets drunk , he minds nothing . -
+FARQUHAR-1707-E3-H,8.284
+
+Here , Sirrah , reach me the strong Box . FARQUHAR-1707-E3-H,8.285
+
+<font> Arch. <$$font> Yes , Sir , - This will give us a Reputation .
+<font> Aside . FARQUHAR-1707-E3-H,8.286
+
+Brings the box . <$$font> FARQUHAR-1707-E3-H,8.287
+
+<font> Aim. <$$font> Here , Landlord , the Locks are sealed down both
+for your Security and mine ; FARQUHAR-1707-E3-H,8.288
+
+it holds somewhat above Two_hundred Pound ; FARQUHAR-1707-E3-H,8.289
+
+if you doubt it , I@ @'ll count it to you after Supper ;
+FARQUHAR-1707-E3-H,8.290
+
+but be sure you lay it where I may have it at a Minute's warning ;
+FARQUHAR-1707-E3-H,8.291
+
+for my Affairs are a little dubious at present ,
+FARQUHAR-1707-E3-H,8.292
+
+perhaps I may be gone in half an Hour , FARQUHAR-1707-E3-H,8.293
+
+perhaps I may be your Guest till the best part of that be spent ;
+FARQUHAR-1707-E3-H,8.294
+
+and pray order your Ostler to keep my Horses always sadled ;
+FARQUHAR-1707-E3-H,8.295
+
+but one thing above the rest I must beg , that you would let this Fellow
+have none of your Anno Domini , as you call it ; -
+FARQUHAR-1707-E3-H,8.296
+
+For he@ @'s the most insufferable Sot - FARQUHAR-1707-E3-H,8.297
+
+Here , Sirrah , light me to my Chamber . FARQUHAR-1707-E3-H,8.298
+
+<font> Exit lighted by <$$font> Archer . FARQUHAR-1707-E3-H,8.299
+
+<font> Bon. <$$font> <font> Cherry <$$font> , FARQUHAR-1707-E3-H,8.300
+
+Daughter <font> Cherry <$$font> ? FARQUHAR-1707-E3-H,8.301
+
+<font> Enter <$$font> Cherry . FARQUHAR-1707-E3-H,8.302
+
+<font> Cher. <$$font> D'@ @ye call , Father ? FARQUHAR-1707-E3-H,8.303
+
+<font> Bon. <$$font> Ay , Child , you must lay by this Box for the
+Gentleman , FARQUHAR-1707-E3-H,8.304
+
+'t@ @is full of Money . FARQUHAR-1707-E3-H,8.305
+
+<font> Cher. <$$font> Money ! FARQUHAR-1707-E3-H,8.306
+
+all that Money ! FARQUHAR-1707-E3-H,8.307
+
+why , sure Father the Gentleman comes to be chosen Parliament-man .
+FARQUHAR-1707-E3-H,8.308
+
+Who is he ? FARQUHAR-1707-E3-H,8.309
+
+<font> Bon. <$$font> I do@ @n't know what to make of him ,
+FARQUHAR-1707-E3-H,8.310
+
+he talks of keeping his Horses ready sadled , and of going perhaps at a
+minute's warning , or of staying perhaps till the best part of this be
+spent . FARQUHAR-1707-E3-H,8.311
+
+<font> Cher. <$$font> Ay , ten to one , Father , he@ @'s a High-way-man
+. FARQUHAR-1707-E3-H,8.312
+
+<font> Bon. <$$font> A High-way-man ! FARQUHAR-1707-E3-H,8.313
+
+upon my Life , Girl , you have hit it , FARQUHAR-1707-E3-H,8.314
+
+and this Box is some new purchased Booty . - FARQUHAR-1707-E3-H,8.315
+
+Now cou'd we find him out , the Money were ours .
+FARQUHAR-1707-E3-H,8.316
+
+<font> Cher. <$$font> He do@ @n't belong to our Gang ?
+FARQUHAR-1707-E3-H,8.317
+
+<font> Bon. <$$font> What Horses have they ? FARQUHAR-1707-E3-H,8.318
+
+<font> Cher. <$$font> The Master rides upon a Black .
+FARQUHAR-1707-E3-H,8.319
+
+<font> Bon. <$$font> A Black ! FARQUHAR-1707-E3-H,8.320
+
+ten to one the Man upon the black Mare ; FARQUHAR-1707-E3-H,8.321
+
+and since he do@ @n't belong to our Fraternity , we may betray him with
+a safe Conscience ; FARQUHAR-1707-E3-H,8.322
+
+I do@ @n't think it lawful to harbour any Rogues but my own . -
+FARQUHAR-1707-E3-H,8.323
+
+Look ye {SIC:Look'ye} , Child , as the saying is , we must <P_9> go
+cunningly to work , FARQUHAR-1707-E3-H,9.324
+
+Proofs we must have , FARQUHAR-1707-E3-H,9.325
+
+the Gentleman's Servant loves Drink , FARQUHAR-1707-E3-H,9.326
+
+I@ @'ll ply him that way , FARQUHAR-1707-E3-H,9.327
+
+and ten to one loves a Wench ; FARQUHAR-1707-E3-H,9.328
+
+you must work him t'@ @other way . FARQUHAR-1707-E3-H,9.329
+
+<font> Cher. <$$font> Father , would you have me give my Secret for his
+? FARQUHAR-1707-E3-H,9.330
+
+<font> Bon. <$$font> Consider , Child , there@ @'s Two_hundred Pound to
+Boot . FARQUHAR-1707-E3-H,9.331
+
+<paren> <font> Ringing without . <$$font> <$$paren>
+FARQUHAR-1707-E3-H,9.332
+
+Coming , coming . - FARQUHAR-1707-E3-H,9.333
+
+Child , mind your Business . FARQUHAR-1707-E3-H,9.334
+
+<font> Cher. <$$font> What a Rogue is my Father !
+FARQUHAR-1707-E3-H,9.335
+
+my Father ! FARQUHAR-1707-E3-H,9.336
+
+I deny it . - FARQUHAR-1707-E3-H,9.337
+
+My Mother was a good , generous , free-hearted Woman ,
+FARQUHAR-1707-E3-H,9.338
+
+and I ca@ @n't tell how far her good Nature might have extended for the
+good of her Children . FARQUHAR-1707-E3-H,9.339
+
+This Landlord of mine , for I think I can call him no more , would
+betray his Guest , and debauch his Daughter into the bargain , - By a
+Footman too ! FARQUHAR-1707-E3-H,9.340
+
+<font> Enter <$$font> Archer . FARQUHAR-1707-E3-H,9.341
+
+<P_58>
+
+<heading>
+
+SCENE , CHANGES TO A BED-CHAMBER IN LADY BOUNTIFUL'S HOUSE .
+FARQUHAR-1707-E3-H,58.344
+
+<$$heading>
+
+<font> Enter Mrs. <$$font> Sull. Dor. <font> undress'd ,
+FARQUHAR-1707-E3-H,58.346
+
+a Table and Lights <$$font> . FARQUHAR-1707-E3-H,58.347
+
+<font> Dor. <$$font> 'T@ @is very late , Sister ,
+FARQUHAR-1707-E3-H,58.348
+
+no News of your Spouse yet ? FARQUHAR-1707-E3-H,58.349
+
+Mrs. <font> Sull. <$$font> No , I@ @'m condemn'd to be alone till
+towards four , FARQUHAR-1707-E3-H,58.350
+
+and then perhaps I may be executed with his Company .
+FARQUHAR-1707-E3-H,58.351
+
+<font> Dor. <$$font> Well , my Dear , I@ @'ll leave you to your rest ;
+FARQUHAR-1707-E3-H,58.352
+
+you@ @'ll go directly to Bed , I suppose . FARQUHAR-1707-E3-H,58.353
+
+Mrs. <font> Sull. <$$font> I do@ @n't know what to do ?
+FARQUHAR-1707-E3-H,58.354
+
+hey-hoe . FARQUHAR-1707-E3-H,58.355
+
+<font> Dor. <$$font> That@ @'s a desiring Sigh , Sister .
+FARQUHAR-1707-E3-H,58.356
+
+Mrs. <font> Sull. <$$font> This is a languishing Hour , Sister .
+FARQUHAR-1707-E3-H,58.357
+
+<font> Dor. <$$font> And might prove a Critical Minute , if the pretty
+Fellow were here . FARQUHAR-1707-E3-H,58.358
+
+Mrs. <font> Sull. <$$font> Here ! what , in my Bed-chamber , at two a
+Clock o'@ @th' Morning , FARQUHAR-1707-E3-H,58.359
+
+I undress'd , FARQUHAR-1707-E3-H,58.360
+
+the Family asleep , FARQUHAR-1707-E3-H,58.361
+
+my hated Husband abroad , FARQUHAR-1707-E3-H,58.362
+
+and my lovely Fellow at my Feet - FARQUHAR-1707-E3-H,58.363
+
+O gad , Sister ! FARQUHAR-1707-E3-H,58.364
+
+<font> Dor. <$$font> Thoughts are free , Sister ,
+FARQUHAR-1707-E3-H,58.365
+
+and them I allow you - FARQUHAR-1707-E3-H,58.366
+
+So , my Dear , good Night . FARQUHAR-1707-E3-H,58.367
+
+Mrs. <font> Sull. <$$font> A good Rest to my dear <font> Dorinda
+<$$font> - FARQUHAR-1707-E3-H,58.368
+
+Thoughts free ! FARQUHAR-1707-E3-H,58.369
+
+are they so ? FARQUHAR-1707-E3-H,58.370
+
+why then suppose him here , dress'd like a youthful , gay and burning
+Bridegroom . FARQUHAR-1707-E3-H,58.371
+
+<paren> <font> Here <$$font> Archer <font> steals out of the Closet
+<$$font> . <$$paren> FARQUHAR-1707-E3-H,58.372
+
+with Tongue enchanting , Eyes bewitching , Knees imploring .
+FARQUHAR-1707-E3-H,58.373
+
+<paren> <font> Turns a little o' one side , FARQUHAR-1707-E3-H,58.374
+
+and sees <$$font> Archer <font> in the Posture she describes <$$font> .
+<$$paren> FARQUHAR-1707-E3-H,58.375
+
+Ah ! FARQUHAR-1707-E3-H,58.376
+
+<paren> <font> Shreeks , FARQUHAR-1707-E3-H,58.377
+
+and runs to the other Side of the Stage <$$font> <$$paren>
+FARQUHAR-1707-E3-H,58.378
+
+Have my Thoughts rais'd a Spirit ? - FARQUHAR-1707-E3-H,58.379
+
+What are you , Sir , a Man or a Devil ? FARQUHAR-1707-E3-H,58.380
+
+<font> Arch. <$$font> A Man , a Man , Madam .
+FARQUHAR-1707-E3-H,58.381
+
+<font> Rising . <$$font> FARQUHAR-1707-E3-H,58.382
+
+Mrs. <font> Sull. <$$font> How shall I be sure of it ?
+FARQUHAR-1707-E3-H,58.383
+
+<font> Arch. <$$font> Madam , I@ @'ll give you Demonstration this
+Minute . FARQUHAR-1707-E3-H,58.384
+
+<font> Takes her Hand . <$$font> FARQUHAR-1707-E3-H,58.385
+
+Mrs. <font> Sull. <$$font> What , Sir ! FARQUHAR-1707-E3-H,58.386
+
+do you intend to be rude ? FARQUHAR-1707-E3-H,58.387
+
+<font> Arch. <$$font> Yes , Madam , if you please .
+FARQUHAR-1707-E3-H,58.388
+
+Mrs. <font> Sull. <$$font> In the Name of Wonder , Whence came ye ?
+FARQUHAR-1707-E3-H,58.389
+
+<font> Arch. <$$font> From the Skies , Madam -
+FARQUHAR-1707-E3-H,58.390
+
+I@ @'m a <font> Jupiter <$$font> in Love , FARQUHAR-1707-E3-H,58.391
+
+and you shall be my <font> Alimena <$$font> . FARQUHAR-1707-E3-H,58.392
+
+Mrs. <font> Sull. <$$font> How came you in ?
+FARQUHAR-1707-E3-H,58.393
+
+<P_59>
+
+<font> Arch. <$$font> I flew in at the Window , Madam ,
+FARQUHAR-1707-E3-H,59.395
+
+your Cozen <font> Cupid <$$font> lent me his Wings ,
+FARQUHAR-1707-E3-H,59.396
+
+and your Sister <font> Venus <$$font> open'd the Casement .
+FARQUHAR-1707-E3-H,59.397
+
+Mrs. <font> Sull. <$$font> I@ @'m struck dumb with Admiration .
+FARQUHAR-1707-E3-H,59.398
+
+<font> Arch. <$$font> And I with wonder . FARQUHAR-1707-E3-H,59.399
+
+<font> Looks passionately at her . <$$font> FARQUHAR-1707-E3-H,59.400
+
+Mrs. <font> Sull. <$$font> What will become of me ?
+FARQUHAR-1707-E3-H,59.401
+
+<font> Arch. <$$font> How beautiful she looks -
+FARQUHAR-1707-E3-H,59.402
+
+The teeming Jolly Spring Smiles in her blooming Face ,
+FARQUHAR-1707-E3-H,59.403
+
+and when she was conceiv'd , her Mother smelt to Roses ,
+FARQUHAR-1707-E3-H,59.404
+
+look'd on Lillies - FARQUHAR-1707-E3-H,59.405
+
+<font> Lillies unfold their white , their fragrant Charms , When the
+warm Sun thus Darts into their Arms . <$$font>
+FARQUHAR-1707-E3-H,59.406
+
+<font> Runs to her . <$$font> FARQUHAR-1707-E3-H,59.407
+
+Mrs. <font> Sull. <$$font> Ah ! FARQUHAR-1707-E3-H,59.408
+
+<paren> <font> Shreeks . <$$font> <$$paren> FARQUHAR-1707-E3-H,59.409
+
+<font> Arch. <$$font> Oons , Madam , what d'@ @ye mean ?
+FARQUHAR-1707-E3-H,59.410
+
+you@ @'ll raise the House . FARQUHAR-1707-E3-H,59.411
+
+Mrs. <font> Sull. <$$font> Sir , I@ @'ll wake the Dead before I bear
+this - FARQUHAR-1707-E3-H,59.412
+
+What ! approach me with the Freedoms of a Keeper ;
+FARQUHAR-1707-E3-H,59.413
+
+I@ @'m glad on@ @'t , FARQUHAR-1707-E3-H,59.414
+
+your Impudence has cur'd me . FARQUHAR-1707-E3-H,59.415
+
+<font> Arch. <$$font> If this be Impudence <paren> <font> Kneels
+<$$font> <$$paren> I leave to your partial self ;
+FARQUHAR-1707-E3-H,59.416
+
+no panting Pilgrim after a tedious , painful Voyage , e'er bow'd before
+his Saint with more Devotion . FARQUHAR-1707-E3-H,59.417
+
+Mrs. <font> Sull. <$$font> Now , now , I@ @'m ruin'd , if he kneels !
+<paren> <font> Aside <$$font> <$$paren> FARQUHAR-1707-E3-H,59.418
+
+rise thou prostrate Ingineer , FARQUHAR-1707-E3-H,59.419
+
+not all thy undermining Skill shall reach my Heart -
+FARQUHAR-1707-E3-H,59.420
+
+Rise , FARQUHAR-1707-E3-H,59.421
+
+and know , I am a Woman without my Sex , FARQUHAR-1707-E3-H,59.422
+
+I can love to all the Tenderness of Wishes , Sighs and Tears -
+FARQUHAR-1707-E3-H,59.423
+
+But go no farther - FARQUHAR-1707-E3-H,59.424
+
+Still to convince you that I@ @'m more than Woman , I can speak my
+Frailty , confess my Weakness even for you - FARQUHAR-1707-E3-H,59.425
+
+But - FARQUHAR-1707-E3-H,59.426
+
+<font> Arch. <$$font> For me ! FARQUHAR-1707-E3-H,59.427
+
+<font> Going to lay hold on her . <$$font> FARQUHAR-1707-E3-H,59.428
+
+Mrs. <font> Sull. <$$font> Hold , Sir , FARQUHAR-1707-E3-H,59.429
+
+build not upon that - FARQUHAR-1707-E3-H,59.430
+
+For my most mortal hatred follows if you disobey what I command you now
+- FARQUHAR-1707-E3-H,59.431
+
+leave me this Minute - FARQUHAR-1707-E3-H,59.432
+
+If he denies , I@ @'m lost . <font> Aside . <$$font>
+FARQUHAR-1707-E3-H,59.433
+
+<font> Arch. <$$font> Then you@ @'ll promise -
+FARQUHAR-1707-E3-H,59.434
+
+Mrs. <font> Sull. <$$font> Any thing another time .
+FARQUHAR-1707-E3-H,59.435
+
+<font> Arch. <$$font> When shall I come ? FARQUHAR-1707-E3-H,59.436
+
+Mrs. <font> Sull. <$$font> To_Morrow when you will .
+FARQUHAR-1707-E3-H,59.437
+
+<font> Arch. <$$font> Your Lips must seal the Promise .
+FARQUHAR-1707-E3-H,59.438
+
+Mrs. <font> Sull. <$$font> Pshaw ! FARQUHAR-1707-E3-H,59.439
+
+<font> Arch. <$$font> They must , FARQUHAR-1707-E3-H,59.440
+
+they must FARQUHAR-1707-E3-H,59.441
+
+<paren> <font> Kisses her <$$font> <$$paren> FARQUHAR-1707-E3-H,59.442
+
+Raptures and Paradice ! FARQUHAR-1707-E3-H,59.443
+
+and why not now , my Angel ? FARQUHAR-1707-E3-H,59.444
+
+the Time , the Place , <P_60> Silence and Secresy , all conspire -
+FARQUHAR-1707-E3-H,60.445
+
+And the now conscious Stars have preordain'd this Moment for my
+Happiness . FARQUHAR-1707-E3-H,60.446
+
+<font> Takes her in her Arms . <$$font> FARQUHAR-1707-E3-H,60.447
+
+Mrs. <font> Sull. <$$font> You will not , can@ @not sure .
+FARQUHAR-1707-E3-H,60.448
+
+<font> Arch. <$$font> If the Sun rides fast , and disappoints not
+Mortals of to_Morrows Dawn , this Night shall crown my Joys .
+FARQUHAR-1707-E3-H,60.449
+
+Mrs. <font> Sull. <$$font> My Sex's Pride assist me .
+FARQUHAR-1707-E3-H,60.450
+
+<font> Arch. <$$font> My Sex's Strength help me .
+FARQUHAR-1707-E3-H,60.451
+
+Mrs. <font> Sull. <$$font> You shall kill me first .
+FARQUHAR-1707-E3-H,60.452
+
+<font> Arch. <$$font> I@ @'ll dye with you . FARQUHAR-1707-E3-H,60.453
+
+<font> Carrying her off . <$$font> FARQUHAR-1707-E3-H,60.454
+
+Mrs. <font> Sull. <$$font> Thieves , Thieves , Murther -
+FARQUHAR-1707-E3-H,60.455
+
+<font> Enter <$$font> Scrub <font> in his Breeches , and one Shoe
+<$$font> . FARQUHAR-1707-E3-H,60.456
+
+<font> Scrub . <$$font> Thieves , Thieves , Murther , Popery .
+FARQUHAR-1707-E3-H,60.457
+
+<font> Arch. <$$font> Ha ! FARQUHAR-1707-E3-H,60.458
+
+the very timorous Stag will kill in rutting time .
+FARQUHAR-1707-E3-H,60.459
+
+<font> Draws FARQUHAR-1707-E3-H,60.460
+
+and offers to Stab <$$font> Scrub . FARQUHAR-1707-E3-H,60.461
+
+<font> Scrub . <$$font> <paren> <font> Kneeling . <$$font> <$$paren> O
+, Pray , Sir , spare all I have FARQUHAR-1707-E3-H,60.462
+
+and take my Life . FARQUHAR-1707-E3-H,60.463
+
+Mrs. <font> Sull. <$$font> <paren> <font> Holding <$$font> Archer's
+<font> Hand <$$font> . <$$paren> what do's the Fellow mean ?
+FARQUHAR-1707-E3-H,60.464
+
+<font> Scrub . <$$font> O , Madam , down upon your Knees , your
+Marrow-bones - FARQUHAR-1707-E3-H,60.465
+
+He@ @'s one of 'um . FARQUHAR-1707-E3-H,60.466
+
+<font> Arch. <$$font> Of whom ? FARQUHAR-1707-E3-H,60.467
+
+<font> Scrub . <$$font> One of the Rogues - I beg your Pardon , Sir ,
+one of the honest Gentlemen that just now are broke into the House .
+FARQUHAR-1707-E3-H,60.468
+
+<font> Arch. <$$font> How ! FARQUHAR-1707-E3-H,60.469
+
+Mrs. <font> Sull. <$$font> I hope , you did not come to rob me ?
+FARQUHAR-1707-E3-H,60.470
+
+<font> Arch. <$$font> Indeed I did , Madam , FARQUHAR-1707-E3-H,60.471
+
+but I wou'd have taken nothing but what you might ha' spar'd ,
+FARQUHAR-1707-E3-H,60.472
+
+but your crying Thieves has wak'd this dreaming Fool ,
+FARQUHAR-1707-E3-H,60.473
+
+and so he takes 'em for granted . FARQUHAR-1707-E3-H,60.474
+
+<font> Scrub . <$$font> Granted ! FARQUHAR-1707-E3-H,60.475
+
+'t@ @is granted , Sir , FARQUHAR-1707-E3-H,60.476
+
+take all we have . FARQUHAR-1707-E3-H,60.477
+
+Mrs. <font> Sull. <$$font> The Fellow looks as if he were broke out of
+<font> Bedlam <$$font> . FARQUHAR-1707-E3-H,60.478
+
+<font> Scrub . <$$font> Oons , Madam , they@ @'re broke in to the House
+with Fire and Sword , FARQUHAR-1707-E3-H,60.479
+
+I saw them , FARQUHAR-1707-E3-H,60.480
+
+heard them , FARQUHAR-1707-E3-H,60.481
+
+they@ @'ll be here this Minute . FARQUHAR-1707-E3-H,60.482
+
+<font> Arch. <$$font> What , Thieves ! FARQUHAR-1707-E3-H,60.483
+
+<font> Scrub . <$$font> Under Favour , Sir , I think so .
+FARQUHAR-1707-E3-H,60.484
+
+Mrs. <font> Sull. <$$font> What shall we do , Sir ?
+FARQUHAR-1707-E3-H,60.485
+
+<font> Arch. <$$font> Madam , I wish your Ladyship a good Night .
+FARQUHAR-1707-E3-H,60.486
+
+Mrs. <font> Sull. <$$font> Will you leave me ?
+FARQUHAR-1707-E3-H,60.487
+
+<font> Arch. <$$font> Leave you ! FARQUHAR-1707-E3-H,60.488
+
+Lord , Madam , did not you command me to be gone just now upon pain of
+your immortal Hatred . FARQUHAR-1707-E3-H,60.489
+
+Mrs. <font> Sull. <$$font> Nay , but pray , Sir -
+FARQUHAR-1707-E3-H,60.490
+
+<font> Takes hold of him . <$$font> FARQUHAR-1707-E3-H,60.491
+
+<P_61>
+
+<font> Arch. <$$font> Ha ha , ha , now comes my turn to be ravish'd .
+- FARQUHAR-1707-E3-H,61.493
+
+You see now , Madam , you must use Men one way or other ;
+FARQUHAR-1707-E3-H,61.494
+
+but take this by the way , good Madam , that none but a Fool will give
+you the benefit of his Courage , unless you@ @'ll take his Love along
+with it . - FARQUHAR-1707-E3-H,61.495
+
+How are they arm'd , Friend ? FARQUHAR-1707-E3-H,61.496
+
+<font> Scrub . <$$font> With Sword and Pistol , Sir .
+FARQUHAR-1707-E3-H,61.497
+
+<font> Arch. <$$font> Hush - I see a dark Lanthorn coming thro' the
+Gallery . - FARQUHAR-1707-E3-H,61.498
+
+Madam , be assur'd I will protect you , or lose my Life .
+FARQUHAR-1707-E3-H,61.499
+
+Mrs. <font> Sull. <$$font> Your Life ! FARQUHAR-1707-E3-H,61.500
+
+no , Sir , they can rob me of nothing that I value half so much ;
+FARQUHAR-1707-E3-H,61.501
+
+therefore , now , Sir , let me intreat you to be gone .
+FARQUHAR-1707-E3-H,61.502
+
+<font> Arch. <$$font> No , Madam , I@ @'ll consult my own Safety for
+the sake of yours , FARQUHAR-1707-E3-H,61.503
+
+I@ @'ll work by Stratagem : FARQUHAR-1707-E3-H,61.504
+
+Have you Courage enough to stand the appearance of 'em .
+FARQUHAR-1707-E3-H,61.505
+
+Mrs. <font> Sull. <$$font> Yes , yes , since I have scap'd your Hands
+, I can face any thing . FARQUHAR-1707-E3-H,61.506
+
+<font> Arch. <$$font> Come hither , Brother <font> Scrub <$$font> ,
+FARQUHAR-1707-E3-H,61.507
+
+do@ @n't you know me ? FARQUHAR-1707-E3-H,61.508
+
+<font> Scrub . <$$font> Eh ! FARQUHAR-1707-E3-H,61.509
+
+my dear Brother , let me kiss thee . FARQUHAR-1707-E3-H,61.510
+
+<font> Kisses <$$font> Archer . FARQUHAR-1707-E3-H,61.511
+
+<font> Arch. <$$font> This way - Here - FARQUHAR-1707-E3-H,61.512
+
+Archer <font> and <$$font> Scrub <font> hide behind the Bed .
+FARQUHAR-1707-E3-H,61.513
+
+Enter <$$font> Gibbet <font> with a dark Lanthorn in one Hand and a
+Pistol in t'@ @other . <$$font> FARQUHAR-1707-E3-H,61.514
+
+<font> Gib. <$$font> Ay , ay , this is the Chamber ,
+FARQUHAR-1707-E3-H,61.515
+
+and the Lady alone . FARQUHAR-1707-E3-H,61.516
+
+Mrs. <font> Sull. <$$font> Who are you , Sir ?
+FARQUHAR-1707-E3-H,61.517
+
+what wou'd you have ? FARQUHAR-1707-E3-H,61.518
+
+d'@ @ye come to rob me ? FARQUHAR-1707-E3-H,61.519
+
+<font> Gib. <$$font> Rob you ! FARQUHAR-1707-E3-H,61.520
+
+alack a day , Madam , I@ @'m only a younger Brother , Madam ;
+FARQUHAR-1707-E3-H,61.521
+
+and so , Madam , if you make a Noise , I@ @'ll shoot you thro' the Head
+; FARQUHAR-1707-E3-H,61.522
+
+but do@ @n't be afraid , Madam . FARQUHAR-1707-E3-H,61.523
+
+<font> Laying his Lanthorn and Pistol upon the Table . <$$font>
+FARQUHAR-1707-E3-H,61.524
+
+These Rings , Madam , FARQUHAR-1707-E3-H,61.525
+
+do@ @n't be concern'd , Madam , FARQUHAR-1707-E3-H,61.526
+
+I have a profound Respect for you , Madam ; FARQUHAR-1707-E3-H,61.527
+
+your Keys , Madam , FARQUHAR-1707-E3-H,61.528
+
+do@ @n't be frighted , Madam , FARQUHAR-1707-E3-H,61.529
+
+I@ @'m the most of a Gentleman . FARQUHAR-1707-E3-H,61.530
+
+<font> Searching her Pockets . <$$font> FARQUHAR-1707-E3-H,61.531
+
+This Necklace , Madam , FARQUHAR-1707-E3-H,61.532
+
+I never was rude to a Lady ; - FARQUHAR-1707-E3-H,61.533
+
+I have a Veneration - for this Necklace - FARQUHAR-1707-E3-H,61.534
+
+<font> Here <$$font> Archer <font> having come round and seiz'd the
+Pistols , takes <$$font> Gibbet <font> by the Collar ,
+FARQUHAR-1707-E3-H,61.535
+
+trips up his Heels , FARQUHAR-1707-E3-H,61.536
+
+and claps the Pistol to his Breast . <$$font> FARQUHAR-1707-E3-H,61.537
+
+<font> Arch. <$$font> Hold , profane Villain ,
+FARQUHAR-1707-E3-H,61.538
+
+and take the Reward of thy Sacrilege . FARQUHAR-1707-E3-H,61.539
+
+<font> Gib. <$$font> Oh ! FARQUHAR-1707-E3-H,61.540
+
+Pray , Sir , do@ @n't kill me ; FARQUHAR-1707-E3-H,61.541
+
+I a@ @n't prepar'd . FARQUHAR-1707-E3-H,61.542
+
+<font> Arch. <$$font> How many is there of 'em , <font> Scrub <$$font>
+? FARQUHAR-1707-E3-H,61.543
+
+<P_62>
+
+<font> Scrub . <$$font> Five_and_Forty , Sir .
+FARQUHAR-1707-E3-H,62.545
+
+<font> Arch. <$$font> Then I must kill the Villain to have him out of
+the way . FARQUHAR-1707-E3-H,62.546
+
+<font> Gib. <$$font> Hold , hold , Sir , FARQUHAR-1707-E3-H,62.547
+
+we are but three upon my Honour . FARQUHAR-1707-E3-H,62.548
+
+<font> Arch. <$$font> <font> Scrub <$$font> , will you undertake to
+secure him ? FARQUHAR-1707-E3-H,62.549
+
+<font> Scrub . <$$font> Not I , Sir ; FARQUHAR-1707-E3-H,62.550
+
+kill him , FARQUHAR-1707-E3-H,62.551
+
+kill him . FARQUHAR-1707-E3-H,62.552
+
+<font> Arch. <$$font> Run to <font> Gipsey's <$$font> Chamber , there
+you@ @'ll find the Doctor ; FARQUHAR-1707-E3-H,62.553
+
+bring him hither presently . FARQUHAR-1707-E3-H,62.554
+
+<font> Exit Scrub running . <$$font> FARQUHAR-1707-E3-H,62.555
+
+Come , Rogue , FARQUHAR-1707-E3-H,62.556
+
+if you have a short Prayer , say it . FARQUHAR-1707-E3-H,62.557
+
+<font> Gip. <$$font> Sir , I have no Prayer at all ;
+FARQUHAR-1707-E3-H,62.558
+
+the Government has provided a Chaplain to say Prayers for us on these
+Occasions . FARQUHAR-1707-E3-H,62.559
+
+Mrs. <font> Sull. <$$font> Pray , Sir , do@ @n't kill him ; -
+FARQUHAR-1707-E3-H,62.560
+
+You fright me as much as him . FARQUHAR-1707-E3-H,62.561
+
+<font> Arch. <$$font> The Dog shall die , Madam , for being the
+Occasion of my disappointment . - FARQUHAR-1707-E3-H,62.562
+
+Sirrah , this Moment is your last . FARQUHAR-1707-E3-H,62.563
+
+<font> Gib. <$$font> Sir , I@ @'ll give you Two_hundred Pound to spare
+my Life . FARQUHAR-1707-E3-H,62.564
+
+<font> Arch. <$$font> Have you no more Rascal ;
+FARQUHAR-1707-E3-H,62.565
+
+<font> Gib. <$$font> Yes , Sir , I can command Four_hundred ;
+FARQUHAR-1707-E3-H,62.566
+
+but I must reserve Two of 'em to save my Life at the Sessions .
+FARQUHAR-1707-E3-H,62.567
+
+<font> Enter <$$font> Scrub <font> and <$$font> Foigard .
+FARQUHAR-1707-E3-H,62.568
+
+<font> Arch. <$$font> Here , Doctor , I suppose <font> Scrub <$$font>
+and you between you may manage him . FARQUHAR-1707-E3-H,62.569
+
+Lay hold of him , Doctor . FARQUHAR-1707-E3-H,62.570
+
+Foig. <font> lays hold of <$$font> Gibbet . FARQUHAR-1707-E3-H,62.571
+
+<font> Gib. <$$font> What ! FARQUHAR-1707-E3-H,62.572
+
+turn'd over to the Priest already . - FARQUHAR-1707-E3-H,62.573
+
+Look ye {SIC:Look'ye} , Doctor , you come before your time ;
+FARQUHAR-1707-E3-H,62.574
+
+I@ @'a@ @nt condemn'd yet , I thank ye {SIC:thank'ye} .
+FARQUHAR-1707-E3-H,62.575
+
+<font> Foig. <$$font> Come , my dear Joy , I vill secure your Body and
+your Shoul too ; FARQUHAR-1707-E3-H,62.576
+
+I vill make you a good Catholick , and give you an Absolution .
+FARQUHAR-1707-E3-H,62.577
+
+<font> Gib. <$$font> Absolution ! FARQUHAR-1707-E3-H,62.578
+
+can you procure me a Pardon , Doctor ? FARQUHAR-1707-E3-H,62.579
+
+<font> Foig. <$$font> No , Joy . - FARQUHAR-1707-E3-H,62.580
+
+<font> Gib. <$$font> Then you and your Absolution may go to the Devil .
+FARQUHAR-1707-E3-H,62.581
+
+<font> Arch. <$$font> Convey him into the Cellar ,
+FARQUHAR-1707-E3-H,62.582
+
+there bind him : - FARQUHAR-1707-E3-H,62.583
+
+Take the Pistol , FARQUHAR-1707-E3-H,62.584
+
+and if he offers to resist , shoot him thro' the Head , -
+FARQUHAR-1707-E3-H,62.585
+
+and come back to us with all the speed you can .
+FARQUHAR-1707-E3-H,62.586
+
+<font> Scrub . <$$font> Ay , ay , FARQUHAR-1707-E3-H,62.587
+
+come , Doctor , FARQUHAR-1707-E3-H,62.588
+
+do you hold him fast , and I@ @'ll guard him .
+FARQUHAR-1707-E3-H,62.589
+
+Mrs. <font> Sull. <$$font> But how came the Doctor ?
+FARQUHAR-1707-E3-H,62.590
+
+<font> Arch. <$$font> In short , Madam - FARQUHAR-1707-E3-H,62.591
+
+<paren> <font> Shreeking without <$$font> <paren> .
+FARQUHAR-1707-E3-H,62.592
+
+S'death the Rogues are at work with the other Ladies .
+FARQUHAR-1707-E3-H,62.593
+
+I@ @'m vex'd I parted with the Pistol ; FARQUHAR-1707-E3-H,62.594
+
+but I must fly to their Assistance . - FARQUHAR-1707-E3-H,62.595
+
+<P_63>
+
+Will you stay here , Madam , or venture your self with me .
+FARQUHAR-1707-E3-H,63.597
+
+Mrs. <font> Sull. <$$font> O , with you , dear Sir , with you .
+FARQUHAR-1707-E3-H,63.598
+
+<font> Takes him by the Arm FARQUHAR-1707-E3-H,63.599
+
+and Exeunt . <$$font> FARQUHAR-1707-E3-H,63.600
+
+<heading>
+
+SCENE , CHANGES TO ANOTHER APARTMENT IN THE SAME HOUSE .
+FARQUHAR-1707-E3-H,63.602
+
+<$$heading>
+
+<font> Enter <$$font> Hounslow <font> dragging in Lady <$$font>
+Bountyfull , <font> and <$$font> Bagshot <font> halling in <$$font>
+Dorinda ; <font> the Rogues with Swords drawn <$$font> .
+FARQUHAR-1707-E3-H,63.604
+
+<font> Houn. <$$font> Come , come , your Jewels , Mistriss .
+FARQUHAR-1707-E3-H,63.605
+
+<font> Bag. <$$font> Your Keys , your Keys , old Gentlewoman .
+FARQUHAR-1707-E3-H,63.606
+
+<font> Enter <$$font> Aimwell <font> and <$$font> Cherry .
+FARQUHAR-1707-E3-H,63.607
+
+<font> Aim. <$$font> Turn this way , Villains ;
+FARQUHAR-1707-E3-H,63.608
+
+I durst engage an Army in such a Cause . FARQUHAR-1707-E3-H,63.609
+
+<font> He engages 'em both . <$$font> FARQUHAR-1707-E3-H,63.610
+
+<font> Dor. <$$font> O , Madam , had I but a Sword to help the brave
+Man ? FARQUHAR-1707-E3-H,63.611
+
+L. <font> Boun. <$$font> There@ @'s three or four hanging up in the
+Hall ; FARQUHAR-1707-E3-H,63.612
+
+but they wo@ @n't draw . FARQUHAR-1707-E3-H,63.613
+
+I@ @'ll go fetch one however . FARQUHAR-1707-E3-H,63.614
+
+<font> Exit . <$$font> FARQUHAR-1707-E3-H,63.615
+
+<font> Enter <$$font> Archer <font> and Mrs. <$$font> Sullen .
+FARQUHAR-1707-E3-H,63.616
+
+<font> Arch. <$$font> Hold , hold , my Lord , every Man his Bird , pray
+. FARQUHAR-1707-E3-H,63.617
+
+<font> They engage Man to Man , FARQUHAR-1707-E3-H,63.618
+
+the Rogues are thrown and disarm'd . <$$font> FARQUHAR-1707-E3-H,63.619
+
+<font> Cher. <$$font> What ! FARQUHAR-1707-E3-H,63.620
+
+the Rogues taken ! FARQUHAR-1707-E3-H,63.621
+
+then they@ @'ll impeach my Father ; FARQUHAR-1707-E3-H,63.622
+
+I must give him timely Notice . FARQUHAR-1707-E3-H,63.623
+
+<font> Runs out . <$$font> FARQUHAR-1707-E3-H,63.624
+
+<font> Arch. <$$font> Shall we kill the Rogues ?
+FARQUHAR-1707-E3-H,63.625
+
+<font> Aim. <$$font> No , no , we@ @'ll bind them .
+FARQUHAR-1707-E3-H,63.626
+
+<font> Arch. <$$font> Ay , ay ; FARQUHAR-1707-E3-H,63.627
+
+here , Madam , lend me your Garter ? FARQUHAR-1707-E3-H,63.628
+
+<font> To Mrs. <$$font> Sullen <font> who stands by him <$$font> .
+FARQUHAR-1707-E3-H,63.629
+
+Mrs. <font> Sull. <$$font> The Devil@ @'s in this Fellow ;
+FARQUHAR-1707-E3-H,63.630
+
+he fights , FARQUHAR-1707-E3-H,63.631
+
+loves , FARQUHAR-1707-E3-H,63.632
+
+and banters , all in a Breath . - FARQUHAR-1707-E3-H,63.633
+
+Here@ @'s a Cord that the Rogues brought with 'em , I suppose .
+FARQUHAR-1707-E3-H,63.634
+
+<font> Arch. <$$font> Right , right , the Rogue's Destiny , a Rope to
+hang himself . - FARQUHAR-1707-E3-H,63.635
+
+Come , my Lord , - This is but a scandalous sort of an Office , <paren>
+<font> Binding the Rogues together . <$$font> <$$paren> if our
+Adventures shou'd end in this sort of Hangman-work ;
+FARQUHAR-1707-E3-H,63.636
+
+but I hope there is something in prospect that -
+FARQUHAR-1707-E3-H,63.637
+
+<paren> <font> Enter <$$font> Scrub . <$$paren>
+FARQUHAR-1707-E3-H,63.638
+
+Well , <font> Scrub <$$font> , have you secur'd your <font> Tartar
+<$$font> ? FARQUHAR-1707-E3-H,63.639
+
+<font> Scrub . <$$font> Yes , Sir , I left the Priest and him disputing
+about Religion . FARQUHAR-1707-E3-H,63.640
+
+<font> Aim. <$$font> And pray carry these Gentlemen to reap the Benefit
+of the Controversy . FARQUHAR-1707-E3-H,63.641
+
+<font> Delivers the Prisoners to <$$font> Scrub , <font> who leads 'em
+out <$$font> . FARQUHAR-1707-E3-H,63.642
+
+Mrs. <font> Sull. <$$font> Pray , Sister , how came my Lord here ?
+FARQUHAR-1707-E3-H,63.643
+
+<P_64>
+
+<font> Dor. <$$font> And pray , how came the Gentleman here ?
+FARQUHAR-1707-E3-H,64.645
+
+Mrs. <font> Sull. <$$font> I@ @'ll tell you the greatest piece of
+Villainy - FARQUHAR-1707-E3-H,64.646
+
+<font> They talk in dumb show . <$$font> FARQUHAR-1707-E3-H,64.647
+
+<font> Aim. <$$font> I fancy , <font> Archer <$$font> , you have been
+more successful in your Adventures than the House-breakers .
+FARQUHAR-1707-E3-H,64.648
+
+<font> Arch. <$$font> No matter for my Adventure ,
+FARQUHAR-1707-E3-H,64.649
+
+yours is the principal . - FARQUHAR-1707-E3-H,64.650
+
+Press her this Minute to marry you , - now while she@ @'s hurry'd
+between the Palpitation of her Fear , and the Joy of her Deliverance ,
+FARQUHAR-1707-E3-H,64.651
+
+now while the Tide of her Spirits are at High-flood - Throw your self at
+her Feet ; FARQUHAR-1707-E3-H,64.652
+
+speak some <font> Romantick <$$font> Nonsense or other ; -
+FARQUHAR-1707-E3-H,64.653
+
+Address her like <font> Alexander <$$font> in the height of his Victory
+, FARQUHAR-1707-E3-H,64.654
+
+confound her Senses , FARQUHAR-1707-E3-H,64.655
+
+bear down her Reason , FARQUHAR-1707-E3-H,64.656
+
+and away with her - FARQUHAR-1707-E3-H,64.657
+
+The Priest is now in the Cellar , FARQUHAR-1707-E3-H,64.658
+
+and dare not refuse to do the work . FARQUHAR-1707-E3-H,64.659
+
+<font> Enter Lady <$$font> Bountifull . FARQUHAR-1707-E3-H,64.660
+
+<font> Aim. <$$font> But how shall I get off without being observ'd ?
+FARQUHAR-1707-E3-H,64.661
+
+<font> Arch. <$$font> You a Lover ! FARQUHAR-1707-E3-H,64.662
+
+and not find a way to get off - FARQUHAR-1707-E3-H,64.663
+
+Let me see . FARQUHAR-1707-E3-H,64.664
+
+<font> Aim. <$$font> You bleed , <font> Archer <$$font> .
+FARQUHAR-1707-E3-H,64.665
+
+<font> Arch. <$$font> S'death , I@ @'m glad on@ @'t ;
+FARQUHAR-1707-E3-H,64.666
+
+this Wound will do the Business - FARQUHAR-1707-E3-H,64.667
+
+I@ @'ll amuse the old Lady and Mrs. <font> Sullen <$$font> about
+dressing my Wound , while you carry off <font> Dorinda <$$font> .
+FARQUHAR-1707-E3-H,64.668
+
+L. <font> Boun. <$$font> Gentlemen , cou'd we understand how you wou'd
+be gratified for the Services - FARQUHAR-1707-E3-H,64.669
+
+<font> Arch. <$$font> Come , come , my Lady , FARQUHAR-1707-E3-H,64.670
+
+this is no time for Complements , FARQUHAR-1707-E3-H,64.671
+
+I@ @'m wounded , Madam . FARQUHAR-1707-E3-H,64.672
+
+L. <font> Boun. <$$font> How ! wounded ! FARQUHAR-1707-E3-H,64.673
+
+Mrs. <font> Sull. <$$font> <font> Dor. <$$font> I hope , Sir , you
+have receiv'd no Hurt ? FARQUHAR-1707-E3-H,64.674
+
+<font> Aim. <$$font> None but what you may cure . -
+FARQUHAR-1707-E3-H,64.675
+
+<font> Makes Love in dumb show . <$$font> FARQUHAR-1707-E3-H,64.676
+
+L. <font> Boun. <$$font> Let me see your Arm , Sir . -
+FARQUHAR-1707-E3-H,64.677
+
+I must have some Powder-sugar to stop the Blood -
+FARQUHAR-1707-E3-H,64.678
+
+O me ! an ugly Gash upon my Word , Sir , FARQUHAR-1707-E3-H,64.679
+
+you must go into Bed . FARQUHAR-1707-E3-H,64.680
+
+<font> Arch. <$$font> Ay , my Lady a Bed wou'd do very well . -
+FARQUHAR-1707-E3-H,64.681
+
+Madam , <paren> <font> To Mrs. <$$font> Sull. <$$paren> Will you do me
+the Favour to conduct me to a Chamber ? FARQUHAR-1707-E3-H,64.682
+
+L. <font> Boun. <$$font> Do , do , Daughter - while I get the Lint and
+the Probe and the Plaister ready . FARQUHAR-1707-E3-H,64.683
+
+<font> Runs out one way <$$font> , FARQUHAR-1707-E3-H,64.684
+
+Aimwell <font> carries off <$$font> Dorinda <font> another <$$font> .
+FARQUHAR-1707-E3-H,64.685
+
+<font> Arch. <$$font> Come , Madam , why do@ @n't you obey your
+Mother's Commands . FARQUHAR-1707-E3-H,64.686
+
+<P_65>
+
+Mrs. <font> Sull. <$$font> How can you , after what is past , have the
+Confidence to ask me ? FARQUHAR-1707-E3-H,65.688
+
+<font> Arch. <$$font> And if you go to that , how can you after what is
+past , have the Confidence to deny me ? - FARQUHAR-1707-E3-H,65.689
+
+Was not this Blood shed in your Defence , and my Life expos'd for your
+Protection . - FARQUHAR-1707-E3-H,65.690
+
+Look ye {SIC:Look'ye} , Madam , I@ @'m none of your <font> Romantick
+<$$font> Fools , that fight Gyants and Monsters for nothing ;
+FARQUHAR-1707-E3-H,65.691
+
+my Valour is down_right <font> Swiss <$$font> ;
+FARQUHAR-1707-E3-H,65.692
+
+I@ @'m a Soldier of Fortune FARQUHAR-1707-E3-H,65.693
+
+and must be paid . FARQUHAR-1707-E3-H,65.694
+
+Mrs. <font> Sull. <$$font> 'T@ @is ungenerous in you , Sir , to
+upbraid me with your Services . FARQUHAR-1707-E3-H,65.695
+
+<font> Arch. <$$font> 'T@ @is ungenerous in you , Madam , not to reward
+'em . FARQUHAR-1707-E3-H,65.696
+
+Mrs. <font> Sull. <$$font> How ! FARQUHAR-1707-E3-H,65.697
+
+at the Expence of my Honour . FARQUHAR-1707-E3-H,65.698
+
+<font> Arch. <$$font> Honour ! FARQUHAR-1707-E3-H,65.699
+
+can Honour consist with Ingratitude ? FARQUHAR-1707-E3-H,65.700
+
+if you wou'd deal like a Woman of Honour , do like a Man of Honour ,
+FARQUHAR-1707-E3-H,65.701
+
+d'@ @ye think I wou'd deny you in such a Case ?
+FARQUHAR-1707-E3-H,65.702
+
+<font> Enter a Servant . <$$font> FARQUHAR-1707-E3-H,65.703
+
+<font> Ser. <$$font> Madam , my Lady order'd me to tell you that your
+Brother is below at the Gate ? FARQUHAR-1707-E3-H,65.704
+
+Mrs. <font> Sull. <$$font> My Brother ? FARQUHAR-1707-E3-H,65.705
+
+Heavens be prais'd . - FARQUHAR-1707-E3-H,65.706
+
+Sir , he shall thank you for your Services , FARQUHAR-1707-E3-H,65.707
+
+he has it in his Power . FARQUHAR-1707-E3-H,65.708
+
+<font> Arch. <$$font> Who is your Brother , Madam ?
+FARQUHAR-1707-E3-H,65.709
+
+Mrs. <font> Sull. <$$font> Sir <font> Charles Freeman <$$font> . -
+FARQUHAR-1707-E3-H,65.710
+
+You@ @'ll excuse me , Sir ; FARQUHAR-1707-E3-H,65.711
+
+I must go and receive him . FARQUHAR-1707-E3-H,65.712
+
+<font> Arch. <$$font> Sir <font> Charles Freeman ! <$$font>
+FARQUHAR-1707-E3-H,65.713
+
+S'death and Hell ! - FARQUHAR-1707-E3-H,65.714
+
+My old Acquaintance . FARQUHAR-1707-E3-H,65.715
+
+Now unless <font> Aimwell <$$font> has made good use of his time , all
+our fair Machine goes souse into the Sea like the <font> Edistone
+<$$font> . FARQUHAR-1707-E3-H,65.716
+
+<font> Exit <$$font> . FARQUHAR-1707-E3-H,65.717
+

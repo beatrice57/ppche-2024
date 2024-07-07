@@ -1,0 +1,2516 @@
+<BEGIN_garrick-1759-2>
+
+<P_1>
+
+<heading>
+
+The Guardian . GARRICK-1759-2,1.4
+
+Act I . GARRICK-1759-2,1.5
+
+Scene I . GARRICK-1759-2,1.6
+
+A Hall in Mr. Heartly's House . GARRICK-1759-2,1.7
+
+<$$heading>
+
+<font> Enter Sir <$$font> Charles Clackit , <font> his <$$font> Nephew ,
+<font> and <$$font> Servant . GARRICK-1759-2,1.9
+
+Servant . Please to walk this Way , Sir . GARRICK-1759-2,1.10
+
+Sir Charles . Where is your Master , Friend ? GARRICK-1759-2,1.11
+
+Servant . In his Dressing-Room , Sir . GARRICK-1759-2,1.12
+
+Y. Clackit . Let him know then - GARRICK-1759-2,1.13
+
+<P_2>
+
+Sir Charles . Pri@ @thee be quiet , <font> Jack <$$font> ;
+GARRICK-1759-2,2.15
+
+when I am in Company let me direct . GARRICK-1759-2,2.16
+
+'T@ @is proper and decent . GARRICK-1759-2,2.17
+
+Y. Clackit . I am dumb , Sir . GARRICK-1759-2,2.18
+
+Sir Charles . Tell Mr. <font> Heartly <$$font> , his Friend and
+Neighbour , Sir <font> Charles Clackit <$$font> , would say three words
+to him . GARRICK-1759-2,2.19
+
+Servant . I shall , Sir - GARRICK-1759-2,2.20
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,2.21
+
+Sir Charles . Now Nephew , consider once again , before I open the
+Matter to my Neighbour <font> Heartly <$$font> , what I am going to
+undertake for you . GARRICK-1759-2,2.22
+
+- Why do@ @n't you speak ? GARRICK-1759-2,2.23
+
+Y. Clackit . Is it proper and decent , Uncle ? GARRICK-1759-2,2.24
+
+Sir Charles . Pshaw ! do@ @n't be a Fool - GARRICK-1759-2,2.25
+
+but answer me - GARRICK-1759-2,2.26
+
+do@ @n't you flatter yourself . GARRICK-1759-2,2.27
+
+- What Assurance have you that this young Lady , my Friend's Ward , has
+a liking to you ? GARRICK-1759-2,2.28
+
+The young Fellows of this Age are all Coxcombs , GARRICK-1759-2,2.29
+
+and I am afraid , you are no Exception to the general Rule .
+GARRICK-1759-2,2.30
+
+Y. Clackit . Thank you Uncle - GARRICK-1759-2,2.31
+
+But may I this Instant be struck old and peevish , if I would put you
+upon <P_3> a false Scent to expose you for all the fine Women in
+Christendom . GARRICK-1759-2,3.32
+
+- I assure you again and again , and you may take my Word , Uncle , that
+Miss <font> Harriet <$$font> has no kind of Aversion to your Nephew and
+most humble Servant . GARRICK-1759-2,3.33
+
+Sir Charles . Ay , ay , - Vanity ! - Vanity ! GARRICK-1759-2,3.34
+
+- but I never take a young Fellow's Word about Women ;
+GARRICK-1759-2,3.35
+
+they@ @'ll lye as fast , and with as little Conscience , as the <font>
+Brussels Gazette . <$$font> GARRICK-1759-2,3.36
+
+- Produce your Proofs . GARRICK-1759-2,3.37
+
+Y. Clackit . Ca@ @n't your Eyes see 'em , Uncle , without urging me to
+the Indelicacy of repeating 'em . GARRICK-1759-2,3.38
+
+Sir Charles . Why I see nothing but a Fool's Head and a Fool's Coat ,
+supported by a pair of most unpromising Legs . GARRICK-1759-2,3.39
+
+Have you no better Proofs ? GARRICK-1759-2,3.40
+
+Y. Clackit . Yes , I have , my good Infidel Uncle , half a_hundred .
+GARRICK-1759-2,3.41
+
+Sir Charles . Out with them then . GARRICK-1759-2,3.42
+
+Y. Clackit . First then - Whenever I see her , she never looks at me .
+GARRICK-1759-2,3.43
+
+- That@ @'s a Sign of Love . GARRICK-1759-2,3.44
+
+- Whenever I speak to her , she never answers me . GARRICK-1759-2,3.45
+
+- Another Sign of Love . GARRICK-1759-2,3.46
+
+- And whenever I speak to any Body else , she seems to be perfectly easy
+. GARRICK-1759-2,3.47
+
+- That@ @'s a certain Sign of Love . GARRICK-1759-2,3.48
+
+<P_4>
+
+Sir Charles . The Devil it is ! GARRICK-1759-2,4.50
+
+Y. Clackit . When I am with her , she@ @'s always grave ;
+GARRICK-1759-2,4.51
+
+and the Moment I get up to leave her , then the poor Thing begins - "
+Why will you leave me , " Mr. <font> Clackit <$$font> ;
+GARRICK-1759-2,4.52
+
+ca@ @n't you sacrifice a few Moments to my Bashfulness ?
+GARRICK-1759-2,4.53
+
+- Stay , you agreeable Runaway , GARRICK-1759-2,4.54
+
+stay , GARRICK-1759-2,4.55
+
+I shall soon overcome the Fears your Presence gives me . "
+GARRICK-1759-2,4.56
+
+- I cou'd say more , GARRICK-1759-2,4.57
+
+- But a Man of Honour , Uncle - GARRICK-1759-2,4.58
+
+Sir Charles What , and has she said all these Things to you ?
+GARRICK-1759-2,4.59
+
+Y. Clackit . O yes , and ten times more - with her Eyes .
+GARRICK-1759-2,4.60
+
+Sir Charles With her Eyes ! GARRICK-1759-2,4.61
+
+- Eyes are very equivocal , <font> Jack <$$font> - GARRICK-1759-2,4.62
+
+However , if the young Lady has any Liking to you , Mr. <font> Heartly
+<$$font> is too much a Man of the World , and too much my Friend , to
+oppose the Match ; GARRICK-1759-2,4.63
+
+so do you walk into the Garden , GARRICK-1759-2,4.64
+
+and I will open the Matter to him . GARRICK-1759-2,4.65
+
+Y. Clackit Is there any Objection to my staying , Uncle ?
+GARRICK-1759-2,4.66
+
+The Business will be soon ended . GARRICK-1759-2,4.67
+
+- You will propose the Match , GARRICK-1759-2,4.68
+
+he will give his Consent , GARRICK-1759-2,4.69
+
+I shall give mine , GARRICK-1759-2,4.70
+
+Miss is sent for , GARRICK-1759-2,4.71
+
+and <font> l'affair est fait . <$$font> GARRICK-1759-2,4.72
+
+<bracket> <font> Snapping his Finger . <$$font> GARRICK-1759-2,4.73
+
+<P_5>
+
+Sir Charles . And so you think that a young beautiful Heiress , with
+Forty_Thousand Pounds , is to be had with a Scrap of <font> French
+<$$font> , and a Snap of your Finger . GARRICK-1759-2,5.75
+
+- Pri@ @thee get away , GARRICK-1759-2,5.76
+
+and do@ @n't provoke me . GARRICK-1759-2,5.77
+
+Y. Clackit . Nay , but , my dear Uncle - GARRICK-1759-2,5.78
+
+Sir Charles Nay , but my impertinent Nephew , either retire , or I@ @'ll
+throw up the Game . GARRICK-1759-2,5.79
+
+<bracket> <font> Putting him out . <$$font> GARRICK-1759-2,5.80
+
+Y. Clackit . Well , well , I am gone , Uncle . GARRICK-1759-2,5.81
+
+- When you come to the Point , I shall be ready to make my Appearance .
+GARRICK-1759-2,5.82
+
+- <font> Bon Voyage ! <$$font> GARRICK-1759-2,5.83
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,5.84
+
+Sir Charles . The Devil@ @'s in these young Fellows , I think -
+GARRICK-1759-2,5.85
+
+We send 'em abroad to cure their Sheepishness , GARRICK-1759-2,5.86
+
+and they get above Proof the other way . GARRICK-1759-2,5.87
+
+- <font> <paren> Enter Mr. <$$font> Heartly . <$$paren> -
+GARRICK-1759-2,5.88
+
+Good Morrow to you , Neighbour . GARRICK-1759-2,5.89
+
+Heartly . And to you , Sir <font> Charles <$$font> ,
+GARRICK-1759-2,5.90
+
+I am glad to see you so strong and healthy . GARRICK-1759-2,5.91
+
+<P_6>
+
+Sir Charles . I can return you the Compliment , my Friend , - Without
+Flattery GARRICK-1759-2,6.93
+
+you do@ @n't look more than Thirty-five ; GARRICK-1759-2,6.94
+
+and between ourselves , you are on the wrong Side of Forty -
+GARRICK-1759-2,6.95
+
+But Mum for that . GARRICK-1759-2,6.96
+
+Heartly . Ease and Tranquility keep me as you see .
+GARRICK-1759-2,6.97
+
+Sir Charles . Why do@ @n't you marry Neighbour ? GARRICK-1759-2,6.98
+
+A good Wife would do well for you . GARRICK-1759-2,6.99
+
+Heartly . For me ? GARRICK-1759-2,6.100
+
+you are pleased to be merry Sir <font> Charles . <$$font>
+GARRICK-1759-2,6.101
+
+Sir Charles . No faith , I am serious , GARRICK-1759-2,6.102
+
+and had I a Daughter to recommend to you , you should say me nay more
+than once , I assure you , Neighbour <font> Heartly <$$font> , before I
+would quit you . GARRICK-1759-2,6.103
+
+Heartly . I am much obliged to you . GARRICK-1759-2,6.104
+
+Sir Charles . But indeed , you are a little too much of the Philosopher
+, to think of being troubled with Women and their Concerns .
+GARRICK-1759-2,6.105
+
+Heartly . I beg your Pardon {COM:missing_comma} Sir <font> Charles
+<$$font> - GARRICK-1759-2,6.106
+
+Tho' there are many , who call themselves Philosophers , that live
+single , and perhaps are in the right of it , yet I can@ @not think that
+Marriage is at all inconsistent <P_7> with true Philosophy .
+GARRICK-1759-2,7.107
+
+- A wise Man will resolve to live like the rest of the World , with this
+only Difference , that he is neither a Slave to Passions nor Events .
+GARRICK-1759-2,7.108
+
+- It is not because I have a little Philosophy , but because I am on the
+wrong Side of Forty {COM:missing_comma} Sir <font> Charles <$$font> ,
+that I desire to be excused <font> <paren> smiling <$$paren> . <$$font>
+GARRICK-1759-2,7.109
+
+Sir Charles . As you please , Sir , - GARRICK-1759-2,7.110
+
+and now to my Business - GARRICK-1759-2,7.111
+
+You have no Objection I suppose to tie up your Ward , Miss <font>
+Harriet <$$font> , though you have slipped the Collar yourself - Ha !
+ha ! ha ! GARRICK-1759-2,7.112
+
+Heartly . Quite the contrary , Sir ; GARRICK-1759-2,7.113
+
+I have taken her some time from the Boarding School , and brought her
+home , in order to dispose of her worthily , with her own Inclination .
+GARRICK-1759-2,7.114
+
+Sir Charles . Her Father , I have heard you say , recommended that
+particular Care to you , when she had reached a certain Age .
+GARRICK-1759-2,7.115
+
+Heartly . He did so - GARRICK-1759-2,7.116
+
+and I am the more desirous to obey him scrupulously in this Circumstance
+, as she will be a most valuable Acquisition to the Person who shall
+gain her - GARRICK-1759-2,7.117
+
+for , not to mention her Fortune , which is the least Consideration ,
+her Sentiments are worthy her Birth ; GARRICK-1759-2,7.118
+
+she is gentle , modest , and obliging . GARRICK-1759-2,7.119
+
+- In a Word , my Friend , I never saw Youth more amiable or discreet ,
+GARRICK-1759-2,7.120
+
+- but perhaps I am a little partial to her . GARRICK-1759-2,7.121
+
+<P_8>
+
+Sir Charles . No , no , she is a delicious Creature ,
+GARRICK-1759-2,8.123
+
+every body says so . GARRICK-1759-2,8.124
+
+- But I believe , Neighbour , something has happened that you little
+think of {TEXT:off} . GARRICK-1759-2,8.125
+
+Heartly . What , pray Sir <font> Charles ? <$$font>
+GARRICK-1759-2,8.126
+
+Sir Charles . My Nephew , Mr. <font> Heartly <$$font> -
+GARRICK-1759-2,8.127
+
+<font> Enter <$$font> Young Clackit , GARRICK-1759-2,8.128
+
+Y. Clackit . Here I am at your Service , Sir , - GARRICK-1759-2,8.129
+
+My Uncle is a little unhappy in his Manner ; GARRICK-1759-2,8.130
+
+but I@ @'ll clear the Matter in a Moment - GARRICK-1759-2,8.131
+
+Miss <font> Harriet <$$font> , Sir , - Your Ward . GARRICK-1759-2,8.132
+
+- Sir Charles . Get away , you Puppy ! GARRICK-1759-2,8.133
+
+Y. Clackit , Miss <font> Harriet <$$font> , Sir , your Ward , - a most
+accomplish'd young Lady , to be sure - GARRICK-1759-2,8.134
+
+Sir Charles . Thou art a most accomplish'd Coxcomb , to be sure .
+GARRICK-1759-2,8.135
+
+Heartly . Pray , Sir <font> Charles <$$font> , let the young Gentleman
+speak . GARRICK-1759-2,8.136
+
+<P_9>
+
+Y. Clackit . You@ @'ll excuse me , Mr. <font> Heartly <$$font> -
+GARRICK-1759-2,9.138
+
+My Uncle does not set up for an Orator , - a little confused , or so ,
+Sir , GARRICK-1759-2,9.139
+
+- You - see me what I am , GARRICK-1759-2,9.140
+
+- But I ought to ask Pardon for the young Lady and myself .
+GARRICK-1759-2,9.141
+
+- We are young Sir , GARRICK-1759-2,9.142
+
+must confess we were wrong to conceal it from you , GARRICK-1759-2,9.143
+
+- but my Uncle I see is pleased to be angry , GARRICK-1759-2,9.144
+
+and therefore , I shall say no more at present . GARRICK-1759-2,9.145
+
+Sir Charles . If you do@ @n't leave the Room this Moment , and stay in
+the Garden , till I call you - GARRICK-1759-2,9.146
+
+Y. Clackit . I am sorry I have displeased you - GARRICK-1759-2,9.147
+
+I did not think it was <font> mal-a-propos <$$font> ;
+GARRICK-1759-2,9.148
+
+but you must have your way Uncle - GARRICK-1759-2,9.149
+
+You command - GARRICK-1759-2,9.150
+
+I submit - GARRICK-1759-2,9.151
+
+Mr. <font> Heartly , <$$font> your's . GARRICK-1759-2,9.152
+
+<bracket> <font> Exit Young <$$font> Clackit . GARRICK-1759-2,9.153
+
+Sir Charles . Puppy ! <font> <paren> aside <$$paren> <$$font>
+GARRICK-1759-2,9.154
+
+My Nephew@ @'s a little unthinking , Mr. <font> Heartly <$$font> , as
+you see , GARRICK-1759-2,9.155
+
+and therefore I have been a little cautious how I have proceeded in this
+Affair : GARRICK-1759-2,9.156
+
+But indeed , he has perswaded me in a Manner , that your Ward and he are
+not ill together . GARRICK-1759-2,9.157
+
+Heartly . Indeed ! This is the first Notice I have had of it ,
+GARRICK-1759-2,9.158
+
+and I can@ @not conceive why Miss <font> Harriet <$$font> should conceal
+it from me ; GARRICK-1759-2,9.159
+
+for I have often assured her , <P_10> that I would never oppose her
+Inclination , though I might endeavour to direct it .
+GARRICK-1759-2,10.160
+
+Sir Charles . 'T@ @is human Nature , Neighbour , -
+GARRICK-1759-2,10.161
+
+We are so ashamed of our first Passion , that we would willingly hide it
+from ourselves - GARRICK-1759-2,10.162
+
+But will you mention my Nephew to her . GARRICK-1759-2,10.163
+
+Heartly . I must beg your Pardon , Sir <font> Charles <$$font> ,
+GARRICK-1759-2,10.164
+
+- The Name of the Gentleman whom she chuses , must first come from
+herself , - GARRICK-1759-2,10.165
+
+My Advice or Importunity shall never influence her :
+GARRICK-1759-2,10.166
+
+If Guardians would be less rigorous , young People would be more
+reasonable ; GARRICK-1759-2,10.167
+
+and I am so unfashionable to think , that Happiness in Marriage ca@ @n't
+be bought too dear . GARRICK-1759-2,10.168
+
+I am still on the wrong Side of Forty , Sir <font> Charles . <$$font>
+GARRICK-1759-2,10.169
+
+Sir Charles . No , no , - You are right Neighbour ,
+GARRICK-1759-2,10.170
+
+- But here she is , GARRICK-1759-2,10.171
+
+- Do@ @n't alarm her young Heart too much , I beg of you ,
+GARRICK-1759-2,10.172
+
+- Upon my Word , she is a sweet Morsel . GARRICK-1759-2,10.173
+
+<font> Enter <$$font> Miss Harriet and Lucy . GARRICK-1759-2,10.174
+
+Miss Harriet . He is with Company - GARRICK-1759-2,10.175
+
+I@ @'ll speak to him another Time . <font> <paren> Retiring .
+<$$paren> <$$font> GARRICK-1759-2,10.176
+
+Lucy . Young , handsome , and afraid of being seen . - You are very
+particular , Miss . GARRICK-1759-2,10.177
+
+<P_11>
+
+Heartly . Miss <font> Harriet <$$font> you must not go .
+GARRICK-1759-2,11.179
+
+- <font> Harriet returns <$$paren> <$$font> GARRICK-1759-2,11.180
+
+Sir <font> Charles <$$font> , give me leave to introduce you to this
+young Lady . GARRICK-1759-2,11.181
+
+- <font> <paren> Introduces her <$$paren> <$$font> GARRICK-1759-2,11.182
+
+You know , I suppose , the Reason of this Gentleman's Visit to me ?
+GARRICK-1759-2,11.183
+
+<bracket> <font> To Harriet . <$$font> GARRICK-1759-2,11.184
+
+Miss Harriet . Sir ! <font> <paren> confused <$$paren> <$$font>
+GARRICK-1759-2,11.185
+
+Heartly . You may trust me , my Dear <font> <paren> smiling <$$paren>
+<$$font> - GARRICK-1759-2,11.186
+
+Do@ @n't be disturb'd GARRICK-1759-2,11.187
+
+I shall not reproach you with any thing , but keeping your Wishes a
+Secret from me so long . GARRICK-1759-2,11.188
+
+Miss Harriet . - Upon my Word , Sir , GARRICK-1759-2,11.189
+
+- <font> Lucy ! <$$font> GARRICK-1759-2,11.190
+
+Lucy . Well , and <font> Lucy ! <$$font> GARRICK-1759-2,11.191
+
+I@ @'ll lay my Life 't@ @is a Treaty of Marriage .
+GARRICK-1759-2,11.192
+
+- Is that such a dreadful Thing ? GARRICK-1759-2,11.193
+
+Oh , for shame , Madam ! Young Ladies of Fashion are not frightened at
+such Things now a days . GARRICK-1759-2,11.194
+
+Heartly <font> to Sir <$$font> Charles . We have gone too far , Sir
+<font> Charles <$$font> , GARRICK-1759-2,11.195
+
+- We must excuse her Delicacy , and give her Time to recover ,
+GARRICK-1759-2,11.196
+
+- I had better talk with her alone ; GARRICK-1759-2,11.197
+
+we will leave her now ; GARRICK-1759-2,11.198
+
+- Be perswaded that no Endeavours shall be wanting on my Part , to bring
+this Affair to a happy and a speedy Conclusion . GARRICK-1759-2,11.199
+
+Sir Charles I shall be obliged to you , Mr. <font> Heartly <$$font> -
+GARRICK-1759-2,11.200
+
+Young Lady your Servant . GARRICK-1759-2,11.201
+
+- What Grace and Modesty ! GARRICK-1759-2,11.202
+
+<P_12>
+
+She is a most engaging Creature , GARRICK-1759-2,12.204
+
+and I shall be proud to make her one of my Family .
+GARRICK-1759-2,12.205
+
+Heartly . You do us Honour , Sir <font> Charles . <$$font>
+GARRICK-1759-2,12.206
+
+<bracket> <font> Exeunt Sir <$$font> Charles <font> and <$$font> Heartly
+. GARRICK-1759-2,12.207
+
+Lucy . Indeed , Miss <font> Harriet <$$font> , you are very particular
+; GARRICK-1759-2,12.208
+
+you was tired of the Boarding School , GARRICK-1759-2,12.209
+
+and yet seem to have no Inclination to be married -
+GARRICK-1759-2,12.210
+
+What can be the Meaning of all this ? GARRICK-1759-2,12.211
+
+- That smirking old Gentleman is Uncle to Mr. <font> Clackit <$$font> ;
+GARRICK-1759-2,12.212
+
+and , my Life for it , he has made some Proposals to your Guardian .
+GARRICK-1759-2,12.213
+
+Miss Harriet . Pri@ @thee do@ @n't plague me about Mr. <font> Clackit
+. <$$font> GARRICK-1759-2,12.214
+
+Lucy . But why not , Miss ? GARRICK-1759-2,12.215
+
+Tho' he is a little fantastical , loves to hear himself talk , and is
+somewhat self-sufficient ; you must consider he is young , has been
+abroad , and keeps good Company : GARRICK-1759-2,12.216
+
+- The trade will soon be at an end , if young Ladies and Gentlemen grow
+over nice and exceptious . GARRICK-1759-2,12.217
+
+Miss Harriet . But if I can find one without these Faults , I may
+surely please myself . GARRICK-1759-2,12.218
+
+Lucy . Without these Faults ! GARRICK-1759-2,12.219
+
+and is he young , Miss ? GARRICK-1759-2,12.220
+
+Miss Harriet . He is sensible , modest , polite , affable , and
+generous ; GARRICK-1759-2,12.221
+
+and charms from the natural Impulses of his <P_13> own Heart , as much
+as others disgust by their senseless Airs , and insolent Affectation .
+GARRICK-1759-2,13.222
+
+Lucy . Upon my word ! GARRICK-1759-2,13.223
+
+- But why have you kept this Secret so long ? GARRICK-1759-2,13.224
+
+- Your Guardian is kind to you beyond Conception .
+GARRICK-1759-2,13.225
+
+- What Difficulties can you have to overcome ? GARRICK-1759-2,13.226
+
+Miss Harriet . Why the Difficulty of declaring my Sentiments .
+GARRICK-1759-2,13.227
+
+Lucy . Leave that to me , Miss . GARRICK-1759-2,13.228
+
+- But your Spark , with all his Accomplishments , must have very little
+Penetration not to have discovered his good Fortune in your Eyes .
+GARRICK-1759-2,13.229
+
+Miss Harriet . I take care that my Eyes do@ @n't tell too much ;
+GARRICK-1759-2,13.230
+
+and he has too much Delicacy to interpret Looks to his Advantage .
+GARRICK-1759-2,13.231
+
+Besides , he would certainly disapprove my Passion ;
+GARRICK-1759-2,13.232
+
+and if I should ever make the Declaration , and meet with a Denial , I
+should absolutely die with Shame . GARRICK-1759-2,13.233
+
+Lucy . I@ @'ll ensure your Life for a Silver Thimble .
+GARRICK-1759-2,13.234
+
+- But what can possibly hinder your coming together ?
+GARRICK-1759-2,13.235
+
+Miss Harriet . His Excess of Merit . GARRICK-1759-2,13.236
+
+Lucy . His Excess of a Fiddlestick ; GARRICK-1759-2,13.237
+
+- But come , GARRICK-1759-2,13.238
+
+I@ @'ll put you in the way ; GARRICK-1759-2,13.239
+
+- You shall trust me with the Secret ; GARRICK-1759-2,13.240
+
+- I@ @'ll entrust it again to half_a_dozen Friends ,
+GARRICK-1759-2,13.241
+
+they <P_14> Shall entrust it to half_a_dozen more , by which Means it
+will travel half the Town over in a Week's time ; GARRICK-1759-2,14.242
+
+the Gentleman will certainly hear of it , GARRICK-1759-2,14.243
+
+and then if he is not at your Feet in the fetching of a Sigh , I@ @'ll
+give up all my Perquisites at your Wedding . GARRICK-1759-2,14.244
+
+- What is his Name , Miss ? GARRICK-1759-2,14.245
+
+Miss Harriet . I can@ @not tell you his Name , GARRICK-1759-2,14.246
+
+- Indeed I can@ @not ; GARRICK-1759-2,14.247
+
+I am afraid of being thought too singular . GARRICK-1759-2,14.248
+
+- But why should I be ashamed of my Passion ? GARRICK-1759-2,14.249
+
+Is the Impression which a virtuous Character makes upon our Hearts such
+a Weakness that it may not be excused ? GARRICK-1759-2,14.250
+
+Lucy . By my Faith , Miss , I ca@ @n't understand you :
+GARRICK-1759-2,14.251
+
+You are afraid of being thought singular , GARRICK-1759-2,14.252
+
+and you really are so : GARRICK-1759-2,14.253
+
+- I would sooner renounce all the Passions in the Universe than have one
+in my Bosom beating ; and fluttering itself to pieces -
+GARRICK-1759-2,14.254
+
+Come , come , Miss , GARRICK-1759-2,14.255
+
+open the Window GARRICK-1759-2,14.256
+
+and let the poor Devil out . GARRICK-1759-2,14.257
+
+<font> Enter <$$font> Heartly . GARRICK-1759-2,14.258
+
+Heartly . Leave us , <font> Lucy . <$$font> GARRICK-1759-2,14.259
+
+Lucy . There@ @'s something going forward , GARRICK-1759-2,14.260
+
+- 't@ @is very hard I ca@ @n't be of the Party . GARRICK-1759-2,14.261
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,14.262
+
+Heartly . She certainly thinks , from the Character of the young Man ,
+that I shall disapprove of her Choice . <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,14.263
+
+<P_15>
+
+Miss Harriet . What can I possibly say to him ? GARRICK-1759-2,15.265
+
+I am as much ashamed to make the Declaration , as he would be to
+understand it . GARRICK-1759-2,15.266
+
+Heartly . Do@ @n't imagine , my Dear , that I would know more of your
+Thoughts than you desire I should ; GARRICK-1759-2,15.267
+
+but the tender Care which I have ever shewn , and the sincere Friendship
+which I shall always have for you , give me a sort of Right to enquire
+into every thing that concerns you . GARRICK-1759-2,15.268
+
+- Some Friends have spoken to me in particular , GARRICK-1759-2,15.269
+
+- But that is not all , GARRICK-1759-2,15.270
+
+- I have lately found you thoughtful , absent , and disturbed ;
+GARRICK-1759-2,15.271
+
+- Be plain with me , GARRICK-1759-2,15.272
+
+- Has not some body been happy enough to please you ?
+GARRICK-1759-2,15.273
+
+Miss Harriet . I can@ @not deny it , Sir ; GARRICK-1759-2,15.274
+
+- Yes , - Somebody indeed has pleased me ; GARRICK-1759-2,15.275
+
+- But I must intreat you not to give Credit to any idle Stories , or
+enquire farther into the Particulars of my Inclination ;
+GARRICK-1759-2,15.276
+
+for I can@ @not possibly have Resolution enough to say more to you .
+GARRICK-1759-2,15.277
+
+Heartly . But have you made a Choice , my Dear ? GARRICK-1759-2,15.278
+
+Miss Harriet . I have , in my own Mind , Sir ; GARRICK-1759-2,15.279
+
+and 't@ @is impossible to make a better ; GARRICK-1759-2,15.280
+
+- Reason , Honour , every thing must approve it . GARRICK-1759-2,15.281
+
+Heartly . And how long have you conceived this Passion ?
+GARRICK-1759-2,15.282
+
+<P_16>
+
+Miss Harriet . Ever since I left the Country - to live with you <font>
+<bracket> Sighs . <$$font> GARRICK-1759-2,16.284
+
+Heartly . I see your Confusion , my Dear , GARRICK-1759-2,16.285
+
+and will relieve you from it immediately , GARRICK-1759-2,16.286
+
+- I am informed ; of the whole - GARRICK-1759-2,16.287
+
+Miss Harriet . Sir ! GARRICK-1759-2,16.288
+
+Heartly . Do@ @n't be uneasy , GARRICK-1759-2,16.289
+
+for I can with Pleasure assure you , that your Passion is return'd with
+equal Tenderness . GARRICK-1759-2,16.290
+
+Miss Harriet . If you are not deceiv'd - I can@ @not be more happy .
+GARRICK-1759-2,16.291
+
+Heartly . I think I am not deceiv'd ; GARRICK-1759-2,16.292
+
+- But after the Declaration you have made , and the Assurances which I
+have given you , why will you conceal it any longer ?
+GARRICK-1759-2,16.293
+
+Have I not deserv'd a little more Confidence from you ?
+GARRICK-1759-2,16.294
+
+Miss Harriet . You have indeed deserv'd it , GARRICK-1759-2,16.295
+
+and shou'd certainly have it , were I not well assur'd that you wou'd
+oppose my Inclinations . GARRICK-1759-2,16.296
+
+Heartly . I oppose 'em ! GARRICK-1759-2,16.297
+
+Am I then so unkind to you , my Dear ? GARRICK-1759-2,16.298
+
+- Can you in the least doubt of my Affection for you ?
+GARRICK-1759-2,16.299
+
+- I promise you that I have no Will but your's . GARRICK-1759-2,16.300
+
+<P_17>
+
+Miss Harriet . Since you desire it then , I will endeavour to explain
+myself . GARRICK-1759-2,17.302
+
+Heartly . I am all Attention ; GARRICK-1759-2,17.303
+
+- Speak , my Dear . GARRICK-1759-2,17.304
+
+Miss Harriet . And if I do , I feel I shall never be able to speak to
+you again . GARRICK-1759-2,17.305
+
+Heartly . How can that be , when I shall agree with you in every thing
+? GARRICK-1759-2,17.306
+
+Miss Harriet . Indeed you wo@ @n't : GARRICK-1759-2,17.307
+
+- Pray let me retire to my own Chamber , GARRICK-1759-2,17.308
+
+- I am not well , Sir . GARRICK-1759-2,17.309
+
+Heartly . I see your Delicacy is hurt , my Dear : GARRICK-1759-2,17.310
+
+But let me intreat you once more to confide in me .
+GARRICK-1759-2,17.311
+
+- Tell me his Name , GARRICK-1759-2,17.312
+
+and the next Moment I will go to him , and assure him , that my Consent
+shall confirm both your Happiness . GARRICK-1759-2,17.313
+
+Miss Harriet . You will easily find him , GARRICK-1759-2,17.314
+
+- And when you have , pray tell him how improper it is for a young Woman
+to speak first , GARRICK-1759-2,17.315
+
+- Perswade him to spare my Blushes , and to release me from so terrible
+a Situation , GARRICK-1759-2,17.316
+
+- I shall leave him with you , - And hope <P_18> that this Declaration
+will make it impossible for you to mistake me any longer .
+GARRICK-1759-2,18.317
+
+<bracket> Harriet <font> is going , GARRICK-1759-2,18.318
+
+but upon seeing <$$font> Y. Clackit , <font> remains upon the Stage .
+<$$font> GARRICK-1759-2,18.319
+
+Heartly . Are we not alone ? GARRICK-1759-2,18.320
+
+What can this mean . <font> <paren> Aside . <$$paren> <$$font>
+GARRICK-1759-2,18.321
+
+Y. Clackit . <font> Apropos <$$font> Faith ! GARRICK-1759-2,18.322
+
+Here they are together . GARRICK-1759-2,18.323
+
+Heartly . I did not see him ; GARRICK-1759-2,18.324
+
+- But now the Riddle@ @'s explain'd . <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,18.325
+
+Miss Harriet . What can he want now ? GARRICK-1759-2,18.326
+
+- This is the most spiteful Interruption . <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,18.327
+
+Y. Clackit . By your Leave , Mr. <font> Heartly - <paren> Crosses him
+to go to <$$font> Harriet . <$$paren> - GARRICK-1759-2,18.328
+
+Have I caught you at last my divine <font> Harriet . <$$font> -
+GARRICK-1759-2,18.329
+
+Well , Mr. <font> Heartly , Sans Facon <$$font> - GARRICK-1759-2,18.330
+
+But what@ @'s the Matter , ho ! GARRICK-1759-2,18.331
+
+- Things look a little gloomy here ; GARRICK-1759-2,18.332
+
+- One mutters to himself , GARRICK-1759-2,18.333
+
+and gives me no Answer , GARRICK-1759-2,18.334
+
+and the other turns the Head , GARRICK-1759-2,18.335
+
+and winks at me . GARRICK-1759-2,18.336
+
+- How the Devil am I to interpret all this ? GARRICK-1759-2,18.337
+
+Miss Harriet . I wink at you , Sir ! GARRICK-1759-2,18.338
+
+Did I , Sir ? GARRICK-1759-2,18.339
+
+Y. Clackit . Yes , you my Angel ; - GARRICK-1759-2,18.340
+
+But Mum , - <font> Mr. Heartly <$$font> , for Heaven's Sake , what is
+all this ? GARRICK-1759-2,18.341
+
+Speak , I conjure you , GARRICK-1759-2,18.342
+
+is it Life or Death with me ? GARRICK-1759-2,18.343
+
+<P_19>
+
+Miss Harriet . What a dreadful Situation I am in !
+GARRICK-1759-2,19.345
+
+Y. Clackit . Hope for the best , GARRICK-1759-2,19.346
+
+- I@ @'ll bring Matters about I warrant you . GARRICK-1759-2,19.347
+
+Heartly . You have both of you great Reason to be satisfied ,
+GARRICK-1759-2,19.348
+
+- Nothing shall oppose your Happiness . GARRICK-1759-2,19.349
+
+Y. Clackit . Bravo , Mr. <font> Heartly ! <$$font>
+GARRICK-1759-2,19.350
+
+Heartly . Miss <font> Harriet's <$$font> Will is a Law to me ;
+GARRICK-1759-2,19.351
+
+and for you , Sir , - the Friendship which I have ever profess'd for
+your Uncle is too sincere not to exert some of it upon this Occasion .
+GARRICK-1759-2,19.352
+
+Miss Harriet . I shall die with Confusion ! <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,19.353
+
+Y. Clackit . I am alive again , GARRICK-1759-2,19.354
+
+- Dear Mr. <font> Heartly <$$font> , thou art a most adorable Creature
+! GARRICK-1759-2,19.355
+
+What a Happiness it is to have to do with a Man of Sense , who has no
+foolish Prejudices , and can see when a young Fellow has something
+tolerable about him ! GARRICK-1759-2,19.356
+
+- Heartly . Sir , not to flatter you , I must declare , that it is from
+a Knowledge of your Friends and Family , that I have Hopes of seeing you
+and this young <P_20> Lady happy . GARRICK-1759-2,20.357
+
+I will go directly to your Uncle , and assure him that every thing goes
+on to our Wishes . - <font> <paren> Going . <$$paren> <$$font>
+GARRICK-1759-2,20.358
+
+Miss Harriet . Mr. <font> Heartly <$$font> , - Pray , Sir !
+GARRICK-1759-2,20.359
+
+- Heartly . Poor Miss <font> Harriet <$$font> , I see your Distress ,
+GARRICK-1759-2,20.360
+
+and am sorry for it ; GARRICK-1759-2,20.361
+
+but it must be got over , and the sooner the better .
+GARRICK-1759-2,20.362
+
+- Mr. <font> Clackit <$$font> , my Dear , will be glad of an
+Opportunity to entertain you , for the little Time that I shall be
+absent ! GARRICK-1759-2,20.363
+
+- Poor Miss <font> Harriet ! <paren> Smiling . <$$paren>
+GARRICK-1759-2,20.364
+
+<bracket> Exit <$$font> Heartly . GARRICK-1759-2,20.365
+
+Y. Clackit . <font> Allez , allez , Monsieur ! <$$font> -
+GARRICK-1759-2,20.366
+
+I@ @'ll answer for that , GARRICK-1759-2,20.367
+
+- Well Ma'am I think every thing succeeds to our Wishes ;
+GARRICK-1759-2,20.368
+
+- Be sincere , my Adorable , GARRICK-1759-2,20.369
+
+- Do@ @n't you think yourself a very - happy young Lady ?
+GARRICK-1759-2,20.370
+
+Miss Harriet . I shall be most particularly obliged to you , Sir , if
+you would inform me what is the meaning of all this .
+GARRICK-1759-2,20.371
+
+Y. Clackit . Inform you , Miss ? GARRICK-1759-2,20.372
+
+- The Matter , I believe , is pretty clear , GARRICK-1759-2,20.373
+
+- Our Friends have Understanding , GARRICK-1759-2,20.374
+
+we have Affections , GARRICK-1759-2,20.375
+
+- And a Marriage follows of Course . GARRICK-1759-2,20.376
+
+Miss Harriet . Marriage , Sir . GARRICK-1759-2,20.377
+
+Pray what Relation or particular Connexion is there between you and me ,
+Sir ? GARRICK-1759-2,20.378
+
+<P_21>
+
+Y. Clackit . I may be deceiv'd Faith ; GARRICK-1759-2,21.380
+
+- But upon my Honour , I always - supposed that there was a little
+Smatt'ring of Inclination between us . GARRICK-1759-2,21.381
+
+Miss Harriet . And have you spoke to my Guardian upon this Supposition
+, Sir ? GARRICK-1759-2,21.382
+
+Y. Clackit . And are you angry at it ? GARRICK-1759-2,21.383
+
+I believe not . - <paren> <font> Smiling . <$$font> <$$paren>
+GARRICK-1759-2,21.384
+
+Come , come , GARRICK-1759-2,21.385
+
+I believe not , GARRICK-1759-2,21.386
+
+- 'T@ @is delicate in you to be upon the Reserve .
+GARRICK-1759-2,21.387
+
+Miss Harriet . Indeed , Sir , this Behaviour of yours is most
+extraordinary . GARRICK-1759-2,21.388
+
+Y. Clackit . Come , come , my Dear , GARRICK-1759-2,21.389
+
+do@ @n't carry this Jest too far , <font> è troppo , è troppo mia
+Carissima . <$$font> GARRICK-1759-2,21.390
+
+- What the Devil , when every Thing is agreed upon , and Uncles and
+Guardians , and such Folks have given their Consent , why continue the
+Hypocrisy ? GARRICK-1759-2,21.391
+
+Miss Harriet . They may have consented for you ; GARRICK-1759-2,21.392
+
+but I am Mistress of my Affections , GARRICK-1759-2,21.393
+
+and will never dispose of 'em by Proxy . GARRICK-1759-2,21.394
+
+Y. Clackit . Upon my Soul this is very droll ; GARRICK-1759-2,21.395
+
+- What ! has not your Guardian been here this Moment , and expressed
+all imaginable Pleasure at our intended Union . GARRICK-1759-2,21.396
+
+<P_22>
+
+Miss Harriet . He is in an Error , Sir , GARRICK-1759-2,22.398
+
+- And had I not been too much astonished at your Behaviour , I had
+undeceiv'd him long before now . GARRICK-1759-2,22.399
+
+Y. Clackit . <paren> <font> Humming a Tune . <$$font> <$$paren> But ,
+pray , Miss , to return to Business - What can be your Intention in
+raising all this Confusion in the Family , and opposing your own
+Inclinations ? GARRICK-1759-2,22.400
+
+Miss Harriet . Opposing my own Inclinations , Sir ?
+GARRICK-1759-2,22.401
+
+Y. Clackit . Ay , opposing your own Inclinations , Madam ,
+GARRICK-1759-2,22.402
+
+- Do you know , Child , if you carry on this Farce any longer , I shall
+begin to be a little angry ? GARRICK-1759-2,22.403
+
+Miss Harriet . I would wish it , Sir , GARRICK-1759-2,22.404
+
+- for be assur'd , that I never in my Life had the least Thought about
+you . GARRICK-1759-2,22.405
+
+Y. Clackit . Words , Words , Words - GARRICK-1759-2,22.406
+
+Miss Harriet . 'T@ @is most sincerely and literally true .
+GARRICK-1759-2,22.407
+
+Y. Clackit . Come , come , GARRICK-1759-2,22.408
+
+I know what I know - GARRICK-1759-2,22.409
+
+Miss Harriet . Do@ @n't make yourself ridiculous Mr. <font> Clackit .
+<$$font> GARRICK-1759-2,22.410
+
+<P_23>
+
+Y. Clackit . Do@ @n't you make yourself miserable , Miss <font>
+Harriet . <$$font> GARRICK-1759-2,23.412
+
+Miss Harriet . I am only so , when you persist to torment me .
+GARRICK-1759-2,23.413
+
+Y. Clackit , <paren> <font> Smiling <$$font> <$$paren> And you really
+believe , that you do@ @n't love me ? GARRICK-1759-2,23.414
+
+Miss Harriet . Positively not . GARRICK-1759-2,23.415
+
+Y. Clackit , <paren> <font> Conceitedly . <$$font> <$$paren> And you
+are very sure now , that you hate me ? GARRICK-1759-2,23.416
+
+Miss Harriet , Oh ! Most cordially . GARRICK-1759-2,23.417
+
+Y. Clackit . Poor young Lady ! I do pity you from my Soul .
+GARRICK-1759-2,23.418
+
+Miss Harriet . Then why wo@ @n't you leave me ? GARRICK-1759-2,23.419
+
+Y. Clackit . - <font> " She never told her Love ,
+GARRICK-1759-2,23.420
+
+But let Concealment like a Worm i' th' bud , Feed on her damask Cheek "
+- <$$font> GARRICK-1759-2,23.421
+
+Take warning Miss , GARRICK-1759-2,23.422
+
+when you once begin to <font> pine in Thought <$$font> , it@ @s all over
+with you , GARRICK-1759-2,23.423
+
+and be assured , since you are obstinately bent to give yourself Airs ,
+that , if you once suffer me to leave this House , in a Pet - Do you
+mind me ? - Not all your sighing , whining , Fits , Vapours and
+Hystericks , shall ever <P_24> move me to take the least Compassion on
+you - <font> Coute qui Coute <$$font> - GARRICK-1759-2,24.424
+
+<font> Enter <$$font> Heartly and Sir Charles . GARRICK-1759-2,24.425
+
+Sir Charles . I am overjoy'd to hear it ; GARRICK-1759-2,24.426
+
+- There they are , the pretty Doves ! GARRICK-1759-2,24.427
+
+That is the Age , Neighbour <font> Heartly <$$font> , for Happiness and
+Pleasure . GARRICK-1759-2,24.428
+
+Heartly . I am willing , you see , to lose no Time , which may convince
+you , Sir <font> Charles <$$font> , how proud I am of this Alliance in
+our Families . GARRICK-1759-2,24.429
+
+Sir Charles . The Thoughts of it rejoices me , GARRICK-1759-2,24.430
+
+- Gad , I will send for the Fiddles , and take a Dance myself , and a
+Fig for the Gout and Rheumatism . GARRICK-1759-2,24.431
+
+- But hold , hold , GARRICK-1759-2,24.432
+
+- The Lovers , me@ @thinks , are a little out of Humour with each other
+. GARRICK-1759-2,24.433
+
+- What is the Matter , <font> Jack ? <$$font> GARRICK-1759-2,24.434
+
+Not pouting sure before your Time . GARRICK-1759-2,24.435
+
+Y. Clackit . A trifle , Sir , GARRICK-1759-2,24.436
+
+- The Lady will tell you - GARRICK-1759-2,24.437
+
+<font> <paren> Hums a Tune . <$$paren> <$$font> GARRICK-1759-2,24.438
+
+Heartly . You seem to be troubled <font> Harriet <$$font> .
+GARRICK-1759-2,24.439
+
+- What can this mean ? GARRICK-1759-2,24.440
+
+Miss Harriet . You have been in an Error , Sir , about me ;
+GARRICK-1759-2,24.441
+
+- I did not undeceive you , because I could not imagine , <P_25> that
+the Consequences could have been so serious and so sudden ;
+GARRICK-1759-2,25.442
+
+- But I am now forced to tell you , that you have misunderstood me -
+That you have distressed me - GARRICK-1759-2,25.443
+
+Heartly . How , my Dear ? GARRICK-1759-2,25.444
+
+Sir Charles . What do you say Miss ? GARRICK-1759-2,25.445
+
+Y. Clackit . Mademoiselle is pleased to be out of Humour ,
+GARRICK-1759-2,25.446
+
+but I ca@ @n't blame her , GARRICK-1759-2,25.447
+
+for upon my Honour , I think a little Coquetry becomes her .
+GARRICK-1759-2,25.448
+
+Sir Charles . Ay , ay , ay , - Oh , ho ! - Is that all ?
+GARRICK-1759-2,25.449
+
+These little Squalls seldom overset the Lover's Boat ,
+GARRICK-1759-2,25.450
+
+but drive it the faster to Port - Ay , ay , ay - GARRICK-1759-2,25.451
+
+Heartly . Do@ @n't be uneasy , my Dear , that you have declared your
+Passion , GARRICK-1759-2,25.452
+
+- Be consistent now , lest you should be thought capricious .
+GARRICK-1759-2,25.453
+
+Y. Clackit . Talk to her a little , Mr. <font> Heartly <$$font> ,
+GARRICK-1759-2,25.454
+
+she is a fine Lady , GARRICK-1759-2,25.455
+
+and has many Virtues , GARRICK-1759-2,25.456
+
+but she does not know the World . GARRICK-1759-2,25.457
+
+Sir Charles . Come , come , GARRICK-1759-2,25.458
+
+you must be Friends again , my Children . GARRICK-1759-2,25.459
+
+Miss Harriet . I beg you will let me alone , Sir .
+GARRICK-1759-2,25.460
+
+<P_26>
+
+Heartly . For Heaven's sake , Miss <font> Harriet <$$font> , explain
+this Riddle to me . GARRICK-1759-2,26.462
+
+Miss Harriet . I can@ @not , Sir , GARRICK-1759-2,26.463
+
+- I have discovered the Weakness of my Heart - GARRICK-1759-2,26.464
+
+I have discovered it to you , Sir ; GARRICK-1759-2,26.465
+
+- But your unkind Interpretations and reproachful Looks , convince me ,
+that I have already said but too much . GARRICK-1759-2,26.466
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,26.467
+
+<paren> Heartly <font> muses . <$$font> <$$paren> GARRICK-1759-2,26.468
+
+Sir Charles . Well but hark'@ @ye , Nephew , GARRICK-1759-2,26.469
+
+- This is going a little too far , GARRICK-1759-2,26.470
+
+- What have you done to her ? GARRICK-1759-2,26.471
+
+Heartly . I never saw her so much moved before ! GARRICK-1759-2,26.472
+
+Y. Clackit . Upon my Soul , Gentlemen , I am as much surprized at it
+as you can be ; GARRICK-1759-2,26.473
+
+- The little <font> Bronillerie <$$font> between us , arose upon her
+persisting , that there was no Passion , no <font> Penchant <$$font>
+between us . GARRICK-1759-2,26.474
+
+Sir Charles . I@ @'ll tell you what , <font> Jack <$$font> ,
+GARRICK-1759-2,26.475
+
+- There is a certain Kind of Impudence about you , that I do@ @n't
+approve of ; GARRICK-1759-2,26.476
+
+and were I a young Girl , those Coxcomical Airs of your's would surfeit
+me . GARRICK-1759-2,26.477
+
+Y. Clackit . But as the young Ladies are not quite so squeamish , as
+you Uncle , I fancy they will chuse me as I am . Ha ! ha !
+GARRICK-1759-2,26.478
+
+- But what can the Lady object to ? GARRICK-1759-2,26.479
+
+I have offered to marry her , GARRICK-1759-2,26.480
+
+is not that a Proof sufficient that I like her ? GARRICK-1759-2,26.481
+
+A young Fellow <P_27> must have some Affection that will go such lengths
+to indulge it . Ha ! ha ! GARRICK-1759-2,27.482
+
+Sir Charles . Why really , Friend <font> Heartly <$$font> , I do@ @n't
+see how a young Man can well do more , or a Lady desire more ,
+GARRICK-1759-2,27.483
+
+- - What say you , Neighbour ? GARRICK-1759-2,27.484
+
+Heartly . Upon my Word , I am puzzled about it , GARRICK-1759-2,27.485
+
+- My Thoughts upon the Matter are so various , and so confused .
+GARRICK-1759-2,27.486
+
+- Every thing I see and hear is so contradictory - GARRICK-1759-2,27.487
+
+Is so - GARRICK-1759-2,27.488
+
+She certainly , can@ @not like any Body else ? GARRICK-1759-2,27.489
+
+Y. Clackit . No , no , I@ @'ll answer for that - GARRICK-1759-2,27.490
+
+Heartly . Or she may be fearful then , that your Passion for her is not
+sincere , or like other young Men of the Times , you may grow careless
+upon Marriage and neglect her . GARRICK-1759-2,27.491
+
+Y. Clackit . Ha ! Egad , you have hit it ; GARRICK-1759-2,27.492
+
+nothing but a little natural delicate Sensibility -
+GARRICK-1759-2,27.493
+
+<paren> <font> Hums a Tune . <$$font> <$$paren> GARRICK-1759-2,27.494
+
+Heartly . If so , perhaps , the Violence of her Reproaches may proceed
+from the Lukewarmness of your Professions . GARRICK-1759-2,27.495
+
+Y. Clackit . <font> Je vous demande pardon <$$font> -
+GARRICK-1759-2,27.496
+
+I have sworn to her a_hundred and a_hundred Times , that she should be
+the happiest of her Sex ; GARRICK-1759-2,27.497
+
+- But there is nothing surprizing in all this , GARRICK-1759-2,27.498
+
+it is the Misery of an overfond <P_28> Heart , to be always doubtful of
+its Happiness . GARRICK-1759-2,28.499
+
+Heartly . And if she marries thee I fear that she@ @'ll be kept in a
+State of Doubt as long as she lives . <font> <paren> Half aside .
+<$$paren> <$$font> GARRICK-1759-2,28.500
+
+<font> Enter <$$font> LUCY . GARRICK-1759-2,28.501
+
+Lucy . Pray Gentlemen , what is the Matter among you ?
+GARRICK-1759-2,28.502
+
+And which of you has affronted my Mistress ? GARRICK-1759-2,28.503
+
+She is in a most prodigious taking yonder , GARRICK-1759-2,28.504
+
+and she vows to return into the Country again ; GARRICK-1759-2,28.505
+
+- I can get nothing but Sighs from her . GARRICK-1759-2,28.506
+
+Y. Clackit . Poor Thing ! GARRICK-1759-2,28.507
+
+Lucy . Poor Thing ? GARRICK-1759-2,28.508
+
+The Devil take this Love , I say , GARRICK-1759-2,28.509
+
+There@ @'s more rout about it than 't@ @is worth .
+GARRICK-1759-2,28.510
+
+Y. Clackit . I beg your Pardon for that , Mrs. <font> Abigail .
+<$$font> GARRICK-1759-2,28.511
+
+Heartly . I must enquire further in this ; GARRICK-1759-2,28.512
+
+her Behaviour is too particular for me not to be disturbed at it .
+GARRICK-1759-2,28.513
+
+Lucy . She desires , with the Leave of these Gentlemen , that when she
+has recover'd herself , she may talk with you alone , Sir . <paren>
+<font> To <$$font> Heartly . <$$paren> GARRICK-1759-2,28.514
+
+<P_29>
+
+Heartly . I shall with Pleasure attend her . GARRICK-1759-2,29.516
+
+<bracket> <font> Exit <$$font> Lucy . GARRICK-1759-2,29.517
+
+Y. Clackit . <font> Divin Bacchus : <$$font> La , la , la ! <bracket>
+<font> Sings . <$$font> GARRICK-1759-2,29.518
+
+Sir Charles . I wou'd give , old as I am , a Leg or an Arm to be
+belov'd by that sweet Creature as you are , <font> Jack ? <$$font>
+GARRICK-1759-2,29.519
+
+Y. Clackit . And throw your Gout and Rheumatism into the Bargain Uncle
+? - Ha , ha ! GARRICK-1759-2,29.520
+
+<font> Divin Bacchus . <$$font> La , la , la , &c. <paren> <font>
+Sings . <$$font> <$$paren> GARRICK-1759-2,29.521
+
+Sir Charles . What the plague are you quavering at ?
+GARRICK-1759-2,29.522
+
+Thou hast no more feeling for thy Happiness than my Stick here .
+GARRICK-1759-2,29.523
+
+Y. Clackit . I beg your Pardon for that , my dear Uncle .
+GARRICK-1759-2,29.524
+
+<paren> <font> Takes out a Pocket Looking_Glass . <$$font> <$$paren>
+GARRICK-1759-2,29.525
+
+Sir Charles . I wonder what the Devil is come to the young Fellows of
+this Age , Neighbour <font> Heartly <$$font> ? GARRICK-1759-2,29.526
+
+- Why a fine Woman has no Effect upon 'em . GARRICK-1759-2,29.527
+
+- Is there no Method to make 'em less fond of themselves , and more
+mindful of the Ladies ? GARRICK-1759-2,29.528
+
+Heartly . I know but of one , <font> Sir Charles . <$$font>
+GARRICK-1759-2,29.529
+
+Sir Charles . Ay , what@ @'s that ? GARRICK-1759-2,29.530
+
+<P_30>
+
+Heartly . Why to break all the Looking-Glasses in the Kingdom .
+<paren> <font> Pointing to <$$font> Y. Clackit . <$$paren>
+GARRICK-1759-2,30.532
+
+Sir Charles . Ay , ay , they are such Fops , so taken up with
+themselves ! GARRICK-1759-2,30.533
+
+- Zounds , when I was young , and in Love - GARRICK-1759-2,30.534
+
+Y. Clackit . You were a prodigious fine Sight , to be sure .
+GARRICK-1759-2,30.535
+
+Heartly . Look'@ @ye , Mr. <font> Clackit <$$font> , if Miss <font>
+Harriet's <$$font> Affections declare for you , she must not be treated
+with Neglect or Disdain : GARRICK-1759-2,30.536
+
+- Nor cou'd I bear it , Sir . GARRICK-1759-2,30.537
+
+- Any Man must be proud of her Partiality to him , GARRICK-1759-2,30.538
+
+and he must be fashionably insensible indeed , who wou'd not make it his
+darling Care to defend , from every Inquietude , the most delicate and
+tender of her Sex . GARRICK-1759-2,30.539
+
+Sir Charles . Most nobly and warmly said , Mr. <font> Heartly .
+<$$font> GARRICK-1759-2,30.540
+
+- Go to her , Nephew , directly , GARRICK-1759-2,30.541
+
+- Throw yourself at her Feet , GARRICK-1759-2,30.542
+
+and swear how much her Beauty and Virtue have captivated you ,
+GARRICK-1759-2,30.543
+
+and do@ @n't let her go till you have set her dear little Heart at rest
+. GARRICK-1759-2,30.544
+
+Y. Clackit . I must desire to be excus'd , GARRICK-1759-2,30.545
+
+- Wou'd you have me say the same thing over and over again ?
+GARRICK-1759-2,30.546
+
+- I ca@ @n't do it positively {TEXT:possitively} ; GARRICK-1759-2,30.547
+
+- It is my turn to be piqu'd now . GARRICK-1759-2,30.548
+
+Sir Charles . Damn your Conceit , <font> Jack <$$font> ,
+GARRICK-1759-2,30.549
+
+I Can bear it no longer . GARRICK-1759-2,30.550
+
+<P_31>
+
+Heartly . I am very sorry to find that any young Lady , so near and
+dear to me , shou'd bestow her Heart , where there is so little Prospect
+of its being valued as it ought . GARRICK-1759-2,31.552
+
+- However , I shall not oppose my Authority to her Inclinations ;
+GARRICK-1759-2,31.553
+
+and so - GARRICK-1759-2,31.554
+
+Who waits there ? GARRICK-1759-2,31.555
+
+<font> <paren> Enter <$$font> Servant . <$$paren> GARRICK-1759-2,31.556
+
+Let the young Lady know that I shall attend her Commands in the Library
+. <font> <paren> Exit <$$font> Servant . <$$paren>
+GARRICK-1759-2,31.557
+
+Will you excuse me , Gentlemen ? GARRICK-1759-2,31.558
+
+Sir Charles . Ay , ay , - We@ @'ll leave you to yourselves ,
+GARRICK-1759-2,31.559
+
+and pray convince her , that I and my Nephew are most sincerely her very
+humble Servants . GARRICK-1759-2,31.560
+
+Y. Clackit . O , yes , you may depend upon me . GARRICK-1759-2,31.561
+
+Heartly . A very slender Dependence truly . <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,31.562
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,31.563
+
+Y. Clackit . We@ @'ll be with you again to know what your <font>
+Tete_a_Tete <$$font> produces , GARRICK-1759-2,31.564
+
+and in the mean time , I am her's , - and your's , - Adieu .
+GARRICK-1759-2,31.565
+
+Come , Uncle , - Fal , lal , la , la ! GARRICK-1759-2,31.566
+
+Sir Charles . I cou'd knock him down with Pleasure . <font> <paren>
+Aside . <$$paren> <$$font> GARRICK-1759-2,31.567
+
+<bracket> <font> Exeunt Sir <$$font> Charles <font> and <$$font> Y.
+Clackit . GARRICK-1759-2,31.568
+
+<P_32>
+
+<heading>
+
+Act II . GARRICK-1759-2,32.571
+
+Scene , A Library . GARRICK-1759-2,32.572
+
+<$$heading>
+
+Heartly <font> <paren> Speaking to a Servant . <$$paren> <$$font> Tell
+Miss <font> Harriet <$$font> , that I am here . GARRICK-1759-2,32.574
+
+- If she is indisposed , I will wait upon her in her own Room . -
+GARRICK-1759-2,32.575
+
+<bracket> <font> Exit Servant . <$$font> GARRICK-1759-2,32.576
+
+However mysterious her Conduct appears to me , yet still it is to be
+decyphered - GARRICK-1759-2,32.577
+
+This young Gentleman has certainly touch'd her - GARRICK-1759-2,32.578
+
+There are some Objections to him , GARRICK-1759-2,32.579
+
+and among so many young Men of Fashion that fall in her way , she
+certainly might have made a better Choice : GARRICK-1759-2,32.580
+
+She has an Understanding to be sensible of this ; GARRICK-1759-2,32.581
+
+and , if I am not mistaken , it is a Struggle between her Reason and her
+Passion , that occasions all this Confusion . GARRICK-1759-2,32.582
+
+- But here she is . GARRICK-1759-2,32.583
+
+<font> Enter Miss <$$font> Harriet . GARRICK-1759-2,32.584
+
+Miss Harriet . I hope you are not angry , Sir , that I left you so
+abruptly , without making any Apology ? GARRICK-1759-2,32.585
+
+- Heartly . I am angry that you think any Apology necessary .
+GARRICK-1759-2,32.586
+
+- The Matter we were upon was of such a delicate <P_33> Nature , that I
+was more pleased with your Confusion , than I should have been with your
+Excuses . GARRICK-1759-2,33.587
+
+- You@ @'ll pardon me , my Dear . GARRICK-1759-2,33.588
+
+- Miss Harriet . I have reflected , that the Person for whom I have
+conceiv'd most tender Regard , may , from the wisest Motives , doubt of
+my Passion ; GARRICK-1759-2,33.589
+
+and therefore I would endeavour to answer all his Objections , and
+convince him how deserving he is of my highest Esteem .
+GARRICK-1759-2,33.590
+
+Heartly . I have not yet apprehended what kind of Dispute could arise
+between you and Mr. <font> Clackit : <$$font> - GARRICK-1759-2,33.591
+
+I would advise you both to come to a Reconciliation as soon as possible
+. GARRICK-1759-2,33.592
+
+- The Law of Nature is an imperious one , GARRICK-1759-2,33.593
+
+and can@ @not , like those of our Country , be easily evaded ;
+GARRICK-1759-2,33.594
+
+and though Reason may suggest some disagreeable Reflections , yet when
+the Stroke is to be given , we must submit to it .
+GARRICK-1759-2,33.595
+
+Miss Harriet . He still continues in his Error , GARRICK-1759-2,33.596
+
+and I can@ @not undeceive him . <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,33.597
+
+Heartly . Shall I take the Liberty of telling you , my Dear . <font>
+<paren> Taking her Hand . <$$paren> <$$font> GARRICK-1759-2,33.598
+
+- You tremble , <font> Harriet ! GARRICK-1759-2,33.599
+
+- <$$font> What is the matter with you ? GARRICK-1759-2,33.600
+
+Miss Harriet . Nothing , Sir . GARRICK-1759-2,33.601
+
+- Pray go on . GARRICK-1759-2,33.602
+
+- Heartly . I guess whence proceeds all your Uneasiness .
+GARRICK-1759-2,33.603
+
+- You fear that the World will not be so readily convinced of this young
+Gentleman's Merit as you are : GARRICK-1759-2,33.604
+
+<P_34>
+
+And , indeed , I could wish him more deserving of you ;
+GARRICK-1759-2,34.606
+
+but your Regard for him gives him a Merit he otherwise would have wanted
+, GARRICK-1759-2,34.607
+
+and almost makes me blind to his Failings . GARRICK-1759-2,34.608
+
+Miss Harriet . And would you advise me , Sir , to make choice of this
+Gentleman ? GARRICK-1759-2,34.609
+
+Heartly . I would advise you , as I always have done , to consult your
+own Heart upon such an Occasion . GARRICK-1759-2,34.610
+
+Miss Harriet . If that is your Advice , I will most religiously follow
+it ; GARRICK-1759-2,34.611
+
+and , for the last time , I am resolved to discover my real Sentiments ;
+GARRICK-1759-2,34.612
+
+but as a Confession of this kind will not become me , I have been
+thinking of some innocent Stratagem to spare my Blushes , and in part to
+relieve me from the Shame of a Declaration . GARRICK-1759-2,34.613
+
+- Might I be permitted to write to him ? GARRICK-1759-2,34.614
+
+- Heartly . I think you may , my Dear , without the least Offence to
+your Delicacy : GARRICK-1759-2,34.615
+
+And indeed you ought to explain yourself ; GARRICK-1759-2,34.616
+
+your late Misunderstanding makes it absolutely necessary .
+GARRICK-1759-2,34.617
+
+Miss Harriet . Will you be kind enough to assist me ;
+GARRICK-1759-2,34.618
+
+- Will you write it for me , Sir ? GARRICK-1759-2,34.619
+
+Heartly . Oh , most willingly ! GARRICK-1759-2,34.620
+
+- And as - I am made a Party , it will remove all Objections .
+GARRICK-1759-2,34.621
+
+Miss Harriet . I will dictate to you in the best Manner I am able .
+<font> <paren> Sighing . <$$paren> <$$font> GARRICK-1759-2,34.622
+
+<P_35>
+
+Heartly . And here is Pen , Ink , and Paper , to obey your Commands .
+GARRICK-1759-2,35.624
+
+<font> <paren> Draws the Table . <$$paren> <$$font>
+GARRICK-1759-2,35.625
+
+Miss Harriet . Lord , how my Heart beats ! GARRICK-1759-2,35.626
+
+I fear I can@ @not go thro'@ @it . <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,35.627
+
+Heartly . Now , my Dear , I am ready - GARRICK-1759-2,35.628
+
+Do@ @n't be disturb'd . GARRICK-1759-2,35.629
+
+- He is certainly a Man of Family , GARRICK-1759-2,35.630
+
+and tho' he has some little Faults , Time and your Virtues will correct
+them . GARRICK-1759-2,35.631
+
+- Come , GARRICK-1759-2,35.632
+
+what shall I write ? <font> <paren> Preparing to write . <$$paren>
+<$$font> GARRICK-1759-2,35.633
+
+Miss Harriet . Pray give me a Moment's Thought ; GARRICK-1759-2,35.634
+
+- 'T@ @is a terrible Task , <font> Mr. Heartly . <$$font>
+GARRICK-1759-2,35.635
+
+Heartly . I know it is . GARRICK-1759-2,35.636
+
+- Do@ @n't hurry yourself : GARRICK-1759-2,35.637
+
+- I shall wait with Patience . GARRICK-1759-2,35.638
+
+- Come , Miss <font> Harriet . <$$font> GARRICK-1759-2,35.639
+
+Miss Harriet <font> <paren> dictating . <$$paren> " It is in vain for
+me to conceal , from one of your Understanding , the Secrets of my Heart
+. <$$font> " GARRICK-1759-2,35.640
+
+Heartly . <font> The Secrets of my Heart - <paren> Writing . <$$paren>
+<$$font> GARRICK-1759-2,35.641
+
+Miss Harriet . " <font> Tho' your Humility and Modesty will not suffer
+you to perceive it . <$$font> GARRICK-1759-2,35.642
+
+Heartly . Do you think , my Dear , that he is much troubled with those
+Qualities ? GARRICK-1759-2,35.643
+
+<P_36>
+
+Miss Harriet . Pray indulge me , Sir . GARRICK-1759-2,36.645
+
+Heartly . I beg your Pardon . GARRICK-1759-2,36.646
+
+- <font> Your Humility and Modesty will not suffer you to perceive it .
+- GARRICK-1759-2,36.647
+
+<bracket> Writes <$$paren> <$$font> So . GARRICK-1759-2,36.648
+
+Miss Harriet . <font> " Every thing tells you , that it is you that I
+love . <$$font> GARRICK-1759-2,36.649
+
+Heartly . Very well , GARRICK-1759-2,36.650
+
+<font> <paren> Writes . <$$paren> <$$font> GARRICK-1759-2,36.651
+
+Miss Harriet . Yes : - You <font> that I love <$$font> ;
+GARRICK-1759-2,36.652
+
+- do you understand me ? GARRICK-1759-2,36.653
+
+Heartly . O ! yes , yes ; - I understand you , - <font> that it is
+<$$font> You <font> that I love . <$$font> GARRICK-1759-2,36.654
+
+- This is very plain , my Dear . GARRICK-1759-2,36.655
+
+Miss Harriet . I would have it so . GARRICK-1759-2,36.656
+
+- " <font> And tho' I am already bound in Gratitude to you . <$$font> -
+GARRICK-1759-2,36.657
+
+Heartly . In Gratitude to Mr. <font> Clackit ? <$$font>
+GARRICK-1759-2,36.658
+
+Miss Harriet . Pray write , Sir . GARRICK-1759-2,36.659
+
+Heartly . Well , - <font> In Gratitude to you ; GARRICK-1759-2,36.660
+
+<paren> writes . <$$paren> <$$font> GARRICK-1759-2,36.661
+
+- I must write what she would have me . <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,36.662
+
+Miss Harriet . <font> Yet my Passion is a most disinterested one .
+<$$font> - GARRICK-1759-2,36.663
+
+<P_37>
+
+Heartly . <font> Most disinterested one . GARRICK-1759-2,37.665
+
+<paren> Writes . <$$paren> <$$font> GARRICK-1759-2,37.666
+
+Miss Harriet . " <font> And to convince you , that you owe much more to
+my Affections <$$font> , GARRICK-1759-2,37.667
+
+- Heartly . And then ? GARRICK-1759-2,37.668
+
+Miss Harriet . <font> I could wish that I had not experienced <$$font>
+- GARRICK-1759-2,37.669
+
+Heartly . Stay , - Stay : GARRICK-1759-2,37.670
+
+- <font> had not experienced - <paren> Writes . <$$paren> <$$font>
+GARRICK-1759-2,37.671
+
+Miss Harriet . " <font> Your tender Care of me in my Infancy .
+<$$font> - GARRICK-1759-2,37.672
+
+Heartly <font> <paren> Disturbed . <$$paren> <$$font> What did you say
+? GARRICK-1759-2,37.673
+
+Did I hear right , GARRICK-1759-2,37.674
+
+or am I in a Dream ! <font> <paren> Aside . <$$paren> <$$font>
+GARRICK-1759-2,37.675
+
+Miss Harriet . Why have I declared myself ? GARRICK-1759-2,37.676
+
+- He@ @'ll hate me for my Folly . <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,37.677
+
+Heartly . <font> Harriet ! <$$font> GARRICK-1759-2,37.678
+
+Miss Harriet . Sir ! GARRICK-1759-2,37.679
+
+Heartly . To whom do you write this Letter ? GARRICK-1759-2,37.680
+
+Miss Harriet . To - to - Mr. <font> Clackit , - <$$font> is it not ?
+GARRICK-1759-2,37.681
+
+<P_38>
+
+Heartly . You must not mention then the Care of your Infancy ;
+GARRICK-1759-2,38.683
+
+it would be ridiculous . GARRICK-1759-2,38.684
+
+Miss Harriet . It would indeed ; GARRICK-1759-2,38.685
+
+- I own it ; - It is improper . GARRICK-1759-2,38.686
+
+- Heartly . What , did it escape you in your Confusion ?
+GARRICK-1759-2,38.687
+
+Miss Harriet . It did indeed . GARRICK-1759-2,38.688
+
+Heartly . What must I put in its Place ? GARRICK-1759-2,38.689
+
+Miss Harriet . Indeed I do@ @n't know . GARRICK-1759-2,38.690
+
+- I have said more than enough to make myself understood .
+GARRICK-1759-2,38.691
+
+Heartly . Then I@ @'ll only finish your Letter with the usual
+Compliment , and send it away . GARRICK-1759-2,38.692
+
+Miss Harriet . Yes , - Send it away , - If you think I ought to send it
+. GARRICK-1759-2,38.693
+
+Heartly . <font> <paren> Troubled . <$$paren> <$$font> Ought to send
+it ! GARRICK-1759-2,38.694
+
+- Who@ @'s there ? GARRICK-1759-2,38.695
+
+- <font> <paren> Enter a Servant <$$paren> <$$font>
+GARRICK-1759-2,38.696
+
+Carry this Letter . GARRICK-1759-2,38.697
+
+<font> <paren> An Action escapes from <$$font> Harriet , <font> as if to
+hinder the sending the Letter . <$$paren> <$$font>
+GARRICK-1759-2,38.698
+
+, - Is it not for Mr. <font> Clackit ? <$$font> GARRICK-1759-2,38.699
+
+Miss Harriet . <font> <paren> Peevishly . <$$paren> <$$font> " Who can
+it be for ? GARRICK-1759-2,38.700
+
+<P_39>
+
+Heartly . <font> <paren> To the Servant . <$$paren> <$$font> Here take
+this Letter to Mr. <font> Clackit . <$$font> GARRICK-1759-2,39.702
+
+<font> <paren> Gives the Letter . GARRICK-1759-2,39.703
+
+<paren> Exit Servant <$$font> GARRICK-1759-2,39.704
+
+Miss Harriet . What a terrible Situation ! <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,39.705
+
+Heartly . I am thunderstruck ! <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,39.706
+
+Miss Harriet . I can@ @not speak another Word . <font> <paren> Aside .
+<$$paren> <$$font> GARRICK-1759-2,39.707
+
+Heartly . My Prudence fails me ! <font> <paren> Aside . <$$paren>
+<$$font> GARRICK-1759-2,39.708
+
+Miss Harriet . He disapproves my Passion , GARRICK-1759-2,39.709
+
+and I shall die with Confusion {TEXT:Confussion} . <font> <paren> Aside
+. <$$paren> <$$font> GARRICK-1759-2,39.710
+
+<font> Enter <$$font> Lucy . GARRICK-1759-2,39.711
+
+Lucy . The Conversation is over , GARRICK-1759-2,39.712
+
+and I may appear . <font> <paren> Aside . <$$paren> <$$font>
+GARRICK-1759-2,39.713
+
+- Sir <font> Charles <$$font> is without , Sir , GARRICK-1759-2,39.714
+
+and is impatient to know your Determination ; GARRICK-1759-2,39.715
+
+- May he be permitted to see you ? GARRICK-1759-2,39.716
+
+Heartly . <font> <paren> Aside . <$$paren> <$$font> I must retire to
+conceal my Weakness . GARRICK-1759-2,39.717
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,39.718
+
+Lucy . Upon my Word this is very whimsical . GARRICK-1759-2,39.719
+
+- What is the Reason , Miss , that your Guardian is gone away without
+giving me an Answer ? GARRICK-1759-2,39.720
+
+<P_40>
+
+Miss Harriet . <font> <paren> Aside . <$$paren> <$$font> What a
+Contempt he must have for me , to behave in this Manner !
+GARRICK-1759-2,40.722
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,40.723
+
+Lucy . Extremely well , this , and equally Foolish on both Sides !
+GARRICK-1759-2,40.724
+
+But what can be the Meaning of it ? GARRICK-1759-2,40.725
+
+- Ho , ho , - I think I have a Glimmering at last .
+GARRICK-1759-2,40.726
+
+- Suppose she shou'd not like young Shatter-brains after all ;
+GARRICK-1759-2,40.727
+
+and indeed she has never absolutely said she did ; GARRICK-1759-2,40.728
+
+who knows but she has at last opened her Mind to my good Master ,
+GARRICK-1759-2,40.729
+
+and he , finding her Taste <paren> like that of other Girls at her Age
+<$$paren> most particularly ridiculous , has not been so Complaisant as
+he used to be . GARRICK-1759-2,40.730
+
+- What a Shame it is that I do@ @n't know more of this Matter , a Wench
+of Spirit , as I am , a Favourite of my Mistress , and as inquisitive as
+I ought to be ? GARRICK-1759-2,40.731
+
+It is an Affront to my Character , GARRICK-1759-2,40.732
+
+and I must have Satisfaction immediately . GARRICK-1759-2,40.733
+
+- <font> <paren> Going . <$$paren> <$$font> I will go directly to my
+young Mistress , teize her to death , till I am at the Bottom of this ;
+GARRICK-1759-2,40.734
+
+and if Threatning , Soothing , Scolding , Whispering , Crying , and
+Lying will not prevail , I will e'en give her Warning , - And go upon
+the Stage . GARRICK-1759-2,40.735
+
+<bracket> <font> Exit . <$$font> GARRICK-1759-2,40.736
+
+<font> Enter <$$font> Heartly . GARRICK-1759-2,40.737
+
+Heartly . The more I reflect upon what has pass'd , the more I am
+convinc'd that she did not intend writing to this young Fellow .
+GARRICK-1759-2,40.738
+
+- What am I to {TEXT:missing_"to"} think of it then ?
+GARRICK-1759-2,40.739
+
+- Let a Man be ever so much upon his Guard against the Approaches of
+Vanity , yet he will find himself weak in that Quarter .
+GARRICK-1759-2,40.740
+
+- Had not my Reason made a little Stand against my Presumption , I might
+have interpreted some of <font> Harriet's <$$font> Words in my own
+Favour ; GARRICK-1759-2,40.741
+
+but - <P_41> I may well blush , tho' alone , at my extravagant Folly !
+GARRICK-1759-2,41.742
+
+- Can it be possible that so young a Creature shou'd even cast a Thought
+of that kind upon me ? - Upon me ! GARRICK-1759-2,41.743
+
+Presumptuous Vanity ! GARRICK-1759-2,41.744
+
+- No , no , - I will do her and myself the Justice to acknowledge that ,
+for a very few slight Appearances , there are a_thousand Reasons that
+destroy so ridiculous a Supposition . GARRICK-1759-2,41.745
+
+<font> Enter Sir <$$font> Charles . GARRICK-1759-2,41.746
+
+Sir Charles . Well , Mr. <font> Heartly <$$font> , what are we to hope
+for ? GARRICK-1759-2,41.747
+
+Heartly . Upon my Word , Sir , I am still in the Dark ;
+GARRICK-1759-2,41.748
+
+we puzzle about , indeed , GARRICK-1759-2,41.749
+
+but we do@ @n't get forward . GARRICK-1759-2,41.750
+
+Sir Charles . What the Devil is the Meaning of all this ?
+GARRICK-1759-2,41.751
+
+There never sure were Lovers so difficult to bring together .
+GARRICK-1759-2,41.752
+
+But have you not been a little too rough with the Lady ?
+GARRICK-1759-2,41.753
+
+For as I pass'd by her but now , she seem'd a little out of Humour , -
+And , upon my Faith , not the less beautiful for a little pouting .
+GARRICK-1759-2,41.754
+
+Heartly . Upon my Word , Sir <font> Charles <$$font> , what I can
+collect from her Behaviour is , that your Nephew is not so much in her
+good Graces , as he made you believe . GARRICK-1759-2,41.755
+
+Sir Charles . ' Egad , like enough ; GARRICK-1759-2,41.756
+
+- But hold , hold , GARRICK-1759-2,41.757
+
+- this must be look'd a little into ; GARRICK-1759-2,41.758
+
+- if it is so , I wou'd be glad to know , why , and wherefore , I have
+been made so ridiculous . GARRICK-1759-2,41.759
+
+- Eh , Master <P_42> <font> Heartly <$$font> , does he take me for his
+Fool , his Beast , his Merry Andrew ? GARRICK-1759-2,42.760
+
+By the Lord <font> Harry <$$font> - GARRICK-1759-2,42.761
+
+Heartly . In him a little Vanity is excusable . GARRICK-1759-2,42.762
+
+Sir Charles . I am his Vanity's humble Servant for that tho' .
+GARRICK-1759-2,42.763
+
+- Heartly . He is of an Age , Sir <font> Charles <$$font> -
+GARRICK-1759-2,42.764
+
+Sir Charles . Ay , of an Age to be very impertinent ;
+GARRICK-1759-2,42.765
+
+but I shall desire him to be less free with his Uncle for the future , I
+assure him . GARRICK-1759-2,42.766
+
+<font> Enter <$$font> Lucy . GARRICK-1759-2,42.767
+
+Lucy . I have it , I have it , Gentlemen ! GARRICK-1759-2,42.768
+
+You need not puzzle any more about the Matter . GARRICK-1759-2,42.769
+
+- I have got the Secret . GARRICK-1759-2,42.770
+
+- I know the Knight-Errant that has wounded our distress'd Lady .
+GARRICK-1759-2,42.771
+
+Sir Charles . Well , and who ? And what , Child ?
+GARRICK-1759-2,42.772
+
+Lucy . What , has not she told you , Sir ? <font> <paren> To <$$font>
+Heartly . <$$paren> GARRICK-1759-2,42.773
+
+Heartly . Not directly . GARRICK-1759-2,42.774
+
+Lucy . So much the better . GARRICK-1759-2,42.775
+
+- What Pleasure it is to discover a Secret , and then tell it to all the
+World ! GARRICK-1759-2,42.776
+
+I press'd her so much , that she at last confess'd .
+GARRICK-1759-2,42.777
+
+<P_43>
+
+Sir Charles . Well , what ? GARRICK-1759-2,43.779
+
+Lucy . That , in the first place , she did not like your Nephew .
+GARRICK-1759-2,43.780
+
+Sir Charles . And I told the Puppy so . GARRICK-1759-2,43.781
+
+Lucy . That she had a most mortal Antipathy for the young Men of this
+Age ; and that she had settled her Affections upon one of riper Years ,
+and riper Understanding . GARRICK-1759-2,43.782
+
+Sir Charles . Indeed ? GARRICK-1759-2,43.783
+
+Lucy . And that she expected from a Lover in his Autumn more Affection
+, more Complaisance , more Constancy , and more Discretion of Course .
+GARRICK-1759-2,43.784
+
+Heartly . That is very particular . GARRICK-1759-2,43.785
+
+Sir Charles . Ay , but it is very prudent for all that .
+GARRICK-1759-2,43.786
+
+Lucy . In short , as she had openly declared against the Nephew , I
+took upon me to speak of his Uncle . GARRICK-1759-2,43.787
+
+Sir Charles . Of me , Child ? GARRICK-1759-2,43.788
+
+<P_44>
+
+Lucy . Yes , of you , Sir ; GARRICK-1759-2,44.790
+
+- And she did not say me Nay , GARRICK-1759-2,44.791
+
+- But cast such a Look , and fetch'd such a Sigh , - That if ever I
+look'd and sigh'd in my Life , I know how it is with her .
+GARRICK-1759-2,44.792
+
+Sir Charles . What the Devil ! GARRICK-1759-2,44.793
+
+- Why surely , - Eh , <font> Lucy ! <$$font> You joke for certain ,
+GARRICK-1759-2,44.794
+
+- Mr. <font> Heartly ! <$$font> - Eh ! GARRICK-1759-2,44.795
+
+- Lucy Indeed I do not , Sir , GARRICK-1759-2,44.796
+
+- 'T@ @was in vain for me to say that nothing cou'd be so ridiculous as
+such a Choice . GARRICK-1759-2,44.797
+
+- Nay , Sir , I went a little further , <paren> You@ @'ll excuse me
+<$$paren> GARRICK-1759-2,44.798
+
+and told her - Good God Madam , said I , why he is Old and Gouty ,
+Astmatic , Rheumatic , Sciatic , Spleen-atic . GARRICK-1759-2,44.799
+
+- It signified nothing , GARRICK-1759-2,44.800
+
+she had determined . GARRICK-1759-2,44.801
+
+- Sir Charles . But you need not have told her all that .
+GARRICK-1759-2,44.802
+
+Heartly . I am persuaded , Sir <font> Charles <$$font> , that a good
+Heart , and a good Mind will prevail more with that young Lady , than
+the more fashionable Accomplishments . GARRICK-1759-2,44.803
+
+Sir Charles . I@ @'ll tell you what , Neighbour , GARRICK-1759-2,44.804
+
+I have had my Days , GARRICK-1759-2,44.805
+
+and have been well receiv'd among the Ladies , I have -
+GARRICK-1759-2,44.806
+
+But in Truth , I am rather in my Winter than my Autumn ;
+GARRICK-1759-2,44.807
+
+she must mean somebody else . GARRICK-1759-2,44.808
+
+Now I think again - GARRICK-1759-2,44.809
+
+It ca@ @n't be me - GARRICK-1759-2,44.810
+
+No , no , it ca@ @n't be me . GARRICK-1759-2,44.811
+
+Lucy . But I tell you it is , Sir . GARRICK-1759-2,44.812
+
+- You are the Man , - GARRICK-1759-2,44.813
+
+<P_45>
+
+Her Stars have decreed it ; GARRICK-1759-2,45.815
+
+and what they decree , tho' ever so ridiculous , must come to pass .
+GARRICK-1759-2,45.816
+
+- Sir Charles . Say you so ? GARRICK-1759-2,45.817
+
+- Why then , Monsieur Nephew , I shall have a little Laugh with you , -
+Ha , ha , ha ! GARRICK-1759-2,45.818
+
+The Tit-bit is not for you , my nice Sir . GARRICK-1759-2,45.819
+
+- Your Betters must be serv'd before you . GARRICK-1759-2,45.820
+
+- But here he comes - GARRICK-1759-2,45.821
+
+Not a Word for your Life . GARRICK-1759-2,45.822
+
+- We@ @'ll laugh at him most triumphantly , - Ha , ha !
+GARRICK-1759-2,45.823
+
+but Mum , Mum . GARRICK-1759-2,45.824
+
+<font> Enter <$$font> Y. Clackit . GARRICK-1759-2,45.825
+
+<font> <paren> Musick plays without . <$$paren> <$$font>
+GARRICK-1759-2,45.826
+
+Y. Clackit . That will do most divinely well . - Bravo , Bravo !
+Messieurs Vocal and Instrumental ! GARRICK-1759-2,45.827
+
+- Stay in that Chamber , GARRICK-1759-2,45.828
+
+and I will let you know the Time for your Appearance . <font> <paren>
+To the Musicians . <$$paren> <$$font> GARRICK-1759-2,45.829
+
+Meeting by Accident with some Artists of the String , and my particular
+Friends , I have brought 'em to celebrate Miss <font> Harriet's <$$font>
+and my approaching Happiness . <font> <paren> To <$$font> Heartly .
+GARRICK-1759-2,45.830
+
+Sir Charles . Do you hear the Puppy ? <font> <paren> To <$$font> Lucy
+. <$$paren> GARRICK-1759-2,45.831
+
+Heartly . It is time to clear up all Mistakes . GARRICK-1759-2,45.832
+
+Sir Charles . Now for it . GARRICK-1759-2,45.833
+
+Heartly . Miss <font> Harriet <$$font> , Sir , was not destin'd for you
+. GARRICK-1759-2,45.834
+
+Y. Clackit . What do you say , Sir ? GARRICK-1759-2,45.835
+
+<P_46>
+
+Heartly . That the young Lady has fix'd her Affections upon another .
+GARRICK-1759-2,46.837
+
+Y. Clackit . Upon another ? GARRICK-1759-2,46.838
+
+Sir Charles . Yes , Sir , <font> Another <$$font> , -
+GARRICK-1759-2,46.839
+
+That is <font> English , <$$font> Sir , GARRICK-1759-2,46.840
+
+and you may translate it into <font> French , <$$font> if you like it
+better . GARRICK-1759-2,46.841
+
+Y. Clackit <font> Vous êtes bien drole mon Oncle . <$$font> - Ha , ha
+! GARRICK-1759-2,46.842
+
+Sir Charles . Ay , ay , shew your Teeth , GARRICK-1759-2,46.843
+
+you have nothing else for it ; GARRICK-1759-2,46.844
+
+- But she has fix'd her Heart upon <font> Another <$$font> , I tell you
+. GARRICK-1759-2,46.845
+
+Y. Clackit . Very well , Sir , extremely well . GARRICK-1759-2,46.846
+
+Sir Charles . And that other , Sir , is one to whom you owe great
+Respect . GARRICK-1759-2,46.847
+
+Y. Clackit . I am his most respectful humble Servant .
+GARRICK-1759-2,46.848
+
+Sir Charles . You are a fine Youth , my sweet Nephew , to tell me a
+Story of a Cock and a Bull , of you and the young Lady , when you have
+no more Interest in her than the Czar of <font> Muscovy . <$$font>
+GARRICK-1759-2,46.849
+
+Y. Clackit . <font> <paren> Smiling . <$$paren> <$$font> But my dear
+Uncle , do@ @n't carry this Jest too far , GARRICK-1759-2,46.850
+
+- I shall begin to be uneasy . GARRICK-1759-2,46.851
+
+<P_47>
+
+Sir Charles . Ay , ay , I know your Vanity : GARRICK-1759-2,47.853
+
+You think now that the Women are all for you young Fellows .
+GARRICK-1759-2,47.854
+
+- Y. Clackit . Nine_Hundred_and_Ninety-nine in a_Thousand , I believe
+, Uncle , ha , ha , ha ! GARRICK-1759-2,47.855
+
+Sir Charles . You@ @'ll make a damn'd foolish Figure , by_and_by ,
+<font> Jack . <$$font> GARRICK-1759-2,47.856
+
+Y. Clackit . Whoever my precious Rival is , he must prepare himself
+for a little Humility ; GARRICK-1759-2,47.857
+
+for be he ever so mighty , my dear Uncle , I have that in my Pocket will
+lower his Top-sails for him . <font> <paren> Searching his Pocket .
+<$$paren> <$$font> GARRICK-1759-2,47.858
+
+Sir Charles . Well , what@ @'s that ? GARRICK-1759-2,47.859
+
+Y. Clackit . A Fourteen Pounder only , my good Uncle , - A Letter from
+the Lady . GARRICK-1759-2,47.860
+
+<font> <paren> Takes it out of his Pocket . <$$paren> <$$font>
+GARRICK-1759-2,47.861
+
+Sir Charles . What , to you ? GARRICK-1759-2,47.862
+
+Y. Clackit . To me , Sir , - This Moment receiv'd , and overflowing
+with the tenderest Sentiments . GARRICK-1759-2,47.863
+
+Sir Charles . To you ? GARRICK-1759-2,47.864
+
+Y. Clackit . Most undoubtedly . GARRICK-1759-2,47.865
+
+- She reproaches me with <P_48> my excessive Modesty .
+GARRICK-1759-2,48.866
+
+- There can be no Mistake . GARRICK-1759-2,48.867
+
+Sir Charles . What , Letter is this he chatters about ? <font> <paren>
+To <$$font> Heartly . <$$paren> GARRICK-1759-2,48.868
+
+Heartly . One written by me , and dictated by the young Lady .
+GARRICK-1759-2,48.869
+
+Sir Charles . What sent by her to him ? GARRICK-1759-2,48.870
+
+Heartly . I believe so . GARRICK-1759-2,48.871
+
+Sir Charles . Well , but then , - How the Devil , - Mrs. <font> Lucy !
+<$$font> - GARRICK-1759-2,48.872
+
+Eh ! - What becomes of your fine Story ? GARRICK-1759-2,48.873
+
+Lucy . I do@ @n't understand it . GARRICK-1759-2,48.874
+
+Sir Charles . Nor I ! GARRICK-1759-2,48.875
+
+Heartly . <font> <paren> Hesitating . <$$paren> <$$font> Nor - I -
+GARRICK-1759-2,48.876
+
+Y. Clackit . But I do , - GARRICK-1759-2,48.877
+
+And so you will all presently . GARRICK-1759-2,48.878
+
+- Well , my dear Uncle , what are you astonished , pertrify'd ,
+annihilated ? GARRICK-1759-2,48.879
+
+Sir Charles . With your Impudence , <font> Jack ! <$$font>
+GARRICK-1759-2,48.880
+
+But I@ @'ll see it out . GARRICK-1759-2,48.881
+
+<P_49>
+
+<font> Enter Miss <$$font> Harriet . GARRICK-1759-2,49.883
+
+Miss Harriet . Bless me , Mr. <font> Heartly <$$font> , what is all
+this Music for in the next Room ? GARRICK-1759-2,49.884
+
+Y. Clackit . I brought the Gentlemen of the String , Mademoiselle , to
+convince you , that I feel , as I ought , the Honour you have done me -
+<font> <paren> Shewing the Letter . <$$paren> <$$font>
+GARRICK-1759-2,49.885
+
+But for Heaven's sake be sincere a little with these good Folks ;
+GARRICK-1759-2,49.886
+
+they tell me here that I am Nobody , and there is another happier than
+myself , GARRICK-1759-2,49.887
+
+and for the Soul of me , I do@ @n't know how to believe 'em , - Ha , ha
+, ha ! GARRICK-1759-2,49.888
+
+Sir Charles . Let us hear Miss speak . GARRICK-1759-2,49.889
+
+Miss Harriet . It is a most terrible Task ; GARRICK-1759-2,49.890
+
+but I am compel'd to it , GARRICK-1759-2,49.891
+
+and to hesitate any longer wou'd be injurious to my Guardian , his
+Friend , this young Gentleman , and my own Character .
+GARRICK-1759-2,49.892
+
+Y. Clackit . Most judicious , upon my Soul . GARRICK-1759-2,49.893
+
+Sir Charles . Hold your Tongue , <font> Jack . <$$font>
+GARRICK-1759-2,49.894
+
+Y. Clackit . I am Dumb . GARRICK-1759-2,49.895
+
+Miss Harriet . You have all been in an Error . GARRICK-1759-2,49.896
+
+- My Bashfulness may have deceiv'd you , GARRICK-1759-2,49.897
+
+- My Heart never did . GARRICK-1759-2,49.898
+
+- <P_50> Y. Clackit . <font> C'est vrai . <$$font>
+GARRICK-1759-2,50.899
+
+Miss Harriet . Therefore , before I declare my Sentiments , it is
+proper that I disavow any Engagement : GARRICK-1759-2,50.900
+
+- but at the same time must confess - Y. Clackit . Ho , - ho ! - Miss
+Harriet . With Fear and Shame confess - Y. Clackit . <font> Courage ,
+Mademoiselle ! <$$font> Miss Harriet . That Another , not You , Sir ,
+has gain'd a Power over my Heart . - <font> <paren> To <$$font> Y.
+Clackit . <$$paren> GARRICK-1759-2,50.901
+
+Sir Charles . <font> Another <$$font> , not <font> you <$$font> ;
+GARRICK-1759-2,50.902
+
+mind that , <font> Jack . <$$font> Ha ! ha ! GARRICK-1759-2,50.903
+
+Miss Harriet . It is a Power indeed which he despises .
+GARRICK-1759-2,50.904
+
+- I can@ @not be deceived in his Conduct . GARRICK-1759-2,50.905
+
+- Modesty may tye the Tongue of our Sex , GARRICK-1759-2,50.906
+
+but Silence in him could proceed only from Contempt .
+GARRICK-1759-2,50.907
+
+Sir Charles . How prettily she reproaches me ! GARRICK-1759-2,50.908
+
+- But I@ @'ll soon make it up with her . GARRICK-1759-2,50.909
+
+Miss Harriet . As to that Letter , Sir ; your Error there , is
+excusable ; GARRICK-1759-2,50.910
+
+and I own myself in that Particular a little blameable .
+GARRICK-1759-2,50.911
+
+- But it was not my Fault that it was sent <P_51> to you ;
+GARRICK-1759-2,51.912
+
+and the Contents must have told you , that it could not possibly be
+meant for you . <paren> <font> To <$$font> Y. Clackit . <$$paren>
+GARRICK-1759-2,51.913
+
+Sir Charles . Proof positive , <font> Jack : <$$font> -
+GARRICK-1759-2,51.914
+
+Say no more . GARRICK-1759-2,51.915
+
+- Now is my Time to begin . GARRICK-1759-2,51.916
+
+- Hem ! - hem ! - Sweet young Lady , - hem ! - whose Charms are so
+mighty , so far transcending every thing we read of , in History or
+Fable , how could you possibly think that my Silence proceeded from
+Contempt ? GARRICK-1759-2,51.917
+
+Was it natural or prudent , think you , for a Man of sixty-five , nay ,
+just entering into his sixty-sixth year - GARRICK-1759-2,51.918
+
+Y. Clackit . <font> O Misericorde ! <$$font> What , is my Uncle my
+Rival ! GARRICK-1759-2,51.919
+
+Nay then I shall burst , by <font> Jupiter ! <$$font> - Ha ! ha ! ha
+! GARRICK-1759-2,51.920
+
+Miss Harriet . Do@ @n't imagine , Sir , that to me your Age is any
+Fault . GARRICK-1759-2,51.921
+
+Sir Charles <paren> <font> Bowing . <$$font> <$$paren> You are very
+obliging , Madam . GARRICK-1759-2,51.922
+
+Miss Harriet . Neither is it , Sir , a Merit of that extraordinary
+Nature , that I should sacrifice to it an Inclination which I have
+conceived for another . GARRICK-1759-2,51.923
+
+Sir Charles . How is this ? GARRICK-1759-2,51.924
+
+Y. Clackit . Another ! not you . - GARRICK-1759-2,51.925
+
+mind that , Uncle . GARRICK-1759-2,51.926
+
+Lucy . What is the Meaning of all this ! GARRICK-1759-2,51.927
+
+<P_52>
+
+Y. Clackit . Proof positive , Uncle - And very positive .
+GARRICK-1759-2,52.929
+
+Sir Charles . I have been led into a Mistake , Madam , which I hope you
+will excuse ; GARRICK-1759-2,52.930
+
+and I have made myself very ridiculous , which I hope I shall forget :
+GARRICK-1759-2,52.931
+
+- And so , Madam , I am your humble Servant . GARRICK-1759-2,52.932
+
+- This young Lady has something very extraordinary about her .
+GARRICK-1759-2,52.933
+
+Heartly . What I now see and the Remembrance of what is past force me
+to break Silence . GARRICK-1759-2,52.934
+
+Y. Clackit . Ay , now for it . GARRICK-1759-2,52.935
+
+Hear him - GARRICK-1759-2,52.936
+
+hear him . GARRICK-1759-2,52.937
+
+- Heartly . O my <font> Harriet ! <$$font> - I too must be disgrac'd
+in my Turn . GARRICK-1759-2,52.938
+
+- Can you think that I have seen and convers'd with you unmov'd ?
+GARRICK-1759-2,52.939
+
+- Indeed I have not . GARRICK-1759-2,52.940
+
+- The more I was sensible of your Merit , the stronger were my Motives
+to stifle the Ambition of my Heart . GARRICK-1759-2,52.941
+
+- But now I can no longer resist the Violence of my Passion , which
+casts me at your Feet , the most unworthy indeed of all your Admirers ,
+but of all the most affectionate . GARRICK-1759-2,52.942
+
+Y. Clackit . So , so , the Moon has changed , GARRICK-1759-2,52.943
+
+and the grown Gentlemen begin to be frisky . GARRICK-1759-2,52.944
+
+Lucy . What , my Master in Love too ! GARRICK-1759-2,52.945
+
+- I@ @'ll never trust these Tye_Wigs again . <paren> <font> Aside .
+<$$font> <$$paren> GARRICK-1759-2,52.946
+
+<P_53>
+
+Miss Harriet . I have refused my Hand to Sir <font> Charles <$$font>
+and this young Gentleman : GARRICK-1759-2,53.948
+
+- The one accuses me of Caprice , the other of Singularity .
+GARRICK-1759-2,53.949
+
+- Should I refuse my Hand a third Time , <paren> <font> smiling <$$font>
+<$$paren> I might draw upon myself a more severe Reproach ,
+GARRICK-1759-2,53.950
+
+- and therefore I accept your Favour , Sir , GARRICK-1759-2,53.951
+
+and will endeavour to deserve it . GARRICK-1759-2,53.952
+
+Heartly . And thus I seal my Acknowledgments , GARRICK-1759-2,53.953
+
+and from henceforth devote my every Thought , and all my Services to the
+Author of my Happiness . GARRICK-1759-2,53.954
+
+<paren> <font> Kisses her hand . <$$font> <$$paren>
+GARRICK-1759-2,53.955
+
+Lucy . Since Matters are so well settled , give me leave , Sir , to
+congratulate you on your Success , - and my young Lady on her Judgment .
+GARRICK-1759-2,53.956
+
+- You have my Taste exactly , Miss ; GARRICK-1759-2,53.957
+
+ripe Fruit for my Money ; GARRICK-1759-2,53.958
+
+when it is too green it sets one's Teeth on edge , GARRICK-1759-2,53.959
+
+and when too mellow it has no Flavour at all . GARRICK-1759-2,53.960
+
+Sir Charles . Hold your Tongue , you Baggage , <paren> <font> to
+<$$font> Lucy . <$$paren> GARRICK-1759-2,53.961
+
+Well , my dear discreet Nephew , are you satisfied with the Fool's Part
+you have given me , and play'd yourself , in the Farce ?
+GARRICK-1759-2,53.962
+
+Y. Clackit . What would you have me say , Sir ? GARRICK-1759-2,53.963
+
+I am too much a Philosopher to fret myself , because the Wind , which
+was East this Morning , is now West . GARRICK-1759-2,53.964
+
+- The poor Girl in pique has kill'd herself , to be reveng'd on me ;
+GARRICK-1759-2,53.965
+
+but hark'@ @ye , Sir , GARRICK-1759-2,53.966
+
+I believe <font> Heartly <$$font> will be cursed mad to have me live in
+his Neighbourhood . GARRICK-1759-2,53.967
+
+- A Word to the Wise . GARRICK-1759-2,53.968
+
+- <P_54> Sir Charles . Thou hast a most incorrigible Vanity , <font>
+Jack <$$font> , GARRICK-1759-2,54.969
+
+and nothing can cure thee . GARRICK-1759-2,54.970
+
+- Mr. <font> Heartly <$$font> , I have Sense enough , and Friendship
+enough , not to be uneasy at your Happiness . GARRICK-1759-2,54.971
+
+Heartly . I hope , Sir <font> Charles <$$font> , that we shall still
+continue to live as Neighbours and Friends . GARRICK-1759-2,54.972
+
+For you , my <font> Harriet <$$font> , Words can@ @not express my Wonder
+or my Joy ; GARRICK-1759-2,54.973
+
+my future Conduct must tell you what a Sense I have of my Happiness ,
+and how much I shall endeavour to deserve it . GARRICK-1759-2,54.974
+
+My friendly Care shall change to grateful Love , and the fond Husband
+still the Guardian prove . GARRICK-1759-2,54.975
+
+Finis . GARRICK-1759-2,54.976
+

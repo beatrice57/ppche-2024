@@ -1,0 +1,1710 @@
+<BEGIN_fielding1-1749-1>
+
+<P_1,5>
+
+<heading>
+
+{COM:BOOK_1} Chap. II . FIELDING1-1749-1,1,5.4
+
+<font> A short description of Squire <$$font> Allworthy , <font> and a
+fuller account of Miss <$$font> Bridget Allworthy <font> his sister .
+<$$font> FIELDING1-1749-1,1,5.5
+
+<$$heading>
+
+In that Part of the western Division of this Kingdom , which is commonly
+called <font> Somersetshire <$$font> , there lately lived <paren> and
+perhaps lives still <$$paren> a Gentleman whose Name was <font>
+Allworthy <$$font> , and who might well be called the Favourite of both
+Nature and Fortune ; FIELDING1-1749-1,1,5.7
+
+for both of these seem to have contended which should bless and enrich
+him most . FIELDING1-1749-1,1,5.8
+
+In this Contention , Nature may seem to some to have come off victorious
+, as she bestowed on him many Gifts ; while Fortune had only one Gift in
+her Power ; FIELDING1-1749-1,1,5.9
+
+but in pouring forth this , she was so very profuse , that others
+perhaps may think this single Endowment to have been more than
+equivalent to all the various blessings which he enjoyed from Nature .
+FIELDING1-1749-1,1,5.10
+
+From the former of these , he derived an agreeable Person , a sound
+Constitution , a solid Understanding , and a benevolent Heart ;
+FIELDING1-1749-1,1,5.11
+
+by the latter , he was decreed to the Inheritance of one of the largest
+Estates in the County . FIELDING1-1749-1,1,5.12
+
+This Gentleman had , in his Youth , married a very worthy and beautiful
+Woman , of whom he had been extremely fond : FIELDING1-1749-1,1,5.13
+
+by her he had three Children , all of whom died in their infancy .
+FIELDING1-1749-1,1,5.14
+
+He had likewise had the Misfortune of burying this beloved Wife herself
+, about five Years before the time in which this History chuses to set
+out . FIELDING1-1749-1,1,5.15
+
+This Loss , however great , he bore like a Man of Sense and Constancy ;
+tho' it must be <P_1,6> confessed {TEXT:confest} , he would often talk a
+little whimsically on this Head : FIELDING1-1749-1,1,6.16
+
+For he sometimes said he looked on himself as still married , and
+considered his Wife as only gone a little before him , a Journey which
+he should most certainly , sooner or later , take after her ; and that
+he had not the least Doubt of meeting her again in a Place where he
+should never part with her more . Sentiments for which his Sense was
+arraigned by one Part of his Neighbours , his Religion by a second , and
+his Sincerity by a third . FIELDING1-1749-1,1,6.17
+
+He now lived , for the most Part , retired in the Country , with one
+Sister , for whom he had a very tender Affection .
+FIELDING1-1749-1,1,6.18
+
+This lady was now somewhat past the Age of 30 , an Aera , at which , in
+the Opinion of the Malicious , the Title of Old Maid may , with no
+Impropriety , be assumed . FIELDING1-1749-1,1,6.19
+
+She was of that Species of Women , whom you commend rather for good
+Qualities than Beauty , and who are generally called by their own Sex ,
+very good sort of Women - as good a Sort of Woman , Madam , as you would
+wish to know . FIELDING1-1749-1,1,6.20
+
+Indeed , she was so far from regretting Want of Beauty , that she never
+mentioned that Perfection <paren> if it can be called one <$$paren>
+without Contempt ; and would often thank God she was not as handsome as
+Miss such_a_one , whom perhaps Beauty had led into Errors , which she
+might have otherwise avoided . FIELDING1-1749-1,1,6.21
+
+Miss <font> Bridget Allworthy <$$font> <paren> for that was the Name of
+this Lady <$$paren> very rightly conceived the Charms of Person in a
+Woman to be no better than Snares for herself , as well as for others ,
+FIELDING1-1749-1,1,6.22
+
+and yet so discreet was she in her Conduct , that her Prudence was as
+much on the Guard , as if she had all the Snares to apprehend which were
+ever laid for her whole Sex . FIELDING1-1749-1,1,6.23
+
+Indeed , I <P_1,7> have observed <paren> tho' it may seem unaccountable
+to the Reader <$$paren> that this Guard of Prudence , like the Trained
+Bands , is always readiest to go on Duty where there is the least Danger
+. FIELDING1-1749-1,1,7.24
+
+It often basely and cowardly deserts those Paragons for whom the Men are
+all wishing , sighing , dying , and spreading , every Net in their Power
+; FIELDING1-1749-1,1,7.25
+
+and constantly attends at the Heels of that higher Order of Women for
+whom the other Sex have a more distant and awful Respect , and whom
+<paren> from Despair , I suppose , of Success <$$paren> they never
+venture to attack . FIELDING1-1749-1,1,7.26
+
+Reader , I think proper , before we proceed any farther together , to
+acquaint thee , that I intend to digress , through this whole History ,
+as often as I see Occasion : Of which I am myself a better Judge than
+any pitiful Critic whatever . FIELDING1-1749-1,1,7.27
+
+And here I must desire all those Critics to mind their own Business ,
+and not to intermeddle with Affairs , or Works which no ways concern
+them : FIELDING1-1749-1,1,7.28
+
+For , till they produce the Authority by which they are constituted
+Judges , I shall not plead to their Jurisdiction .
+FIELDING1-1749-1,1,7.29
+
+<heading>
+
+{COM:BOOK_1} Chap. III . FIELDING1-1749-1,1,7.31
+
+<font> An odd Accident which befel Mr. <$$font> Allworthy <font> at his
+Return home . FIELDING1-1749-1,1,7.32
+
+The decent Behaviour of Mrs. <$$font> Deborah Wilkins , <font> with
+some proper Animadversions on Bastards . <$$font>
+FIELDING1-1749-1,1,7.33
+
+<$$heading>
+
+I have told my Reader , in the preceding Chapter , that Mr. <font>
+Allworthy <$$font> inherited a large Fortune ; that he had a good Heart
+, and no Family . FIELDING1-1749-1,1,7.35
+
+Hence , doubtless , it will be concluded by many , that he lived like an
+honest Man , owed no one a <P_1,8> Shilling , took nothing but what was
+his own , kept a Good house , entertained his Neighbours with a hearty
+Welcome at his Table , and was charitable to the Poor , <font> i.e.
+<$$font> to those who had rather beg than work , by giving them the
+Offals from it ; that he dy'd immensely rich and built an Hospital .
+FIELDING1-1749-1,1,8.36
+
+And true it is , that he did many of these Things ;
+FIELDING1-1749-1,1,8.37
+
+but , had he done nothing more , I should have left him to have recorded
+his own Merit on some fair Free-stone over the Door of that Hospital .
+FIELDING1-1749-1,1,8.38
+
+Matters of a much more extraordinary Kind are to be the Subject of this
+History , FIELDING1-1749-1,1,8.39
+
+or I should grossly misspend my Time in writing so voluminous a Work ;
+FIELDING1-1749-1,1,8.40
+
+and you , my sagacious Friend , might , with equal Profit and Pleasure ,
+travel through some Pages , which certain droll Authors have been
+facetiously pleased to call <font> The History of England . <$$font>
+FIELDING1-1749-1,1,8.41
+
+Mr. <font> Allworthy <$$font> had been absent a full Quarter of a Year
+in <font> London <$$font> , on some very particular Business , tho' I
+know not what it was ; but judge of its Importance by its having
+detained him so long from home , whence he had not been absent a Month
+at a time during the Space of many Years . FIELDING1-1749-1,1,8.42
+
+He came to his House very late in the Evening , FIELDING1-1749-1,1,8.43
+
+and after a short Supper with his Sister , retired much fatigued to his
+Chamber . FIELDING1-1749-1,1,8.44
+
+Here , having spent some Minutes on his Knees , a Custom which he never
+broke through on any Account , he was preparing to step into Bed , when
+, upon opening the Cloaths , to his great Surprize , he beheld an Infant
+, wrapt up in some coarse Linnen , in a sweet and profound Sleep ,
+between his Sheets . FIELDING1-1749-1,1,8.45
+
+He stood some Time lost in Astonishment at this Sight ;
+FIELDING1-1749-1,1,8.46
+
+but , as Good-nature <P_1,9> had always the Ascendant in his Mind , he
+soon began to be touched with Sentiments of Compassion for the little
+Wretch before him . FIELDING1-1749-1,1,9.47
+
+He then rang his Bell , FIELDING1-1749-1,1,9.48
+
+and ordered an elderly Woman Servant to rise immediately and come to him
+, FIELDING1-1749-1,1,9.49
+
+and in the mean Time was so eager in contemplating the Beauty of
+Innocence , appearing in those lively Colours with which Infancy and
+Sleep always display it , that his Thoughts were too much engaged to
+reflect that he was in his Shirt , when the Matron came in .
+FIELDING1-1749-1,1,9.50
+
+She had indeed given her Master sufficient Time to dress himself ;
+FIELDING1-1749-1,1,9.51
+
+for out of respect to him , and Regard to Decency , she had spent many
+Minutes in adjusting her Hair at the Looking-glass , notwithstanding all
+the Hurry in which she had been summoned by the Servant , and tho' her
+Master , for aught she knew , lay expiring in an Apoplexy , or in some
+other Fit . FIELDING1-1749-1,1,9.52
+
+It will not be wondered at , that a Creature who had so strict a Regard
+to Decency in her own Person , should be shocked at the least Deviation
+from it in another . FIELDING1-1749-1,1,9.53
+
+She therefore no sooner opened the Door , and saw her Master standing by
+the Bed-side in his Shirt , with a Candle in his Hand , than she started
+back in a most terrible Fright , and might perhaps have swooned away ,
+had he not now recollected his being undrest , and put an End to her
+Terrors , by desiring her to stay without the Door till he had thrown
+some Cloaths over his Back , and was become incapable of shocking the
+pure eyes of Mrs. <font> Deborah Wilkins <$$font> , who , tho' in the
+52d Year of her Age , vowed she had never beheld a Man without his Coat
+. FIELDING1-1749-1,1,9.54
+
+Sneerers and prophane Wits may perhaps laugh at her first Fright ;
+FIELDING1-1749-1,1,9.55
+
+yet my graver <P_1,10> Reader , when he considers the Time of Night ,
+the Summons from her Bed , and the Situation in which she found her
+Master , will highly justify and applaud her Conduct ; unless the
+Prudence , which must be supposed to attend Maidens at that Period of
+Life at which Mrs. <font> Deborah <$$font> had arrived , should a
+little lessen his Admiration . FIELDING1-1749-1,1,10.56
+
+When Mrs. <font> Deborah <$$font> returned into the Room , and was
+acquainted by her Master with the finding the little Infant , her
+consternation was rather greater than his had been ;
+FIELDING1-1749-1,1,10.57
+
+nor could she refrain from crying out , with great Horror of Accent as
+well as Look , ' My good Sir ! what@ @'s to be done ? '
+FIELDING1-1749-1,1,10.58
+
+Mr. <font> Allworthy <$$font> answered , She must take Care of the
+Child that Evening , and in the Morning he would give Orders to provide
+it a Nurse . FIELDING1-1749-1,1,10.59
+
+' Yes , Sir , ' says she , ' and I hope your Worship will send out your
+Warrant to take up the Hussy its Mother FIELDING1-1749-1,1,10.60
+
+<paren> for she must be one of the Neighbourhood <$$paren>
+FIELDING1-1749-1,1,10.61
+
+and I should be glad to see her committed to <font> Bridewel <$$font> ,
+and whipt at the Cart's Tail . FIELDING1-1749-1,1,10.62
+
+Indeed such wicked Sluts can@ @not be too severely punished .
+FIELDING1-1749-1,1,10.63
+
+I@ @'ll warrant 't@ @is not her first , by her impudence in laying it to
+your Worship . ' FIELDING1-1749-1,1,10.64
+
+' In laying it to me ! <font> Deborah <$$font> , ' answered <font>
+Allworthy , ' I ca@ @n't think she hath any such Design .
+FIELDING1-1749-1,1,10.65
+
+I suppose she hath only taken this method to provide for her Child ;
+FIELDING1-1749-1,1,10.66
+
+and truly I am glad she hath not done worse . '
+FIELDING1-1749-1,1,10.67
+
+' I do@ @n't know what is worse , ' cries <font> Deborah <$$font> , '
+than for such wicked Strumpets to lay their Sins at honest Mens Doors ;
+FIELDING1-1749-1,1,10.68
+
+and though your Worship knows your own Innocence , yet the World is
+censorious ; FIELDING1-1749-1,1,10.69
+
+and it hath been many an honest Man's Hap to pass for the Father of
+Children he never begot ; FIELDING1-1749-1,1,10.70
+
+and if your Worship should provide for the Child , it may <P_1,11> make
+the people the apter to believe : FIELDING1-1749-1,1,11.71
+
+Besides , why should your Worship provide for what the Parish is obliged
+to maintain ? FIELDING1-1749-1,1,11.72
+
+For my own Part , if it was an honest Man's Child indeed ; but for my
+own Part , it goes against me to touch these misbegotten Wretches , whom
+I do@ @n't look upon as my fellow Creatures . FIELDING1-1749-1,1,11.73
+
+Faugh , how it stinks ! FIELDING1-1749-1,1,11.74
+
+It doth not smell like a Christian . FIELDING1-1749-1,1,11.75
+
+If I might be so bold to give my Advice , I would have it put in a
+Basket , and sent out and laid at the Church-Warden's Door .
+FIELDING1-1749-1,1,11.76
+
+It is a good Night , only a little rainy and windy ;
+FIELDING1-1749-1,1,11.77
+
+and if it was well wrapt up , and put in a warm Basket , it is two to
+one but it lives till it is found in the Morning .
+FIELDING1-1749-1,1,11.78
+
+But if it should not , we have discharged our Duty in taking proper Care
+of it ; FIELDING1-1749-1,1,11.79
+
+and it is , perhaps , better for such Creatures to die in a State of
+Innocence , than to grow up and imitate their Mothers ;
+FIELDING1-1749-1,1,11.80
+
+for nothing better can be expected of them . ' FIELDING1-1749-1,1,11.81
+
+There were some Strokes in this Speech which perhaps would have offended
+Mr. <font> Allworthy <$$font> , had he strictly attended to it ;
+FIELDING1-1749-1,1,11.82
+
+but he had now got one of his Fingers into the Infant's Hand , which ,
+by its gentle Pressure , seeming to implore his Assistance , had
+certainly out-pleaded the eloquence of Mrs. <font> Deborah <$$font> ,
+had it been ten times greater than it was . FIELDING1-1749-1,1,11.83
+
+He now gave Mrs. <font> Deborah <$$font> positive Orders to take the
+Child to her own Bed , and to call up a Maid-servant to provide it Pap ,
+and other Things , against it waked . FIELDING1-1749-1,1,11.84
+
+He likewise ordered that proper Clothes should be procured for it early
+in the Morning , and that it should be brought to himself as soon as he
+was stirring . FIELDING1-1749-1,1,11.85
+
+Such was the Discernment of Mrs. <font> Wilkins <$$font> , and such the
+Respect she bore her Master , under <P_1,12> whom she enjoyed a most
+excellent Place , that her Scruples gave Way to his peremptory Commands
+; and she took the Child under her Arms , without any apparent Disgust
+at the Illegality of its Birth ; and declaring it was a sweet little
+Infant , walked off with it to her own Chamber .
+FIELDING1-1749-1,1,12.86
+
+<font> Allworthy <$$font> here betook himself to those pleasing Slumbers
+which a Heart that hungers after Goodness is apt to enjoy when
+thoroughly satisfied : FIELDING1-1749-1,1,12.87
+
+As these are possibly sweeter than what are occasioned by any other
+hearty Meal , I should take more Pains to display them to the Reader ,
+if I knew any Air to recommend him to for the procuring such an Appetite
+. FIELDING1-1749-1,1,12.88
+
+<P_2,5>
+
+<heading>
+
+{COM:BOOK_6} Chap. II . FIELDING1-1749-1,2,5.91
+
+<font> The character of Mrs. <$$font> Western . <font>
+FIELDING1-1749-1,2,5.92
+
+Her great Learning and Knowledge of the World , and an Instance of the
+deep Penetration which she derived from those Advantages . <$$font>
+FIELDING1-1749-1,2,5.93
+
+<$$heading>
+
+The Reader hath seen Mr. <font> Western <$$font> , his Sister , and
+Daughter , with young <font> Jones <$$font> , and the Parson , going
+together to Mr. <font> Western <$$font> 's <P_2,6> House , where the
+greater Part of the Company spent the Evening with much Joy and
+Festivity . FIELDING1-1749-1,2,6.95
+
+<font> Sophia <$$font> was indeed the only grave Person :
+FIELDING1-1749-1,2,6.96
+
+For as to <font> Jones <$$font> , though Love had now gotten entire
+Possession of his Heart , yet the pleasing Reflection on Mr. <font>
+Allworthy <$$font> 's Recovery , and the Presence of his Mistress ,
+joined to some tender Looks which she now and then could not refrain
+from giving him , so elevated our Heroe , that he joined the Mirth of
+the other three , who were perhaps as good-humoured People as any in the
+World . FIELDING1-1749-1,2,6.97
+
+<font> Sophia <$$font> retained the same Gravity of Countenance the next
+Morning at Breakfast ; whence she retired likewise earlier than usual ,
+leaving her Father and Aunt together . FIELDING1-1749-1,2,6.98
+
+The Squire took no Notice of this Change in his Daughter's Disposition .
+FIELDING1-1749-1,2,6.99
+
+To say the Truth , though he was somewhat of a Politician , and had been
+twice a Candidate in the Country Interest at an Election , he was a Man
+of no great Observation . FIELDING1-1749-1,2,6.100
+
+His Sister was a Lady of a different Turn . FIELDING1-1749-1,2,6.101
+
+She had lived about the Court , FIELDING1-1749-1,2,6.102
+
+and had seen the World . FIELDING1-1749-1,2,6.103
+
+Hence she had acquired all that Knowledge which the said World usually
+communicates ; FIELDING1-1749-1,2,6.104
+
+and was a perfect Mistress of Manners , Customs , Ceremonies , and
+Fashions . FIELDING1-1749-1,2,6.105
+
+Nor did her Erudition stop here . FIELDING1-1749-1,2,6.106
+
+She had considerably improved her Mind by Study ;
+FIELDING1-1749-1,2,6.107
+
+she had not only read all the modern Plays , Operas , Oratorios , Poems
+and Romances ; in all which she was a Critic ; FIELDING1-1749-1,2,6.108
+
+but had gone thro' <font> Rapin <$$font> 's History of <font> England
+<$$font> , <font> Eachard <$$font> 's <font> Roman History <$$font> ,
+and many <font> French Memoires pour servir a l'Histoire <$$font> ;
+FIELDING1-1749-1,2,6.109
+
+to these she had added most of the political Pamphlets and Journals
+published within the last twenty Years . <P_2,7> From which she had
+attained a very competent Skill in Politics , and could discourse very
+learnedly on the Affairs of <font> Europe <$$font> .
+FIELDING1-1749-1,2,7.110
+
+She was , moreover , excellently well skilled in the Doctrine of Amour ,
+FIELDING1-1749-1,2,7.111
+
+and knew better than any Body who and who were together : a Knowledge
+which she the more easily attained , as her Pursuit of it was never
+diverted by any Affairs of her own ; FIELDING1-1749-1,2,7.112
+
+for either she had no Inclinations , FIELDING1-1749-1,2,7.113
+
+or they had never been solicited ; which last is indeed very probable :
+FIELDING1-1749-1,2,7.114
+
+For her masculine Person , which was near six Foot high , added to her
+Manner and Learning , possibly prevented the other Sex from regarding
+her , notwithstanding her Petticoats , in the Light of a Woman .
+FIELDING1-1749-1,2,7.115
+
+However , as she had considered the Matter scientifically , she
+perfectly well knew , though she had never practised them , all the Arts
+which fine Ladies use when they desire to give Encouragement , or to
+conceal Liking , with all the long Appendage of Smiles , Ogles , Glances
+, <font> &c. <$$font> as they are at present practised in the
+Beau-monde . FIELDING1-1749-1,2,7.116
+
+To sum the whole , no Species of Disguise or Affectation had escaped her
+Notice ; FIELDING1-1749-1,2,7.117
+
+but as to the plain simple Workings of honest Nature , as she had never
+seen any such , she could know but little of them .
+FIELDING1-1749-1,2,7.118
+
+By means of this wonderful Sagacity , Mrs. <font> Western <$$font> had
+now , as she thought , made a Discovery of something in the Mind of
+<font> Sophia <$$font> . FIELDING1-1749-1,2,7.119
+
+The first Hint of this she took from the Behaviour of the young Lady in
+the Field of Battle ; FIELDING1-1749-1,2,7.120
+
+and the Suspicion which she then conceived , was greatly corroborated by
+some Observations which she had made that Evening , and the next Morning
+. FIELDING1-1749-1,2,7.121
+
+However , being greatly cautious to avoid being found in a Mistake , she
+carried the Secret a <P_2,8> whole Fortnight in her Bosom , giving only
+some oblique Hints , by Simpering , Winks , Nods , and now and then
+dropping an obscure Word , which indeed sufficiently alarmed <font>
+Sophia <$$font> , but did not at all affect her Brother .
+FIELDING1-1749-1,2,8.122
+
+Being at length , however , thoroughly satisfied of the Truth of her
+Observation , she took an Opportunity , one Morning , when she was alone
+with her Brother , to interrupt one of his Whistles in the following
+Manner . FIELDING1-1749-1,2,8.123
+
+' Pray , Brother , have you not observed something very extraordinary in
+my Niece lately ? ' FIELDING1-1749-1,2,8.124
+
+' No , not I , ' answered <font> Western <$$font> ;
+FIELDING1-1749-1,2,8.125
+
+Is anything the matter with the Girl ? ' FIELDING1-1749-1,2,8.126
+
+' I think there is , ' replies she , ' and something of much Consequence
+too . ' FIELDING1-1749-1,2,8.127
+
+' Why , she doth not complain of any Thing , '
+{COM:moved_close_quote_from_after_"Western"} cries <font> Western
+<$$font> , FIELDING1-1749-1,2,8.128
+
+' and she hath had the Small_Pox . ' FIELDING1-1749-1,2,8.129
+
+' Brother , ' returned she , ' girls are liable to other Distempers
+besides the Small_Pox , and sometimes possibly to much worse . '
+FIELDING1-1749-1,2,8.130
+
+Here <font> Western <$$font> interrupted her with much Earnestness ,
+FIELDING1-1749-1,2,8.131
+
+and begged her , if any thing ailed his Daughter , to acquaint him
+immediately ; adding , ' she knew he loved her more than his own Soul ,
+and that he would send to the World's End for the best Physician to her
+. ' FIELDING1-1749-1,2,8.132
+
+' Nay , nay , ' answered she , smiling , ' the Distemper is not so
+terrible ; FIELDING1-1749-1,2,8.133
+
+but I believe , Brother , you are convinced I know the World ,
+FIELDING1-1749-1,2,8.134
+
+and I promise you I was never more deceived in my Life , if my Niece be
+not most desperately in Love . ' FIELDING1-1749-1,2,8.135
+
+' How ! in Love ! ' cries <font> Western <$$font> , in a Passion ;
+FIELDING1-1749-1,2,8.136
+
+' in Love , without acquainting me ! FIELDING1-1749-1,2,8.137
+
+I@ @'ll disinherit her ; FIELDING1-1749-1,2,8.138
+
+I@ @'ll turn her out of Doors , stark naked , without a Farthing .
+FIELDING1-1749-1,2,8.139
+
+Is all my Kindness vor 'ur , and vondness o'@ @ur <P_2,9> come to this ,
+to fall in Love without asking me Leave ? ' FIELDING1-1749-1,2,9.140
+
+' But you will not , ' answered Mrs. <font> Western <$$font> , ' turn
+this Daughter , whom you love better than your own Soul , out of Doors ,
+before you know whether you shall approve her Choice .
+FIELDING1-1749-1,2,9.141
+
+Suppose she should have fixed on the very Person whom you yourself would
+wish , FIELDING1-1749-1,2,9.142
+
+I hope you would not be angry then ? ' FIELDING1-1749-1,2,9.143
+
+' No , no , ' cries <font> Western <$$font> , ' that would make a
+Difference . FIELDING1-1749-1,2,9.144
+
+If she marries the Man I would ha' her , she may love whom she pleases ,
+FIELDING1-1749-1,2,9.145
+
+I sha@ @n't trouble my Head about that . ' FIELDING1-1749-1,2,9.146
+
+' That is spoken , ' answered the Sister , ' like a sensible Man ,
+FIELDING1-1749-1,2,9.147
+
+but I believe the very Person she hath chosen would be the very Person
+you would chuse for her . FIELDING1-1749-1,2,9.148
+
+I will disclaim all Knowledge of the World , if it is not so ;
+FIELDING1-1749-1,2,9.149
+
+and I believe , Brother , you will allow I have some . '
+FIELDING1-1749-1,2,9.150
+
+' Why , look@ @ee , Sister , ' said <font> Western <$$font> , ' I do
+believe you have as much as any Woman ; FIELDING1-1749-1,2,9.151
+
+and to be sure those are Women's Matters . FIELDING1-1749-1,2,9.152
+
+You know I do@ @n't love to hear you talk about Politics ;
+FIELDING1-1749-1,2,9.153
+
+they belong to us , FIELDING1-1749-1,2,9.154
+
+and Petticoats should not meddle : FIELDING1-1749-1,2,9.155
+
+but come , Who is the Man ? ' FIELDING1-1749-1,2,9.156
+
+' Marry ! ' said she , ' you may find him out yourself , if you please
+. FIELDING1-1749-1,2,9.157
+
+You , who are so great a Politician , can be at no great Loss .
+FIELDING1-1749-1,2,9.158
+
+The Judgment which can penetrate into the Cabinets of Princes , and
+discover the secret Springs which move the great State Wheels in all the
+political Machines of <font> Europe <$$font> , must surely , with very
+little Difficulty , find out what passes in the rude uninformed Mind of
+a Girl . ' FIELDING1-1749-1,2,9.159
+
+' Sister , ' cries the Squire , ' I have often warned you not to talk
+the Court Gibberish to me . FIELDING1-1749-1,2,9.160
+
+I tell you , I do@ @n't understand the Lingo ; but I can read a Journal
+, <P_2,10> or the <font> London Evening Post . <$$font>
+FIELDING1-1749-1,2,10.161
+
+Perhaps , indeed , there may be now and then {TEXT:tan} a Verse which I
+ca@ @n't make much of , because half the Letters are left out ;
+FIELDING1-1749-1,2,10.162
+
+yet I know very well what is meant by that , and that our Affairs do@
+@n't go so well as they should do , because of Bribery and Corruption .
+' FIELDING1-1749-1,2,10.163
+
+' I pity your Country Ignorance from my Heart , ' cries the Lady .
+FIELDING1-1749-1,2,10.164
+
+' Do you ? ' answered <font> Western <$$font> ;
+FIELDING1-1749-1,2,10.165
+
+' and I pity your Town Learning ; FIELDING1-1749-1,2,10.166
+
+I had rather be anything than a Courtier , and a Presbyterian , and a
+Hanoverian too , as some people , I believe , are . '
+FIELDING1-1749-1,2,10.167
+
+' If you mean me , ' answered she , ' you know I am a Woman , Brother ;
+FIELDING1-1749-1,2,10.168
+
+and it signifies nothing what I am . FIELDING1-1749-1,2,10.169
+
+Besides - {COM:missing_close_quote} FIELDING1-1749-1,2,10.170
+
+' I do know you are a Woman , ' cries the Squire ,
+FIELDING1-1749-1,2,10.171
+
+' and it@ @'s well for thee , that art {TEXT:at} one ;
+FIELDING1-1749-1,2,10.172
+
+if hadst been a Man , I promise thee I had lent thee a <font> Flick
+<$$font> long ago . ' FIELDING1-1749-1,2,10.173
+
+' Ay there , ' said she , ' in that <font> Flick <$$font> lies all your
+fancied Superiority . FIELDING1-1749-1,2,10.174
+
+Your Bodies , and not your Brains , are stronger than ours .
+FIELDING1-1749-1,2,10.175
+
+Believe me , it is well for you that you are able to beat us ;
+FIELDING1-1749-1,2,10.176
+
+or , such is the Superiority of our Understanding , we should make all
+of you what the brave , and wise , and witty , and polite are already ,
+- our Slaves . ' FIELDING1-1749-1,2,10.177
+
+' I am glad I know your Mind , ' answered the Squire .
+FIELDING1-1749-1,2,10.178
+
+' But we@ @'ll talk more of this Matter another Time .
+FIELDING1-1749-1,2,10.179
+
+At present , do tell me what Man is it you mean about my Daughter ? '
+FIELDING1-1749-1,2,10.180
+
+' Hold a Moment , ' said she , ' while I digest that sovereign Contempt
+I have for your Sex ; or else I ought to be too angry with you .
+FIELDING1-1749-1,2,10.181
+
+There - I have made a Shift to gulp it down . FIELDING1-1749-1,2,10.182
+
+And now , good politic Sir , what think you of Mr. <font> Blifil
+<$$font> ? FIELDING1-1749-1,2,10.183
+
+Did she not faint away on seeing him lie breathless on the Ground ?
+FIELDING1-1749-1,2,10.184
+
+Did she not , <P_2,11> after he was recovered , turn pale again the
+Moment we came up to that Part of the Field where he stood ?
+FIELDING1-1749-1,2,11.185
+
+And pray what else should be the Occasion of all her Melancholy that
+Night at Supper , the next Morning , and indeed ever since ? '
+FIELDING1-1749-1,2,11.186
+
+' 'Fore <font> George <$$font> ! ' cries the Squire ,
+FIELDING1-1749-1,2,11.187
+
+' now you mind me on@ @'t , I remember it all .
+FIELDING1-1749-1,2,11.188
+
+It is certainly so , FIELDING1-1749-1,2,11.189
+
+and I am glad on@ @'t with all my Heart . FIELDING1-1749-1,2,11.190
+
+I knew <font> Sophy <$$font> was a good Girl , and would not fall in
+Love to make me angry . FIELDING1-1749-1,2,11.191
+
+I was never more rejoiced in my Life ; FIELDING1-1749-1,2,11.192
+
+for nothing can lie so handy together as our two Estates .
+FIELDING1-1749-1,2,11.193
+
+I had this Matter in my Head some Time ago : FIELDING1-1749-1,2,11.194
+
+for certainly the two Estates are in a Manner joined together in
+Matrimony already , FIELDING1-1749-1,2,11.195
+
+and it would be a_thousand Pities to part them .
+FIELDING1-1749-1,2,11.196
+
+It is true , indeed , there be larger Estates in the Kingdom , but not
+in this County , FIELDING1-1749-1,2,11.197
+
+and I had rather bate something , than marry my Daughter among Strangers
+and Foreigners . FIELDING1-1749-1,2,11.198
+
+Besides , most o' zuch great Estates be in the Hands of Lords ,
+FIELDING1-1749-1,2,11.199
+
+and I heate the very name of <font> themmun <$$font> .
+FIELDING1-1749-1,2,11.200
+
+Well but , Sister , what would you advise me to do :
+FIELDING1-1749-1,2,11.201
+
+For I tell you Women know these Matters better than we do ? '
+FIELDING1-1749-1,2,11.202
+
+' Oh , your humble Servant , Sir , ' answered the lady :
+FIELDING1-1749-1,2,11.203
+
+' we are obliged to you for allowing us a Capacity in any Thing .
+FIELDING1-1749-1,2,11.204
+
+Since you are pleased , then , most politic Sir , to ask my Advice , I
+think you may propose the Match to <font> Allworthy <$$font> yourself .
+FIELDING1-1749-1,2,11.205
+
+There is no Indecorum in the Proposal's coming from the Parent of either
+Side . FIELDING1-1749-1,2,11.206
+
+King <font> Alcinous <$$font> , in Mr. <font> Pope <$$font> 's Odyssey
+, offers his Daughter to <font> Ulysses <$$font> .
+FIELDING1-1749-1,2,11.207
+
+I need not caution so politic a Person not to say that your Daughter is
+in Love ; FIELDING1-1749-1,2,11.208
+
+that would indeed be against all <P_2,12> rules . '
+FIELDING1-1749-1,2,12.209
+
+' Well , ' said the Squire , ' I will propose it ;
+FIELDING1-1749-1,2,12.210
+
+but I shall certainly lend un a <font> Flick <$$font> , if he should
+refuse me . ' FIELDING1-1749-1,2,12.211
+
+' Fear not , ' cries Mrs. <font> Western <$$font> ;
+FIELDING1-1749-1,2,12.212
+
+' the Match is too advantageous to be refused . '
+FIELDING1-1749-1,2,12.213
+
+' I do@ @n't know that , ' answered the Squire :
+FIELDING1-1749-1,2,12.214
+
+' Allworthy is a queer B-ch , FIELDING1-1749-1,2,12.215
+
+and Money hath no Effect o'@ @un . ' FIELDING1-1749-1,2,12.216
+
+' Brother , ' said the Lady , ' your Politics astonish me .
+FIELDING1-1749-1,2,12.217
+
+Are you really to be imposed on by Professions ?
+FIELDING1-1749-1,2,12.218
+
+Do you think Mr. <font> Allworthy <$$font> hath more Contempt for Money
+than other Men because he professes more ? FIELDING1-1749-1,2,12.219
+
+Such Credulity would better become one of us weak Women , than that wise
+Sex which Heaven hath formed for Politicians .
+FIELDING1-1749-1,2,12.220
+
+Indeed , Brother , you would make a fine Plenipo to negotiate with the
+<font> French <$$font> . FIELDING1-1749-1,2,12.221
+
+They would soon persuade you , that they take Towns out of mere
+defensive Principles . ' FIELDING1-1749-1,2,12.222
+
+' Sister , ' answered the Squire , with much Scorn , ' let your Friends
+at Court answer for the Towns taken ; FIELDING1-1749-1,2,12.223
+
+as you are a Woman , I shall lay no Blame upon you :
+FIELDING1-1749-1,2,12.224
+
+For I suppose they are wiser than to trust Women with Secrets . '
+FIELDING1-1749-1,2,12.225
+
+He accompanied this with so sarcastical a Laugh , that Mrs. <font>
+Western <$$font> could bear no longer . FIELDING1-1749-1,2,12.226
+
+She had been all this Time fretted in a tender Part
+FIELDING1-1749-1,2,12.227
+
+<paren> for she was indeed very deeply skilled in these matters , and
+very violent in them <$$paren> , FIELDING1-1749-1,2,12.228
+
+and therefore , burst forth in a Rage , FIELDING1-1749-1,2,12.229
+
+declared her Brother to be both a Clown and a Blockhead , and that she
+would stay no longer in his House . FIELDING1-1749-1,2,12.230
+
+The Squire , tho' perhaps he had never read <font> Machiavel <$$font> ,
+was , however , in many Points , a perfect Politician .
+FIELDING1-1749-1,2,12.231
+
+He strongly held all those wise Tenets , which are so well inculcated in
+that Politico-Peripatetic school of <font> Exchange-Alley <$$font> .
+FIELDING1-1749-1,2,12.232
+
+<P_2,13>
+
+He knew the just Value and only Use of Money , <font> viz. <$$font> to
+lay it up . FIELDING1-1749-1,2,13.234
+
+He was likewise well skilled in the exact Value of Reversions ,
+Expectations , <font> &c. <$$font> FIELDING1-1749-1,2,13.235
+
+and had often considered the Amount of his Sister's Fortune , and the
+Chance which he or his Posterity had of inheriting it .
+FIELDING1-1749-1,2,13.236
+
+This he was infinitely too wise to sacrifice to a trifling Resentment .
+FIELDING1-1749-1,2,13.237
+
+When he found , therefore , he had carried Matters too far , he began to
+think of reconciling them ; which was no very difficult Task , as the
+Lady had great Affection for her Brother , and still greater for her
+Niece ; and tho' too susceptible of an Affront offered to her skill In
+Politics , on which she much valued herself , was a Woman of a very
+extraordinary good and sweet Disposition . FIELDING1-1749-1,2,13.238
+
+Having first , therefore , laid violent Hands on the Horses , for whose
+Escape from the Stable no place but the Window was left open ; he next
+applied himself to his Sister ; FIELDING1-1749-1,2,13.239
+
+softened and soothed her , by unsaying all he had said , and by
+Assertions directly contrary to those which had incensed her .
+FIELDING1-1749-1,2,13.240
+
+Lastly , he summoned the Eloquence of <font> Sophia <$$font> to his
+Assistance , who , besides a most graceful and winning Address , had the
+Advantage of being heard with great Favour and Partiality by her Aunt .
+FIELDING1-1749-1,2,13.241
+
+The Result of the whole was a kind Smile from Mrs. <font> Western
+<$$font> , who said , ' Brother , you are absolutely a perfect <font>
+Croat <$$font> ; FIELDING1-1749-1,2,13.242
+
+but as those have their use in the Army of the Empress Queen , so you
+likewise have some good in you . FIELDING1-1749-1,2,13.243
+
+I will therefore once more sign a Treaty of Peace with you ,
+FIELDING1-1749-1,2,13.244
+
+and see that you do not infringe it on your Side ;
+FIELDING1-1749-1,2,13.245
+
+at least , as you are so excellent a Politician , I may expect you will
+<P_2,14> keep your leagues , like the <font> French <$$font> , till your
+Interest calls upon you to break them . ' FIELDING1-1749-1,2,14.246
+
+<heading>
+
+{COM:BOOK_6} Chap. III . FIELDING1-1749-1,2,14.248
+
+<font> Containing two defiances to the critics . <$$font>
+FIELDING1-1749-1,2,14.249
+
+<$$heading>
+
+The Squire having settled matters with his Sister , as we have seen in
+the last Chapter , was so greatly impatient to communicate the Proposal
+to <font> Allworthy <$$font> , that Mrs. <font> Western <$$font> had
+the utmost Difficulty to prevent him from visiting that Gentleman in his
+Sickness , for this Purpose . FIELDING1-1749-1,2,14.251
+
+Mr. <font> Allworthy <$$font> had been engaged to dine with Mr. <font>
+Western <$$font> at the Time when he was taken ill .
+FIELDING1-1749-1,2,14.252
+
+He was , therefore , no sooner discharged out of the Custody of Physic ,
+but he thought <paren> as was usual with him on all Occasions , both the
+highest and the lowest <$$paren> of fulfilling his Engagement .
+FIELDING1-1749-1,2,14.253
+
+In the Interval between the Time of the Dialogue in the last Chapter ,
+and this Day of public Entertainment , <font> Sophia <$$font> had , from
+certain obscure Hints thrown out by her Aunt , collected some
+Apprehension that the sagacious Lady suspected her Passion for <font>
+Jones <$$font> . FIELDING1-1749-1,2,14.254
+
+She now resolved to take this Opportunity of wiping out all such
+Suspicion , and for that Purpose to put an entire Constraint on her
+Behaviour . FIELDING1-1749-1,2,14.255
+
+First , she endeavoured to conceal a throbbing melancholy Heart with the
+utmost Sprightliness in her Countenance , and the highest Gaiety in her
+Manner . FIELDING1-1749-1,2,14.256
+
+Secondly , she addressed her whole Discourse to Mr. <font> Blifil
+<$$font> , FIELDING1-1749-1,2,14.257
+
+and took not the least Notice of poor <font> Jones <$$font> the whole
+Day . FIELDING1-1749-1,2,14.258
+
+The Squire was so delighted with this Conduct of his Daughter , that he
+scarce eat any <P_2,15> Dinner , and spent almost his whole Time in
+watching Opportunities of conveying Signs of his Approbation by Winks
+and Nods to his Sister ; who was not at first altogether so pleased with
+what she saw as was her Brother . FIELDING1-1749-1,2,15.259
+
+In short , <font> Sophia <$$font> so greatly overacted her Part , that
+her Aunt was at first staggered , and began to suspect some Affectation
+in her Niece ; FIELDING1-1749-1,2,15.260
+
+but as she was herself a Woman of great Art , so she soon attributed
+this to extreme Art in <font> Sophia <$$font> .
+FIELDING1-1749-1,2,15.261
+
+She remembered the many Hints she had given her Niece concerning her
+being in Love , FIELDING1-1749-1,2,15.262
+
+and imagined the young Lady had taken this Way to rally her out of her
+Opinion , by an overacted Civility : a Notion that was greatly
+corroborated by the excessive Gaiety with which the whole was
+accompanied . FIELDING1-1749-1,2,15.263
+
+We can@ @not here avoid remarking , that this Conjecture would have been
+better founded had <font> Sophia <$$font> lived ten years in the Air of
+<font> Grosvenor-Square <$$font> , where young Ladies do learn a
+wonderful Knack of rallying and playing with that Passion , which is a
+mighty serious Thing in Woods and Groves an_hundred Miles distant from
+<font> London <$$font> . FIELDING1-1749-1,2,15.264
+
+To say the Truth , in discovering the Deceit of others , it matters much
+that our own Art be wound up , if I may use the Expression , in the same
+Key with theirs : FIELDING1-1749-1,2,15.265
+
+For very artful Men sometimes miscarry by fancying others wiser , or ,
+in other Words , greater Knaves , than they really are .
+FIELDING1-1749-1,2,15.266
+
+As this Observation is pretty deep , I will illustrate it by the
+following short Story . FIELDING1-1749-1,2,15.267
+
+Three Countrymen were pursuing a <font> Wiltshire <$$font> Thief through
+<font> Brentford <$$font> . FIELDING1-1749-1,2,15.268
+
+The simplest of them seeing the <font> Wiltshire House <$$font> written
+under a Sign , advised his Companions to enter it ,
+FIELDING1-1749-1,2,15.269
+
+for there most probably <P_2,16> they would find their Countryman .
+FIELDING1-1749-1,2,16.270
+
+The second , who was wiser , laughed at this Simplicity ;
+FIELDING1-1749-1,2,16.271
+
+but the third , who was wiser still , answered , ' Let us go in ,
+however , FIELDING1-1749-1,2,16.272
+
+for he may think we should not suspect him of going amongst his own
+Countrymen . ' FIELDING1-1749-1,2,16.273
+
+They accordingly went in FIELDING1-1749-1,2,16.274
+
+and searched the House , FIELDING1-1749-1,2,16.275
+
+and by that Means missed overtaking the Thief , who was , at that Time ,
+but a little way before them ; and who , as they all knew , but had
+never once reflected , could not read . FIELDING1-1749-1,2,16.276
+
+The Reader will pardon a Digression in which so invaluable a Secret is
+communicated , since every Gamester will agree how necessary it is to
+know exactly the Play of another , in order to countermine him .
+FIELDING1-1749-1,2,16.277
+
+This will , moreover , afford a Reason why the wiser Man , as is often
+seen , is the Bubble of the weaker , and why many simple and innocent
+Characters are so generally misunderstood and misrepresented ;
+FIELDING1-1749-1,2,16.278
+
+but what is most material , this will account for the Deceit which
+<font> Sophia <$$font> put on her politic Aunt .
+FIELDING1-1749-1,2,16.279
+
+Dinner being ended , and the Company retired into the garden , Mr.
+<font> Western <$$font> , who was thoroughly convinced of the Certainty
+of what his Sister had told him , took Mr. <font> Allworthy <$$font>
+aside , FIELDING1-1749-1,2,16.280
+
+and very bluntly proposed a Match between <font> Sophia <$$font> and
+young Mr. <font> Blifil <$$font> . FIELDING1-1749-1,2,16.281
+
+Mr. <font> Allworthy <$$font> was not one of those Men whose Hearts
+flutter at any unexpected and sudden tidings of worldly Profit .
+FIELDING1-1749-1,2,16.282
+
+His Mind was , indeed , tempered with that Philosophy which becomes a
+Man and a Christian . FIELDING1-1749-1,2,16.283
+
+He affected no absolute Superiority to all Pleasure and Pain , to all
+Joy And grief ; FIELDING1-1749-1,2,16.284
+
+but was not at the same time to be discomposed and ruffled by every
+accidental <P_2,17> Blast ; by every Smile or Frown of Fortune .
+FIELDING1-1749-1,2,17.285
+
+He received , therefore , Mr. <font> Western <$$font> 's Proposal
+without any visible Emotion , or without any Alteration of Countenance .
+FIELDING1-1749-1,2,17.286
+
+He said the Alliance was such as he sincerely wished ;
+FIELDING1-1749-1,2,17.287
+
+then launched forth into a very just Encomium on the young Lady's Merit
+; FIELDING1-1749-1,2,17.288
+
+acknowledged the Offer to be advantageous in Point of Fortune ;
+FIELDING1-1749-1,2,17.289
+
+and after thanking Mr. <font> Western <$$font> for the good Opinion he
+had professed of his Nephew , concluded , that if the young People liked
+each other , he should be very desirous to complete the Affair .
+FIELDING1-1749-1,2,17.290
+
+<font> Western <$$font> was a little disappointed at Mr. <font>
+Allworthy <$$font> 's Answer , which was not so warm as he expected .
+FIELDING1-1749-1,2,17.291
+
+He treated the Doubt whether the young People might like one another
+with great Contempt , saying , ' That Parents were the best Judges of
+proper Matches for their Children : that , for his Part , he should
+insist on the most resigned Obedience from his Daughter : and if any
+young Fellow could refuse such a Bedfellow , he was his humble Servant ,
+and hoped there was no Harm done . ' FIELDING1-1749-1,2,17.292
+
+<font> Allworthy <$$font> endeavoured to soften this Resentment by many
+Eulogiums {TEXT:Elogiums} on <font> Sophia <$$font> , declaring , he had
+no doubt but that Mr. <font> Blifil <$$font> would very gladly receive
+the Offer ; FIELDING1-1749-1,2,17.293
+
+but all was ineffectual ; FIELDING1-1749-1,2,17.294
+
+he could obtain no other Answer from the Squire but - ' I say no more -
+FIELDING1-1749-1,2,17.295
+
+I humbly hope there@ @'s no Harm done - FIELDING1-1749-1,2,17.296
+
+that@ @'s all . ' FIELDING1-1749-1,2,17.297
+
+Which Words he repeated at least , a_Hundred times before they parted .
+FIELDING1-1749-1,2,17.298
+
+<font> Allworthy <$$font> was too well acquainted with his Neighbour to
+be offended at this Behaviour ; FIELDING1-1749-1,2,17.299
+
+and tho' he was so averse to the Rigour which some Parents exercise on
+their Children in the Article <P_2,18> of Marriage , that he had
+resolved never to force his Nephew's Inclinations , he was nevertheless
+much pleased with the Prospect of this Union : FIELDING1-1749-1,2,18.300
+
+For the whole Country resounded the Praises of <font> Sophia <$$font> ,
+FIELDING1-1749-1,2,18.301
+
+and he had himself greatly admired the uncommon Endowments of both her
+Mind and Person . To which , I believe we may add , the Consideration
+of her vast Fortune , which , tho' he was too sober to be intoxicated
+with it , he was too sensible to despise . FIELDING1-1749-1,2,18.302
+
+And here , in Defiance of all the barking Critics in the World , I must
+and will introduce a Digression concerning true Wisdom , of which Mr.
+<font> Allworthy <$$font> was in Reality as great a Pattern as he was of
+Goodness . FIELDING1-1749-1,2,18.303
+
+True Wisdom then , notwithstanding all which Mr. <font> Hogarth
+<$$font> 's poor Poet may have writ against Riches , and in Spite of all
+which any rich well-fed Divine may have preached against Pleasure ,
+consists not in the Contempt of either of these .
+FIELDING1-1749-1,2,18.304
+
+A Man may have as much Wisdom in the Possession of an affluent Fortune ,
+as any Beggar in the Streets ; FIELDING1-1749-1,2,18.305
+
+or may enjoy a handsome Wife or a hearty Friend , and still remain as
+wise as any sour Popish Recluse , who buries all his social Faculties ,
+and starves his Belly while he well lashes his Back .
+FIELDING1-1749-1,2,18.306
+
+To say Truth , the wisest Man is the likeliest to possess all worldly
+Blessings in an eminent Degree : FIELDING1-1749-1,2,18.307
+
+For as that Moderation which Wisdom prescribes is the surest Way to
+useful Wealth ; so can it alone qualify us to taste many Pleasures .
+FIELDING1-1749-1,2,18.308
+
+The wise Man gratifies every Appetite and every Passion , while the Fool
+sacrifices all the rest to pall and satiate one .
+FIELDING1-1749-1,2,18.309
+
+<P_2,19>
+
+It may be objected , That very wise Men have been notoriously avaricious
+. FIELDING1-1749-1,2,19.311
+
+I answer , Not in that Instance . FIELDING1-1749-1,2,19.312
+
+It may likewise be said , That the wisest men have been in their Youth ,
+immoderately fond of Pleasure . FIELDING1-1749-1,2,19.313
+
+I answer , They were not wise then . FIELDING1-1749-1,2,19.314
+
+Wisdom , in short , whose Lessons have been represented as so hard to
+learn by those who never were at her School , teaches us only to extend
+a simple Maxim universally known and followed even in the lowest Life ,
+a little farther than that Life carries it . FIELDING1-1749-1,2,19.315
+
+And this is not to buy at too dear a Price . FIELDING1-1749-1,2,19.316
+
+Now , whoever takes this Maxim abroad with him into the grand Market of
+the World , and constantly applies it to Honours , to Riches , to
+Pleasures , and to every other Commodity which that Market affords , is
+, I will venture to affirm , a wise Man ; FIELDING1-1749-1,2,19.317
+
+and must be so acknowledged in the worldly Sense of the Word :
+FIELDING1-1749-1,2,19.318
+
+For he makes the best of Bargains , since in Reality he purchases every
+Thing at the Price only of a little Trouble , and carries home all the
+good Things I have mentioned , while he keeps his Health , his Innocence
+, and his Reputation , the common Prices which are paid for them by
+others , entire and to himself . FIELDING1-1749-1,2,19.319
+
+From this Moderation , likewise , he learns two other Lessons , which
+complete his Character . First , never to be intoxicated when he hath
+made the best Bargain , nor dejected when the Market is empty , or when
+its Commodities are too dear for his Purchase .
+FIELDING1-1749-1,2,19.320
+
+But I must remember on what Subject I am writing , and not trespass too
+far on the Patience <P_2,20> of a good-natured Critic .
+FIELDING1-1749-1,2,20.321
+
+Here , therefore , I put an End to the Chapter .
+FIELDING1-1749-1,2,20.322
+
+<P_3,5>
+
+<heading>
+
+{COM:BOOK_10} Chap. II . FIELDING1-1749-1,3,5.325
+
+<font> Containing the Arrival of an <$$font> Irish <font> Gentleman ,
+with very extraordinary Adventures which ensued at the Inn . <$$font>
+FIELDING1-1749-1,3,5.326
+
+<$$heading>
+
+Now the little trembling Hare , which the Dread of all her numerous
+Enemies , and chiefly of that cunning , cruel , carnivorous Animal Man ,
+had confined all the Day to her Lurking-place , sports wantonly o'er the
+Lawns : FIELDING1-1749-1,3,5.328
+
+Now on some hollow Tree the Owl , shrill Chorister of the Night , hoots
+forth Notes which might charm the Ears of some modern Connoisseurs in
+Music : FIELDING1-1749-1,3,5.329
+
+Now , in the Imagination of the half-drunk Clown , as he staggers
+through the Church-yard , or rather Charnel-yard , to his Home , Fear
+paints the bloody Hobgoblin ; FIELDING1-1749-1,3,5.330
+
+Now Thieves and Ruffians are awake , and honest Watchmen fast asleep :
+FIELDING1-1749-1,3,5.331
+
+In plain <font> English <$$font> , it was now Midnight ;
+FIELDING1-1749-1,3,5.332
+
+and the Company at the Inn , as well those who have been already
+mentioned in this History , as some others who arrived in the Evening ,
+were all in Bed . FIELDING1-1749-1,3,5.333
+
+<font> Susan <$$font> Chambermaid was now only stirring , she being
+obliged to wash the Kitchen before she retired to the Arms of the fond
+expecting Ostler . FIELDING1-1749-1,3,5.334
+
+In this Posture were Affairs at the Inn when a Gentleman arrived there
+Post . FIELDING1-1749-1,3,5.335
+
+He immediately alighted from his Horse , FIELDING1-1749-1,3,5.336
+
+and , coming up to <font> Susan <$$font> , enquired of her , in a very
+abrupt and confused Manner , being almost out of Breath with <P_3,6>
+Eagerness , whether there was any Lady in the House ?
+FIELDING1-1749-1,3,6.337
+
+The Hour of Night , and the Behaviour of the Man , who stared very
+wildly all the Time , a little surprized <font> Susan <$$font> , so that
+she hesitated before she made any Answer : Upon which the Gentleman ,
+with redoubled Eagerness , begged her to give him a true Information ,
+saying , He had lost his Wife , and was come in Pursuit of her .
+FIELDING1-1749-1,3,6.338
+
+' Upon my Shoul {COM:missing_close_quote} , cries he ,
+{COM:missing_open_quote} I have been near catching her already in two or
+three Places , if I had not found her gone just as I came up with her .
+FIELDING1-1749-1,3,6.339
+
+If she be in the House , do carry me up in the Dark and shew her to me ;
+and if she be gone away before me , do tell me which Way I shall go
+after her to meet her , and , upon my Shoul , I will make you the
+richest poor Woman in the Nation . ' FIELDING1-1749-1,3,6.340
+
+He then pulled out a Handful of Guineas , a Sight which would have
+bribed Persons of much greater Consequence than this poor Wench to much
+worse Purposes . FIELDING1-1749-1,3,6.341
+
+<font> Susan <$$font> , from the Account she had received of Mrs.
+<font> Waters <$$font> , made not the least Doubt but that she was the
+very identical Stray whom the right Owner pursued .
+FIELDING1-1749-1,3,6.342
+
+As she concluded , therefore , with great Appearance of Reason , that
+she never could get Money in an honester Way than by restoring a Wife to
+her Husband , she made no Scruple of assuring the Gentleman that the
+Lady he wanted was then in the House , FIELDING1-1749-1,3,6.343
+
+and was presently afterward prevailed upon <paren> by very liberal
+Promises , and some Earnest paid into her Hands <$$paren> to conduct him
+to the Bed-chamber of Mrs. <font> Waters <$$font> .
+FIELDING1-1749-1,3,6.344
+
+It hath been a Custom long established in the polite World , and that
+upon very solid and substantial <P_3,7> Reasons , that a Husband shall
+never enter his Wife's Apartment without first knocking at the Door .
+FIELDING1-1749-1,3,7.345
+
+The many excellent Uses of this Custom need scarce be hinted to a Reader
+who hath any Knowledge of the World : FIELDING1-1749-1,3,7.346
+
+For by this Means the Lady hath Time to adjust herself , or to remove
+any disagreeable Object out of the Way ; FIELDING1-1749-1,3,7.347
+
+for there are some Situations , in which nice and delicate Women would
+not be discovered by their Husbands . FIELDING1-1749-1,3,7.348
+
+To say the Truth , there are several Ceremonies instituted among the
+polished part of Mankind , which , tho' they may , to coarser Judgments
+, appear as Matters of mere Form , are found to have much of Substance
+in them , by the more discerning ; FIELDING1-1749-1,3,7.349
+
+and lucky would it have been , had the Custom abovementioned been
+observed by our Gentleman in the present Instance .
+FIELDING1-1749-1,3,7.350
+
+Knock , indeed , he did at the Door , but not with one of those gentle
+Raps which is usual on such Occasions . FIELDING1-1749-1,3,7.351
+
+On the contrary , when he found the Door locked , he flew at it with
+such Violence , that the Lock immediately gave Way , the Door burst open
+, and he fell headlong into the Room . FIELDING1-1749-1,3,7.352
+
+He had no sooner recovered his Legs , than forth from the Bed , upon his
+Legs likewise , appeared - with Shame and Sorrow are we obliged to
+proceed - our Heroe himself , who , with a menacing Voice , demanded of
+the Gentleman who he was , and what he meant by daring to burst open his
+Chamber in that outrageous Manner . FIELDING1-1749-1,3,7.353
+
+The Gentleman at first thought he had committed a Mistake ,
+FIELDING1-1749-1,3,7.354
+
+and was going to ask Pardon and retreat , when , on a sudden , as the
+Moon <P_3,8> shone very bright , he cast his Eyes on Stays , Gowns ,
+Petticoats , Caps , Ribbons , Stockings , Garters , Shoes , Clogs ,
+<font> &c. <$$font> all which lay in a disordered Manner on the Floor .
+FIELDING1-1749-1,3,8.355
+
+All these , operating on the natural Jealousy of his Temper , so enraged
+him , that he lost all Power of Speech ; FIELDING1-1749-1,3,8.356
+
+and , without returning any Answer to <font> Jones <$$font> , he
+endeavoured to approach the Bed . FIELDING1-1749-1,3,8.357
+
+<font> Jones <$$font> immediately interposing , a fierce Contention
+arose , which soon proceeded to Blows on both Sides .
+FIELDING1-1749-1,3,8.358
+
+And now Mrs. <font> Waters <$$font> <paren> for we must confess she was
+in the same Bed <$$paren> being , I suppose , awakened from her Sleep ,
+and seeing two Men fighting in her Bedchamber , began to scream in the
+most violent Manner , crying out Murder ! Robbery ! and more
+frequently Rape ! which last , some , perhaps , may wonder she should
+mention , who do not consider that these Words of Exclamation are used
+by Ladies in a Fright , as Fa , la , la , ra , da , <font> &c. <$$font>
+are in Music , only as the Vehicles of Sound , and without any fixed
+Ideas . FIELDING1-1749-1,3,8.359
+
+Next to the Lady's Chamber was deposited the Body of an <font> Irish
+<$$font> Gentleman , who arrived too late at the Inn to have been
+mentioned before . FIELDING1-1749-1,3,8.360
+
+This Gentleman was one of those whom the <font> Irish <$$font> call a
+Calabalaro , or Cavalier . FIELDING1-1749-1,3,8.361
+
+He was a younger Brother of a good Family , FIELDING1-1749-1,3,8.362
+
+and , having no Fortune at Home , was obliged to look abroad in order to
+get one : For which purpose he was proceeding to the <font> Bath
+<$$font> , to try his Luck with Cards and the Women .
+FIELDING1-1749-1,3,8.363
+
+This young Fellow lay in Bed reading one of Mrs. <font> Behn <$$font>
+'s Novels ; FIELDING1-1749-1,3,8.364
+
+for he had been instructed by a Friend , that he would find no more
+effectual Method of recommending himself to the Ladies than the
+improving his Understanding , and filling <P_3,9> his Mind with good
+Literature . FIELDING1-1749-1,3,9.365
+
+He no sooner , therefore , heard the violent Uproar in the next Room ,
+than he leapt from his Bolster , FIELDING1-1749-1,3,9.366
+
+and , taking his Sword in one Hand , and the Candle which burnt by him
+in the other , he went directly to Mrs. <font> Waters <$$font> 's
+Chamber . FIELDING1-1749-1,3,9.367
+
+If the Sight of another Man in his Shirt at first added some Shock to
+the Decency of the Lady , it made her presently Amends by considerably
+abating her Fears ; FIELDING1-1749-1,3,9.368
+
+for no sooner had the Calabalaro enter'd the Room , than he cry'd out ,
+' Mr. <font> Fitzpatrick <$$font> , what the Devil is the <font> Maning
+<$$font> of this ? ' Upon which the other immediately answered , ' O ,
+Mr. <font> Maclachlan <$$font> , I am rejoiced you are here ,
+FIELDING1-1749-1,3,9.369
+
+- This Villain hath debauched my Wife , FIELDING1-1749-1,3,9.370
+
+and is got into bed with her . ' FIELDING1-1749-1,3,9.371
+
+- ' What Wife ? ' cries <font> Maclachlan <$$font> ,
+FIELDING1-1749-1,3,9.372
+
+' do not I know Mrs. <font> Fitzpatrick <$$font> very well ,
+FIELDING1-1749-1,3,9.373
+
+and do@ @n't I see that the Lady , whom the Gentleman who stands here in
+his Shirt is lying in Bed with , is none of her ? '
+FIELDING1-1749-1,3,9.374
+
+<font> Fitzpatrick <$$font> , now perceiving , as well by the Glimpse he
+had of the Lady , as by her Voice , which might have been distinguished
+at a greater Distance than he now stood from her , that he had made a
+very unfortunate Mistake , began to ask many Pardons of the Lady ;
+FIELDING1-1749-1,3,9.375
+
+and then , turning to <font> Jones <$$font> , he said , ' I would have
+you take Notice I do not ask your Pardon , FIELDING1-1749-1,3,9.376
+
+for you have <font> bate <$$font> me ; for which I am resolved to have
+your Blood in the Morning . ' FIELDING1-1749-1,3,9.377
+
+<font> Jones <$$font> treated this Menace with much Contempt ;
+FIELDING1-1749-1,3,9.378
+
+and Mr. <font> Maclachlan <$$font> answered , ' Indeed , Mr. <font>
+Fitzpatrick <$$font> , you may be ashamed of your ownself , to disturb
+People at this Time of Night : FIELDING1-1749-1,3,9.379
+
+If all the People in the Inn were not <P_3,10> asleep , you would have
+awakened them as you have me . FIELDING1-1749-1,3,10.380
+
+The Gentleman has served you very rightly . FIELDING1-1749-1,3,10.381
+
+Upon my Conscience , tho' I have no Wife , if you had treated her so , I
+would have cut your Throat . ' FIELDING1-1749-1,3,10.382
+
+<font> Jones <$$font> was so confounded with his fears for his Lady's
+Reputation , that he knew neither what to say or do ;
+FIELDING1-1749-1,3,10.383
+
+but the Invention of Women is , as hath been observed , much readier
+than that of Men . FIELDING1-1749-1,3,10.384
+
+She recollected that there was a Communication between her Chamber and
+that of Mr. <font> Jones <$$font> ; FIELDING1-1749-1,3,10.385
+
+relying , therefore , on his Honour and her own Assurance , she answered
+, ' I know not what you mean , Villains ! FIELDING1-1749-1,3,10.386
+
+I am Wife to none of you . FIELDING1-1749-1,3,10.387
+
+Help ! FIELDING1-1749-1,3,10.388
+
+Rape ! FIELDING1-1749-1,3,10.389
+
+Murder ! FIELDING1-1749-1,3,10.390
+
+Rape ! ' FIELDING1-1749-1,3,10.391
+
+- And now , the Landlady coming into the Room , Mrs. <font> Waters
+<$$font> fell upon her with the utmost Virulence , saying , ' She
+thought herself in a sober Inn , and not in a Bawdy-House ; but that a
+Set of Villains had broke into her Room , with an Intent upon her Honour
+, if not upon her Life ; FIELDING1-1749-1,3,10.392
+
+and both , she said , were equally dear to her . '
+FIELDING1-1749-1,3,10.393
+
+The Landlady now began to roar as loudly as the poor Woman in Bed had
+done before . FIELDING1-1749-1,3,10.394
+
+She cry'd , ' She was undone , and that the Reputation of her House ,
+which was never blown upon before , was utterly destroyed . '
+FIELDING1-1749-1,3,10.395
+
+Then , turning to the Men , she cry'd , " What , in the Devil's Name ,
+is the Reason of all this Disturbance in the Lady's Room ? '
+FIELDING1-1749-1,3,10.396
+
+<font> Fitzpatrick <$$font> , hanging down his Head , repeated , ' that
+he had committed a Mistake , for which he heartily asked Pardon , '
+FIELDING1-1749-1,3,10.397
+
+and then retired with his Countryman . FIELDING1-1749-1,3,10.398
+
+<font> Jones <$$font> , who was too ingenious to have missed the Hint
+given him by his Fair One , boldly asserted , ' That he had run to her
+Assistance upon hearing <P_3,11> the Door broke open ; with what Design
+he could not conceive , unless of robbing the Lady ; which if they
+intended , he said , he had had the good Fortune to prevent . '
+FIELDING1-1749-1,3,11.399
+
+' I never had a Robbery committed in my House since I have kept it , '
+cries the Landlady : FIELDING1-1749-1,3,11.400
+
+' I wou'd have you to know , Sir , I harbour no Highwaymen here ;
+FIELDING1-1749-1,3,11.401
+
+I scorn the Word , thof {COM:sic} I say it . FIELDING1-1749-1,3,11.402
+
+None but honest , good Gentlefolks , are welcome to my House ;
+FIELDING1-1749-1,3,11.403
+
+and , I thank good Luck , I have always had enow of such Customers ;
+indeed as many as I could entertain . FIELDING1-1749-1,3,11.404
+
+Here hath been my Lord - ' FIELDING1-1749-1,3,11.405
+
+and then she repeated over a Catalogue of Names and Titles , many of
+which we might , perhaps , be guilty of a Breach of Privilege by
+inserting . FIELDING1-1749-1,3,11.406
+
+<font> Jones <$$font> , after much Patience , at length interrupted her
+, by making an Apology to Mrs. <font> Waters <$$font> , for having
+appeared before her in his Shirt , assuring her ' That nothing but a
+Concern for her Safety could have prevailed on him to do it . '
+FIELDING1-1749-1,3,11.407
+
+The Reader may inform himself of her Answer , and , indeed , of her
+whole Behaviour to the End of the Scene , by considering the Situation
+which she affected , being that of a modest Lady , who was awakened out
+of her Sleep by three strange Men in her Chamber .
+FIELDING1-1749-1,3,11.408
+
+This was the Part which she undertook to perform ;
+FIELDING1-1749-1,3,11.409
+
+and , indeed , she executed it so well , that none of our Theatrical
+Actresses could exceed her , in any of their Performances , either on or
+off the Stage . FIELDING1-1749-1,3,11.410
+
+And hence , I think , we may very fairly draw an Argument , to prove how
+extremely natural Virtue is to the Fair Sex : FIELDING1-1749-1,3,11.411
+
+For , tho' there is not , perhaps , one in ten_thousand who is capable
+of making a good Actress , and even among these <P_3,12> we rarely see
+two who are equally able to personate the same Character ; yet this of
+Virtue they can all admirably well put on ; FIELDING1-1749-1,3,12.412
+
+and as well those Individuals who have it not , as those who possess it
+, can all act it to the utmost Degree of Perfection .
+FIELDING1-1749-1,3,12.413
+
+When the Men were all departed , Mrs. <font> Waters <$$font> ,
+recovering from her Fear , recovered likewise from her Anger ,
+FIELDING1-1749-1,3,12.414
+
+and spoke in much gentler Accents to the Landlady , who did not so
+readily quit her Concern for the Reputation of the House , in Favour of
+which she began again to number the many great Persons who had slept
+under her Roof ; FIELDING1-1749-1,3,12.415
+
+but the Lady stopt her short , FIELDING1-1749-1,3,12.416
+
+and having absolutely acquitted her of having had any Share in the past
+Disturbance , begged to be left to her Repose , which , she said , she
+hoped to enjoy unmolested during the Remainder of the Night . Upon
+which the Landlady , after much Civility and many Curt'sies , took her
+Leave . FIELDING1-1749-1,3,12.417
+
+<heading>
+
+{COM:BOOK_10} Chap. III . FIELDING1-1749-1,3,12.419
+
+<font> A dialogue between the landlady and <$$font> Susan <font> the
+Chambermaid , proper to be read by all Inn-keepers , and their Servants
+; with the Arrival , and affable Behaviour of a beautiful young Lady ;
+which may teach Persons of Condition how they may acquire the Love of
+the whole World . <$$font> FIELDING1-1749-1,3,12.420
+
+<$$heading>
+
+The Landlady remembering that <font> Susan <$$font> had been the only
+Person out of Bed when the Door was burst open , resorted presently to
+her , to enquire into the first Occasion of the Disturbance , as well as
+who the strange Gentleman was , and when and how he arrived .
+FIELDING1-1749-1,3,12.422
+
+<P_3,13>
+
+<font> Susan <$$font> related the whole Story which the Reader knows
+already , varying the Truth only in some Circumstances , as she saw
+convenient , and totally concealing the Money which she had received .
+FIELDING1-1749-1,3,13.424
+
+But whereas her Mistress had in the Preface to her Enquiry spoken much
+in Compassion for the Fright which the Lady had been in concerning any
+intended Depredations on her Virtue , <font> Susan <$$font> could not
+help endeavouring to quiet the Concern which her Mistress seemed to be
+under on that Account , by swearing heartily she saw <font> Jones
+<$$font> leap out from her Bed . FIELDING1-1749-1,3,13.425
+
+The Landlady fell into a violent Rage at these Words .
+FIELDING1-1749-1,3,13.426
+
+' A likely Story truly , ' cried she , ' that a Woman should cry out ,
+and endeavour to expose herself , if that was the Case !
+FIELDING1-1749-1,3,13.427
+
+I desire to know what better Proof any Lady can give of her Virtue than
+her crying out , which , I believe , twenty People can witness for her
+she did ? FIELDING1-1749-1,3,13.428
+
+I beg , Madam , you would spread no such Scandal of any of my Guests :
+FIELDING1-1749-1,3,13.429
+
+For it will not only reflect on them , but upon the House ;
+FIELDING1-1749-1,3,13.430
+
+and I am sure no Vagabonds , nor wicked beggarly People come here . '
+FIELDING1-1749-1,3,13.431
+
+' Well , ' says <font> Susan <$$font> , ' then I must not believe my own
+Eyes . ' FIELDING1-1749-1,3,13.432
+
+' No , indeed , must you not always , ' answered her Mistress ,
+FIELDING1-1749-1,3,13.433
+
+' I would not have believed my own Eyes against such good Gentlefolks .
+FIELDING1-1749-1,3,13.434
+
+I have not had a better Supper ordered this half Year than they ordered
+last Night , FIELDING1-1749-1,3,13.435
+
+and so easy and good-humoured were they , that they found no Fault with
+my <font> Worcestershire <$$font> Perry , which I sold them for <font>
+Champagne <$$font> ; FIELDING1-1749-1,3,13.436
+
+and to be sure it is as well_tasted and as wholesome as the best <font>
+Champagne <$$font> in the Kingdom , FIELDING1-1749-1,3,13.437
+
+otherwise I would scorn to give it <P_3,14> 'em ;
+FIELDING1-1749-1,3,14.438
+
+and they drank me {COM:construing_this_as_ethical_dative} two Bottles .
+FIELDING1-1749-1,3,14.439
+
+No , no , I will never believe any Harm of such sober good Sort of
+People . ' FIELDING1-1749-1,3,14.440
+
+<font> Susan <$$font> being thus silenced , her Mistress proceeded to
+other Matters . FIELDING1-1749-1,3,14.441
+
+' And so you tell me , ' continued she , ' that the strange Gentleman
+came Post , and there is a Footman without with the Horses ;
+FIELDING1-1749-1,3,14.442
+
+why then , he is certainly some of your great Gentlefolks too .
+FIELDING1-1749-1,3,14.443
+
+Why did not you ask him whether he@ @'d have any Supper ?
+FIELDING1-1749-1,3,14.444
+
+I think he is in the other Gentleman's Room ; FIELDING1-1749-1,3,14.445
+
+go up FIELDING1-1749-1,3,14.446
+
+and ask whether he called . FIELDING1-1749-1,3,14.447
+
+Perhaps he@ @'ll order something when he finds any Body stirring in the
+House to dress it . FIELDING1-1749-1,3,14.448
+
+Now do@ @n't commit any of your usual Blunders , by telling him the
+Fire@ @'s out , and the Fowls alive . FIELDING1-1749-1,3,14.449
+
+And if he should order Mutton , do@ @n't blab out , that we have none .
+FIELDING1-1749-1,3,14.450
+
+The Butcher , I know , killed a Sheep just before I went to Bed ,
+FIELDING1-1749-1,3,14.451
+
+and he never refuses to cut it up warm when I desire it .
+FIELDING1-1749-1,3,14.452
+
+Go , FIELDING1-1749-1,3,14.453
+
+remember there@ @'s all Sorts of Mutton and Fowls ;
+FIELDING1-1749-1,3,14.454
+
+go , FIELDING1-1749-1,3,14.455
+
+open the Door with , <font> Gentlemen , d'@ @ye call <$$font> ,
+FIELDING1-1749-1,3,14.456
+
+and if they say nothing , ask what his Honour will be pleased to have
+for Supper ? FIELDING1-1749-1,3,14.457
+
+Do@ @n't forget his Honour . FIELDING1-1749-1,3,14.458
+
+Go ; FIELDING1-1749-1,3,14.459
+
+if you do@ @n't mind all these Matters better , you@ @'ll never come to
+any Thing . ' FIELDING1-1749-1,3,14.460
+
+<font> Susan <$$font> departed , FIELDING1-1749-1,3,14.461
+
+and soon returned with an Account , that the two Gentlemen were got both
+into the same Bed . FIELDING1-1749-1,3,14.462
+
+' Two Gentlemen , ' says the Landlady , ' in the same Bed !
+FIELDING1-1749-1,3,14.463
+
+that@ @'s impossible , FIELDING1-1749-1,3,14.464
+
+they are two errant Scrubs , I warrant them , FIELDING1-1749-1,3,14.465
+
+and I believe young Squire <font> Allworthy <$$font> guessed right ,
+that the Fellow intended to rob her Ladyship : FIELDING1-1749-1,3,14.466
+
+For if he had broke open the Lady's Door with any of the wicked Designs
+of <P_3,15> a Gentleman , he would never have sneaked away to another
+Room to save the expense of a Supper and a Bed to himself .
+FIELDING1-1749-1,3,15.467
+
+They are certainly Thieves , FIELDING1-1749-1,3,15.468
+
+and their searching after a Wife is nothing but a Pretence . '
+FIELDING1-1749-1,3,15.469
+
+In these Censures , my Landlady did Mr. <font> Fitzpatrick <$$font>
+great Injustice ; FIELDING1-1749-1,3,15.470
+
+for he was really born a Gentleman , though not worth a Groat ;
+FIELDING1-1749-1,3,15.471
+
+and tho' , perhaps , he had some few Blemishes in his Heart as well as
+in his Head , yet being a sneaking , or a niggardly Fellow , was not one
+of them . FIELDING1-1749-1,3,15.472
+
+In reality , he was so generous a Man , that , whereas he had received a
+very handsome Fortune with his Wife , he had now spent every Penny of it
+, except some little Pittance which was settled upon her ;
+FIELDING1-1749-1,3,15.473
+
+and , in order to possess himself of this , he had used her with such
+Cruelty , that , together with his Jealousy , which was of the bitterest
+Kind , it had forced the poor Woman to run away from him .
+FIELDING1-1749-1,3,15.474
+
+This Gentleman then being well tired with his long Journey from <font>
+Chester <$$font> in one Day , with which , and some good dry Blows he
+had received in the Scuffle , his Bones were so sore , that added to the
+soreness of his Mind , it had quite deprived him of any Appetite for
+eating . And being now so violently disappointed in the Woman whom , at
+the Maid's Instance , he had mistaken for his Wife , it never once
+entered into his Head that she might nevertheless be in the House ,
+though he had erred in the first Person he had attacked .
+FIELDING1-1749-1,3,15.475
+
+He therefore yielded to the Dissuasions of his Friend from searching any
+farther after her that Night , FIELDING1-1749-1,3,15.476
+
+and accepted the kind Offer of Part of his Bed .
+FIELDING1-1749-1,3,15.477
+
+<P_3,16>
+
+The Footman and Post-Boy were in a different Disposition .
+FIELDING1-1749-1,3,16.479
+
+They were more ready to order than the Landlady was to provide ;
+FIELDING1-1749-1,3,16.480
+
+however , after being pretty well satisfied by them of the real Truth of
+the Case , and that Mr. <font> Fitzpatrick <$$font> was no Thief , she
+was at length prevailed on to set some cold Meat before them , which
+they were devouring with great Greediness , when <font> Partridge
+<$$font> came into the Kitchen . FIELDING1-1749-1,3,16.481
+
+He had been first awaked by the Hurry which we have before seen ,
+FIELDING1-1749-1,3,16.482
+
+and while he was endeavouring to compose himself again on his Pillow , a
+Screech-Owl had given him such a Serenade at his Window , that he leapt
+in a most horrible Affright from his Bed , FIELDING1-1749-1,3,16.483
+
+and , huddling on his Cloaths with great Expedition , ran down to the
+Protection of the Company , whom he heard talking below in the Kitchen .
+FIELDING1-1749-1,3,16.484
+

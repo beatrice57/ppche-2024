@@ -1,0 +1,1550 @@
+<BEGIN_whewell-1837-1>
+
+<P_5>
+
+<heading>
+
+Chapter I . WHEWELL-1837-1,5.4
+
+Of the Subjects of University Teaching . WHEWELL-1837-1,5.5
+
+Sect. 1 . WHEWELL-1837-1,5.6
+
+- Of the Distinction of Practical and Speculative Teaching .
+WHEWELL-1837-1,5.7
+
+<$$heading>
+
+There are two modes of teaching , which , in a general view , may be
+broadly distinguished from each other . WHEWELL-1837-1,5.9
+
+In the one mode the lecturer expounds to his audience the doctrines or
+results of some branch of knowledge , the speculations of antecedent
+philosophers , or his own , while the office of the audience is only to
+attend to him , to listen , to receive , think on , and treasure up what
+the speaker delivers , without being called upon themselves to take any
+active part ; without being required to produce , to test , or to apply
+the knowledge thus acquired . WHEWELL-1837-1,5.10
+
+In another mode of teaching , the learner has not merely to listen , but
+to do something himself ; not merely to receive , but to produce his
+knowledge : - as when the mathematical student proves the proposition
+which is enunciated by his teacher , or solves a problem proposed to him
+; - or when the classical scholar renders Horace or Thucydides into
+English . WHEWELL-1837-1,5.11
+
+The former I call <font> speculative <$$font> , the latter , <font>
+practical <$$font> teaching . WHEWELL-1837-1,5.12
+
+And I must beg the reader to recollect the manner in which I use these
+terms ; <P_6> namely , with reference to the <font> mode <$$font> of
+teaching , not the possible application of the <font> subject <$$font>
+taught . WHEWELL-1837-1,6.13
+
+It is because geometry is taught thus <font> practically <$$font> , and
+not because it is what is commonly called " practical knowledge , " that
+I designate the cultivation of geometry , in the manner which prevails
+in English Universities , as Practical Teaching . WHEWELL-1837-1,6.14
+
+In their marked forms , these two kinds of teaching are very clearly
+distinguished . WHEWELL-1837-1,6.15
+
+Lectures uncombined with any questions or practical demands on the
+learner , are familiar to us in our own Universities , in those of
+foreign lands , in the metropolis , and in the provinces ; as modes of
+treating of physics and metaphysics , geology and political economy ,
+taste and politics . WHEWELL-1837-1,6.16
+
+All such lectures I speak of as speculative teaching , since they are
+employed in delivering to the hearer the doctrine adopted by the teacher
+, in a speculative form . WHEWELL-1837-1,6.17
+
+Practical teaching , where the scholar , with voice , pen , or pencil ,
+follows the track pointed out to him , and is constantly brought back
+into it when he deviates , are still more familiar ; WHEWELL-1837-1,6.18
+
+for by this method we learn everything that , in the most peculiar sense
+, we learn at all . WHEWELL-1837-1,6.19
+
+It is by such a process that we become able to read , to write , to cast
+accounts , to translate Latin and Greek , to speak French and German ,
+to solve equations , to obtain our own results in the highest branches
+of mathematics . WHEWELL-1837-1,6.20
+
+The teaching of mothers and fathers , of schools , and a great part of
+the teaching of our English Universities , has hitherto been of this
+practical kind . WHEWELL-1837-1,6.21
+
+Now we may observe , that when we come to such branches of literature
+and science as are likely to be <P_7> selected for the matter of
+University teaching , some of these branches naturally and almost
+inevitably require to be taught practically , while others as clearly
+are more fitted for the speculative mode of teaching .
+WHEWELL-1837-1,7.22
+
+Languages and mathematics are of the former kind ; WHEWELL-1837-1,7.23
+
+but many of the sciences , and those especially which are wide and
+varied in their topics , which involve doubtful or newly-@ @established
+principles , of which the foundations are constantly undergoing changes
+, can hardly be taught otherwise than speculatively .
+WHEWELL-1837-1,7.24
+
+Such subjects are , for example , geology , political economy , and , as
+appears to me , metaphysics . WHEWELL-1837-1,7.25
+
+In such subjects as these , the student may listen , WHEWELL-1837-1,7.26
+
+and may acquire such knowledge as the teacher possesses ;
+WHEWELL-1837-1,7.27
+
+but he is not , and can@ @not be called upon , as a part of the teaching
+, to do something which depends on the knowledge thus acquired .
+WHEWELL-1837-1,7.28
+
+He may follow with the clearest apprehension , WHEWELL-1837-1,7.29
+
+and it may be , with full and well-founded conviction , the views which
+are presented to him by the teacher ; WHEWELL-1837-1,7.30
+
+but still he is passive only ; WHEWELL-1837-1,7.31
+
+he is a spectator , not an actor , in the intellectual scene .
+WHEWELL-1837-1,7.32
+
+He does not interpret and employ a peculiar acquired language , as he
+does in his classical reading , or his algebraical calculations .
+WHEWELL-1837-1,7.33
+
+What I have called practical teaching prevails in the Colleges of our
+English Universities . WHEWELL-1837-1,7.34
+
+A large portion of the teaching , in those institutions , has always
+consisted , as it still does , of exercises , in which the pupil
+translates his Greek or Latin author , proves his proposition , or
+solves his equation , in the hearing or under the eye of his tutor ; or
+answers interrogatories , <P_8> in which he has to produce the knowledge
+which he has acquired . WHEWELL-1837-1,8.35
+
+I believe this to have been the mode of teaching employed among us from
+the earliest times . WHEWELL-1837-1,8.36
+
+In that College , at least , of which I know most , such a method is
+enjoined in the statutes . WHEWELL-1837-1,8.37
+
+Disputations are to be constantly held in the chapel ; verses written
+and affixed in the hall ; WHEWELL-1837-1,8.38
+
+and the lecturers are to employ half an hour in expounding their author
+, but a whole hour in examining their class . WHEWELL-1837-1,8.39
+
+But besides these practical lectures , we have always had lectures of
+the speculative kind , delivered by the University professors .
+WHEWELL-1837-1,8.40
+
+Such lectures on history , morals , political economy , law , medicine ,
+anatomy , geology , botany , mineralogy , chemistry , the mechanical
+sciences , and other subjects , have constantly been going on in our
+Universities ; WHEWELL-1837-1,8.41
+
+and have , especially of late years , often excited very great attention
+. WHEWELL-1837-1,8.42
+
+We may , therefore , distinguish our practical and speculative teaching
+, as <font> college lectures <$$font> and <font> professorial lectures ;
+<$$font> WHEWELL-1837-1,8.43
+
+- and such a distinction corresponds to the phraseology commonly in use
+among us . WHEWELL-1837-1,8.44
+
+It may be said , that with professorial lectures examinations may be
+combined , and that such lectures may thus be converted into practical
+teaching . WHEWELL-1837-1,8.45
+
+Nor do I intend to deny that , under certain conditions , which I shall
+afterwards endeavour to determine , this effect may be produced .
+WHEWELL-1837-1,8.46
+
+But without now entering <P_9> into this subject , I trust that the main
+features of the distinction , which I am trying to point out , of the
+two kinds of teaching , are already sufficiently clear .
+WHEWELL-1837-1,9.47
+
+Now it must be observed that , though all branches of science and
+speculation , old and new , fixed and moveable , may be made the
+subjects of exposition in lectures , practical teaching is applicable
+only to a limited range of subjects ; - those , namely , in which
+principles having clear evidence and stable certainty , form the basis
+of our knowledge ; and in which , consequently , a distinct possession
+of the fundamental ideas enables a student to proceed to their
+applications , and to acquire the habit of applying them in every case
+with ease and rapidity . WHEWELL-1837-1,9.48
+
+The idea of space , of number , of the general relations of grammar and
+the force of language , are necessary and immutable parts of the
+furniture of the human mind . WHEWELL-1837-1,9.49
+
+And mathematics and languages , which are the development
+{TEXT:developement} and working of those ideas , can be practically
+taught , WHEWELL-1837-1,9.50
+
+for we can appeal to these ideas , and familiarize the mind with a
+series of vast and varied , yet certain consequences , to which they
+lead . WHEWELL-1837-1,9.51
+
+But when we come to the wider physical sciences , we can only present
+the facts as a matter of observation , and the speculation as dependent
+on the facts . WHEWELL-1837-1,9.52
+
+Here there is no room for acquiring habits of interpretation which can
+be tested by the teacher . WHEWELL-1837-1,9.53
+
+And in sciences which are not physical , as morals or metaphysics , the
+philosophy of history , or of taste , the instruction is still more
+inevitably of the speculative kind . WHEWELL-1837-1,9.54
+
+The teacher must be content to tell , and the learner to receive , what
+has been thought , <P_10> or ought to be thought , on these subjects .
+WHEWELL-1837-1,10.55
+
+He does not , by learning them , acquire a new faculty , which he must
+practically exercise . WHEWELL-1837-1,10.56
+
+Such subjects as I have just described , may , perhaps , without
+impropriety , be distinguished by the collective title of " philosophy ;
+" WHEWELL-1837-1,10.57
+
+and if this be allowed , it will , I think , appear , that <font>
+philosophy <$$font> is only fitted for speculative , as <font>
+mathematical and classical <$$font> studies are for practical , teaching
+. WHEWELL-1837-1,10.58
+
+In saying this , I do not at all profess to know , whether I am
+employing the term " philosophy , " in the sense attached to it by other
+persons , who may have written on the subject ; WHEWELL-1837-1,10.59
+
+but it may , I think , designate appropriately a large class of studies
+, all of which admit of the same mode of communication to the student .
+WHEWELL-1837-1,10.60
+
+In such studies , moreover , even if examinations be added to lectures ,
+they can hardly constitute a practical teaching ; WHEWELL-1837-1,10.61
+
+for in such instances , the knowledge which lectures convey , is either
+merely retained in the memory , WHEWELL-1837-1,10.62
+
+or is employed as material for further speculation by the student ,
+WHEWELL-1837-1,10.63
+
+and is not assimilated and converted into a practical habit of
+intellectual action . WHEWELL-1837-1,10.64
+
+Examinations , therefore , in these cases , may test the goodness of the
+memory , and the clearness of the apprehension or general faculties ;
+WHEWELL-1837-1,10.65
+
+and we may also conceive examinations of a higher kind , that call out
+the powers of original thought , and detect the activity of talent and
+genius . WHEWELL-1837-1,10.66
+
+But the trial of mere memory and clearheadedness is not practical
+teaching , in the same sense as the acquisition of a power of
+interpretation or calculation ; WHEWELL-1837-1,10.67
+
+and the higher kind of examination which we have mentioned , presupposes
+that practical teaching of <P_11> which we here speak ,
+WHEWELL-1837-1,11.68
+
+and is not to be confounded with it . WHEWELL-1837-1,11.69
+
+And thus , even with the addition of examinations on subjects of general
+philosophy , there will still remain , between those studies and the
+mathematical and classical pursuits of the English Universities , that
+difference which I describe by calling the former speculative teaching .
+WHEWELL-1837-1,11.70
+
+Thus the distinction of speculative and practical instruction , which at
+first sight appears to be a difference of the manner of teaching , is
+found , on examination , to imply a difference of the subjects taught .
+WHEWELL-1837-1,11.71
+
+When we have determined that we will teach practically , we have decided
+that we must lecture , not on philosophy , not on metaphysics or
+speculative morals , or political economy , but on subjects of a
+different kind ; - on the works of Greek and Latin authors ; - the
+properties of space and number ; - the laws of motion and force .
+WHEWELL-1837-1,11.72
+
+Of course , I mean only , that <font> so far <$$font> as we teach
+practically , we must select such subjects . WHEWELL-1837-1,11.73
+
+Nothing prevents us , and as I have said , we have not been prevented ,
+from giving , in addition to our college courses , professorial lectures
+on all the other subjects which I have mentioned . WHEWELL-1837-1,11.74
+
+But it is not on that account the less important to my purpose , to keep
+the consideration of the two kinds of study distinct .
+WHEWELL-1837-1,11.75
+
+It is obvious also , that , in many cases , the same subject admits of
+being dealt with in both ways . WHEWELL-1837-1,11.76
+
+We may not only ascertain that our pupils can translate Sophocles ,
+WHEWELL-1837-1,11.77
+
+but we may present to them the widest speculative views at which critics
+have arrived , <P_12> respecting the history and structure of the Greek
+language , or the Greek drama . WHEWELL-1837-1,12.78
+
+We may enter into discussions respecting the metaphysical grounds of the
+axioms of geometry , the processes of algebra , the laws of motion .
+WHEWELL-1837-1,12.79
+
+Such speculations and discussions are of the highest interest and value
+; WHEWELL-1837-1,12.80
+
+but it is easy to see that they are something in addition to the
+teaching of Greek and mathematics . WHEWELL-1837-1,12.81
+
+They add immensely to the value of the practical acquisition of language
+and mathematical habits , WHEWELL-1837-1,12.82
+
+but they presuppose the acquisition ; WHEWELL-1837-1,12.83
+
+and when these philosophical views are substituted for the practical
+instruction , they are altogether empty and valueless as means of
+education . WHEWELL-1837-1,12.84
+
+But I do not here insist upon this point . WHEWELL-1837-1,12.85
+
+In the present section , my object was to distinguish the two systems ,
+before I compared them . WHEWELL-1837-1,12.86
+
+Trusting that the distinction is now sufficiently clear , I proceed to
+the comparison . WHEWELL-1837-1,12.87
+
+And this I shall consider with reference to such points as these : - the
+effect on the intellectual and on the moral character of those who are
+educated , and on the general progress of national culture and
+civilisation . WHEWELL-1837-1,12.88
+
+<heading>
+
+Sect. 2 . WHEWELL-1837-1,12.90
+
+- Of the Effect of Practical Teaching on the Intellectual Habits .
+WHEWELL-1837-1,12.91
+
+<$$heading>
+
+The advantages which belong to the study of mathematics , as an
+intellectual discipline , have been often stated by various persons .
+WHEWELL-1837-1,12.93
+
+I may repeat language which I have already used : - WHEWELL-1837-1,12.94
+
+" In mathematics , the student is rendered familiar with the <P_13> most
+perfect examples of strict inference ; compelled habitually to fix his
+attention on those conditions on which the cogency of the demonstration
+depends ; WHEWELL-1837-1,13.95
+
+and , in the mistaken or imperfect attempts at demonstration made by
+himself or others , he is presented with examples of the most natural
+fallacies , which he sees exposed and corrected . "
+WHEWELL-1837-1,13.96
+
+My Edinburgh reviewer expressed a wish , that these latter " novel
+assertions had been explained and exemplified ; " WHEWELL-1837-1,13.97
+
+and obviously , was really at a loss to understand them , although they
+refer to the daily occurrences of the lecture-room .
+WHEWELL-1837-1,13.98
+
+This is a curious proof how entirely practical teaching is lost sight of
+, amid the speculations of his school . WHEWELL-1837-1,13.99
+
+I may observe , too , as I have done elsewhere , that reasoning , as a
+practical habit , is taught with peculiar advantage by mathematics ,
+because we are , in that study , concerned with long chains of reasoning
+, in which each link hangs from all the preceding .
+WHEWELL-1837-1,13.100
+
+" The language contains a constant succession of short and rapid
+references to what has been proved already ; WHEWELL-1837-1,13.101
+
+and it is justly assumed , that each of these brief movements helps the
+reasoner forwards in a course of infallible certainty and security .
+WHEWELL-1837-1,13.102
+
+Each of these hasty glances must possess the clearness of intuitive
+evidence , and the certainty of mature reflection :
+WHEWELL-1837-1,13.103
+
+and yet must leave the reasoner's mind entirely free to turn instantly
+to the next point of his progress . WHEWELL-1837-1,13.104
+
+The faculty of performing <P_14> such processes well and readily , is of
+great value ; " WHEWELL-1837-1,14.105
+
+and this faculty can hardly be acquired and cultivated in any other way
+, than by the study of mathematics . WHEWELL-1837-1,14.106
+
+I shall not pursue the consideration of the beneficial intellectual
+influence of mathematical studies . WHEWELL-1837-1,14.107
+
+It would be easy to point out circumstances , which show that this
+influence has really operated ; - for instance , the extraordinary
+number of persons , who , after giving more than the common attention to
+mathematical studies at the University , have afterwards become eminent
+as English lawyers . WHEWELL-1837-1,14.108
+
+It would be easy , also , to gather together a " cloud of witnesses , "
+who have spoken with admiration and enthusiasm of mathematics as a
+discipline of the mind . WHEWELL-1837-1,14.109
+
+But this would be a very idle mode of treating the subject ;
+WHEWELL-1837-1,14.110
+
+for it might be possible also , to adduce a large bulk of testimony on
+the other side . WHEWELL-1837-1,14.111
+
+And what could be inferred from this array of cloud against cloud ?
+WHEWELL-1837-1,14.112
+
+Except we can get some clear insight into the subject ourselves , we can
+never know whether the authors we adduce , are not speaking from views
+as vague and confused as our own . WHEWELL-1837-1,14.113
+
+When any one will point out any other study , as a mode of <font>
+practically teaching <$$font> reasoning , which he maintains to be
+preferable to mathematics , we may be tempted to make the comparison ;
+WHEWELL-1837-1,14.114
+
+but this has not been done , so far as I know . WHEWELL-1837-1,14.115
+
+It may be said , that mathematical reasoning is but one kind of
+reasoning , and that the study and practice of this alone , ought not to
+be spoken of as the cultivation of the reasoning power in general .
+WHEWELL-1837-1,14.116
+
+To this , I reply , that <P_15> the faculty of reasoning , <font> so far
+as it can be disciplined by practical teaching <$$font> , receives such
+a discipline from mathematical study . WHEWELL-1837-1,15.117
+
+If , for instance , any one says , " Why do you not cultivate the habit
+of <font> inductive <$$font> as well as of <font> deductive <$$font>
+reasoning ? " I answer , that the only cultivation of which inductive
+reasoning admits , is that which is supplied by deductive reasoning .
+WHEWELL-1837-1,15.118
+
+For when we collect a new truth by induction from facts , what is the
+process of our minds ? WHEWELL-1837-1,15.119
+
+We acquire a new and distinct view , WHEWELL-1837-1,15.120
+
+or hit upon a right supposition ; WHEWELL-1837-1,15.121
+
+and we perceive that , in the consequences of our new notions , the
+observed facts are included . WHEWELL-1837-1,15.122
+
+The former part of this process , the new and true idea suited to the
+emergency , the happy guess , no teaching can give the student .
+WHEWELL-1837-1,15.123
+
+All that we can do is , to fix the idea when he has it , and to teach
+him to test his hypothesis by tracing its consequences .
+WHEWELL-1837-1,15.124
+
+And this , the cultivation of deductive habits does .
+WHEWELL-1837-1,15.125
+
+We can@ @not teach men to invent new truths ; WHEWELL-1837-1,15.126
+
+we can@ @not even give them the power of guessing a riddle .
+WHEWELL-1837-1,15.127
+
+But those who have been inventors , have always had , not only that
+native fertility of mind which no education can bestow , but also a
+talent of clearly and rapidly applying their newly-sprung thoughts , in
+which half their power consisted , and which is precisely that faculty
+which mathematical habits may improve . WHEWELL-1837-1,15.128
+
+And the distinctness of the fundamental ideas , a state of thought
+essential alike to sound reasoning from old truths , and to the
+discovery of new , is not unprovided for by the study of mathematics ;
+WHEWELL-1837-1,15.129
+
+for though deductive habits do not <font> give <$$font> distinct
+fundamental ideas <P_16> they <font> demand <$$font> them ;
+WHEWELL-1837-1,16.130
+
+and , by the constant appeal to such ideas , they fix and develop
+{TEXT:develope} them . WHEWELL-1837-1,16.131
+
+A perception of the truth of mathematical axioms can@ @not be conveyed
+into the mind by reasoning ; WHEWELL-1837-1,16.132
+
+but still , the mathematical reasoner usually sees more clearly than
+other men , the necessary truth of his axioms . WHEWELL-1837-1,16.133
+
+Other persons may have the idea of space , as well as the geometer ; -
+the idea of force and matter , as well as the mechanician ;
+WHEWELL-1837-1,16.134
+
+but these ideas shine with a clearer and steadier light in the minds of
+those who constantly work by such lamps , and therefore , carefully tend
+and trim them . WHEWELL-1837-1,16.135
+
+Since the study of mathematics is thus useful , not only in teaching
+habits of deduction , which are exemplified in its proofs , but also in
+leading men to the distinct ideas which are expressed in its definitions
+and axioms , we learn a lesson respecting the kind of mathematics which
+we may most advantageously introduce in our education .
+WHEWELL-1837-1,16.136
+
+For since those clear ideas upon which the several mathematical sciences
+depend are a valuable mental possession , both on their own account ,
+and as examples of such a class of elements of truth , we ought not to
+be content with one or two such ideas and their consequences ,
+WHEWELL-1837-1,16.137
+
+but should introduce the student to a wider range of mathematical proof
+. WHEWELL-1837-1,16.138
+
+We shall thus succeed best in repressing the evil consequences which
+might arise from confining ourselves to one kind of reasoning .
+WHEWELL-1837-1,16.139
+
+We ought , therefore , to include in our course , not <P_17> only pure
+mathematical sciences , geometry , arithmetic , and algebra , the
+consequences of the fundamental ideas of space , number , and quantity ;
+WHEWELL-1837-1,17.140
+
+but we ought also to admit the consequences of other ideas , which lead
+to rigorous mathematical sciences , such as the ideas of pressure and
+matter , of rigidity and fluidity , of velocity and force ; of which
+ideas , the developments {TEXT:developements} are found in the sciences
+of Mechanics and Hydrostatics . WHEWELL-1837-1,17.141
+
+This maxim I have already urged , in a former publication on this
+subject . WHEWELL-1837-1,17.142
+
+And I rejoice to say , that a recent alteration in the examinations of
+the University of Cambridge , by which certain portions of Mechanics and
+Hydrostatics are introduced into the lower Examinations for Degrees ,
+has made our system , what appears to me , on the grounds just stated ,
+a better intellectual education than it was before .
+WHEWELL-1837-1,17.143
+
+I shall not here dwell upon the intellectual effect of the practical
+teaching of Greek and Latin , but proceed to consider the effect of the
+two systems of instruction in another point of view .
+WHEWELL-1837-1,17.144
+
+<heading>
+
+Sect. 3 . WHEWELL-1837-1,17.146
+
+- Of the Effect of Practical and Speculative Teaching on the Progress of
+Civilisation . WHEWELL-1837-1,17.147
+
+<$$heading>
+
+If I were to begin by asserting that the progress of civilisation is
+essentially connected with the prevalent education , the assertion would
+probably be assented to ; WHEWELL-1837-1,17.149
+
+but at the same time , it would probably also be understood in so
+general and indistinct a manner , that no real use could be made of it
+in our argument . WHEWELL-1837-1,17.150
+
+<P_18>
+
+The connexion is , indeed , generally acknowledged ;
+WHEWELL-1837-1,18.152
+
+for instance , Dr. Diesterweg's pamphlet , in which he so deeply
+deplores the present diseased condition of the German Universities ,
+<paren> a subject which has recently excited much remark in that country
+, <$$paren> is entitled , " The Vital Question of Civilisation . "
+WHEWELL-1837-1,18.153
+
+But some definite statement of the nature of this connexion is requisite
+, in order to enable us to draw any inferences from it .
+WHEWELL-1837-1,18.154
+
+The subject is far too large to be treated generally here ;
+WHEWELL-1837-1,18.155
+
+but there is one view of it to which I hope I shall obtain the reader's
+assent . WHEWELL-1837-1,18.156
+
+Among the elements and indications of civilisation , I think it will be
+allowed that a faculty of <font> speculative <$$font> thought forms a
+leading point . WHEWELL-1837-1,18.157
+
+Such a faculty , and its habitual exercise , forms a main distinction
+between the most refined and the rudest nations ; as , in a broader
+sense , it does between man and lower animals . WHEWELL-1837-1,18.158
+
+For even the brutes have <font> practical <$$font> powers of thought ;
+WHEWELL-1837-1,18.159
+
+they have a practical notion of space and force ; a practical sense of
+things good and bad , of things which they may and which they may not do
+; WHEWELL-1837-1,18.160
+
+but man alone has a geometry and a mechanics , an idea of happiness and
+of a moral law . WHEWELL-1837-1,18.161
+
+And the clearness of the ideas which speculation requires and uses , is
+one of the most essential features of the progress of intellectual
+refinement . WHEWELL-1837-1,18.162
+
+This appears in matters , which at first seem trivial , as , for
+instance , in the importance attached to correct speaking and writing .
+WHEWELL-1837-1,18.163
+
+Why is it that a false spelling or wrong accent in our <P_19> own
+language , is considered a mark of a vulgar , or , at least , unpolished
+, mind ? WHEWELL-1837-1,19.164
+
+Why is it that a false quantity , or a false concord , is looked upon
+with horror by the thorough scholar , as something offensive and
+ridiculous ? WHEWELL-1837-1,19.165
+
+Why is it that men are more angry at being accused of bad reasoning than
+of erroneous opinions ? WHEWELL-1837-1,19.166
+
+Clearly because all these faults imply an incomplete and ill-conducted
+cultivation of the speculative faculty , in reference to language or to
+reasoning . WHEWELL-1837-1,19.167
+
+The errors may be trifling , WHEWELL-1837-1,19.168
+
+but they seem to disclose faults of intellectual training :
+WHEWELL-1837-1,19.169
+
+they are , in the world of literature and thought , what violations of
+good breeding are in manners . WHEWELL-1837-1,19.170
+
+A single fault of grammar may betray a want of perception of the analogy
+of language ; WHEWELL-1837-1,19.171
+
+a single fault of logic may show that the speaker has no distinct
+apprehension of the force of demonstration ; WHEWELL-1837-1,19.172
+
+and when this judgment is formed of him , he immediately sinks below
+that point of cultivation and connexion of thought , which those who so
+judge of him have reached . WHEWELL-1837-1,19.173
+
+He is less cultured than they . WHEWELL-1837-1,19.174
+
+He is less refined in his intellectual character , because he is less
+distinct and connected in his intellectual habits .
+WHEWELL-1837-1,19.175
+
+And thus we have , in the common judgments of mankind , an evidence that
+they consider distinctness and clearness of the speculative faculty as
+one of the elements of civilisation . WHEWELL-1837-1,19.176
+
+But we may take a larger view . WHEWELL-1837-1,19.177
+
+Probably all persons will acknowledge , that those nations by whom great
+advances in knowledge are made , and among whom such advances are widely
+diffused and well understood , have the pre-eminence in civilisation .
+WHEWELL-1837-1,19.178
+
+<P_20>
+
+Great scientific discoveries , along with a general national interest
+and intelligence respecting such matters , are circumstances peculiar to
+the most highly cultured times . WHEWELL-1837-1,20.180
+
+Now this consideration will lead us by a different road to the same
+element of civilisation which we have already pointed out .
+WHEWELL-1837-1,20.181
+
+For by a history of each of the sciences in succession , I have proved ,
+I hope satisfactorily , that their progress depends upon the
+distinctness of certain fundamental ideas ; and that these ideas , being
+first clearly brought into view by the genius of great discoverers ,
+become afterwards the inheritance of all who thoroughly acquire the
+knowledge which is thus made accessible . WHEWELL-1837-1,20.182
+
+In highly cultured nations , a large portion of society will thus attend
+to the progress of knowledge ; so as to obtain a just view , at least of
+the general nature of the treasures which are thus placed within their
+reach , and of the triumphs which their intellectual leaders have
+achieved . WHEWELL-1837-1,20.183
+
+And thus we are again brought to the principle , that distinct
+speculative ideas generally diffused , are an essential part of our
+conception of civilisation . WHEWELL-1837-1,20.184
+
+Having reached this point , we have to inquire whether practical or
+speculative teaching , distinguished as in the preceding section , be
+the best instrument for that kind of culture on which civilisation thus
+depends . WHEWELL-1837-1,20.185
+
+I do not think it would be difficult to show , from general
+considerations , that it is only by the practical teaching of
+mathematics , that <P_21> the fundamental ideas of science can become
+distinct among men in general . WHEWELL-1837-1,21.186
+
+But a more interesting mode of deciding this point will be , to look
+back at the history of the world ; WHEWELL-1837-1,21.187
+
+for the whole history of the world has been one grand experiment on this
+subject . WHEWELL-1837-1,21.188
+
+Let us take a general view of the result . WHEWELL-1837-1,21.189
+
+Our question is , whether practical or speculative teaching most
+promotes civilisation ; which question , as we have seen , may be
+decided , by inquiring whether an education in <font> mathematics
+<$$font> , or in general <font> philosophy <$$font> , is most favourable
+to the progress of science , and to the general diffusion of the
+knowledge which this progress brings . WHEWELL-1837-1,21.190
+
+A rapid survey of the history of education , with this view , will repay
+us . WHEWELL-1837-1,21.191
+
+Of the Greek education , up to the time of Plato , we know enough to be
+able to assert , that it was in the main practical teaching .
+WHEWELL-1837-1,21.192
+
+The " music " <paren> {COM:greek_omitted} <$$paren> which constituted
+the principal part of this , was taught unquestionably in a practical
+manner ; WHEWELL-1837-1,21.193
+
+and if the occasion admitted , it might be shown , both from the
+elements which it included , and from the way in which it was conducted
+, that it had nearly the same effect that the practical teaching of
+mathematics has , in giving distinctness to the ideas , - independently
+of its other and collateral influences . WHEWELL-1837-1,21.194
+
+But in the time of Aristophanes , a change took place in the instruction
+of the Greek youth . WHEWELL-1837-1,21.195
+
+The sophists and philosophers were extraordinarily admired and followed
+; WHEWELL-1837-1,21.196
+
+and to acquire an acquaintance with their doctrines and systems came
+<P_22> to be considered as the most essential part of a liberal
+education . WHEWELL-1837-1,22.197
+
+This was still more the case among the Romans , when they attempted to
+take a place among cultivated nations . WHEWELL-1837-1,22.198
+
+Their youth listened to what " Chrysippus and Crantor taught , "
+WHEWELL-1837-1,22.199
+
+and were thus supposed to be filled with all learning .
+WHEWELL-1837-1,22.200
+
+The study of <font> philosophy <$$font> , in the general sense , that is
+, of the moral , metaphysical , and physical doctrines of the framers of
+universal systems , was , as we know , the highest conception of the
+Greeks and Romans in their aims at intellectual culture , till
+civilisation itself sickened and declined . WHEWELL-1837-1,22.201
+
+It was so , too , among the Neoplatonists , the schoolmen , the
+theologians of the middle ages ; till in the monasteries there again
+grew up a method of practical teaching from which the system of the
+English universities had its origin . WHEWELL-1837-1,22.202
+
+Such is the course of education ; WHEWELL-1837-1,22.203
+
+now what is the corresponding course of knowledge ?
+WHEWELL-1837-1,22.204
+
+The answer is well worth notice . WHEWELL-1837-1,22.205
+
+<font> The progress of science corresponds to the time of practical
+teaching ; WHEWELL-1837-1,22.206
+
+the stationary , or retrograde , period of science , is the period when
+philosophy was the instrument of education . <$$font>
+WHEWELL-1837-1,22.207
+
+At the time of Plato , the Greek education had been for a long period
+virtually mathematical ; a fact , of which the very term <font>
+mathematics <$$font> is the record . WHEWELL-1837-1,22.208
+
+At that time the greatest scientific discovery of the ancient world , -
+the resolution of celestial phenomena into circular motions , - was
+caught sight of by Plato , and soon after fully brought out by
+Hipparchus . WHEWELL-1837-1,22.209
+
+At a similar stage of Greek culture , although at a later time and
+<P_23> in a different country , the science of mechanics was established
+by Archimedes , on foundations fitted to endure to eternity .
+WHEWELL-1837-1,23.210
+
+What might have been the history of civilisation if the Greek education
+had continued to be practically mathematical , we can@ @not tell .
+WHEWELL-1837-1,23.211
+
+Speaking according to human views of probability , perhaps the Greeks
+might , in that case , have anticipated the discoveries of modern times
+by a_thousand years ; WHEWELL-1837-1,23.212
+
+and the places of Galileo , and Kepler , and Newton , might have been
+preoccupied by citizens of Athens and Alexandria .
+WHEWELL-1837-1,23.213
+
+But the speculative study of philosophy prevailed .
+WHEWELL-1837-1,23.214
+
+From that time no material advance was made in science .
+WHEWELL-1837-1,23.215
+
+What great men had already taught mankind , was perverted or forgotten
+by their degenerate followers . WHEWELL-1837-1,23.216
+
+The schools of the philosophers resounded with systems old and new ,
+with wranglings and boastings ; WHEWELL-1837-1,23.217
+
+but this availed not to urge on the intellectual progress of man , or
+even to prevent his sliding backwards . WHEWELL-1837-1,23.218
+
+The simple geometrical conceptions of the school of Plato were debased
+and weighed down by a cumbrous apparatus of crystalline spheres .
+WHEWELL-1837-1,23.219
+
+The mechanical truths brought to light by Archimedes , were , like his
+tomb , overgrown with the rank and unprofitable vegetation of later days
+, till they were lost sight of ; and were not resumed and pursued till
+a_thousand years , and half a second thousand , had elapsed .
+WHEWELL-1837-1,23.220
+
+It is a manifest mistake to ascribe the decay of science to the
+incursions of the northern nations . WHEWELL-1837-1,23.221
+
+Science was dead , and literature mortally smitten , before the external
+pressure was felt . WHEWELL-1837-1,23.222
+
+But the study of speculative philosophy , as the business <P_24> of
+cultured men , survived . WHEWELL-1837-1,24.223
+
+Still the intellectual world grew darker and darker .
+WHEWELL-1837-1,24.224
+
+" Light after light goes out , WHEWELL-1837-1,24.225
+
+and all is night . " WHEWELL-1837-1,24.226
+
+In vain do the schoolmen of the middle ages build system upon system ,
+as the schoolmen of Athens and Alexandria had done before .
+WHEWELL-1837-1,24.227
+
+The centuries roll on , WHEWELL-1837-1,24.228
+
+and bring no day . WHEWELL-1837-1,24.229
+
+But in the mean time the religious orders have established among
+themselves a system of practical teaching . WHEWELL-1837-1,24.230
+
+They introduce mathematics into their course with especial attention .
+WHEWELL-1837-1,24.231
+
+The principle of progress is soon felt to be again at work .
+WHEWELL-1837-1,24.232
+
+A Franciscan friar lifts up his voice against the sway of Aristotle ,
+WHEWELL-1837-1,24.233
+
+and points to the far-off temple of science , declaring that <font>
+mathematics <$$font> is its gate and its key . WHEWELL-1837-1,24.234
+
+His announcement is found to be true . WHEWELL-1837-1,24.235
+
+From the like mathematical schools proceed the luminaries of a new dawn
+, - WHEWELL-1837-1,24.236
+
+Copernicus , Galileo , Kepler , Newton , are the founders of a fresh era
+of knowledge , because they are well-trained mathematicians .
+WHEWELL-1837-1,24.237
+
+The universities of Europe assume a form in which such a training goes
+on ; WHEWELL-1837-1,24.238
+
+thus the cultured classes become capable of receiving and appreciating
+the great discoveries by which man's intellectual position is advanced ;
+WHEWELL-1837-1,24.239
+
+and we reach the present condition of the civilised world .
+WHEWELL-1837-1,24.240
+
+But we have not yet done with the survey of this great experiment .
+WHEWELL-1837-1,24.241
+
+In one country of Europe the universities give up their habits of
+practical teaching , WHEWELL-1837-1,24.242
+
+and return to the speculative method . WHEWELL-1837-1,24.243
+
+They make <P_25> <font> philosophy <$$font> their main subject .
+WHEWELL-1837-1,25.244
+
+Their professors deliver from their chairs system after system to
+admiring audiences . WHEWELL-1837-1,25.245
+
+The listener may assent or criticise ; WHEWELL-1837-1,25.246
+
+but he is not disturbed by any demands on his mind , such as the
+teaching of mathematics gives rise to . WHEWELL-1837-1,25.247
+
+And what is the class of men thus produced , in their bearing upon the
+progress of sure and indestructible knowledge ? WHEWELL-1837-1,25.248
+
+They are such men as to be utterly incapable even of comprehending and
+appreciating the most conspicuous examples of the advance of science .
+WHEWELL-1837-1,25.249
+
+Those who are universally allowed to be the greatest philosophers of our
+own day in the German universities , Hegel and Schelling , can@ @not
+understand that Newton went further than Kepler had gone in physical
+astronomy , WHEWELL-1837-1,25.250
+
+and despise Newton's optical doctrines in comparison with the vague
+Aristotelian dogmas of Göthe {COM:sic} respecting colours .
+WHEWELL-1837-1,25.251
+
+Thus , the experiment on education , which has been going on from the
+beginning of Greek civilisation to the present day , appears to be quite
+distinct and consistent in its result . WHEWELL-1837-1,25.252
+
+And the lesson we learn from it is this ; - that so far as civilisation
+is connected with the advance and diffusion of human knowledge ,
+civilisation flourishes when the prevalent education is mathematical ,
+and fades when <font> philosophy <$$font> is the subject most preferred
+. WHEWELL-1837-1,25.253
+
+We find abundant confirmation of the belief , that education has a
+strong influence upon the progress of civilisation ;
+WHEWELL-1837-1,25.254
+
+and we find that the influence follows a settled rule :
+WHEWELL-1837-1,25.255
+
+when the education is practical teaching , it is a genuine culture ,
+tending to <P_26> increased fertility and vigour ; WHEWELL-1837-1,26.256
+
+when it is speculative teaching , it appears that , however the effect
+is produced , men's minds do , in some way or other , lose that force
+and clearness on which intellectual progression depends .
+WHEWELL-1837-1,26.257
+
+I can@ @not go on to the next point of my argument without an
+observation founded on the view which has been presented .
+WHEWELL-1837-1,26.258
+
+It is impossible , after the survey we have just made , not to reflect
+of what immense importance the question of the two kinds of education is
+. WHEWELL-1837-1,26.259
+
+The reform of the European universities , a subject which is now
+exciting so much interest in England , France , and Germany , is , in
+truth , what it has been termed , the Vital Question of Civilisation .
+WHEWELL-1837-1,26.260
+
+Upon the decision of that question may depend , whether Europe , and
+America , which must follow the intellectual fortunes of Europe , shall
+, for the next thousand years , be in the condition of the later Greeks
+and Romans , having for their mental aristocracy , a class of
+philosophical system-builders , commentators , and mere metaphysicians ;
+or shall go on to exhibit that healthy vigour and constant effort at
+real progress and improvement , which has characterized this quarter of
+the globe for the last three_hundred years . WHEWELL-1837-1,26.261
+
+This is no slight matter . WHEWELL-1837-1,26.262
+
+And let no one attempt to make it less momentous , by persuading himself
+that civilisation must advance ; - that we can@ @not run back into an
+inferior condition of culture and thought . WHEWELL-1837-1,26.263
+
+The history of the world shows that we have no such security .
+WHEWELL-1837-1,26.264
+
+Civilisation , in its best sense , may too surely decline .
+WHEWELL-1837-1,26.265
+
+Greece and Rome had wasted by their own <P_27> folly almost all that was
+most valuable in their intellectual inheritance , before the foreign
+spoiler came . WHEWELL-1837-1,27.266
+
+The civilisation of the eastern and southern shores of the Mediterranean
+, once the fairest spots in the world of literature and art , - where is
+it , WHEWELL-1837-1,27.267
+
+and how is it vanished ? WHEWELL-1837-1,27.268
+
+It is not enough to say that the barbarising storm of Mahommedan
+conquest has swept over and destroyed it . WHEWELL-1837-1,27.269
+
+The Mahommedans did not barbarise Spain or Persia .
+WHEWELL-1837-1,27.270
+
+And to whatever violent external causes we may ascribe this deplorable
+change , it shows , at least , that in some countries civilisation takes
+deeper root than in others ; WHEWELL-1837-1,27.271
+
+and warns us to use our best endeavour , that , so far as we are
+concerned , our country and the world may lose nothing of that real
+civilisation which , combined with morality and religion , constitutes
+the brightest glory and most precious treasure of the human race .
+WHEWELL-1837-1,27.272
+
+It is difficult to mark out , even in conjecture , the path of the
+future progress of mental civilisation . WHEWELL-1837-1,27.273
+
+Yet some light we may gather from the history of the past .
+WHEWELL-1837-1,27.274
+
+One idea after another , of those which constitute the basis of science
+, becomes distinct , first in the minds of discoverers , then in the
+minds of all cultured men , till a general clearness of thought
+illuminates the land ; WHEWELL-1837-1,27.275
+
+and thus the torch of knowledge is handed forwards , thousands upon
+thousands lighting their lamps at it as it passes on ; while still from
+time to time some new Prometheus catches a fresh light from heaven , to
+spread abroad among men in like manner . WHEWELL-1837-1,27.276
+
+Thus the opening of Greek civilisation was marked by the production of
+Geometry : WHEWELL-1837-1,27.277
+
+the <P_28> <font> idea of space <$$font> was brought to a scientific
+precision . WHEWELL-1837-1,28.278
+
+Of that step we still inherit the benefits ; WHEWELL-1837-1,28.279
+
+for example , all educated Europeans conceive the relation of the
+various parts and lines on the terrestrial globe with a distinctness in
+which the rude savage or uncultured boor has no share .
+WHEWELL-1837-1,28.280
+
+The opening of the civilisation of modern Europe was distinguished , in
+the same way , by the production of a new science - Mechanics , which
+soon led to the Mechanics of the Heavens . WHEWELL-1837-1,28.281
+
+And this step , like the former , depended on men arriving at a
+properly-@ @distinct fundamental idea . WHEWELL-1837-1,28.282
+
+The <font> revival of the scientific idea of force <$$font> <paren> an
+idea which had been brought to light by Archimedes , and extinguished
+again amid the mists of Greek philosophy , <$$paren> was , as I have
+elsewhere shown , the essential condition to which this step was due .
+WHEWELL-1837-1,28.283
+
+This idea , too , has now been communicated to persons of education in
+general , as the general reception of the Newtonian theory of the
+universe proves ; while , at the same time , the very indistinct views
+which men of considerable cultivation often entertain of the mechanism
+of the universe , proves that the fundamental ideas on which a clear
+apprehension of the doctrine of universal attraction depends , have
+hitherto been very imperfectly diffused through the atmosphere of the
+literary world . WHEWELL-1837-1,28.284
+
+And the cause of this remaining imperfection probably is , that
+elementary mechanics has not hitherto been made an essential portion of
+a liberal education , as for centuries elementary geometry has .
+WHEWELL-1837-1,28.285
+
+Nothing forbids us to look forward to the time , when not only this
+<P_29> deficiency shall be supplied , but when men's minds shall have
+been carried much further in the same track . WHEWELL-1837-1,29.286
+
+We may imagine a future period of mental culture , when the ideas on
+which our knowledge of the composition of bodies , or our estimate of
+the natural classes of organized beings , depends , shall be as clear in
+cultivated minds , as the conception of universal attraction is now , in
+the mind of a thoroughly educated man ; or as the conception of the
+circles of latitude and longitude , in the thoughts of a well-taught
+child . WHEWELL-1837-1,29.287
+
+And if we add to this , the possibility that the ideas which are the
+bases of sound criticism , morals , and politics , may become equally
+distinct and equally diffused , by means of an appropriate education ,
+we catch a glimpse of the grand and boundless vista of possible and
+probable intellectual refinement and civilisation which the future
+offers . WHEWELL-1837-1,29.288
+
+Whether or not the reader may assent to the view thus presented of the
+nature of the future progress of civilisation , he will , I trust ,
+sympathize with another reflection which offers itself to us at this
+point of our survey . WHEWELL-1837-1,29.289
+
+If the destinies of the highest civilisation of man , be thus closely
+connected with the progress of truly liberal education ; and if it
+depend upon the constitution and conduct of educational institutions ,
+whether such civilisation shall continue to advance , or shall become
+retrograde : it is impossible not to <P_30> reflect , how grave and
+weighty is the office of those , on whom it falls to found and to put in
+action new institutions of liberal education , intended to meet the
+requirements of present and future ages . WHEWELL-1837-1,30.290
+
+To do this , is a great , and we may say , a solemn task .
+WHEWELL-1837-1,30.291
+
+Those who are engaged in it , must act as men building for eternity .
+WHEWELL-1837-1,30.292
+
+We see no reason to believe otherwise , than that this great nation ,
+hitherto so highly favoured with outward and inward gifts , <paren> and
+with it , its vigorous progeny , which , while peopling and civilising
+the other side of the globe , is involved in the intellectual fortunes
+of its parent , <$$paren> is destined by Providence for an advance yet
+to be long continued , in civilisation and refinement of the best and
+highest kind . WHEWELL-1837-1,30.293
+
+To what consummation the world is reserved by its Governor we know not ,
+nor whether he has decreed , that , before the final close of all things
+, the brightness of civilised England must wane and become dim , as that
+of Greece and Rome has done before . WHEWELL-1837-1,30.294
+
+But this we know , that it would be the most fantastical presumption of
+system-making , for any one to predict and reckon in centuries the
+calculated time and rate of the declension of Britain .
+WHEWELL-1837-1,30.295
+
+We know , too , that if such a declension menaced us , the wisest , as
+well as the noblest course , would be to seek and apply our remedies in
+the spirit of considerate and hopeful regard for the future .
+WHEWELL-1837-1,30.296
+
+And surely , even if our final declension were certain , and if we could
+yet , by our exertions , so retard its progress , that , during the
+ensuing three_hundred years , our condition should be no worse than for
+the last three_hundred years it has <P_31> been , this were a blessing ,
+and a distinction among the nations of the earth , well worth the best
+resolves and exertions the nation can bring to the task .
+WHEWELL-1837-1,31.297
+
+When , therefore , we attempt to construct institutions of education for
+the countless youth of centuries still to come , we enter upon a task
+full of solicitude and responsibility , but full also of hope and
+promise . WHEWELL-1837-1,31.298
+
+And in this spirit should the office be discharged ; all narrow views ,
+and little jealousies , and limited regards , being laid aside , and the
+great object itself , the transmission of the best portion of the
+culture of this age to the Britons of ages now far removed , being
+steadily kept in view . WHEWELL-1837-1,31.299
+
+With this view we should guard especially against bringing down the
+standard of our system to the level which transient and partial
+circumstances , or popular prejudices , may suggest .
+WHEWELL-1837-1,31.300
+
+That education which will transmit to the future the civilisation of the
+past and present , is that which the country really requires ;
+WHEWELL-1837-1,31.301
+
+and modes of education which may attract for a moment , but can produce
+no effect of this kind , are of no value for the real purposes of
+education , WHEWELL-1837-1,31.302
+
+and can satisfy none of the real wants of the age .
+WHEWELL-1837-1,31.303
+
+But a part of this subject requires a separate section .
+WHEWELL-1837-1,31.304
+
+<heading>
+
+Sect. 4 . WHEWELL-1837-1,31.306
+
+- Of the Learned Languages as Subjects of University Teaching
+WHEWELL-1837-1,31.307
+
+<$$heading>
+
+It has appeared in a preceding Section , that the decision of the
+question , whether our teaching shall <P_32> be practical or speculative
+, in the sense already explained , in a great measure decides the
+subjects taught ; since certain subjects only can be made the basis of
+practical education , and certain other subjects are peculiarly fitted
+for speculative discussion . WHEWELL-1837-1,32.309
+
+But there are some other questions concerning the matter taught , which
+may be considered here ; for instance , the proposal to include in it
+modern languages and their literature , instead of , or along with , the
+ancient authors of Greece and Rome ; and to introduce the modern
+sciences , as general physics , chemistry , natural history , and
+geology , along with pure and mixed mathematics . WHEWELL-1837-1,32.310
+
+I will say a word on each of these questions . WHEWELL-1837-1,32.311
+
+It is one of the characters of the present time , alarming to many
+persons , but , if we use the occasion well , a blessing rather than an
+evil , that doctrines which have hitherto passed unquestioned , and on
+which the frame of the institutions of European states is founded , are
+unscrupulously and rudely assailed . WHEWELL-1837-1,32.312
+
+The propriety of the use of what are called the learned languages
+<paren> Greek and Latin <$$paren> , as one of the main instruments of
+education , is a doctrine of this kind . WHEWELL-1837-1,32.313
+
+And the question whether , in modern education , these languages are to
+retain their ancient supremacy ; or whether , on the contrary , the
+languages and literature of modern Europe are to be placed by their side
+, or before them ; has been recently discussed with reference to
+educational institutions , both in this and other countries .
+WHEWELL-1837-1,32.314
+
+In France , for example , this has been the subject of animated debates
+in the Chamber <P_33> of Deputies ; WHEWELL-1837-1,33.315
+
+and that distinguished man of science , M. Arago , is reported , on
+such an occasion , to have expressed himself to the following effect : -
+WHEWELL-1837-1,33.316
+
+" I ask for <font> classical <$$font> studies : WHEWELL-1837-1,33.317
+
+I require them : WHEWELL-1837-1,33.318
+
+I consider them as indispensable ; WHEWELL-1837-1,33.319
+
+but I do not think that they must necessarily be Greek and Latin .
+WHEWELL-1837-1,33.320
+
+I wish that , in certain schools , these studies should be replaced , at
+the pleasure of the municipal councils , by a thorough study of our own
+tongue . WHEWELL-1837-1,33.321
+
+I wish that in each college , it should be permitted to put , in the
+place of Greek and of Latin , the study of a living language .
+WHEWELL-1837-1,33.322
+
+I require even , that this language may be different according to the
+situation of the place ; that at Perpignan and at Bayonne , for example
+, it may be the Spanish ; at le Havre , the English ; at Besançon , the
+German . " WHEWELL-1837-1,33.323
+
+He then proceeds to answer certain objections , of which I shall only
+notice the one which more peculiarly concerns our subject .
+WHEWELL-1837-1,33.324
+
+" It is urged , " he says , " that Greek and Latin must be the principal
+classical studies , WHEWELL-1837-1,33.325
+
+for they are <font> the true culture of the mind . <$$font> "
+WHEWELL-1837-1,33.326
+
+To this he makes the following reply : - WHEWELL-1837-1,33.327
+
+" What does this mean ? WHEWELL-1837-1,33.328
+
+Are Pascal , Fenelon , Bossuet , Montesquieu , Rousseau , Voltaire ,
+Corneille , Racine , Molière - the incomparable Molière , - are these
+writers deprived of the privilege which is so liberally granted to the
+ancient authors , of enlightening , of unfolding the mind , of touching
+the heart , of putting in vibration the springs of the soul !
+WHEWELL-1837-1,33.329
+
+God <P_34> preserve me from insulting you , by refuting in detail a
+heresy such as this ! " WHEWELL-1837-1,34.330
+
+In opposition to the opinion thus expressed , I maintain that Greek and
+Latin are peculiar and indispensable elements of a liberal education ;
+WHEWELL-1837-1,34.331
+
+and it is my business to show , that the study of the modern authors
+just enumerated , and of others , however admirable their works may be ,
+does not produce that kind of culture of the mind , which is the true
+object of a liberal education . WHEWELL-1837-1,34.332
+
+This culture of the mind consists in sharing in the best influences of
+the progressive intellectual refinement of man . WHEWELL-1837-1,34.333
+
+The present age is not independent of those which have preceded it .
+WHEWELL-1837-1,34.334
+
+On the contrary , it is the heir of all the past .
+WHEWELL-1837-1,34.335
+
+Its wealth , intellectual and material , may have been improved in the
+hands of the present holders , WHEWELL-1837-1,34.336
+
+but the value of what we have added is small , compared with the amount
+of what we found already accumulated . WHEWELL-1837-1,34.337
+
+In thought and language , as well as in arts and the products of art ,
+we inherit an inestimable fortune from a long line of ancestors .
+WHEWELL-1837-1,34.338
+
+In literature , we are the children of the early Greeks ;
+WHEWELL-1837-1,34.339
+
+{COM:greek_omitted} But thoughts can be inherited , and words , in all
+their force , transmitted , only by those who are connected with their
+ancestors in the line of thought and understanding , as well as in the
+mere succession of time . WHEWELL-1837-1,34.340
+
+And how is this connexion of generations , thus requisite to the
+transmission and augmentation of mental wealth , to be kept up ?
+WHEWELL-1837-1,34.341
+
+<P_35>
+
+The cultivated world , up to the present day , has been bound together ,
+and each generation bound to the preceding , by living upon a common
+intellectual estate . WHEWELL-1837-1,35.343
+
+They have shared in a common developement of thought , because they have
+understood each other . WHEWELL-1837-1,35.344
+
+Their standard examples of poetry , eloquence , history , criticism ,
+grammar , etymology , have been a universal bond of sympathy , however
+diverse might be the opinions which prevailed respecting any of these
+examples . WHEWELL-1837-1,35.345
+
+All the civilised world has been one intellectual nation ;
+WHEWELL-1837-1,35.346
+
+and it is this which has made it so great and prosperous a nation .
+WHEWELL-1837-1,35.347
+
+All the countries of lettered Europe have been one body , because the
+same nutriment , the literature of the ancient world , was conveyed to
+all , by the organization of their institutions of education .
+WHEWELL-1837-1,35.348
+
+The authors of Greece and Rome , familiar to the child , admired and
+dwelt on by the aged , were the common language , by the possession of
+which each man felt himself a denizen of the civilised world ; - free of
+all the privileges with which it had been gifted from the dawn of Greek
+civilisation up to the present time . WHEWELL-1837-1,35.349
+
+What can the best authors of modern days do in the way of filling such
+an office ? WHEWELL-1837-1,35.350
+
+Even if their language were universally familiar in cultured Europe ,
+how do they connect us with the past ? WHEWELL-1837-1,35.351
+
+How do they enable us to read the impress which was stamped upon thought
+and language in the days of Plato and Aristotle , in virtue of which it
+is still current ? WHEWELL-1837-1,35.352
+
+How do they enable us to understand the process by which the language of
+Rome conveyed the culture , the philosophy , <P_36> the legislation of
+the ancient civilised world into the modern ? WHEWELL-1837-1,36.353
+
+How do they enable us to understand the thoughts and feelings to which
+they themselves appeal ? WHEWELL-1837-1,36.354
+
+If the Greek and Latin languages were to lose their familiar place among
+us , Montesquieu and Bossuet , Corneille and Racine , would lose their
+force and their charm . WHEWELL-1837-1,36.355
+
+Their audiences , immediately , or through a few steps of derivation ,
+made a reference in their minds to ancient authors .
+WHEWELL-1837-1,36.356
+
+If this were taken away , many of the strings would be broken , in the
+instrument on which these artists played . WHEWELL-1837-1,36.357
+
+And though , so long as a liberal education continues what it has been ,
+the well-educated diffuse to others a general admiration of the "
+classical authors " of their own language , if Greek and Latin were to
+cease to be parts of general culture , this admiration would become
+faint and unintelligent , WHEWELL-1837-1,36.358
+
+and , in a few generations , would vanish . WHEWELL-1837-1,36.359
+
+The same may be said of language . WHEWELL-1837-1,36.360
+
+The languages of ancient Greece and Rome have , through the whole
+history of civilisation , been the means of giving distinctness to men's
+ideas of the analogy of language , which distinctness , as we have seen
+, is a main element of intellectual cultivation . WHEWELL-1837-1,36.361
+
+The forms and processes of general grammar have been conveyed to all
+men's minds by the use of common models and common examples .
+WHEWELL-1837-1,36.362
+
+To all the nations of modern Europe , whether speaking a Romance
+language or not , the Latin grammar is a standard of comparison , by
+reference to which speculative views of grammar become plain and
+familiar . WHEWELL-1837-1,36.363
+
+<P_37>
+
+And then , as to the derivation of the modern European languages : -
+Those who are familiar with Greek and Latin can@ @not but feel , in
+every sentence they read and write , that the whole history of the
+civilised world is stamped upon the expressions they use .
+WHEWELL-1837-1,37.365
+
+The progress of thought and of institutions , the most successful
+labours of the poet , the philosopher , the legislator , have , in
+thousands of cases , operated to give a meaning to one little word .
+WHEWELL-1837-1,37.366
+
+Those who feel this , have a view of the language which they speak , far
+more intelligent , far more refined , than those who gather the force of
+words from blind usage , without seeing any connexion or any reason .
+WHEWELL-1837-1,37.367
+
+What does intellectual culture mean , if it does not mean something more
+than this ? WHEWELL-1837-1,37.368
+
+What does it mean , but that insight , that distinctness of thought with
+regard to the terms we employ , which saves us from solecisms , not by
+habit but by principle , which shows us analogy where others see only
+accident , and which makes language itself a chain connecting us with
+the intellectual progress of all ages . WHEWELL-1837-1,37.369
+
+In what a condition should we be , if our connexion with the past were
+snapped ; - if Greek and Latin were forgotten ? WHEWELL-1837-1,37.370
+
+What should we then think of our own languages ? WHEWELL-1837-1,37.371
+
+They would appear a mere mass of incoherent caprice and wanton
+lawlessness . WHEWELL-1837-1,37.372
+
+The several nations of Europe would be , in this respect at least , like
+those tribes of savages who occupy a vast continent , speaking a set of
+jargons , in which scarcely any resemblance can be traced between any
+two , or any consistency in any one . WHEWELL-1837-1,37.373
+
+The various European <P_38> languages appear to us obviously connected ,
+mainly because we hold the Latin thread which runs through them ;
+WHEWELL-1837-1,38.374
+
+if that were broken , the pearls would soon roll asunder .
+WHEWELL-1837-1,38.375
+
+And the mental connexion of the present nations with each other , as
+well as with the past , would thus be destroyed . WHEWELL-1837-1,38.376
+
+What would this be but a retrograde movement in civilisation ?
+WHEWELL-1837-1,38.377
+
+In nations as in men , in intellect as in social condition , true
+nobility consists in inheriting what is best in the possessions and
+character of a line of ancestry . WHEWELL-1837-1,38.378
+
+Those who can trace the descent of their own ideas , and their own
+language , through the race of cultivated nations ; who can show that
+those whom they represent , or reverence as their parents , have
+everywhere been foremost in the fields of thought and intellectual
+progress , - those are the true nobility of the world of mind ; the
+persons who have received true culture ; WHEWELL-1837-1,38.379
+
+and such it should be the business of a liberal education to make men .
+WHEWELL-1837-1,38.380
+
+With these views , I can@ @not conceive it possible that any
+well-constituted system of University teaching , in any European nation
+, can do otherwise than make the study of the best classical authors of
+Greece and Rome , one of its indispensable and cardinal elements .
+WHEWELL-1837-1,38.381
+
+But before I proceed , I can@ @not refrain from pointing out the evil of
+making such an element , or any one element alone , too exclusive or too
+large a part of our system of instruction . WHEWELL-1837-1,38.382
+
+<P_39>
+
+<heading>
+
+Sect. 5 . WHEWELL-1837-1,39.385
+
+- Of the Necessity of combining Classical and Mathematical Studies as
+Subjects of University Teaching . WHEWELL-1837-1,39.386
+
+<$$heading>
+
+The arguments which we have urged in support of the necessity of the
+ancient languages as prominent parts of the teaching of our Universities
+, proceed upon the ground of their usefulness as instruments of mental
+culture . WHEWELL-1837-1,39.388
+
+And this effect has been contemplated , as resulting , not only from the
+familiarity which the student of classical literature may acquire with
+the works and style of the brightest periods of ancient civilisation ;
+but also , from the clear views to which he may be led , by such studies
+, of the principles and history of grammar , language , and literary
+thought . WHEWELL-1837-1,39.389
+
+Now it must not be forgotten , that in classical as in any other
+literature , the reader who merely flutters through a series of authors
+such as catch his fancy , who studies them only as a literary amusement
+, without severe thought , or steady perception of the principles of
+language and composition , can@ @not receive from them such a culture as
+we have supposed ; any more than from any other line of reading ,
+suggested and directed by mere caprice and personal taste .
+WHEWELL-1837-1,39.390
+
+Indeed , since principles are disclosed and illustrated by the reading
+of poets and orators , far more obscurely and vaguely than by most other
+studies , classical literature so pursued is entirely inefficient for
+any purpose of genuine mental cultivation . WHEWELL-1837-1,39.391
+
+It will only produce a taste , fastidious , indeed , but superficial and
+<P_40> arbitrary , without any distinct and developed apprehension of
+analogies and reasons . WHEWELL-1837-1,40.392
+
+And even if the classical authors be studied profoundly and thoroughly ,
+as examples of language , composition , and thought , still they only
+supply one occasion among many , for the cultivation of the more exact
+operations of the mind ; WHEWELL-1837-1,40.393
+
+and in this , or in any other way , the adoption of one instrument alone
+, for such a purpose , will make the resulting culture extremely partial
+and deficient . WHEWELL-1837-1,40.394
+
+The mode in which this defect may most effectually be remedied , is by
+combining , with the study of classics , the study of the elementary
+portions of mathematics . WHEWELL-1837-1,40.395
+
+For these severer studies will bring into play that class of
+intellectual faculties , which the pursuit of elegant literature alone
+leaves unexercised . WHEWELL-1837-1,40.396
+
+We may add , too , that the mental powers so developed will react upon
+the study of classical authors ; and the perception of general relations
+, of grounds and reasons , even in matters of grammar and taste , will
+be far more likely to arise in a student thus disciplined , than in the
+mere elegant scholar . WHEWELL-1837-1,40.397
+
+Every person of mathematical cultivation is necessarily an analyst of
+conditions and connexions ; WHEWELL-1837-1,40.398
+
+and the analytical power thus awakened will commonly exercise itself
+upon language , as well as upon mathematical quantity ;
+WHEWELL-1837-1,40.399
+
+and thus a familiarity with the best models of composition will become
+such a discipline of distinct ideas , with regard to the principles of
+language and thought , as , for our purposes , we require it to be .
+WHEWELL-1837-1,40.400
+
+The study of elementary mathematics , therefore , along with the study
+of classical authors , ought to be <P_41> imperatively required by all
+Universities {TEXT:Univerities} . WHEWELL-1837-1,41.401
+
+To separate these studies , and to allow students to neglect one of them
+, because some persons have a taste for one , and some persons for
+another , of these lines of reading , is to abdicate the functions of
+education altogether . WHEWELL-1837-1,41.402
+
+Universities and Colleges do not exist merely for the purpose of
+enabling men to do what they best like to do ; or for the purpose of
+offering and awarding prizes for trials of strength , in modes selected
+by the combatants . WHEWELL-1837-1,41.403
+
+Their business is the general cultivation of all the best faculties of
+those who are committed to their charge , and the preservation and
+promotion of the general culture of mankind . WHEWELL-1837-1,41.404
+
+And it is certain , that of all the persons who derive advantage from
+them , none are more benefited than those who , with a great general
+aptitude for learning , are prevented , by the requisition of such
+institutions , from confining their exertions to one favourite channel .
+WHEWELL-1837-1,41.405
+

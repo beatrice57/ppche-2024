@@ -1,0 +1,1293 @@
+<BEGIN_thomson-1862-2>
+
+<P_468>
+
+<heading>
+
+<paren> D <$$paren> . THOMSON-1862-2,468.4
+
+On the Secular Cooling of the Earth THOMSON-1862-2,468.5
+
+<$$heading>
+
+<paren> <font> a. <$$font> <$$paren> For eighteen years it has pressed
+on my mind , that essential principles of Thermo-dynamics have been
+overlooked by those geologists who uncompromisingly oppose all
+paroxysmal hypotheses , and maintain not only that we have examples now
+before us , on the earth , of all the different actions by which its
+crust has been modified in geological history , but that these actions
+have never , or have not on the whole , been more violent in past time
+than they are at present . THOMSON-1862-2,468.7
+
+<P_469>
+
+<paren> <font> b. <$$font> <$$paren> It is quite certain the solar
+system can@ @not have gone on , even as at present , for a few
+hundred_thousand or a few million years , without the irrevocable loss
+<paren> by dissipation , not by <font> annihilation <$$font> <$$paren>
+of a very considerable proportion of the entire energy initially in
+store for sun heat , and for Plutonic action . THOMSON-1862-2,469.9
+
+It is quite certain that the whole store of energy in the solar system
+has been greater in all past time than at present ;
+THOMSON-1862-2,469.10
+
+but it is conceivable that the rate at which it has been drawn upon and
+dissipated , whether by solar radiation , or by volcanic action in the
+earth or other dark bodies of the system , may have been nearly equable
+, or may even have been less rapid , in certain periods of the past .
+THOMSON-1862-2,469.11
+
+But it is far more probable that the secular rate of dissipation has
+been in some direct proportion to the total amount of energy in store ,
+at any time after the commencement of the present order of things , and
+has been therefore very slowly diminishing from age to age .
+THOMSON-1862-2,469.12
+
+<paren> <font> c. <$$font> <$$paren> I have endeavoured to prove this
+for the sun's heat , in an article recently published in <font>
+Macmillan's Magazine <$$font> <paren> March 1862 <$$paren> , where I
+have shown that most probably the sun was sensibly hotter a_million
+years ago than he is now . THOMSON-1862-2,469.13
+
+Hence , geological speculations assuming somewhat greater extremes of
+heat , more violent storms and floods , more luxuriant vegetation , and
+hardier and coarser_grained plants and animals , in remote antiquity ,
+are more probable than those of the extreme quietist , or "
+uniformitarian " school . THOMSON-1862-2,469.14
+
+A middle path , not generally safest in scientific speculation , seems
+to be so in this case . THOMSON-1862-2,469.15
+
+It is probable that hypotheses of grand catastrophes destroying all life
+from the earth , and ruining its whole surface at once , are greatly in
+error ; THOMSON-1862-2,469.16
+
+it is impossible that hypotheses assuming an equability of sun and
+storms for 1,000,000 years , can be wholly true . THOMSON-1862-2,469.17
+
+<paren> <font> d. <$$font> <$$paren> Fourier's mathematical theory of
+the conduction of heat is a beautiful working out of a particular case
+belonging to the general doctrine of the " Dissipation of Energy . "
+THOMSON-1862-2,469.18
+
+A characteristic of the practical solutions it presents is , that in
+each case a <P_470> distribution of temperature , becoming gradually
+equalized through an unlimited future , is expressed as a function of
+the time , which is infinitely divergent for all times longer past than
+a definite determinable epoch . THOMSON-1862-2,470.19
+
+The distribution of heat at such an epoch is essentially <font> initial
+<$$font> - that is to say , it can@ @not result from any previous
+condition of matter by natural processes . THOMSON-1862-2,470.20
+
+It is , then , well called an " <font> arbitrary <$$font> initial
+distribution of heat , " in Fourier's great mathematical poem , because
+that which is rigorously expressed by the mathematical formula could
+only be realized by action of a power able to modify the laws of dead
+matter . THOMSON-1862-2,470.21
+
+In an article published about nineteen years ago in the <font> Cambridge
+Mathematical Journal , <$$font> I gave the mathematical criterion for an
+essentially initial distribution ; THOMSON-1862-2,470.22
+
+and in an inaugural essay , " De Motu Caloris per Terrae Corpus , " read
+before the Faculty of the University of Glasgow in 1846 , I suggested ,
+as an application of these principles , that a perfectly complete
+geothermic survey would give us data for determining an initial epoch in
+the problem of terrestrial conduction . THOMSON-1862-2,470.23
+
+At the meeting of the British Association in Glasgow in 1855 , I urged
+that special geothermic surveys should be made for the purpose of
+estimating absolute dates in geology , THOMSON-1862-2,470.24
+
+and I pointed out some cases , especially that of the salt-spring
+borings at Creuznach , in Rhenish Prussia , in which eruptions of
+basaltic rock seem to leave traces of their igneous origin in residual
+heat . THOMSON-1862-2,470.25
+
+I hope this suggestion may yet be taken up , and may prove to some
+extent useful ; THOMSON-1862-2,470.26
+
+but the disturbing influences affecting underground temperature , as
+Professor Phillips has well shown in a recent inaugural address to the
+Geological Society , are too great to allow us to expect any very
+precise or satisfactory results . THOMSON-1862-2,470.27
+
+<paren> <font> e. <$$font> <$$paren> The chief object of the present
+communication is to estimate from the known general increase of
+temperature in the earth downwards , the date of the first establishment
+of that <font> consistentior status , <$$font> which , according to
+Leibnitz's theory , is the initial date of all geological history .
+THOMSON-1862-2,470.28
+
+<P_471>
+
+<paren> <font> f. <$$font> <$$paren> In all parts of the world in which
+the earth's crust has : been examined , at sufficiently great depths to
+escape large influence of the irregular and of the annual variations of
+the superficial temperature , a gradually increasing temperature has
+been found in going deeper . THOMSON-1862-2,471.30
+
+The rate of augmentation <paren> estimated at only 1$$110th of a degree
+, {COM:sic_comma_after_"degree"} Fahr. , in some localities , and as
+much as 1$$15th of a degree in others {TEXT:other} , per foot of descent
+<$$paren> has not been observed in a sufficient number of places to
+establish any fair average estimate for the upper crust of the whole
+earth . THOMSON-1862-2,471.31
+
+But 1$$50th is commonly accepted as a rough mean ; THOMSON-1862-2,471.32
+
+or , in other words , it is assumed as a result of observation , that
+there is , on the whole , about 1@ @=o= Fahr. of elevation of
+temperature per 50 British feet of descent . THOMSON-1862-2,471.33
+
+<paren> <font> g. <$$font> <$$paren> The fact that the temperature
+increases with the depth implies a continual loss of heat from the
+interior , by conduction outwards through or into the upper crust .
+THOMSON-1862-2,471.34
+
+Hence , since the upper crust does not become hotter from year to year ,
+there must be a secular loss of heat from the whole earth .
+THOMSON-1862-2,471.35
+
+It is possible that no cooling may result from this loss of heat , but
+only an exhaustion of potential energy , which in this case could
+scarcely be other than chemical affinity between substances forming part
+of the earth's mass . THOMSON-1862-2,471.36
+
+But it is certain that either the earth is becoming on the whole cooler
+from age to age , or the heat conducted out is generated in the interior
+by temporary dynamical <paren> that is , in this case , chemical
+<$$paren> action . THOMSON-1862-2,471.37
+
+To suppose , as Lyell , adopting the chemical hypothesis , has done ,
+that the substances , combining together , may be again separated
+electrolytically by thermo-electric currents , due to the heat generated
+by their combination , and thus the chemical action and its heat
+continued in an endless cycle , violates the principles of natural
+philosophy in exactly the same manner , and to the same degree , as to
+believe that a clock constructed with a self-winding movement may fulfil
+the expectations of its ingenious inventor by going for ever .
+THOMSON-1862-2,471.38
+
+<P_472>
+
+<paren> <font> h. <$$font> <$$paren> It must indeed be admitted that
+many geological writers of the " Uniformitarian " school , who in other
+respects have taken a profoundly philosophical view of their subject ,
+have argued in a most fallacious manner against hypotheses of violent
+action in past ages . THOMSON-1862-2,472.40
+
+If they had contented themselves with showing that many existing
+appearances , although suggestive of extreme violence and sudden change
+, may have been brought about by long-continued action , or by paroxysms
+not more intense than some of which we have experience within the
+periods of human history , their position might have been unassailable ;
+THOMSON-1862-2,472.41
+
+and certainly could not have been assailed except by a detailed
+discussion of their facts . THOMSON-1862-2,472.42
+
+It would be a very wonderful , but not an absolutely incredible result ,
+that volcanic action has never been more violent on the whole than
+during the last two or three centuries ; THOMSON-1862-2,472.43
+
+but it is as certain that there is now less volcanic energy in the whole
+earth than there was a_thousand years ago , as it is that there is less
+gunpowder in a " Monitor " after she has been seen to discharge shot and
+shell , whether at a nearly equable rate or not , for five hours without
+receiving fresh supplies , than there was at the beginning of the action
+. THOMSON-1862-2,472.44
+
+Yet this truth has been ignored or denied by many of the leading
+geologists of the present day , because they believe that the facts
+within their province do not demonstrate greater violence in ancient
+changes of the earth's surface , or do demonstrate a nearly equable
+action in all periods . THOMSON-1862-2,472.45
+
+<paren> <font> i. <$$font> <$$paren> The chemical hypothesis to account
+for underground heat might be regarded as not improbable , if it was
+only in isolated localities that the temperature was found to increase
+with the depth ; THOMSON-1862-2,472.46
+
+and , indeed , it can scarcely be doubted that chemical action exercises
+an appreciable influence <paren> possibly negative , however <$$paren>
+on the action of volcanoes ; THOMSON-1862-2,472.47
+
+but that there is slow uniform " combustion , " <font> eremacausis ,
+<$$font> , or chemical combination of any kind going on , at some great
+unknown depth under the surface everywhere , and creeping inwards
+gradually as the chemical affinities in layer after layer are
+successively saturated , seems extremely improbable , although it can@
+@not be pronounced to be absolutely impossible , or contrary to all
+analogies in nature . THOMSON-1862-2,472.48
+
+The less <P_473> hypothetical view , however , that the earth is merely
+a warm chemically inert body cooling , is clearly to be preferred in the
+present state of science . THOMSON-1862-2,473.49
+
+<paren> <font> j. <$$font> <$$paren> Poisson's celebrated hypothesis ,
+that the present underground heat is due to a passage , at some former
+period , of the solar system through hotter stellar regions , can@ @not
+provide the circumstances required for a palaeontology continuous
+through that epoch of external heat . THOMSON-1862-2,473.50
+
+For from a mean of values of the conductivity , in terms of the thermal
+capacity of unit volume , of the earth's crust , in three different
+localities near Edinburgh , deduced from the observations on underground
+temperature instituted by Principal Forbes there , I find that if the
+supposed transit through a hotter region of space took place between
+1250 and 5000 years ago , the temperature of that supposed region must
+have been from 25@ @=o= to 50@ @=o= Fahr. above the present mean
+temperature of the earth's surface , to account for the present general
+rate of underground increase of temperature , taken as 1@ @=o= Fahr. in
+50 feet downwards . THOMSON-1862-2,473.51
+
+Human history negatives {COM:sic} this supposition .
+THOMSON-1862-2,473.52
+
+Again , geologists and astronomers will , I presume , admit that the
+earth can@ @not , 20,000 years ago , have been in a region of space 100@
+@=o= Fahr. warmer than its present surface . THOMSON-1862-2,473.53
+
+But if the transition from a hot region to a cool region supposed by
+Poisson took place more than 20,000 years ago , the excess of
+temperature must have been more than 100@ @=o= Fahr. ,
+THOMSON-1862-2,473.54
+
+and must therefore have destroyed animal and vegetable life .
+THOMSON-1862-2,473.55
+
+Hence , the further back and the hotter we can suppose Poisson's hot
+region , the better for the geologists who require the longest periods ;
+THOMSON-1862-2,473.56
+
+but the best for their view is Leibnitz's theory , which simply supposes
+the earth to have been at one time an incandescent liquid , without
+explaining how it got into that state . THOMSON-1862-2,473.57
+
+If we suppose the temperature of melting rock to be about 10,000@ @=o=
+Fahr. <paren> an extremely high estimate <$$paren> , the consolidation
+may have taken place 200,000,000 years ago . THOMSON-1862-2,473.58
+
+Or , if we suppose the temperature of melting rock to be 7000@ @=o=
+Fahr. <paren> which is more nearly what it is generally assumed to be
+<$$paren> , we may suppose the consolidation to have taken place
+98,000,000 years ago . THOMSON-1862-2,473.59
+
+<paren> <font> k. <$$font> <$$paren> These estimates are founded on the
+Fourier solution demonstrated below . THOMSON-1862-2,473.60
+
+The greatest variation we have to make in them , to take into account
+the differences in the ratios of conductivities <P_474> to specific
+heats of the three Edinburgh rocks , is to reduce them to nearly half ,
+or to increase them by rather more than half . THOMSON-1862-2,474.61
+
+A reduction of the Greenwich underground observations recently
+communicated to me by Professor Everett of Windsor , Nova Scotia , gives
+for the Greenwich rocks a quality intermediate between those of the
+Edinburgh rocks . THOMSON-1862-2,474.62
+
+But we are very ignorant as to the effects of high temperatures in
+altering the conductivities and specific heats of rocks , and as to
+their latent heat of fusion . THOMSON-1862-2,474.63
+
+We must , therefore , allow very wide limits in such an estimate as I
+have attempted to make ; THOMSON-1862-2,474.64
+
+but I think we may with much probability say that the consolidation can@
+@not have taken place less than 20,000,000 years ago , or we should have
+more underground heat than we actually have , nor more than 400,000,000
+years ago , or we should not have so much as the least observed
+underground increment of temperature . That is to say , I conclude that
+Leibnitz's epoch of emergence of the <font> consistentior status
+<$$font> was probably between those dates . THOMSON-1862-2,474.65
+
+<paren> <font> l. <$$font> <$$paren> The mathematical theory on which
+these estimates are founded is very simple , being , in fact , merely an
+application of one of Fourier's elementary solutions to the problem of
+finding at any time the rate of variation of temperature from point to
+point , and the actual temperature at any point , in a solid extending
+to infinity in all directions , on the supposition that at an initial
+epoch the temperature has had two different constant values on the two
+sides of a certain infinite plane . THOMSON-1862-2,474.66
+
+The solution for the two required elements is as follows : -
+{COM:equation_omitted} where <font> K <$$font> denotes the conductivity
+of the solid , measured in terms of the thermal capacity of the unity of
+bulk ; <font> V , <$$font> half the difference of the two initial
+temperatures ; <font> v {COM:subscript_zero} , <$$font> their
+arithmetical mean ; <font> t , <$$font> the time ; <font> x , <$$font>
+the distance of any point from the middle plane ; <font> v , <$$font>
+the temperature of the point <font> x <$$font> and <font> t <$$font> ;
+and , consequently <paren> according to the notation of the differential
+<P_475> calculus <$$paren> , <font> dv$$dx <$$font> the rate of
+variation of the temperature per unit of length perpendicular to the
+isothermal planes . THOMSON-1862-2,475.67
+
+<paren> <font> m. <$$font> <$$paren> To demonstrate this solution , it
+is sufficient to verify - <paren> 1. <$$paren> That the expression for
+<font> v <$$font> satisfies Fourier's equation for the linear conduction
+of heat , viz. : {COM:equation_omitted} . <paren> 2. <$$paren> That
+when <font> t <$$font> = , the expression for <font> v <$$font> becomes
+<font> v <$$font> {COM:subscript_zero} + <font> V <$$font> for all
+positive , and <font> v <$$font> {COM:subscript_zero} - <font> V
+<$$font> for all negative values of <font> x <$$font> ; and <paren> 3.
+<$$paren> That the expression for <font> dv$$dx <$$font> is the
+differential coefficient of the expression for <font> v <$$font> with
+reference to <font> x <$$font> . THOMSON-1862-2,475.68
+
+The propositions <paren> 1. <$$paren> and <paren> 3. <$$paren> are
+proved directly by differentiation . THOMSON-1862-2,475.69
+
+To prove <paren> 2. <$$paren> we have , when <font> t <$$font> = , and
+<font> x <$$font> positive {COM:equation_omitted} , or according to the
+known value , {COM:term_omitted} of the definite integral
+{COM:term_omitted} , {COM:equation_omitted} ; THOMSON-1862-2,475.70
+
+and for all values of <font> t , <$$font> the second term has equal
+positive and negative values for equal positive and negative values of
+<font> x , <$$font> so that when <font> t <$$font> = and <font> x
+<$$font> negative , {COM:equation_omitted} . THOMSON-1862-2,475.71
+
+The admirable analysis by which Fourier arrived at solutions including
+this , forms a most interesting and important mathematical study .
+THOMSON-1862-2,475.72
+
+It is to be found in his <font> Théorie Analytique de la Chaleur .
+<$$font> Paris , 1822 . THOMSON-1862-2,475.73
+
+<paren> <font> n. <$$font> <$$paren> The accompanying diagram <paren>
+page 477 <$$paren> represents , by two curves , the preceding
+expressions for <font> dv$$dx <$$font> and <font> v <$$font>
+respectively . THOMSON-1862-2,475.74
+
+<paren> <font> o. <$$font> <$$paren> The solution thus expressed and
+illustrated applies , for a certain time , without sensible error , to
+the case of a solid sphere , primitively heated to a uniform temperature
+, and suddenly exposed to any superficial action , which for ever after
+keeps the surface at some other constant temperature .
+THOMSON-1862-2,475.75
+
+If , for instance , the case considered is that of a globe 8000 miles
+diameter of solid rock , the solution will apply with scarcely sensible
+error for more than 1000 millions of years . THOMSON-1862-2,475.76
+
+For , if the rock be of a certain average quality as to conductivity and
+specific heat , the value of <font> K , <$$font> as found in a previous
+communication to the Royal <P_476> Society , will be 400 , for unit of
+length a British foot and unit of time a year ; THOMSON-1862-2,476.77
+
+and the equation expressing the solution becomes {COM:equation_omitted}
+; THOMSON-1862-2,476.78
+
+and if we give <font> t <$$font> the value 1,000,000,000 , or anything
+less , the exponential factor becomes less than {COM:term_omitted}
+<paren> which being equal to about 1$$210 , may be regarded as
+insensible <$$paren> , when <font> x <$$font> exceeds 3,000,000 feet ,
+or 568 miles . That is to say , during the first 1000_million years the
+variation of temperature does not become sensible at depths exceeding
+568 miles , and is therefore confined to so thin a crust , that the
+influence of curvature may be neglected . THOMSON-1862-2,476.79
+
+<paren> <font> p. <$$font> <$$paren> If , now , we suppose the time to
+be 100_million years from the commencement of the variation , the
+equation becomes {COM:equation_omitted} . THOMSON-1862-2,476.80
+
+The diagram , therefore , shows the variation of temperature which would
+now exist in the earth if , its whole mass being first solid and at one
+temperature 100_million years ago , the temperature of its surface had
+been everywhere suddenly lowered by <font> V <$$font> degrees , and kept
+permanently at this lower temperature : the scales used being as follows
+: THOMSON-1862-2,476.81
+
+- <paren> 1 <$$paren> For depth below the surface , - scale along <font>
+OX , <$$font> length <font> a , <$$font> represents 400,000 feet .
+THOMSON-1862-2,476.82
+
+<paren> 2 <$$paren> For rate of increase of temperature per foot of
+depth , - scale of ordinates parallel to <font> OY , <$$font> length
+<font> b , <$$font> represents 1$$354000 of <font> V <$$font> per foot .
+THOMSON-1862-2,476.83
+
+If , for example , <font> V <$$font> = 7000@ @=o= Fahr. this scale will
+be such that <font> b <$$font> represents 1$$50.6 of a degree Fahr. per
+foot . THOMSON-1862-2,476.84
+
+<paren> 3 <$$paren> For excess of temperature , - scale of ordinates
+parallel to <font> OY , <$$font> length <font> b , <$$font> represents
+{COM:term_omitted} or 7900@ @=o= , if <font> V <$$font> = 7000@ @=o=
+Fahr. THOMSON-1862-2,476.85
+
+Thus the rate of increase of temperature from the surface downwards
+would be sensibly 1$$51 of a degree per foot for the first 100,000 feet
+or so . THOMSON-1862-2,476.86
+
+Below that depth the rate of increase per foot would begin to diminish
+sensibly . THOMSON-1862-2,476.87
+
+At 400,000 feet it would have diminished to about 1$$141 of a degree per
+foot . THOMSON-1862-2,476.88
+
+At <P_477> {COM:graph_omitted} <P_478> 800,000 feet it would have
+diminished to less than 1$$50 of its initial value , - that is to say ,
+to less than 1$$2550 of a degree per foot ; and so on , rapidly
+diminishing , as shown in the curve . THOMSON-1862-2,477.89
+
+Such is , on the whole , the most probable representation of the earth's
+present temperature , at depths of from 100 feet , where the annual
+variations cease to be sensible , to 100 miles ; below which the whole
+mass , or all except a nucleus cool from the beginning , is <paren>
+whether liquid or solid <$$paren> , probably at , or very nearly at ,
+the proper melting temperature for the pressure at each depth .
+THOMSON-1862-2,477.90
+
+<paren> <font> q. <$$font> <$$paren> The theory indicated above throws
+light on the question so often discussed , as to whether terrestrial
+heat can have influenced climate through long geological periods ,
+THOMSON-1862-2,477.91
+
+and allows us to answer it very decidedly in the negative .
+THOMSON-1862-2,477.92
+
+There would be an increment of temperature at the rate of 2@ @=o= Fahr.
+per foot downwards near the surface 10,000 years after the beginning of
+the cooling , in the case we have supposed . THOMSON-1862-2,477.93
+
+The radiation from earth and atmosphere into space <paren> of which we
+have yet no satisfactory absolute measurement <$$paren> would almost
+certainly be so rapid in the earth's actual circumstances , as not to
+allow a rate of increase of 2@ @=o= Fahr. per foot underground to
+augment the temperature of the surface by much more than about 1@ @=o= ;
+THOMSON-1862-2,477.94
+
+and hence I infer that the general climate can@ @not be sensibly
+affected by conducted heat at any time more than 10,000 years after the
+commencement of superficial solidification . THOMSON-1862-2,477.95
+
+No doubt , however , in particular places there might be an elevation of
+temperature by thermal springs , or by eruptions of melted lava ,
+THOMSON-1862-2,477.96
+
+and everywhere vegetation would , for the first three or four_million
+years , if it existed so soon after the epoch of consolidation , be
+influenced by the sensibly higher temperature met with by roots
+extending a foot or more below the surface . THOMSON-1862-2,477.97
+
+<paren> <font> r. <$$font> <$$paren> Whatever the amount of such
+effects is at any one time , it would go on diminishing according to the
+inverse proportion of the square roots of the times from the initial
+epoch . THOMSON-1862-2,477.98
+
+Thus , if at 10,000 years we have 2@ @=o= per foot of increment below
+ground , at {TEXT:At} 40,000 years we should have 1@ @=o= per foot .
+THOMSON-1862-2,477.99
+
+At 160,000 years we should have 1$$2@ @=o= per foot .
+THOMSON-1862-2,477.100
+
+At 4,000,000 years we should have 1$$10@ @=o= per foot .
+THOMSON-1862-2,477.101
+
+At 100,000,000 years we should have 1$$50@ @=o= per foot .
+THOMSON-1862-2,477.102
+
+<P_479>
+
+It is therefore probable that for the last 96,000,000 years the rate of
+increase of temperature under_ground has gradually diminished from about
+1$$10th to about 1$$50th of a degree Fahrenheit per foot , and that the
+thickness of the crust through which any stated degree of cooling has
+been experienced has in that period gradually increased up to its
+present thickness from 1$$5th of that thickness .
+THOMSON-1862-2,479.104
+
+Is not this , on the whole , in harmony with geological evidence ,
+rightly interpreted ? THOMSON-1862-2,479.105
+
+Do not the vast masses of basalt , the general appearances of
+mountain-ranges , the violent distortions and fractures of strata ,
+<font> the great prevalence of metamorphic action <$$font> <paren> which
+must have taken place at depths of not many miles , if so much <$$paren>
+, all agree in demonstrating that the rate of increase of temperature
+downwards must have been much more rapid , and in rendering it probable
+that volcanic energy , earthquake shocks , and every kind of so-called
+plutonic action , have been , on the whole , more abundantly and
+violently operative in geological antiquity than in the present age ?
+THOMSON-1862-2,479.106
+
+<paren> <font> s. <$$font> <$$paren> But it may be objected to this
+application of mathematical theory - <paren> 1 <$$paren> , That the
+earth was once all melted , or at least melted all round its surface ,
+and can@ @not possibly , or rather can@ @not with any probability , be
+supposed to have been ever a uniformly heated solid , 7000@ @=o= Fahr.
+warmer than our present surface temperature , as assumed in the
+mathematical problem ; and <paren> 2 <$$paren> No natural action could
+possibly produce at one instant , and maintain for ever after , a
+seven_thousand degrees' lowering of the surface temperature .
+THOMSON-1862-2,479.107
+
+Taking the second objection first , I answer it by saying , what I think
+can@ @not be denied , that a large mass of melted rock , exposed freely
+to our air and sky , will , after it once becomes crusted over , present
+in a few hours , or a few days , or at the most a few weeks , a surface
+so cool that it can be walked over with impunity .
+THOMSON-1862-2,479.108
+
+Hence , after 10,000 years , or , indeed , I may say after a single year
+, its condition will be sensibly the same as if the actual lowering of
+temperature experienced by the surface had been produced in an instant ,
+and maintained constant ever after . THOMSON-1862-2,479.109
+
+I answer the first objection by saying , that if experimenters will find
+the latent heat of fusion , and the variations of conductivity and
+specific heat of the earth's crust up to its melting point , it will be
+easy to modify the solution given above , so as to make it applicable to
+the case of a liquid globe gradually solidifying from without inwards ,
+in consequence of <P_480> heat conducted through the solid crust to a
+cold external medium . THOMSON-1862-2,480.110
+
+In the meantime , we can see that this modification will not make any
+considerable change in the resulting temperature of any point in the
+crust , unless the latent heat parted with on solidification proves ,
+contrary to what we may expect from analogy , to be considerable in
+comparison with the heat that an equal mass of the solid yields in
+cooling from the temperature of solidification to the superficial
+temperature . THOMSON-1862-2,480.111
+
+But , what is more to the purpose , it is to be remarked that the
+objection , plausible as it appears , is altogether fallacious , and
+that the problem solved above corresponds much more closely , in all
+probability , with the actual history of the earth , than does the
+modified problem suggested by the objection . THOMSON-1862-2,480.112
+
+The earth , although once all melted , or melted all round its surface ,
+did , in all probability , really become a solid at its melting
+temperature all through , or all through the outer layer , which had
+been melted ; THOMSON-1862-2,480.113
+
+and not until the solidification was thus complete , or nearly so , did
+the surface begin to cool . THOMSON-1862-2,480.114
+
+That this is the true view can scarcely be doubted , when the following
+arguments are considered . THOMSON-1862-2,480.115
+
+<paren> <font> t. <$$font> <$$paren> In the first place , we shall
+assume that at one time the earth consisted of a solid nucleus , covered
+all round with a very deep ocean of melted rocks , and left to cool by
+radiation into space . THOMSON-1862-2,480.116
+
+This is the condition that would supervene , on a cold body much smaller
+than the present earth meeting a great number of cool bodies still
+smaller than itself , THOMSON-1862-2,480.117
+
+and is therefore in accordance with what we may regard as a probable
+hypothesis regarding the earth's antecedents . THOMSON-1862-2,480.118
+
+It includes , as a particular case , the commoner supposition , that the
+earth was once melted throughout , a condition which might result from
+the collision of two nearly equal masses . THOMSON-1862-2,480.119
+
+But the evidence which has convinced most geologists that the earth had
+a fiery beginning , goes but a very small depth below the surface ,
+THOMSON-1862-2,480.120
+
+and affords us absolutely no means of distinguishing between the actual
+phenomena , and those which would have resulted from either an entire
+globe of liquid rock , or a cool solid nucleus covered with liquid to
+any depth exceeding 50 or 100 miles . THOMSON-1862-2,480.121
+
+Hence , irrespectively of any hypothesis as to antecedents from which
+the earth's initial fiery condition may have followed by natural causes
+, and simply assuming , as rendered probable by geological evidence ,
+that there was at one time melted rock all over the surface , we need
+not assume the <P_481> depth of this lava ocean to have been more than
+50 or 100 miles ; although we need not exclude the supposition of any
+greater depth , or of an entire globe of liquid .
+THOMSON-1862-2,481.122
+
+<paren> <font> u. <$$font> <$$paren> In the process of refrigeration ,
+the fluid must <bracket> as I have remarked regarding the sun , in a
+recent article in <font> Macmillan's Magazine <$$font> <paren> March ,
+1862 <$$paren> , and regarding the earth's atmosphere , in a
+communication to the Literary and Philosophical Society of Manchester
+<$$bracket> be brought by convection , to fulfil a definite law of
+distribution of temperature which I have called " convective equilibrium
+of temperature . " That is to say , the temperatures at different parts
+in the interior must <bracket> in any great fluid mass which is kept
+well stirred <$$bracket> differ according to the different pressures by
+the difference of temperatures which any one portion of the liquid would
+present , if given at the temperature and pressure of any part , and
+then subjected to variation of pressure , but prevented from losing or
+gaining heat . THOMSON-1862-2,481.123
+
+The reason for this is the extreme slowness of true thermal conduction ;
+and the consequently preponderating influence of great currents
+throughout a continuous fluid mass , in determining the distribution of
+temperature through the whole . THOMSON-1862-2,481.124
+
+<paren> <font> v. <$$font> <$$paren> The thermo-dynamic law connecting
+temperature and pressure in a fluid mass , not allowed to lose or gain
+heat , investigated theoretically , and experimentally verified in the
+cases of air and water , by Dr Joule and myself , shows , therefore ,
+that the temperature in the liquid will increase from the surface
+downwards , if , as is most probably the case , the liquid contracts in
+cooling . THOMSON-1862-2,481.125
+
+On the other hand , if the liquid , like water near its <P_482>
+freezing-point , expands in cooling , the temperature , according to the
+convective and thermo-dynamic laws just stated <paren> sections
+{TEXT:two_consecutive_section_symbols} <font> u , v <$$font> <$$paren> ,
+would actually be lower at great depths than near the surface , even
+although the liquid is cooling from the surface ; THOMSON-1862-2,482.126
+
+but there would be a very thin superficial layer of lighter and cooler
+liquid , losing heat by true conduction , until solidification at the
+surface would commence . THOMSON-1862-2,482.127
+
+<paren> <font> w. <$$font> <$$paren> Again , according to the
+thermo-dynamic law of freezing , investigated by my brother , Professor
+James Thomson , and verified by myself experimentally for water , the
+temperature of solidification will , at great depths , because of the
+great pressure , be higher there than at the surface if the fluid
+contracts , or lower than at the surface if it expands , in becoming
+solid . THOMSON-1862-2,482.128
+
+<paren> <font> x. <$$font> <$$paren> How the temperature of
+solidification , for any pressure , may be related to the corresponding
+temperature of fluid convective equilibrium , it is impossible to say ,
+without knowledge , which we do not yet possess , regarding the
+expansion with heat , and the specific heat of the fluid , and the
+change of volume , and the latent heat developed in the transition from
+fluid to solid . THOMSON-1862-2,482.129
+
+<paren> <font> y. <$$font> <$$paren> For instance , supposing , as is
+most probably true , both that the liquid contracts in cooling towards
+its freezing-point , and that it contracts in freezing , we can@ @not
+tell , without definite numerical data regarding those elements ,
+whether the elevation of the temperature of solidification , or of the
+actual temperature of a portion of the fluid given just above its
+freezing-point , produced by a given application of pressure is the
+greater . THOMSON-1862-2,482.130
+
+If the former is greater than the latter , solidification would commence
+at the bottom , or at the centre , if there is no solid nucleus to begin
+with , THOMSON-1862-2,482.131
+
+and would proceed outwards ; THOMSON-1862-2,482.132
+
+and there could be no complete permanent incrustation all round the
+surface till the whole globe is solid , with , possibly , the exception
+of irregular , comparatively small spaces of liquid .
+THOMSON-1862-2,482.133
+
+<paren> <font> z. <$$font> <$$paren> If , on the contrary , the
+elevation of temperature , produced <P_483> by an application of
+pressure to a given portion of the fluid , is greater than the elevation
+of the freezing temperature produced by the same amount of pressure ,
+the superficial layer of the fluid would be the first to reach its
+freezing-point , and the first actually to freeze .
+THOMSON-1862-2,483.134
+
+<paren> <font> aa. <$$font> <$$paren> But if , according to the second
+supposition of section {TEXT:section_symbol} <font> v , <$$font> the
+liquid expanded in cooling near its freezing-point , the solid would
+probably likewise be of less specific gravity than the liquid at its
+freezing-point . THOMSON-1862-2,483.135
+
+Hence the surface would crust over permanently with a crust of solid ,
+constantly increasing inwards by the freezing of the interior fluid in
+consequence of heat conducted out through the crust .
+THOMSON-1862-2,483.136
+
+The condition most commonly assumed by geologists would thus be produced
+. THOMSON-1862-2,483.137
+
+<paren> <font> bb. <$$font> <$$paren> But Bischof's experiments , upon
+the validity of which , as far as I am aware , no doubt has ever been
+thrown , show that melted granite , slate , and trachyte , all contract
+by something about 20 per_cent. in freezing . THOMSON-1862-2,483.138
+
+We ought , indeed , to have more experiments on this most important
+point , both to verify Bischof's results on rocks , and to learn how the
+case is with iron and other unoxydised metals . THOMSON-1862-2,483.139
+
+In the meantime we must consider it as probable that the melted
+substance of the earth did really contract by a very considerable amount
+in becoming solid . THOMSON-1862-2,483.140
+
+<paren> <font> cc. <$$font> <$$paren> Hence if , according to any
+relations whatever among the complicated physical circumstances
+concerned , freezing did really commence at the surface , either all
+round or in any part , before the whole globe had become solid , the
+solidified superficial layer must have broken up and sunk to the bottom
+, or to the centre , before it could have attained a sufficient
+thickness to rest stably on the lighter liquid below .
+THOMSON-1862-2,483.141
+
+It is quite clear , indeed , that if at any time the earth were in the
+condition of a thin solid shell of , let us suppose 50 feet or 100 feet
+thick of granite , enclosing a continuous melted mass of 20 per_cent.
+less specific gravity in its upper parts , where the pressure is small ,
+this condition can@ @not have lasted many minutes .
+THOMSON-1862-2,483.142
+
+The rigidity of a solid shell of superficial extent so vast in
+comparison with its thickness , must be as nothing ,
+THOMSON-1862-2,483.143
+
+and the slightest disturbance would cause some part to bend down , crack
+, and allow the liquid to run out over the whole solid .
+THOMSON-1862-2,483.144
+
+The crust itself would in consequence become shattered into fragments ,
+which must all sink to the bottom , or meet in <P_484> the centre and
+form a nucleus there if there is none to begin with .
+THOMSON-1862-2,484.145
+
+<paren> <font> dd. <$$font> <$$paren> It is , however , scarcely
+possible , that any such continuous crust can ever have formed all over
+the melted surface at one time , and afterwards have fallen in .
+THOMSON-1862-2,484.146
+
+The mode of solidification conjectured in section {TEXT:section_symbol}
+<font> y , <$$font> seems on the whole the most consistent with what we
+know of the physical properties of the matter concerned .
+THOMSON-1862-2,484.147
+
+So far as regards the result , it agrees , I believe , with the view
+adopted as the most probable by Mr Hopkins . THOMSON-1862-2,484.148
+
+But whether from the condition being rather that described in section
+{TEXT:section_symbol} <font> z , <$$font> which seems also possible ,
+for the whole or for some parts of the heterogeneous substance of the
+earth , or from the viscidity as of mortar , which necessarily
+supervenes in a melted fluid , composed of ingredients becoming , as the
+whole cools , separated by crystallizing at different temperatures
+before the solidification is perfect , and which we actually see in lava
+from modern volcanoes ; it is probable that when the whole globe , or
+some very thick superficial layer of it , still liquid or viscid , has
+cooled down to near its temperature of perfect solidification ,
+incrustation at the surface must commence . THOMSON-1862-2,484.149
+
+<paren> <font> ee. <$$font> <$$paren> It is probable that crust may
+thus form over wide extents of surface , and may be temporarily buoyed
+up by the vesicular character it may have retained from the ebullition
+of the liquid in some places , or , at all events , it may be held up by
+the viscidity of the liquid ; until it has acquired some considerable
+thickness sufficient to allow gravity to manifest its claim , and sink
+the heavier solid below the lighter liquid . THOMSON-1862-2,484.150
+
+This process must go on until the sunk portions of crust build up from
+the bottom a sufficiently close ribbed solid skeleton or frame , to
+allow fresh incrustations to remain bridging across the now small areas
+of lava pools or lakes . THOMSON-1862-2,484.151
+
+<paren> <font> ff. <$$font> <$$paren> In the honey-combed solid and
+liquid mass thus formed , there must be a continual tendency for the
+liquid , in consequence of its less specific gravity , to work its way
+up ; whether by masses of solid falling from the roofs of vesicles or
+tunnels , and causing earthquake shocks , or by the roof breaking quite
+through when very thin , so as to cause two such hollows to unite , or
+the liquid of <P_485> any of them to flow out freely over the outer
+surface of the earth ; or by gradual subsidence of the solid , owing to
+the thermodynamic melting , which portions of it , under intense stress
+, must experience , according to views recently published by Professor
+James Thomson . THOMSON-1862-2,485.152
+
+The results which must follow from this tendency seem sufficiently great
+and various to account for all that we see at present , and all that we
+learn from geological investigation , of earthquakes , of upheavals ,
+and subsidences of solid , and of eruptions of melted rock .
+THOMSON-1862-2,485.153
+
+<paren> <font> gg. <$$font> <$$paren> These conclusions , drawn solely
+from a consideration of the necessary order of cooling and consolidation
+, according to Bischof's result as to the relative specific gravities of
+solid and of melted rock , are in perfect accordance with section
+{TEXT:section_symbol} 832 ... 848 , regarding the present condition of
+the earth's interior , - that it is not , as commonly supposed , all
+liquid within a thin solid crust of from 30 to 100 miles thick , but
+that it is on the whole more rigid certainly than a continuous solid
+globe of glass of the same diameter , and probably than one of steel .
+THOMSON-1862-2,485.154
+
+<heading>
+
+<paren> E. <$$paren> On the Age of the Sun's Heat .
+THOMSON-1862-2,485.156
+
+<$$heading>
+
+The second great law of Thermodynamics involves a certain principle of
+<font> irreversible action in nature . <$$font> THOMSON-1862-2,485.158
+
+It is thus shown that , although mechanical energy is <font>
+indestructible , <$$font> there is a universal tendency to its
+dissipation , which produces gradual augmentation and diffusion of heat
+, cessation of motion , and exhaustion of potential energy through the
+material universe . THOMSON-1862-2,485.159
+
+The result would inevitably be a state of universal rest and death , if
+the universe were finite and left to obey existing laws .
+THOMSON-1862-2,485.160
+
+But it is impossible to conceive a limit to the extent of matter in the
+universe ; THOMSON-1862-2,485.161
+
+and therefore science points rather to an endless progress , through an
+endless space , of action involving the transformation <P_486> of
+potential energy into palpable motion and thence into heat , than to a
+single finite mechanism , running down like a clock , and stopping for
+ever . THOMSON-1862-2,486.162
+
+It is also impossible to conceive either the beginning or the
+continuance of life , without an overruling creative power ;
+THOMSON-1862-2,486.163
+
+and , therefore , no conclusions of dynamical science regarding the
+future condition of the earth , can be held to give dispiriting views as
+to the destiny of the race of intelligent beings by which it is at
+present inhabited . THOMSON-1862-2,486.164
+
+The object proposed in the present article is an application of these
+general principles to the discovery of probable limits to the periods of
+time , past and future , during which the sun can be reckoned on as a
+source of heat and light . THOMSON-1862-2,486.165
+
+The subject will be discussed under three heads : - I. The secular
+cooling of the sun . II. The present temperature of the sun . III.
+The origin and total amount of the sun's heat . THOMSON-1862-2,486.166
+
+<heading>
+
+Part I . THOMSON-1862-2,486.168
+
+On the secular cooling of the sun . THOMSON-1862-2,486.169
+
+<$$heading>
+
+How much the sun is actually cooled from year to year , if at all , we
+have no means of ascertaining , or scarcely even of estimating in the
+roughest manner . THOMSON-1862-2,486.171
+
+In the first place we do not know that he is losing heat at all .
+THOMSON-1862-2,486.172
+
+For it is quite certain that <font> some heat <$$font> is generated in
+his atmosphere by the influx of meteoric matter ; THOMSON-1862-2,486.173
+
+and it is possible that the <font> amount <$$font> of heat so generated
+from year to year is sufficient to compensate the loss by radiation .
+THOMSON-1862-2,486.174
+
+It is , however , also possible that the sun is now an incandescent
+liquid mass , radiating away heat , either primitively created in his
+substance , or , what seems far more probable , generated by the falling
+in of meteors in past times , with no sensible compensation by a
+continuance of meteoric action . THOMSON-1862-2,486.175
+
+It has been shown that , if the former supposition were true , the
+meteors by which the sun's heat would have been produced during the last
+2,000 or 3,000 years must have been during all <P_487> that time much
+within the earth's distance from the sun , and must therefore have
+approached the central body in very gradual spirals ; because , if
+enough of matter to produce the supposed thermal effect fell in from
+space outside the earth's orbit , the length of the year would have been
+very sensibly shortened by the additions to the sun's mass which must
+have been made . THOMSON-1862-2,487.176
+
+The quantity of matter annually falling in must , on that supposition ,
+have amounted to 1$$47 of the earth's mass , or to 1$$17,000,000 of the
+sun's ; THOMSON-1862-2,487.177
+
+and therefore it would be necessary to suppose the zodiacal light to
+amount to at least 1$$5000 of the sun's mass , to account in the same
+way for a future supply of 3,000 years' sun-heat .
+THOMSON-1862-2,487.178
+
+When these conclusions were first published it was pointed out that "
+disturbances in the motions of visible planets " should be looked for ,
+as affording us means for estimating the possible amount of matter in
+the zodiacal light ; THOMSON-1862-2,487.179
+
+and it was conjectured that it could not be nearly enough to give a
+supply of 300,000 years' heat at the present rate .
+THOMSON-1862-2,487.180
+
+These anticipations have been to some extent fulfilled in Le Verrier's
+great researches on the motion of the planet Mercury , which have
+recently given evidence of a sensible influence attributable to matter
+circulating as a great number of small planets within his orbit round
+the sun . THOMSON-1862-2,487.181
+
+But the amount of matter thus indicated is very small ;
+THOMSON-1862-2,487.182
+
+and , therefore , if the meteoric influx taking place at present is
+enough to produce any appreciable portion of the heat radiated away , it
+must be supposed to be from matter circulating round the sun , within
+very short distances of his surface . THOMSON-1862-2,487.183
+
+The density of this meteoric cloud would have to be supposed so great
+that comets could scarcely have escaped , as comets actually have
+escaped , showing no discoverable effects of resistance , after passing
+his surface within a distance equal to 1$$8 of his radius .
+THOMSON-1862-2,487.184
+
+All things considered , there seems little probability in the hypothesis
+that solar radiation is compensated , to any appreciable degree , by
+heat generated by meteors falling in , at present ;
+THOMSON-1862-2,487.185
+
+and , as it can be shown that no chemical theory is tenable , it must be
+concluded as most probable that the sun is at present merely an
+incandescent liquid mass cooling . THOMSON-1862-2,487.186
+
+How much he cools from year to year , becomes therefore a <P_488>
+question of very serious import , THOMSON-1862-2,488.187
+
+but it is one which we are at present quite unable to answer .
+THOMSON-1862-2,488.188
+
+It is true we have data on which we might plausibly found a probable
+estimate , and from which we might deduce , with at first sight
+seemingly well_founded confidence , limits , not very wide , within
+which the present true rate of the sun's cooling must lie .
+THOMSON-1862-2,488.189
+
+For we know , from the independent but concordant investigations of
+Herschel and Pouillet , that the sun radiates every year from his whole
+surface about 6 x 10=30= <paren>
+six_million_million_million_million_million <$$paren> times as much heat
+as is sufficient to raise the temperature of 1 lb. of water by 1@ @=o=
+Cent. THOMSON-1862-2,488.190
+
+We also have excellent reason for believing that the sun's substance is
+very much like the earth's . THOMSON-1862-2,488.191
+
+Stokes's principles of solar and stellar chemistry have been for many
+years explained in the University of Glasgow , THOMSON-1862-2,488.192
+
+and it has been taught as a first result that sodium does certainly
+exist in the sun's atmosphere , and in the atmospheres of many of the
+stars , but that it is not discoverable in others .
+THOMSON-1862-2,488.193
+
+The recent application of these principles in the splendid researches of
+Bunsen and Kirchhof <paren> who made an independent discovery of
+Stokes's theory <$$paren> has demonstrated with equal certainty that
+there are iron and manganese , and several of our other known metals ,
+in the sun . THOMSON-1862-2,488.194
+
+The specific heat of each of these substances is less than the specific
+heat of water , which indeed exceeds that of every other known
+terrestrial body , solid or liquid . THOMSON-1862-2,488.195
+
+It might , therefore , at first sight seem probable that the mean
+specific heat of the sun's whole substance is less , and very certain
+that it can@ @not be much greater , than that of water .
+THOMSON-1862-2,488.196
+
+If it were equal to the specific heat of water we should only have to
+divide the preceding number <paren> 6 x 10=30= <$$paren> , derived from
+Herschel's and Pouillet's observations , by the number of pounds <paren>
+4.23 x 10=30= <$$paren> in the sun's mass , to find 1.4@ @=o=
+{TEXT:1=o=.4} Cent. for the present annual rate of <P_489> cooling .
+THOMSON-1862-2,489.197
+
+It might therefore seem probable that the sun cools more , and almost
+certain that he does not cool less , than a centigrade degree and
+four-tenths annually . THOMSON-1862-2,489.198
+
+But , if this estimate were well founded , it would be equally just to
+assume that the sun's expansibility with heat does not differ greatly
+from that of some average terrestrial body . THOMSON-1862-2,489.199
+
+If , for instance , it were the same as that of solid glass , which is
+about 1$$40000 of bulk , or 1$$120000 of diameter , per 1@ @=o= Cent.
+<paren> and for most terrestrial liquids , especially at high
+temperatures , the expansibility is much more <$$paren> , and if the
+specific heat were the same as that of liquid water , there would be in
+860 years a contraction of one per_cent. on the sun's diameter , which
+could scarcely have escaped detection by astronomical observation .
+THOMSON-1862-2,489.200
+
+There is , however , a far stronger reason than this for believing that
+no such amount of contraction can have taken place , and therefore for
+suspecting that the physical circumstances of the sun's mass render the
+condition of the substances of which it is composed , as to
+expansibility and specific heat , very different from that of the same
+substances when experimented on in our terrestrial laboratories .
+THOMSON-1862-2,489.201
+
+Mutual gravitation between the different parts of the sun's contracting
+mass must do an amount of work , which can@ @not be calculated with
+certainty , only because the law of the sun's interior density is not
+known . THOMSON-1862-2,489.202
+
+The amount of work performed during a contraction of one-tenth per_cent.
+of the diameter , if the density remained uniform through the interior ,
+would , as Helmholtz showed , be equal to 20,000 times the mechanical
+equivalent of the amount of heat which Pouillet estimated to be radiated
+from the sun in a year . THOMSON-1862-2,489.203
+
+But in reality the sun's density must increase very much towards his
+centre , and probably in varying proportions , as the temperature
+becomes lower and the whole mass contracts . THOMSON-1862-2,489.204
+
+We can@ @not , therefore , say whether the work actually done by mutual
+gravitation during a contraction of one-tenth per_cent. of the diameter
+, would be <P_490> more or less than the equivalent of 20,000 years'
+heat ; THOMSON-1862-2,490.205
+
+but we may regard it as most probably not many times more or less than
+this amount . THOMSON-1862-2,490.206
+
+Now , it is in the highest degree improbable that mechanical energy can
+in any case increase in a body contracting in virtue of cooling .
+THOMSON-1862-2,490.207
+
+It is certain that it really does diminish very notably in every case
+hitherto experimented on . THOMSON-1862-2,490.208
+
+It must be supposed , therefore , that the sun always radiates away in
+heat something more than the Joule-equivalent of the work done on his
+contracting mass , by mutual gravitation of its parts .
+THOMSON-1862-2,490.209
+
+Hence , in contracting by one-tenth per_cent. in his diameter , or
+three-tenths per_cent. in his bulk , the sun must give out something
+either more , or not greatly less , than 20,000 years' heat ;
+THOMSON-1862-2,490.210
+
+and thus , even without historical evidence as to the constancy of his
+diameter , it seems safe to conclude that no such contraction as that
+calculated above one per_cent. in 860 years can have taken place in
+reality . THOMSON-1862-2,490.211
+
+It seems , on the contrary , probable that , at the present rate of
+radiation , a contraction of one-tenth per_cent. in the sun's diameter
+could not take place in much less than 20,000 years , and scarcely
+possible that it could take place in less than 8,600 years .
+THOMSON-1862-2,490.212
+
+If , then , the mean specific heat of the sun's mass , in its actual
+condition , is not more than ten times that of water , the expansibility
+in volume must be less than 1$$4000 per 100@ @=o= Cent. , <paren> that
+is to say , less than 1$$10 of that of solid glass , <$$paren> which
+seems improbable . THOMSON-1862-2,490.213
+
+But although from this consideration we are led to regard it as probable
+that the sun's specific heat is considerably more than ten times that of
+water <paren> and , therefore , that his mass cools considerably less
+than 100@ @=o= in 700 years , a conclusion which , indeed , we could
+scarcely avoid on simply geological grounds <$$paren> , the physical
+principles we now rest on fail to give us any reason for supposing that
+the sun's specific heat is more than 10,000 times that of water ,
+because we can@ @not say that his expansibility in volume is probably
+more than 1$$400 per 1@ @=o= Cent. THOMSON-1862-2,490.214
+
+And there is , on other grounds , very strong reason for believing that
+the specific heat is really much less than 10,000 .
+THOMSON-1862-2,490.215
+
+For it is almost certain that the sun's mean temperature is even now as
+high as 14,000@ @=o= <P_491> Cent. ; THOMSON-1862-2,491.216
+
+and the greatest quantity of heat that we can explain , with any
+probability , to have been by natural causes ever acquired by the sun
+<paren> as we shall see in the third part of this article <$$paren> ,
+could not have raised his mass at any time to this temperature , unless
+his specific heat were less than 10,000 times that of water .
+THOMSON-1862-2,491.217
+
+We may therefore consider it as rendered highly probable that the sun's
+specific heat is more than ten times , and less than 10,000 times , that
+of liquid water . THOMSON-1862-2,491.218
+
+From this it would follow with certainty that his temperature sinks 100@
+@=o= Cent. in some time from 700 years to 700,000 years .
+THOMSON-1862-2,491.219
+
+<heading>
+
+Part II . THOMSON-1862-2,491.221
+
+On the sun's present temperature . THOMSON-1862-2,491.222
+
+<$$heading>
+
+At his surface the sun's temperature can@ @not , as we have many reasons
+for believing , be incomparably higher than temperatures attainable
+artificially in our terrestrial laboratories . THOMSON-1862-2,491.224
+
+Among other reasons it may be mentioned that the sun radiates heat ,
+from every square foot of his surface , at only about 7,000 horse power
+. THOMSON-1862-2,491.225
+
+Coal , burning at a rate of a little less than a pound per two seconds ,
+would generate the same amount ; THOMSON-1862-2,491.226
+
+and it is estimated <paren> Rankine , ' Prime Movers , ' p. 285 , Ed.
+1859 <$$paren> that , in the furnaces of locomotive engines , coal burns
+at from one pound in thirty seconds to one pound in ninety seconds , per
+square foot of grate-bars . THOMSON-1862-2,491.227
+
+Hence heat is radiated from the sun at a rate not more than from fifteen
+to forty-five times as high as that at which heat is generated on the
+grate-bars of a locomotive furnace , per equal areas .
+THOMSON-1862-2,491.228
+
+<P_492>
+
+The interior temperature of the sun is probably far higher than that at
+his surface , because direct conduction can play no sensible part in the
+transference of heat between the inner and outer portions of his mass ,
+and there must in virtue of the prodigious convective currents due to
+cooling of the outermost portions by radiation into space , be an
+approximate <font> convective <$$font> equilibrium of heat throughout
+the whole , if the whole is fluid . That is to say , the temperatures ,
+at different distances from the centre , must be approximately those
+which any portion of the substance , if carried from the centre to the
+surface , would acquire by expansion without loss or gain of heat .
+THOMSON-1862-2,492.230
+
+<heading>
+
+Part III . THOMSON-1862-2,492.232
+
+On the origin and total amount of the sun's heat .
+THOMSON-1862-2,492.233
+
+<$$heading>
+
+The sun being , for reasons referred to above , assumed to be an
+incandescent liquid now losing heat , the question naturally occurs ,
+How did this heat originate ? THOMSON-1862-2,492.235
+
+It is certain that it can@ @not have existed in the sun through an
+infinity of past time , since , as long as it has so existed , it must
+have been suffering dissipation , and the finiteness of the sun
+precludes the supposition of an infinite primitive store of heat in his
+body . THOMSON-1862-2,492.236
+
+The sun must , therefore , either have been created an active source of
+heat at some time of not immeasurable antiquity by an over-ruling decree
+; THOMSON-1862-2,492.237
+
+or the heat which he has already radiated away , and that which he still
+possesses , must have been acquired by a natural process , following
+permanently established laws . THOMSON-1862-2,492.238
+
+Without pronouncing the former supposition to be essentially incredible
+, we may safely say that it is in the highest degree improbable , if we
+can show the latter to be not contradictory to known physical laws .
+THOMSON-1862-2,492.239
+
+And we do show this and more , by merely pointing to certain actions ,
+going on before us at present , which , if sufficiently abundant at some
+past time , must have given the sun heat enough to account for all we
+know of his past radiation and present temperature .
+THOMSON-1862-2,492.240
+
+It is not necessary at present to enter at length on details regarding
+the meteoric theory , which appears to have been first proposed in a
+definite form by Mayer , and afterwards independently <P_493> by
+Waterston ; or regarding the modified hypothesis of meteoric vortices ,
+which the writer of the present article showed to be necessary , in
+order that the length of the year , as known for the last 2,000 years ,
+may not have been sensibly disturbed by the accessions which the sun's
+mass must have had during that period , if the heat radiated away has
+been always compensated by heat generated by meteoric influx .
+THOMSON-1862-2,493.241
+
+For the reasons mentioned in the first part of the present article , we
+may now believe that all theories of complete , or nearly complete ,
+contemporaneous meteoric compensation , must be rejected ;
+THOMSON-1862-2,493.242
+
+but we may still hold that - <font> " Meteoric action ... is ... not
+only proved to exist as a cause of solar heat , but it is the only one
+of all conceivable causes which we know to exist from independent
+evidence . " <$$font> THOMSON-1862-2,493.243
+
+The form of meteoric theory which now seems most probable , and which
+was first discussed on true thermodynamic principles by Helmholtz ,
+consists in supposing the sun and his heat to have originated in a
+coalition of smaller bodies , falling together by mutual gravitation ,
+and generating , as they must do according to the great law demonstrated
+by Joule , an exact equivalent of heat for the motion lost in collision
+. THOMSON-1862-2,493.244
+
+That some form of the meteoric theory is certainly the true and complete
+explanation of solar heat can scarcely be doubted , when the following
+reasons are considered : THOMSON-1862-2,493.245
+
+<paren> 1 <$$paren> No other natural explanation , except by chemical
+action , can be conceived . THOMSON-1862-2,493.246
+
+<paren> 2 <$$paren> The chemical theory is quite insufficient , because
+the most energetic chemical action we know , taking place between
+substances amounting to the whole sun's mass , would only generate about
+3,000 years' heat . THOMSON-1862-2,493.247
+
+<paren> 3 <$$paren> There is no difficulty in accounting for 20,000,000
+years' heat by the meteoric theory . THOMSON-1862-2,493.248
+
+<P_494>
+
+It would extend this article to too great a length , and would require
+something of mathematical calculation , to explain fully the principles
+on which this last estimate is founded . THOMSON-1862-2,494.250
+
+It is enough to say that bodies , all much smaller than the sun ,
+falling together from a state of relative rest , at mutual distances all
+large in comparison with their diameters , and forming a globe of
+uniform density equal in mass and diameter to the sun , would generate
+an amount of heat which , accurately calculated according to Joule's
+principles and experimental results , is found to be just 20,000,000
+times Pouillet's estimate of the annual amount of solar radiation .
+THOMSON-1862-2,494.251
+
+The sun's density must , in all probability , increase very much towards
+his centre , THOMSON-1862-2,494.252
+
+and therefore a considerably greater amount of heat than that must be
+supposed to have been generated if his whole mass was formed by the
+coalition of comparatively small bodies . THOMSON-1862-2,494.253
+
+On the other hand , we do not know how much heat may have been
+dissipated by resistance and minor impacts before the final
+conglomeration ; THOMSON-1862-2,494.254
+
+but there is reason to believe that even the most rapid conglomeration
+that we can conceive to have probably taken place could only leave the
+finished globe with about half the entire heat due to the amount of
+potential energy of mutual gravitation exhausted .
+THOMSON-1862-2,494.255
+
+We may , therefore , accept , as a lowest estimate for the sun's initial
+heat , 10,000,000 times a year's supply at present rate , but 50,000,000
+or 100,000,000 as possible , in consequence of the sun's greater density
+in his central parts . THOMSON-1862-2,494.256
+
+The considerations adduced above , in this paper , regarding the sun's
+possible specific heat , rate of cooling , and superficial temperature ,
+render it probable that he must have been very sensibly warmer
+one_million years ago than now ; and , consequently , that if he has
+existed as a luminary for ten or twenty_million years , he must have
+radiated away considerably more than ten or twenty_million times the
+present yearly amount of loss . THOMSON-1862-2,494.257
+
+It seems , therefore , on the whole most probable that the sun has not
+illuminated the earth for 100,000,000 years , and almost certain that he
+has not done so for 500,000,000 years . THOMSON-1862-2,494.258
+
+As for the future , we may say , with equal certainty , that inhabitants
+of the earth can@ @not continue to enjoy the light and heat essential to
+their life , for many million years longer , unless sources now unknown
+to us are prepared in the great storehouse of creation .
+THOMSON-1862-2,494.259
+
