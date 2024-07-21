@@ -6205,7 +6205,7 @@
 	  (NP-SBJ (PRO I#i_pron))
 	  (VBP hope#hope_v)
 	  (CP-THT (C 0)
-		  (IP-SUB (NP-SBJ (NP-POS (PRO$ your#your_pron) (N$ Lordship's#lordship_n))
+		  (IP-SUB (NP-SBJ (NP-POS (ADJ yowr#yure_n) (N$ Lordship's#lordship_n))
 				  (N Worship#worship_n))
 			  (MD will#will_v1)
 			  (VB forgive#forgive_v)
