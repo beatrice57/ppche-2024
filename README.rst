@@ -29,9 +29,7 @@ been streamlined to minimize differences across the three time periods
 and inconsistencies across related syntactic phenomena.
 
 All of the texts come in three forms: plain text, part-of-speech tagged
-text, and syntactically annotated (parsed) text.  In addition, the
-PPCEME and PPCMBE2 come in lemmatized form (best regarded as a beta
-release), based on information from the Oxford English Dictionary (OED).
+text, and syntactically annotated (parsed) text.  
 Each text also has an associated file with philological information.
 
 Each of the three subcorpora has its own directory and should be cited
@@ -49,15 +47,15 @@ individually as follows:
   second edition, release 2.
 
 The directory for each subcorpus in turn has two directories: data and
-docs.  The data directory contains three or four subdirectories with the
-plain and annotated text files (text, pos-tagged, parsed, lemmatized).
+docs.  The data directory contains three subdirectories with the
+plain and annotated text files (text, pos-tagged, parsed).
 The docs directory contains a general description of each subcorpus and
 a philological_info_files directory with philological information for
 each text.
 
 All data is encoded in UTF-8.  The data files are presented as plain
 text, and all philological information as html.  The parsed files
-(including the lemmatized files) are in Penn Treebank format.
+are in Penn Treebank format.
 
 License
 =======
