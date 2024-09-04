@@ -8587,7 +8587,7 @@
 			(NP (PRO him))))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (VBN considered)
+		 (IP-MAT=1 (VBN considered)
 			   (NP-OB1 (PRO him))
 			   (ADVP (ADVR rather)
 				 (PP *ICH*-3))

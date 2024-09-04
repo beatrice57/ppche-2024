@@ -4610,7 +4610,7 @@
 		    (NP-PRD (D a) (N Logician)))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (VB become)
+		 (IP-MAT=1 (VB become)
 			   (NP-PRD (N Master)
 				   (PP (P of)
 				       (NP (D the)

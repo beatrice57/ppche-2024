@@ -28300,7 +28300,7 @@
 					  (NP-OB1 (PRO$ their) (N point)))
 				  (PUNC ,)
 				  (CONJP (CONJ and)
-					 (IP-SUB (NP-SBJ (PRO he))
+					 (IP-MAT (NP-SBJ (PRO he))
 						 (HVD had)
 						 (NP-OB1 (Q no) (N doubt))
 						 (CP-THT (FP but)

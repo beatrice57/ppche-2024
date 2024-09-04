@@ -6205,7 +6205,7 @@
 	  (NP-SBJ (PRO I))
 	  (VBP hope)
 	  (CP-THT (C 0)
-		  (IP-SUB (NP-SBJ (NP-POS (ADJ yowr) (N$ Lordship's))
+		  (IP-SUB (NP-SBJ (NP-POS (PRO$ yowr) (N$ Lordship's))
 				  (N Worship))
 			  (MD will)
 			  (VB forgive)

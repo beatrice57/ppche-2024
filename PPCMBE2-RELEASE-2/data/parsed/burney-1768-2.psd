@@ -12281,7 +12281,7 @@
 			    (NP-OB1 (N mankind)))
 	      (PUNC ,)
 	      (CONJP (CONJ and)
-		     (IP-SUB-SPE=1 (VB shut)
+		     (IP-MAT-SPE=1 (VB shut)
 				   (NP-OB1 (PRO themselves))
 				   (RP up)
 				   (PP (P in)

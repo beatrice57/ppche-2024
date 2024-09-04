@@ -5224,7 +5224,7 @@
 		    (VAN prescribed))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (D the) (NS medicines))
+		 (IP-MAT=1 (NP-SBJ (D the) (NS medicines))
 			   (VAN ordered)
 			   (IP-INF (TO to) (BE be) (VAN continued))))
 	  (PUNC .))

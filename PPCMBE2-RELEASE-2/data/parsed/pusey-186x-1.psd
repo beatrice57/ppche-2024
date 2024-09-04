@@ -6972,7 +6972,7 @@
 						       (HVP hast)
 						       (VBN sinned)))
 				       (PUNC ;)
-				       (CP-REL (WNP-4 (WPRO$ Whose) (ADJ supporting) (N strength))
+				       (CP-REL (WNP-4 (WPRO$ Whose) (ADJ supporting) (PUNC ,) (ADJ enabling) (N strength))
 					       (C 0)
 					       (IP-SUB (NP-OB1 *T*-4)
 						       (NP-SBJ (PRO thou))

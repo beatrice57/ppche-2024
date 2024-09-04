@@ -21185,7 +21185,7 @@
 							(VAG firing))
 					  (PUNC ,)
 					  (CONJP (CONJ nor)
-						 (IP-SUB-SPE=1 (NP (Q no) (N Noise))
+						 (IP-SUB-SPE=1 (NP-SBJ (Q no) (N Noise))
 							       (VAN made))))))
 	      (PUNC ,)
 	      (IP-INF-ADT-PRN-SPE (TO to)

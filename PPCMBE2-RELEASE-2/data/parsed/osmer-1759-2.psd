@@ -3636,7 +3636,7 @@
 			(NP (D the) (N Toe))))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (D the)
+		 (IP-MAT=1 (NP-SBJ (D the)
 				   (N Toe)
 				   (NP-PRN (PRO itself)))
 			   (VAN thinned)

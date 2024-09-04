@@ -9197,7 +9197,7 @@
 		    (VB come)
 		    (RP down))
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (VB shed)
+		 (IP-MAT=1 (VB shed)
 			   (NP-OB1 (PRO$ his) (ADJ precious) (N Blood))
 			   (IP-INF-PRP (TO to)
 				       (VB deliver)

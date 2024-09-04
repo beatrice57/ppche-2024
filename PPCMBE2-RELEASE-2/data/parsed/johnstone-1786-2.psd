@@ -4952,7 +4952,7 @@
 		    (VAN suspected))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (PRO$ my)
+		 (IP-MAT=1 (NP-SBJ (PRO$ my)
 				   (NS asseverations)
 				   (CP-THT (C that)
 					   (IP-SUB (NP-SBJ (PRO I))

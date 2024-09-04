@@ -6277,7 +6277,7 @@
 	    (PP (P for)
 		(NP (PRO her)))
 	    (IP-MAT-PRN=1 (CONJ or)
-			  (NP (PRO she))
+			  (NP-SBJ (PRO she))
 			  (VAN carried)
 			  (RP in))
 	    (PP (P till)

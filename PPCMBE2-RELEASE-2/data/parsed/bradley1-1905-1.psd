@@ -10586,7 +10586,7 @@
 				(NP (N sulphur) (CONJ or) (N alum))))))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (VB go)
+		 (IP-MAT=1 (VB go)
 			   (PP (P on)
 			       (NP (PRO$ his) (N way)))
 			   (IP-PPL (VAG rejoicing))))

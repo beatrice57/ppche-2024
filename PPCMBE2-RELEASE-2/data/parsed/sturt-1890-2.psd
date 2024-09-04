@@ -8278,7 +8278,7 @@
 			      (ADJR thicker)))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (D the) (N sun))
+		 (IP-MAT=1 (NP-SBJ (D the) (N sun))
 			   (ADJP-PRD (QR more) (ADJ feeble))))
 	  (PUNC ,))
   (ID STURT-1890-2,1,113.569))

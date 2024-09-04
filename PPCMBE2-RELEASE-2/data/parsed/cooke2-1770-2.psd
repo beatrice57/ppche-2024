@@ -4919,7 +4919,7 @@
 			    (VAN reviewed))
 		  (CONJP (CONJ and)
 			 (IP-INF=1 (VAN kept)
-				   (NP (ADJ clean)))))
+				   (ADJP-SPR (ADJ clean)))))
 	  (PUNC ;))
   (ID COOKE2-1770-2,62.312))
 

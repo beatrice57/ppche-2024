@@ -2201,7 +2201,7 @@
 				(NP (N good)))))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (ADJ imperfect))
+		 (IP-MAT=1 (NP-SBJ (ADJ imperfect))
 			   (PP (P to)
 			       (NP (ADJ perfect)))))
 	  (PUNC .))

@@ -5232,7 +5232,7 @@
 			   (CODE <$$font>)
 			   (CONJP (CONJ and)
 				  (CODE <font>)
-				  (LATIN (FW G.) (FW elegans)))))
+				  (NP (LATIN (FW G.) (FW elegans))))))
 		(PUNC ;)
 		(CONJP (NP (LATIN (FW Achillea))
 			   (CODE <$$font>)

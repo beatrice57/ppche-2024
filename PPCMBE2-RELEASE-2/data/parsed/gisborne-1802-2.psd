@@ -5411,7 +5411,7 @@
 		    (RP out))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (N mercy) (CONJ and) (N salvation))
+		 (IP-MAT=1 (NP-SBJ (N mercy) (CONJ and) (N salvation))
 			   (VAN extended)
 			   (PP (P to)
 			       (NP (PRO you)))

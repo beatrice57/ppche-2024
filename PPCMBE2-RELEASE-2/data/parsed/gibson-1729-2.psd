@@ -421,7 +421,7 @@
 				       (NP (PRO$ their) (N Inconstancy))))
 			 (PUNC ,)
 			 (CONJP (CONJ and)
-				(IP-SUB=1 (NP-SBJ (Q some))
+				(IP-MAT=1 (NP-SBJ (Q some))
 					  (PP (P from)
 					      (NP (NS Views)
 						  (PP (P of)

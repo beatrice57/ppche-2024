@@ -21145,7 +21145,7 @@
 				(NP (PRO them))))
 	      (PUNC ,)
 	      (CONJP (CONJ nor)
-		     (IP-SUB-SPE=1 (VB shew)
+		     (IP-MAT-SPE=1 (VB shew)
 				   (NP-OB1 (N mercy))
 				   (PP (P unto)
 				       (NP (PRO them)))))

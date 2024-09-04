@@ -8535,7 +8535,7 @@
 		      (PUNC ,)
 		      (CONJP (IP-PPL=1 (REF (N c))
 				       (PUNC ,)
-				       (NP (D a) (ADJ recent) (N alluvium))
+				       (NP-SBJ (D a) (ADJ recent) (N alluvium))
 				       (PUNC ,)
 				       (VAN deposited)
 				       (PP (P by)

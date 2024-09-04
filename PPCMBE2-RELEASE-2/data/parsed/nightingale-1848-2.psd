@@ -4444,7 +4444,7 @@
 		    (NP-TMP (ONE one) (N day)))
 	  (PUNC ,)
 	  (CONJP (CONJ and)
-		 (IP-SUB=1 (NP-SBJ (NPR St.) (NPR Thingumibob))
+		 (IP-MAT=1 (NP-SBJ (NPR St.) (NPR Thingumibob))
 			   (CODE {TEXT:Thingumibo})
 			   (NP-TMP (ONE one) (N night))))
 	  (PUNC ,))
