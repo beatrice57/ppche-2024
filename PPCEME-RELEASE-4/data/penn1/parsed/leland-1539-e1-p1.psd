@@ -8294,7 +8294,7 @@
 	  (NP-SBJ-1 (PRO it))
 	  (BEP is)
 	  (ADJP-PRD (ADJ easi))
-	  (IP-INF=1 (TO to)
+	  (IP-INF-1 (TO to)
 		    (VB se)
 		    (CP-QUE-SUB (WADVP-2 (WADV wher))
 				(C 0)

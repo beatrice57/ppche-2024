@@ -4556,7 +4556,7 @@
 	  (DAN done)
 	  (PP (P of)
 	      (NP (PRO them)))
-	  (IP-INF=1 (NEG not)
+	  (IP-INF-1 (NEG not)
 		    (TO to)
 		    (VB let)
 		    (IP-INF (NP-SBJ (PRO them))

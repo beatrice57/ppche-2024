@@ -2377,7 +2377,7 @@
 	  (NEG not)
 	  (ADJP-PRD (ADJ necessary))
 	  (PUNC ,)
-	  (CP-THT=1 (C that)
+	  (CP-THT-1 (C that)
 		    (IP-SUB (NP-SBJ (PRO you))
 			    (MD should)
 			    (VB use)

@@ -348,7 +348,7 @@
 					  (ADVP-TMP (ADV ever))
 					  (NP-PRD (ADJ Landed) (NS Men)))))))
 	  (PUNC ,)
-	  (IP-INF=1 (TO to)
+	  (IP-INF-1 (TO to)
 		    (HV have)
 		    (IP-INF (NP-SBJ (PRO it))
 			    (VB goe)

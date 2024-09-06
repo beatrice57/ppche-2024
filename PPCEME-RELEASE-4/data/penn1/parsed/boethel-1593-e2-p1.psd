@@ -1855,7 +1855,7 @@
 								   (NP-SBJ (PRO$ their) (NS Judgmentes))
 								   (BEP *)))))
 	      (PUNC ,)
-	      (IP-INF-SPE=3 (CP-QUE-SUB-SPE *ICH*-1)
+	      (IP-INF-SPE-3 (CP-QUE-SUB-SPE *ICH*-1)
 			    (TO to)
 			    (VB remember))
 	      (PUNC ,)

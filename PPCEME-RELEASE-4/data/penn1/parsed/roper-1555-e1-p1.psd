@@ -2007,7 +2007,7 @@
 														(NP-SBJ-8 (PRO it))
 														(VBD liked)
 														(NP-OB2 (PRO$ his) (N highnes))
-														(IP-INF=8 (NP-OB1 *ICH*-7)
+														(IP-INF-8 (NP-OB1 *ICH*-7)
 															  (TO to)
 															  (VB vse)
 															  (PP (P vnto)

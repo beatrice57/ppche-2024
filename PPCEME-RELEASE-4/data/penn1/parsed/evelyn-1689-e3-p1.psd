@@ -6948,7 +6948,7 @@
 																					  (IP-INF (NP-SBJ-6 *exp*)
 																						  (VB appeare)
 																						  (PUNC ,)
-																						  (CP-THT=6 (C 0)
+																						  (CP-THT-6 (C 0)
 																							    (IP-SUB (NP-SBJ *T*-5)
 																								    (IP-PPL (BAG being)
 																									    (IP-INF (TO to)

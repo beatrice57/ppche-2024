@@ -2835,7 +2835,7 @@
 	  (NP-OB2 (PRO me))
 	  (VBP semeth)
 	  (PUNC ,)
-	  (CP-THT=1 (C 0)
+	  (CP-THT-1 (C 0)
 		    (IP-SUB (IP-ABS (NP-SBJ (Q all) (NS thynges))
 				    (VAN consydered))
 			    (PUNC ,)

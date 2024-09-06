@@ -4042,7 +4042,7 @@
 			  (IP-SMC (NP-SBJ *-1)
 				  (NP-PRD (D an) (N errour)))
 			  (PUNC ,)
-			  (IP-INF=1 (TO to)
+			  (IP-INF-1 (TO to)
 				    (VB commit)
 				    (NP-OB1 (D a) (ADJ naturall) (N bodie))
 				    (PP (P to)

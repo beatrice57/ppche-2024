@@ -1973,7 +1973,7 @@
 	  (NP-SBJ-1 (PRO it))
 	  (BEP is)
 	  (ADJP-PRD (ADJ impossible))
-	  (IP-INF=1 (TO to) (VB judge))
+	  (IP-INF-1 (TO to) (VB judge))
 	  (PUNC ,))
   (ID DRUMMOND-1690-E3-P1,2.4,206.76))
 
