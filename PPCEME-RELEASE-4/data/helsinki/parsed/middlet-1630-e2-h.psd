@@ -5032,7 +5032,7 @@
 		      (IP-SUB (NP-SBJ-1 (PRO it))
 			      (BEP is)
 			      (NP-PRD (PRO$ my) (N pleasure))
-			      (IP-INF=1 (IP-INF (TO to)
+			      (IP-INF-1 (IP-INF (TO to)
 						(VB walke)
 						(ADVP (ADV forth)))
 					(CONJP (CONJ And)

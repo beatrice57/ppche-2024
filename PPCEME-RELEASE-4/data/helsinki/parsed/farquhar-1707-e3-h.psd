@@ -6645,7 +6645,7 @@
 	      (WNP-1 (WADV How)
 		     (Q many)
 		     (PP *ICH*-3))
-	      (IP-SUB (NP=2 *T*-1)
+	      (IP-SUB (NP-2 *T*-1)
 		      (BEP is)
 		      (NP-SBJ-2 (EX there))
 		      (PP-3 (P of)

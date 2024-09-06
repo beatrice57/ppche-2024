@@ -5878,7 +5878,7 @@
   (ID THROCKM-1554-E1-H,I,67.C2.261))
 
 ( (CP-QUE-MAT (WNP-1 (WD what) (N Acquaintance))
-	      (IP-SUB (NP=2 *T*-1)
+	      (IP-SUB (NP-2 *T*-1)
 		      (BED was)
 		      (NP-SBJ-2 (EX there))
 		      (PP (P between)

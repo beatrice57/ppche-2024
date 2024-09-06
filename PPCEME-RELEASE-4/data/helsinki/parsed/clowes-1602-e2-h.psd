@@ -1855,7 +1855,7 @@
 	  (PP (P by)
 	      (NP (ADJ diuers) (ADJ learned) (NS men)))
 	  (PUNC <$$paren>)
-	  (IP-INF=1 (TO to)
+	  (IP-INF-1 (TO to)
 		    (VB blister)
 		    (NP-OB1 (NS$ Childrens) (NS heads))
 		    (PP (P with)

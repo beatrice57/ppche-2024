@@ -2307,7 +2307,7 @@
 		  (PP (P of)
 		      (NP (NS sydes) (CONJ and) (NS angles))))
 	  (PUNC ,)
-	  (NP-RSP=3 (QP (ADVR so) (Q manye))
+	  (NP-RSP-3 (QP (ADVR so) (Q manye))
 		    (ADJ diuers)
 		    (NS kindes)
 		    (PP *ICH*-4))

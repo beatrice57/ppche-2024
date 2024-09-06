@@ -6057,7 +6057,7 @@
 	  (NP-SBJ-5 (PRO it))
 	  (BED war)
 	  (ADJP-PRD (ADVR to) (ADJ long))
-	  (IP-INF=5 (PP *ICH*-1)
+	  (IP-INF-5 (PP *ICH*-1)
 		    (TO to)
 		    (VB wrytte))
 	  (PUNC .))

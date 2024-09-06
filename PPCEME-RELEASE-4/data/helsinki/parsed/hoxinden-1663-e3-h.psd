@@ -1623,7 +1623,7 @@
 					     (N truth)
 					     (ADV soever))
 				      (C 0)
-				      (IP-SUB (NP=2 *T*-1)
+				      (IP-SUB (NP-2 *T*-1)
 					      (NP-SBJ-2 (EX there))
 					      (BEP be)
 					      (PP (P in)

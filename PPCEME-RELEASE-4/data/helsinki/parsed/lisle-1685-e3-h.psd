@@ -6220,7 +6220,7 @@
 	  (NP-OB2 (PRO us))
 	  (CP-QUE-SUB (WNP-1 (WD what) (N Discourse))
 		      (C 0)
-		      (IP-SUB (NP=2 *T*-1)
+		      (IP-SUB (NP-2 *T*-1)
 			      (NP-SBJ-2 (EX there))
 			      (BED was)))
 	  (PUNC ?))

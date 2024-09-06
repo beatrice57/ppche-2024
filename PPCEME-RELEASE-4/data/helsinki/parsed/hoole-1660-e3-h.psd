@@ -5180,7 +5180,7 @@
 												       (PP-16 (P then)
 													      (CP-CMP (WNP-17 0)
 														      (C 0)
-														      (IP-SUB (NP=18 *T*-17)
+														      (IP-SUB (NP-18 *T*-17)
 															      (NP-SBJ-18 (EX there))
 															      (BED were)
 															      (ADVP-TMP (ADV before))

@@ -2110,7 +2110,7 @@
 		  (N custome)
 		  (PP (P amonge)
 		      (NP (PRO them))))
-	  (CP-THT=1 (C y=t=)
+	  (CP-THT-1 (C y=t=)
 		    (CP-THT (PP-2 (P whan)
 				  (CP-ADV (C 0)
 					  (IP-SUB (NP-SBJ (Q any) (N boty))

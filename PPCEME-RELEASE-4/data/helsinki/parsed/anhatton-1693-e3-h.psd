@@ -367,7 +367,7 @@
 		  (IP-SUB (NP-SBJ-1 (PRO it))
 			  (VBP begins)
 			  (IP-INF (TO to) (BE be) (VAN doubted))
-			  (CP-QUE-SUB=1 (WQ wether)
+			  (CP-QUE-SUB-1 (WQ wether)
 					(C 0)
 					(IP-SUB (NP-SBJ (D the) (N Princess))
 						(BEP be)
