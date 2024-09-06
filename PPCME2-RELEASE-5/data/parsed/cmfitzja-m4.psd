@@ -2357,7 +2357,7 @@
 				    (IP-SUB (BEP be@)
 					    (NP-SBJ-6 (PRO @it))
 					    (PUNC .)
-					    (CP-THT=6 (C that)
+					    (CP-THT-6 (C that)
 						      (IP-SUB (NP-SBJ (NPR Cirus) (CONJ &) (NPR Darius))
 							      (NP-OB1 (Q many) (ADJ grete) (NS thynges))
 							      (VBD restoryd)

@@ -6035,7 +6035,7 @@
 		  (IP-SUB (ADVP *T*-1)
 			  (BEP be)
 			  (NP-SBJ-2 (PRO it))
-			  (CP-THT=2 (C that)
+			  (CP-THT-2 (C that)
 				    (IP-SUB (NP-SBJ (D a) (ADJ relygious) (N persone))
 					    (MD owe)
 					    (NP-TMP (Q euery) (N tyme))

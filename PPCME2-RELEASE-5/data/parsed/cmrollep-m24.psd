@@ -16489,7 +16489,7 @@
 					  (IP-SUB (NP-SBJ-2 (PRO it))
 						  (BEP es)
 						  (ADJP-PRD (ADJ impossibel))
-						  (IP-INF=2 (PP *T*-1)
+						  (IP-INF-2 (PP *T*-1)
 							    (TO to)
 							    (VB com))
 						  (PUNC ,)

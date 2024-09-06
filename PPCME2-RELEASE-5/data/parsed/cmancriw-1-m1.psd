@@ -6491,7 +6491,7 @@
 	  (BEP is)
 	  (ADVP-LOC (Q+WADV ihwer))
 	  (DAN idon)
-	  (IP-INF=2 (NP-OB1 *ICH*-1)
+	  (IP-INF-2 (NP-OB1 *ICH*-1)
 		    (NP-SBJ *arb*)
 		    (TO to)
 		    (VB vnder_stonden)

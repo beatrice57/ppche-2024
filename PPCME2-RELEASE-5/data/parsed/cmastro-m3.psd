@@ -5870,7 +5870,7 @@
 	  (ADJP-PRD (ADJ necessarie)
 		    (PP (P to)
 			(NP (PRO$ thy) (N lernyng))))
-	  (IP-INF=1 (TO to)
+	  (IP-INF-1 (TO to)
 		    (VB teche)
 		    (NP-OB2 (PRO the))
 		    (ADVP-TMP (ADV first))

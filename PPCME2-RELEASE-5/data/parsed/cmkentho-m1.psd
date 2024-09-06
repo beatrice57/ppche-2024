@@ -3708,7 +3708,7 @@
 										 (NP-OB2 (PRO heom))
 										 (NEG ne)
 										 (VBP onhagige)
-										 (IP-INF=3 (PP (P ofer)
+										 (IP-INF-3 (PP (P ofer)
 											       (NP (D +tan) (NS goden)))
 											   (TO to)
 											   (VB yfeligen)
