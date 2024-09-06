@@ -3449,7 +3449,7 @@
 				  (PP (P to)
 				      (NP (D a) (ADJ violent) (N death)))
 				  (PUNC ;)
-				  (IP-MAT-PRN (CP-QUE-SUB=5 (WADVP (WADVP (WADV how))
+				  (IP-MAT-PRN (CP-QUE-SUB-5 (WADVP (WADVP (WADV how))
 								   (CONJP (CONJ or)
 									  (WPP (WADV+P wherefore)))))
 					      (PUNC ,)

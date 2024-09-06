@@ -1998,7 +1998,7 @@
 	  (NP-SBJ-1 (PRO it@))
 	  (BEP @s)
 	  (ADJP-PRD (ADJ doubtfull))
-	  (CP-QUE-SUB=1 (WQ if)
+	  (CP-QUE-SUB-1 (WQ if)
 			(C 0)
 			(IP-SUB (NP-SBJ (D this))
 				(VBP com)

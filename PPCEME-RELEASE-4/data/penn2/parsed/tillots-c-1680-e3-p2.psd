@@ -1043,9 +1043,9 @@
   (ID TILLOTS-C-1680-E3-P2,457.48))
 
 ( (IP-MAT (CONJ But)
-	  (NP-SBJ-1 (PRO he))
+	  (NP-SBJ (PRO he))
 	  (VBP takes)
-	  (NP-OB1=1 (PRO it))
+	  (NP-OB1-1 (PRO it))
 	  (PP (P for)
 	      (IP-PPL (VAN granted)))
 	  (CP-THT-1 (C that)
