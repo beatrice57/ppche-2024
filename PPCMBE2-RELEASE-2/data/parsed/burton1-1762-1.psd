@@ -5109,7 +5109,7 @@
 				      (PP (P of)
 					  (NP (N decency)))))
 			      (PUNC ,)
-			      (PP (P if)
+			      (PP-PRN (P if)
 				  (FRAG (NEG not)
 					(PP (P from)
 					    (NP (D the)

@@ -8330,7 +8330,7 @@
 	  (PP (P by)
 	      (NP (NP (NPR Stanhope))
 		  (PUNC ,)
-		  (NP (NPR Walpole))
+		  (CONJP (NP (NPR Walpole)))
 		  (CONJP (CONJ and)
 			 (NP (OTHERS others)))))
 	  (PUNC .))
