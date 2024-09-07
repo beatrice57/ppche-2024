@@ -9912,7 +9912,7 @@
 		  (PUNC ,)
 		  (CONJP (NP (N crystal)))
 		  (PUNC ,)
-		  (NP (N (N lapis) (N lazuli)))
+		  (CONJP (NP (N (N lapis) (N lazuli))))
 		  (PUNC ,)
 		  (CONJP (CONJ and)
 			 (NP (FP even)

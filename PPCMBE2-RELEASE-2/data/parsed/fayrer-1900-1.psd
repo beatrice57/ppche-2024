@@ -8623,7 +8623,7 @@
 	  (PP (P on)
 	      (NP (NP (N Botany))
 		  (PUNC ,)
-		  (NP (N Chemistry))
+		  (CONJP (NP (N Chemistry)))
 		  (PUNC ,)
 		  (CONJP (CONJ and)
 			 (NP (ADJ Natural) (N History)))))

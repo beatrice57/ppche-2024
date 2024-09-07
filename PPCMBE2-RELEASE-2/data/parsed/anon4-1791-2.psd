@@ -11251,7 +11251,7 @@
 			  (PP (P by)
 			      (NP (NP (NPR Vandyke))
 				  (PUNC ,)
-				  (NP (NPR Rubens))
+				  (CONJP (NP (NPR Rubens)))
 				  (PUNC ,)
 				  (CONJP (NP (NPR Vander) (NPR Hulst)))
 				  (PUNC ,)

@@ -6106,7 +6106,7 @@
 		  (PP (P with)
 		      (NP (NP (NS Wings))
 			  (PUNC ,)
-			  (NP (NS Legs))
+			  (CONJP (NP (NS Legs)))
 			  (PUNC ,)
 			  (CONJP (CONJ and)
 				 (NP (OTHER other)
