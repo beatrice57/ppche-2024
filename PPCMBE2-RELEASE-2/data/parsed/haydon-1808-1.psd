@@ -8288,7 +8288,7 @@
 			   (PP (P without)
 			       (NP (NP (D a) (N home))
 				   (PUNC ,)
-				   (NP (D a) (N wife))
+				   (CONJP (NP (D a) (N wife)))
 				   (CONJP (CONJ or)
 					  (NP (D a) (N family)))))))
 	  (CONJP (CONJ and)

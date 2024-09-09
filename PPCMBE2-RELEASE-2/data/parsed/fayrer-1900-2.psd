@@ -1357,7 +1357,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BED was)
-	  (NP=1 (Q no)
+	  (NP-1 (Q no)
 		(N precedent)
 		(PP (P for)
 		    (IP-PPL (VAG giving)

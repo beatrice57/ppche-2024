@@ -3008,7 +3008,7 @@
 	  (MD will)
 	  (DO do)
 	  (ADVP (ADV well))
-	  (IP-INF=1 (TO to)
+	  (IP-INF-1 (TO to)
 		    (VB carry)
 		    (RP in)
 		    (NP-OB1 (D the) (N Abstract))

@@ -786,7 +786,7 @@
 	      (MD shall)
 	      (ADVP-TMP (ADV soon))
 	      (BE be)
-	      (NP=2 (D an)
+	      (NP-1 (D an)
 		    (N end)
 		    (PP (P of)
 			(NP (PRO$ his) (NS matters))))

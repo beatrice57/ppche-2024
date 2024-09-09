@@ -1988,7 +1988,7 @@
 					(CONJP (CP-THT (C that)
 						       (IP-SUB (IP-SUB-4 (NP-SBJ-5 (EX there))
 									 (BEP are)
-									 (NP=5 (Q some)
+									 (NP-5 (Q some)
 									       (NS facts)
 									       (RRC *ICH*-6))
 									 (PUNC ,)
@@ -2476,7 +2476,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BED was)
-	  (NP=1 (Q no)
+	  (NP-1 (Q no)
 		(N necessity)
 		(PP (P for)
 		    (IP-PPL (VAG concealing)
@@ -2990,7 +2990,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BEP is)
-	  (NP=1 (Q+N nothing)
+	  (NP-1 (Q+N nothing)
 		(ADJP (CONJ either) (ADJ trifling) (CONJ or) (ADJ impossible)))
 	  (PP (P in)
 	      (NP (D the)

@@ -3525,7 +3525,7 @@
 			    (MD will)
 			    (VB push)
 			    (ADVP (ADV again))
-			    (NP=2 (ADJ several)
+			    (NP-2 (ADJ several)
 				  (N Midsummer)
 				  (NS shoots)
 				  (ADJP (ADJR weaker)
@@ -4046,7 +4046,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BEP is)
-	  (NP=1 (ONE one)
+	  (NP-1 (ONE one)
 		(N sort)
 		(RRC (RRC (PP (P among)
 			      (NP (NS peaches)))
@@ -4993,7 +4993,7 @@
 
 ( (IP-MAT (IP-PPL-ABS (NP-SBJ-1 (EX There))
 		      (BAG being)
-		      (NP=1 (QP (Q little) (QR more))
+		      (NP-1 (QP (Q little) (QR more))
 			    (CP-EOP (WNP-2 0)
 				    (IP-INF (NP-SBJ *T*-2)
 					    (TO to)
@@ -5539,7 +5539,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BEP are)
-	  (NP=1 (NP (NS artichoaks))
+	  (NP-1 (NP (NS artichoaks))
 		(PUNC ,)
 		(CONJP (NP (NS cauliflowers)))
 		(PUNC ,)
@@ -6679,7 +6679,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BEP are)
-	  (NP=1 (NUM two)
+	  (NP-1 (NUM two)
 		(ADJ different)
 		(NS classes)
 		(PP (P of)
@@ -7344,7 +7344,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There))
 	  (BEP are)
-	  (NP=1 (NP (ADJP (ADJ blue) (CONJ and) (ADJ white))
+	  (NP-1 (NP (ADJP (ADJ blue) (CONJ and) (ADJ white))
 		    (NS figs))
 		(PUNC ,)
 		(CONJP (NP (ADJP (ADJ blue) (CONJ and) (ADJ white) (NPR perdigran))
@@ -7434,7 +7434,7 @@
 				  (NP-SBJ-2 (EX there))
 				  (BEP is)
 				  (ADVP (ADV generally))
-				  (NP=2 (D a) (N fire))))))
+				  (NP-2 (D a) (N fire))))))
 	  (PUNC .))
   (ID COOKE2-1770-2,70.467))
 
@@ -8851,7 +8851,7 @@
 					     (NP-SBJ-3 (EX there))
 					     (MD may)
 					     (BE be)
-					     (NP=3 (D a)
+					     (NP-3 (D a)
 						   (ADJ reasonable)
 						   (N number)
 						   (PP (P of)
@@ -9541,7 +9541,7 @@
 	  (MD must)
 	  (CODE {TEXT:most})
 	  (BE be)
-	  (NP=1 (D a)
+	  (NP-1 (D a)
 		(N door)
 		(RRC (VAN shaped)
 		     (PP (P to)
@@ -10634,7 +10634,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX there))
 	  (BEP are)
-	  (NP=1 (NS walnuts) (PUNC ,) (NS medlars) (PUNC ,) (CONJ and) (NS services))
+	  (NP-1 (NS walnuts) (PUNC ,) (NS medlars) (PUNC ,) (CONJ and) (NS services))
 	  (PUNC .))
   (ID COOKE2-1770-2,81.652))
 

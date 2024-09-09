@@ -440,7 +440,7 @@
 		      (NEG @n't)
 		      (NP-SBJ-1 (EX there))
 		      (BE be)
-		      (NP=1 (Q some) (N fun))
+		      (NP-1 (Q some) (N fun))
 		      (PP (P in)
 			  (NP (D that))))
 	      (PUNC ?))
@@ -6707,12 +6707,12 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX There@))
 	  (BEP @'s)
-	  (NP=1 (D a) (N jade)))
+	  (NP-1 (D a) (N jade)))
   (ID OKEEFFE-1767-2,21.448))
 
 ( (IP-MAT (NP-SBJ-1 (EX there@))
 	  (BEP @'s)
-	  (NP=1 (D a) (CODE <font>) (N Syren))
+	  (NP-1 (D a) (CODE <font>) (N Syren))
 	  (PUNC .))
   (ID OKEEFFE-1767-2,21.449))
 
@@ -6821,7 +6821,7 @@
 	  (PUNC ,)
 	  (NP-SBJ-1 (EX there@))
 	  (BEP @'s)
-	  (NP=1 (Q no) (N name))
+	  (NP-1 (Q no) (N name))
 	  (PUNC .))
   (ID OKEEFFE-1767-2,21.460))
 
@@ -9121,7 +9121,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX there@))
 	  (BEP @'s)
-	  (NP=1 (D the)
+	  (NP-1 (D the)
 		(N mandate)
 		(CP-REL (WNP-2 0)
 			(C 0)
@@ -10122,7 +10122,7 @@
 	  (CODE <$$font>)
 	  (NP-SBJ-1 (EX There@))
 	  (BEP @'s)
-	  (NP=1 (D a)
+	  (NP-1 (D a)
 		(N Card)
 		(PUNC ,)
 		(CP-REL (WNP-2 0)
@@ -11135,7 +11135,7 @@
 
 ( (IP-MAT (NP-SBJ-1 (EX there@))
 	  (BEP @'s)
-	  (NP=1 (PRO$ your) (N husband))
+	  (NP-1 (PRO$ your) (N husband))
 	  (PUNC .))
   (ID OKEEFFE-1767-2,34.779))
 
@@ -11503,7 +11503,7 @@
 	  (PUNC ,)
 	  (NP-SBJ-1 (EX there@))
 	  (BEP @'s)
-	  (NP=1 (D a)
+	  (NP-1 (D a)
 		(ADJ great)
 		(N deal)
 		(PP (P of)

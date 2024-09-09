@@ -10650,7 +10650,7 @@
 	      (MD may)
 	      (VB rely)
 	      (PP (P upon)
-		  (NP=1 (PRO it)))
+		  (NP-1 (PRO it)))
 	      (PUNC ,)
 	      (CP-THT-SPE-1 (C that)
 			    (IP-SUB-SPE (PP (P at)

@@ -7778,7 +7778,7 @@
 			      (VBD recollected)
 			      (NP-OB1 (PRO$ my) (ADJ own) (N school) (N life)))))
 	  (PUNC ,)
-	  (IP-INF=1 (IP-INF (TO to) (VB sit))
+	  (IP-INF-1 (IP-INF (TO to) (VB sit))
 		    (CONJP (CONJ and)
 			   (IP-INF (TO *)
 				   (VB listen)
