@@ -5,8 +5,8 @@ The most recent release of the PPCHE is unfortunately no longer
 available on github, as my posting on github infringes on prior
 distribution rights by the Linguistic Data Consortium (LDC).
 
-The corpora will become available from the LDC catalog shortly.  Please
-see the PPCHE page
+The corpora will become available from the LDC catalog in due course.
+Please see the PPCHE page 
 <https://www.ling.upenn.edu/hist-corpora/index-2024.html> for details as
 they become available.
 
