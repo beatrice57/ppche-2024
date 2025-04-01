@@ -12,6 +12,9 @@ subcorpora and sorted as follows:
 * By lemma, then form as it appears in the text
 * By form, then lemma
 
+Please report errors or address questions to beatrice DOT santorini AT
+gmail DOT com.
+
 Conventions
 -----------
 
@@ -26,6 +29,3 @@ Conventions
 * Entries are sorted alphabetically.  The files may be sorted by
   frequency in a suitable application or by using the Unix command
   "sort" with suitable switches.
-
-Please report errors or address questions to beatrice DOT santorini AT
-gmail DOT com.
